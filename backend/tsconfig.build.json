@@ -1,0 +1,79 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "node_modules",
+    "test",
+    "dist",
+    "**/*spec.ts"
+  ],
+  "compilerOptions": {
+    "paths": {
+      "./libs/helper": [
+        "libs/helper/src"
+      ],
+      "./libs/helper/*": [
+        "libs/helper/src/*"
+      ],
+      "@app/prisma": [
+        "libs/prisma/src"
+      ],
+      "@app/prisma/*": [
+        "libs/prisma/src/*"
+      ],
+      "@app/common": [
+        "libs/common/src"
+      ],
+      "@app/common/*": [
+        "libs/common/src/*"
+      ],
+      "@app/redis": [
+        "libs/redis/src"
+      ],
+      "@app/redis/*": [
+        "libs/redis/src/*"
+      ],
+      "@app/file-upload": [
+        "libs/file-upload/src"
+      ],
+      "@app/file-upload/*": [
+        "libs/file-upload/src/*"
+      ],
+      "@app/send-mailer": [
+        "libs/send-mailer/src"
+      ],
+      "@app/send-mailer/*": [
+        "libs/send-mailer/src/*"
+      ],
+      "libs/common": [
+        "libs/common/src"
+      ],
+      "libs/common/*": [
+        "libs/common/src/*"
+      ],
+      "libs/prisma": [
+        "libs/prisma/src"
+      ],
+      "libs/prisma/*": [
+        "libs/prisma/src/*"
+      ],
+      "libs/file-upload": [
+        "libs/file-upload/src"
+      ],
+      "libs/file-upload/*": [
+        "libs/file-upload/src/*"
+      ],
+      "libs/redis": [
+        "libs/redis/src"
+      ],
+      "libs/redis/*": [
+        "libs/redis/src/*"
+      ],
+      "libs/send-mailer": [
+        "libs/send-mailer/src"
+      ],
+      "libs/send-mailer/*": [
+        "libs/send-mailer/src/*"
+      ]
+    }
+  }
+}

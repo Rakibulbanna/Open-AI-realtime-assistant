@@ -1,0 +1,176 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "query": "Can I touch the sand in a bunker before my stroke?",
+            "context": {
+                "lie": "bunker"
+            },
+            "maxResults": 3,
+            "category": "Bunker Rules (Rule 12)"
+        },
+        {
+            "id": 2,
+            "query": "What happens if I accidentally touch the sand during my practice swing in a bunker?",
+            "context": {
+                "lie": "bunker"
+            },
+            "maxResults": 2,
+            "category": "Bunker Rules (Rule 12)"
+        },
+        {
+            "id": 3,
+            "query": "Am I allowed to remove loose natural objects from a bunker?",
+            "context": {
+                "lie": "bunker"
+            },
+            "maxResults": 2,
+            "category": "Bunker Rules (Rule 12)"
+        },
+        {
+            "id": 4,
+            "query": "When do the restrictions on touching sand in a bunker end?",
+            "context": {
+                "lie": "bunker"
+            },
+            "maxResults": 2,
+            "category": "Bunker Rules (Rule 12)"
+        },
+        {
+            "id": 6,
+            "query": "What should I do if my ball marker is accidentally moved on the green?",
+            "context": {
+                "lie": "green"
+            },
+            "maxResults": 2,
+            "category": "Green Rules (Rule 13)"
+        },
+        {
+            "id": 7,
+            "query": "Can I leave the flagstick in the hole when putting?",
+            "context": {
+                "lie": "green"
+            },
+            "maxResults": 2,
+            "category": "Green Rules (Rule 13)"
+        },
+        {
+            "id": 8,
+            "query": "What happens if my ball hits the flagstick when it's in the hole?",
+            "context": {
+                "lie": "green"
+            },
+            "maxResults": 2,
+            "category": "Green Rules (Rule 13)"
+        },
+        {
+            "id": 9,
+            "query": "How long can I wait to see if my ball on the edge of the hole will fall in?",
+            "context": {
+                "lie": "green"
+            },
+            "maxResults": 2,
+            "category": "Green Rules (Rule 13)"
+        },
+        {
+            "id": 10,
+            "query": "What are my options when my ball lands in a water hazard?",
+            "context": {
+                "lie": "fairway",
+                "situation": "ball in water hazard"
+            },
+            "maxResults": 3,
+            "category": "Penalty Areas (Rule 17)"
+        },
+        {
+            "id": 11,
+            "query": "What is the difference between a yellow and red penalty area?",
+            "context": {
+                "situation": "penalty area"
+            },
+            "maxResults": 2,
+            "category": "Penalty Areas (Rule 17)"
+        },
+        {
+            "id": 12,
+            "query": "Can I play my ball from a penalty area without penalty?",
+            "context": {
+                "situation": "ball in penalty area"
+            },
+            "maxResults": 2,
+            "category": "Penalty Areas (Rule 17)"
+        },
+        {
+            "id": 13,
+            "query": "Do I need to mark my ball before lifting it on the green?",
+            "context": {
+                "lie": "green"
+            },
+            "maxResults": 2,
+            "category": "Ball Procedures (Rule 14)"
+        },
+        {
+            "id": 14,
+            "query": "When can I clean my ball after lifting it?",
+            "context": {
+                "situation": "ball lifted"
+            },
+            "maxResults": 2,
+            "category": "Ball Procedures (Rule 14)"
+        },
+        {
+            "id": 15,
+            "query": "What happens if I play from the wrong place?",
+            "context": {
+                "situation": "wrong place"
+            },
+            "maxResults": 2,
+            "category": "Ball Procedures (Rule 14)"
+        },
+        {
+            "id": 16,
+            "query": "Can I remove loose impediments from around my ball?",
+            "context": {
+                "lie": "fairway"
+            },
+            "maxResults": 2,
+            "category": "Relief and Obstructions (Rule 15)"
+        },
+        {
+            "id": 17,
+            "query": "What should I do if my ball is on a movable obstruction?",
+            "context": {
+                "situation": "ball on obstruction"
+            },
+            "maxResults": 2,
+            "category": "Relief and Obstructions (Rule 15)"
+        },
+        {
+            "id": 18,
+            "query": "What are my options if I declare my ball unplayable?",
+            "context": {
+                "situation": "unplayable ball"
+            },
+            "maxResults": 3,
+            "category": "Unplayable Ball (Rule 19)"
+        },
+        {
+            "id": 19,
+            "query": "Can I declare my ball unplayable in a penalty area?",
+            "context": {
+                "situation": "unplayable in penalty area"
+            },
+            "maxResults": 2,
+            "category": "Unplayable Ball (Rule 19)"
+        },
+        {
+            "id": 20,
+            "query": "What happens if my ball falls into water during play?",
+            "context": {
+                "situation": "ball in water"
+            },
+            "maxResults": 3,
+            "category": "General Rules"
+        }
+    ]
+}

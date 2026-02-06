@@ -1,0 +1,275 @@
+{
+  "rule_number": 6,
+  "rule_code": "6",
+  "title": "Spela ett hål",
+  "summary": {
+    "short": "Regel 6 beskriver hur ett hål ska spelas: när hålet startas, hur bollen spelas från tee, vilken boll som används, spelordning och när hålet är avslutat.",
+    "detailed": "Regel 6 beskriver hela förloppet för spelet av ett hål. Den fastställer att ett hål startas när spelaren slår ett slag för att starta hålet och kräver att varje hål måste startas genom att spela en boll från tee, med olika konsekvenser om en boll spelas från en plats utanför tee i matchspel respektive slagspel. Den anger när reglerna för tee gäller och hur bollen får placeras och spelas från tee, vilka förbättringar som får göras på tee, hur teemarkeringar ska hanteras, när bollen är i spel och vad som gäller när en boll i spel ligger på tee. Regeln förklarar vilken boll som används vid spelet av ett hål, att spelaren normalt ska håla ut med samma boll som spelats från tee, i vilka situationer en boll får bytas ut, vad som händer om en fel boll spelas, samt när en spelare får spela fler än en boll samtidigt (till exempel provisorisk boll). Den behandlar spelordningen från tee och genom hela hålet i både matchspel och slagspel, inklusive möjligheten till \\'94ready golf\\'94 i slagspel, spelordningen vid provisorisk boll eller vid lättnad från andra platser än tee. Slutligen anger regeln när ett hål är avslutat i matchspel och slagspel samt klargör att fortsatt spel av hålet efter att det är avslutat varken räknas som övningsspel eller ger plikt."
+  },
+  "sections": [
+    {
+      "section_number": "6.1",
+      "title": "Starta spelet av ett hål",
+      "purpose": "Förklarar när ett hål anses startat och kräver att varje hål startas genom att spela en boll från tee, med olika konsekvenser i matchspel och slagspel om bollen spelas från en plats utanför tee.",
+      "key_points": [
+        "Ett hål startas när spelaren slår ett slag för att starta hålet, även om slaget görs från en plats utanför tee eller återkallas enligt en regel.",
+        "Spelaren måste starta varje hål genom att spela en boll från någon plats inom tee enligt Regel 6.2b.",
+        "Om spelaren startar ett hål genom att spela från en plats utanför tee blir konsekvenserna olika i matchspel och slagspel: i matchspel kan motspelaren återkalla slaget, medan spelaren i slagspel får allmän plikt och måste rätta misstaget genom att spela från tee."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "6.1a",
+          "title": "När ett hål startas",
+          "summary": "Ett hål anses startat när spelaren slår ett slag för att starta hålet, även om slaget slås från fel plats eller senare återkallas enligt en regel.",
+          "key_points": [
+            "En spelare har startat ett hål när han/hon slår ett slag för att starta hålet.",
+            "Hålet anses startat även om slaget görs från en plats utanför tee (se Regel 6.1b).",
+            "Hålet anses också startat även om slaget återkallas enligt en regel."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "6.1b",
+          "title": "En boll måste spelas från tee",
+          "summary": "Varje hål måste startas genom att spela en boll från tee; om spelaren startar hålet från en plats utanför tee är konsekvenserna olika i matchspel och slagspel, inklusive möjlighet till återkallat slag i matchspel och krav på rättelse i slagspel.",
+          "key_points": [
+            "Spelaren måste starta varje hål genom att spela en boll från någon plats inom tee enligt Regel 6.2b.",
+            "Matchspel: Om spelaren spelar en boll från en plats utanför tee blir det ingen plikt, men motspelaren får återkalla slaget omedelbart och innan någon av spelarna slår ännu ett slag.",
+            "Om motspelaren återkallar slaget i matchspel måste spelaren spela en boll från tee och det är fortfarande spelarens tur; om slaget inte återkallas räknas slaget och bollen är i spel och måste spelas som den ligger.",
+            "Slagspel: Spelaren får den allmänna plikten (två pliktslag) och måste rätta misstaget genom att spela en boll från tee.",
+            "I slagspel är bollen som spelats från en plats utanför tee inte i spel, och slaget samt eventuella ytterligare slag innan misstaget rättats (inklusive pliktslag enbart från spel med den bollen) räknas inte.",
+            "Om spelaren i slagspel inte rättar misstaget innan han/hon startar ett annat hål eller, på sista hålet, innan scorekortet lämnas in, blir spelaren diskvalificerad."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "6.2",
+      "title": "Spela en boll från tee",
+      "purpose": "Anger när reglerna för tee gäller och hur bollen får placeras och spelas från tee, vilka förbättringar som får göras, hur teemarkeringar ska hanteras, när bollen är i spel och vad som gäller när en boll i spel ligger på tee.",
+      "key_points": [
+        "Reglerna för tee i Regel 6.2b gäller när spelaren ska eller får spela en boll från tee, till exempel när hålet startas, när spelaren åter spelar från tee enligt en regel eller när bollen i spel ligger inom tee.",
+        "En boll på tee kan vara peggad eller spelas direkt från marken, där marken kan vara sand eller andra naturliga material som placerats där för peggen eller bollen.",
+        "Vissa förhållanden på tee får förbättras innan slaget, som att förändra markytan och flytta gräs som växer på tee, men andra förbättringar som strider mot Regel 8.1a ger allmän plikt.",
+        "Teemarkeringar definierar tee och får inte flyttas för att förbättra förhållanden inför slaget; i andra situationer behandlas de som flyttbara tillverkade föremål.",
+        "En boll är inte i spel förrän ett slag har gjorts; när en boll i spel ligger på tee får spelaren lyfta eller rubba den utan plikt och spela den bollen eller en annan boll från valfri plats på tee."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "6.2a",
+          "title": "När regler för tee gäller",
+          "summary": "Reglerna för tee gäller när spelaren måste eller får spela en boll från tee: när hålet startas, när bollen åter ska spelas från tee enligt en regel eller när bollen i spel ligger inom tee.",
+          "key_points": [
+            "Reglerna för tee i Regel 6.2b gäller varje gång en spelare är skyldig att eller får spela en boll från tee.",
+            "Detta innefattar när spelaren startar spelet av hålet (se Regel 6.1).",
+            "Det innefattar när spelaren åter ska spela från tee enligt en regel (se Regel 14.6).",
+            "Det innefattar också när spelarens boll är i spel inom tee efter ett slag eller efter att spelaren har tagit lättnad.",
+            "Regeln gäller endast för den tee som spelaren måste spela från när det hål han/hon spelar startas, inte för några andra teeytor på banan, varken på samma hål eller på ett annat hål."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "6.2b",
+          "title": "Regler för tee",
+          "summary": "Definierar när en boll är på tee, hur den får peggas eller spelas från marken, vilka förbättringar som får göras på tee, hur teemarkeringar ska hanteras, när bollen är i spel och vad som gäller när bollen i spel ligger på tee.",
+          "key_points": [
+            "En boll är på tee när någon del av bollen vidrör eller är ovanför någon del av tee; spelaren får stå utanför tee när han/hon slår ett slag mot en boll på tee.",
+            "Bollen måste spelas antingen från en peg placerad i eller på marken eller från själva marken.",
+            "I denna regel inkluderar \\'94marken\\'94 sand eller andra naturliga material som lagts dit för att peggen eller bollen ska kunna placeras.",
+            "Spelaren får inte slå ett slag mot en boll på en icke godkänd peg eller en boll som är uppeggad på ett sätt som inte tillåts enligt regeln; första brottet ger allmän plikt, andra brottet diskvalifikation.",
+            "Innan slaget får spelaren på tee förändra markytan (till exempel göra ett hack med en klubba eller fot), flytta, böja eller bryta av gräs, ogräs och andra fastsittande eller växande naturföremål, ta bort eller trycka ned sand och jord samt ta bort dagg, rimfrost och vatten.",
+            "Spelaren får allmän plikt om han/hon vidtar någon annan åtgärd för att förbättra förhållanden som påverkar slaget i strid med Regel 8.1a.",
+            "Teemarkeringarnas placering som definierar varje tee ska vara densamma för alla spelare som spelar från denna tee.",
+            "Om spelaren förbättrar förhållanden inför slaget genom att flytta en teemarkering innan slaget från tee, får han/hon allmän plikt för brott mot Regel 8.1a(1).",
+            "Om en eller båda teemarkeringarna saknas bör spelaren söka hjälp av tävlingsledningen; om tävlingsledningen inte är tillgänglig inom rimlig tid bör spelaren använda en rimlig bedömning enligt Regel 1.3b(2) för att uppskatta läget för tee.",
+            "I andra situationer betraktas teemarkeringarna som vanliga flyttbara tillverkade föremål som får tas bort enligt Regel 15.2.",
+            "När hålet ska startas eller en boll ska spelas igen från tee enligt en regel är bollen inte i spel förrän spelaren slår ett slag mot den, och bollen får lyftas eller rubbas utan plikt innan slaget.",
+            "Om en peggad boll faller av peggen eller stöts ner från peggen av spelaren innan slaget slås får den peggas om var som helst på tee utan plikt.",
+            "Om spelaren slår ett slag mot bollen medan den faller av eller efter att den fallit av peggen blir det ingen plikt, slaget räknas och bollen är i spel.",
+            "Om spelarens boll i spel ligger på tee efter ett slag (till exempel en peggad boll efter en miss) eller efter lättnad, får spelaren lyfta eller rubba bollen utan plikt och spela samma boll eller en annan boll från var som helst på tee från peg eller mark eller spela bollen som den ligger.",
+            "Att spela en boll från fel plats i strid med Regel 6.2b(6) ger allmän plikt enligt Regel 14.7a."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "6.3",
+      "title": "En boll som används vid spelet av ett hål",
+      "purpose": "Anger att ett hål normalt ska spelas med samma boll från tee till hål, när en boll får bytas ut, vad som gäller för fel boll och i vilka fall en spelare får spela fler än en boll samtidigt.",
+      "key_points": [
+        "Syftet med regeln är att ett hål spelas genom ett eller flera slag från tee till hål med samma boll tills hålet är avslutat.",
+        "Spelaren får normalt plikt om han/hon slår ett slag mot fel boll eller en inbytt boll när byte inte är tillåtet enligt reglerna.",
+        "Regeln förklarar när spelaren får byta boll vid lättnad eller återspel, när en inbytt boll blir bollen i spel samt konsekvenserna av att spela en felaktigt inbytt boll.",
+        "Regeln förbjuder spel mot fel boll, anger plikter och hur misstaget ska rättas i matchspel och slagspel samt reglerar när en spelare får spela fler än en boll samtidigt (t ex provisorisk boll eller två bollar i slagspel)."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "6.3a",
+          "title": "Håla ut med samma boll som spelats från tee",
+          "summary": "Spelaren får välja valfri godkänd boll vid start av hålet och byta boll mellan hål, men måste normalt håla ut med samma boll som spelats från tee, utom när bollen är förlorad, out of bounds eller byts ut.",
+          "key_points": [
+            "En spelare får spela vilken godkänd boll som helst när hålet startas från tee.",
+            "Spelaren får byta boll mellan två hål.",
+            "Spelaren måste håla ut med samma boll som spelats från tee, utom när den bollen är förlorad, stannar out of bounds eller spelaren byter in en annan boll (oavsett om detta är tillåtet eller inte).",
+            "Spelaren bör sätta ett identifieringsmärke på bollen som ska spelas (se Regel 7.2)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "6.3b",
+          "title": "Byta in en annan boll under spelet av ett hål",
+          "summary": "Beskriver när spelaren får och inte får byta in en annan boll, när den inbytta bollen blir bollen i spel, samt vad som gäller om en felaktigt inbytt boll spelas.",
+          "key_points": [
+            "Vissa regler tillåter en spelare att byta ut den boll som används för att spela ett hål genom att byta in en annan boll som bollen i spel, medan andra regler kräver att den ursprungliga bollen används.",
+            "När spelaren tar lättnad enligt en regel genom att droppa eller placera en boll (till exempel när en boll inte stannar inom lättnadsområdet eller när lättnad tas på green), får spelaren använda den ursprungliga bollen eller en annan boll (Regel 14.3a).",
+            "När spelaren spelar igen från platsen för föregående slag får spelaren använda den ursprungliga bollen eller en annan boll (Regel 14.6).",
+            "När spelaren återplacerar en boll på en punkt tillåts det normalt inte att byta in en annan boll; spelaren måste använda den ursprungliga bollen, med vissa undantag enligt Regel 14.2a.",
+            "När en spelare byter in en annan boll som bollen i spel enligt Regel 14.4 är den ursprungliga bollen inte längre i spel, även om den ligger stilla på banan.",
+            "Detta gäller även om spelaren bytt boll när det inte var tillåtet enligt reglerna eller återplacerat, droppat eller placerat den inbytta bollen på fel sätt, fel plats eller med fel förfarande.",
+            "För att rätta ett fel innan den inbytta bollen spelas ska spelaren följa Regel 14.5.",
+            "Om spelarens ursprungliga boll inte hittats och en annan boll sätts i spel för att ta lättnad med slag och distans (Regel 17.1d, 18.1, 18.2b, 19.2a) eller enligt en regel som gäller när det är känt eller så gott som säkert vad som hänt med bollen (Regel 6.3c, 9.6, 11.2c, 15.2b, 16.1e, 17.1c), måste spelaren fortsätta spela med den inbytta bollen.",
+            "Spelaren får inte spela den ursprungliga bollen även om den hittas på banan innan de tre minuternas söktid är ute (se Regel 18.2a(1)).",
+            "Om en spelare slår ett slag mot en felaktigt inbytt boll får spelaren ett slags plikt och måste spela färdigt hålet med den felaktigt inbytta bollen."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "6.3c",
+          "title": "Fel boll",
+          "summary": "Spelaren får inte slå ett slag mot fel boll; regeln anger undantag för bollar i vatten, plikter och hur misstaget rättas i matchspel och slagspel samt vad som gäller när en annan spelare spelat ens boll som fel boll.",
+          "key_points": [
+            "En spelare får inte slå ett slag mot fel boll.",
+            "Undantag: Det blir ingen plikt om en spelare slår ett slag mot fel boll som rör sig i vattnet i ett pliktområde eller i tillfälligt vatten; slaget räknas inte och spelaren måste rätta misstaget enligt reglerna genom att spela rätt boll från dess ursprungliga punkt eller ta lättnad.",
+            "Matchspel: Plikt för spel på fel boll är allmän plikt (förlorat hål).",
+            "Om spelaren och motspelaren spelar varandras bollar under spelet av ett hål får den spelare som först slog ett slag mot fel boll den allmänna plikten; om det inte är känt vem som spelade fel boll först blir det ingen plikt och hålet måste spelas färdigt med de utbytta bollarna.",
+            "Slagspel: Plikt för spel på fel boll är allmän plikt (två slags plikt) och spelaren måste rätta misstaget genom att fortsätta spela med den ursprungliga bollen genom att spela den som den ligger eller ta lättnad enligt reglerna.",
+            "I slagspel räknas inte slaget som slagits med fel boll eller något ytterligare slag innan felet rättas till, inklusive pliktslag enbart från att spela med den bollen.",
+            "Om spelaren inte rättar misstaget i slagspel innan spelaren startar ett annat hål eller, på sista hålet, innan scorekortet lämnas in, blir spelaren diskvalificerad.",
+            "Om det är känt eller så gott som säkert att spelarens boll har spelats av en annan spelare som fel boll måste spelaren återplacera den ursprungliga bollen eller en annan boll på den ursprungliga punkten (uppskattad vid behov) enligt Regel 14.2, oavsett om den ursprungliga bollen har hittats eller inte."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "6.3d",
+          "title": "När spelare får spela fler än en boll samtidigt",
+          "summary": "En spelare får spela fler än en boll samtidigt endast i särskilda, reglerade situationer, till exempel vid spel av provisorisk boll eller när två bollar spelas i slagspel.",
+          "key_points": [
+            "En spelare får spela fler än en boll samtidigt på ett hål endast i begränsade fall.",
+            "Det är tillåtet när spelaren spelar en provisorisk boll som antingen blir bollen i spel eller ska ges upp enligt Regel 18.3c.",
+            "Det är också tillåtet när spelaren spelar två bollar i slagspel för att rätta ett eventuellt allvarligt brott vid spel från fel plats (Regel 14.7b) eller vid osäkerhet om vilket förfarande som är rätt (Regel 20.1c(3))."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "6.4",
+      "title": "Spelordning vid spelet av ett hål",
+      "purpose": "Reglerar spelordningen från tee och genom hela hålet i matchspel och slagspel, när slag i fel ordning kan återkallas, hur \\'94ready golf\\'94 används i slagspel samt spelordningen när provisorisk boll eller annan boll spelas från tee eller annan plats.",
+      "key_points": [
+        "Regel 6.4 täcker spelordningen genom hela hålet.",
+        "Spelordningen från tee beror på vem som har honnören och därefter på vilken boll som ligger längst från hålet.",
+        "I matchspel är spelordningen grundläggande; om en spelare spelar i fel ordning kan motspelaren återkalla slaget och tvinga spelaren att spela igen.",
+        "I slagspel finns ingen plikt för att spela i fel ordning, och spelare får och uppmanas att spela \\'94ready golf\\'94 på ett säkert och ansvarsfullt sätt.",
+        "Regeln anger särskild spelordning när en provisorisk boll eller annan boll spelas från tee eller när en spelare tar lättnad eller ska spela provisorisk boll från annan plats än tee."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "6.4a",
+          "title": "Matchspel",
+          "summary": "Anger spelordningen i matchspel, hur honnören bestäms på första och efterföljande hål, när bollen längst från hål ska spelas först, samt när motspelaren får återkalla ett slag som slagits i fel ordning, med undantag för överenskommen spel i fel ordning för att spara tid.",
+          "key_points": [
+            "På första hålet i matchspel bestäms honnören av lottning som tävlingsledningen fastställt eller, om ingen lottning skett, genom överenskommelse eller slumpmässig metod, till exempel att singla slant.",
+            "På följande hål har spelaren som vinner ett hål honnören på nästa tee; om hålet delas behålls honnören av spelaren som hade den på föregående tee.",
+            "Om en spelare inom rätt tid ber om ett domslut enligt Regel 20.1b som ännu inte avgjorts och kan påverka honnören på nästa hål, bestäms honnören tillfälligt genom överenskommelse eller slump.",
+            "Efter att båda spelare startat ett hål ska bollen som är längre från hålet spelas först.",
+            "Om båda bollarna är på samma avstånd från hålet eller deras inbördes avstånd inte är känt, ska ordningen bestämmas genom överenskommelse eller slump.",
+            "Om spelaren spelar när det var motspelarens tur blir det ingen plikt, men motspelaren får återkalla slaget omedelbart och innan någon av spelarna slår ännu ett slag.",
+            "Om motspelaren återkallar slaget måste spelaren, när det är hans/hennes tur, spela en boll från den punkt varifrån slaget slogs (se Regel 14.6).",
+            "Om motspelaren inte återkallar slaget räknas slaget och bollen är i spel och måste spelas som den ligger.",
+            "Undantag: För att spara tid får spelaren erbjuda motspelaren att spela i fel ordning eller gå med på motspelarens begäran att spela i fel ordning; om motspelaren sedan slår i fel ordning har spelaren gett upp rätten att återkalla slaget.",
+            "Se Regel 23.6 för bestämmelser om spelordning i fyrboll."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "6.4b",
+          "title": "Slagspel",
+          "summary": "Beskriver normal spelordning i slagspel, hur honnören bestäms, att det normalt inte är plikt att spela i fel ordning samt principen \\'94ready golf\\'94 där spelare uppmuntras att spela i fel ordning på ett säkert sätt utan att skaffa sig fördel.",
+          "key_points": [
+            "På första hålet i slagspel bestäms honnören av lottning som tävlingsledningen fastställt eller, om ingen lottning skett, genom överenskommelse eller slumpmässig metod.",
+            "På efterföljande hål har spelaren i bollen med lägsta bruttoscore på föregående hål honnören på nästa tee; spelaren med näst lägsta score bör spela därefter och så vidare.",
+            "Om två eller flera spelare har samma score på ett hål bör de spela i samma ordning som på föregående tee; honnören bestäms av bruttoscorer även i handicaptävling.",
+            "Efter att alla spelare startat ett hål bör bollen som är längst från hålet spelas först.",
+            "Om två eller flera bollar är på samma avstånd från hålet eller deras inbördes avstånd inte är känt bör ordningen bestämmas genom överenskommelse eller slump.",
+            "Det är ingen plikt att spela i fel ordning i slagspel, förutom om två eller flera spelare kommer överens om att spela i fel ordning för att ge en av dem en fördel; om en av dem då spelar i fel ordning får varje spelare som gjort överenskommelsen allmän plikt (två slags plikt).",
+            "Spelare får och uppmuntras att spela i fel ordning på ett säkert och ansvarsfullt sätt (\\'94ready golf\\'94) i praktiska situationer eller för att spara tid.",
+            "Exempel på ready golf är när två eller fler spelare kommer överens om att spela i fel ordning av praktiska skäl, när en boll ligger mycket nära hål och spelaren vill håla ut direkt eller när en enskild spelare är redo och kan spela innan en annan spelare vars tur det är, förutsatt att ingen störs eller utsätts för fara.",
+            "Om spelaren vars tur det är att spela enligt den normala ordningen är redo, kan spela och visar att han/hon vill spela först, bör övriga spelare normalt vänta tills den spelaren har spelat.",
+            "En spelare bör inte spela i fel ordning i syfte att få en fördel gentemot andra spelare."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "6.4c",
+          "title": "När en spelare ska spela en provisorisk boll eller en annan boll från tee",
+          "summary": "När en provisorisk boll eller annan boll ska spelas från tee ska alla spelare först slå sina första slag på hålet; därefter spelas provisoriska bollar eller andra bollar i samma ordning som tidigare.",
+          "key_points": [
+            "När en spelare ska spela en provisorisk boll eller annan boll från tee ska alla spelare i bollen först slå sitt första slag på hålet.",
+            "Först därefter får spelaren spela den provisoriska bollen eller en annan boll från tee.",
+            "Om fler än en spelare ska spela en provisorisk boll eller annan boll från tee är spelordningen densamma som tidigare.",
+            "Reglerna 6.4a(2) och 6.4b gäller för provisorisk boll eller annan boll som spelas i fel ordning från tee."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "6.4d",
+          "title": "När en spelare tar lättnad eller ska spela en provisorisk boll från någonstans utom från tee",
+          "summary": "Anger spelordningen när en spelare tar lättnad eller spelar en provisorisk boll från annan plats än tee, baserat på platsen för föregående slag eller den ursprungliga bollens läge.",
+          "key_points": [
+            "Spelordningen i dessa fall följer Regler 6.4a(1) och 6.4b(1).",
+            "När spelaren blir medveten om att han/hon är skyldig att ta lättnad med slag och distans baseras spelordningen på den punkt varifrån föregående slag slogs.",
+            "När spelaren har valet att spela bollen som den ligger eller ta lättnad baseras spelordningen på den punkt där den ursprungliga bollen ligger (eller uppskattas ligga) enligt Regel 14.2.",
+            "Detta gäller även när spelaren redan har beslutat att ta lättnad med slag och distans eller annan lättnad från en annan plats än där den ursprungliga bollen ligger (till exempel i pliktområde eller ospelbar).",
+            "Spelordningen för att spela en provisorisk boll är att spelaren ska spela den provisoriska bollen direkt efter föregående slag och innan någon annan spelar en boll, utom när hålet startas från tee (Regel 6.4c) eller när spelaren väntar med beslutet att spela provisorisk boll.",
+            "Om spelaren väntar med sitt beslut baseras spelordningen, när beslutet tas, på den punkt varifrån föregående slag slogs."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "6.5",
+      "title": "Avsluta spelet av ett hål",
+      "purpose": "Förklarar när en spelare har avslutat ett hål i matchspel och slagspel samt att fortsatt spel därefter varken är övningsspel eller medför plikt, även om en annan boll spelas.",
+      "key_points": [
+        "I matchspel är ett hål avslutat när spelaren hålar ut, när spelarens nästa slag skänkts eller när hålet är avgjort (till exempel när motspelaren skänker hålet, har lägre score än spelaren kan uppnå eller får allmän plikt med förlorat hål).",
+        "I slagspel är ett hål avslutat när spelaren hålar ut enligt Regel 3.3c.",
+        "Om spelaren inte är medveten om att han/hon avslutat hålet och fortsätter spela anses detta inte vara övningsspel och ingen plikt ges för att spela en annan boll, inklusive fel boll.",
+        "Reglerna 21.1b(1), 21.2b(1), 21.3b(1) och 23.3c anger när ett hål anses avslutat i andra former av slagspel eller i fyrboll."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "6\\nSpela ett hål\\n6.1\\nStarta spelet av ett hål\\n6.1a\\nNär ett hål startas\\nEn spelare har startat ett hål när spelaren slår ett slag för att starta hålet. Hålet har startats även om slaget gjordes från en plats utanför tee (se Regel 6.1b) eller slaget återkallats enligt en regel.\\n6.1b\\nEn boll måste spelas från tee\\nEn spelare måste starta varje hål genom att spela en boll från någon plats inom tee enligt Regel 6.2b. Om en spelare som startar ett hål spelar en boll från en plats utanför tee (inklusive från fel uppsättning av teemarkeringar för en annan teeplacering på samma hål eller ett annat hål): (1) Matchspel. Det blir ingen plikt, men motspelaren får återkalla slaget:\\n\\n    Detta måste göras omedelbart och innan någon av spelarna slår ännu ett slag. När motspelaren återkallar slaget, kan motspelaren inte ta tillbaka återkallandet.\\n    Om motspelaren återkallar slaget, måste spelaren spela en boll från tee, och det är fortfarande spelarens tur att spela.\\n    Om motspelaren inte återkallar slaget, räknas slaget, och bollen är i spel och måste spelas som den ligger.\\n\\n(2) Slagspel. Spelaren får den allmänna plikten (två pliktslag) och måste rätta till misstaget genom att spela en boll från tee:\\n\\n    Bollen som spelats från en plats utanför tee är inte i spel.\\n    Det slaget och eventuella ytterligare slag innan misstaget har rättats till (samt slag som slagits och varje pliktslag enbart från spel med den bollen) räknas inte.\\n    Om spelaren inte rättar till misstaget innan spelaren slår ett slag för att starta ett annat hål eller, om det rör sig om det sista hålet för ronden, innan spelaren lämnar in sitt scorekort, blir spelaren diskvalificerad.\\n\\n6.2\\nSpela en boll från tee\\n6.2a\\nNär regler för tee gäller\\nReglerna för tee i Regel 6.2b gäller varje gång en spelare är skyldig att eller får spela en boll från tee. Detta innefattar när:\\n\\n    spelaren startar spelet av hålet (se Regel 6.1),\\n    spelaren åter ska spela från tee enligt en regel (se Regel 14.6), eller\\n    spelarens boll är i spel inom tee efter ett slag eller efter att spelaren har tagit lättnad.\\n\\nDenna regel gäller endast för den tee som spelaren måste spela från när det hål han/hon spelar startas, inte för några andra teeytor på banan (vare sig på samma hål eller ett annat hål).\\n6.2b\\nRegler för tee\\n(1) När boll är på tee.\\n\\n    En boll är på tee när någon del av bollen vidrör eller är ovanför någon del av tee.\\n    Spelaren får stå utanför tee när han/hon slår ett slag mot en boll på tee.\\n\\nFIG. 6.2b: NÄR BOLLEN ÄR PÅ TEE\\nimage\\nDen streckade linjen visar på yttre kanterna för tee (se definitionen på tee). En boll är på tee när någon del av bollen vidrör eller är ovanför någon del av tee.\\n(2) Boll får peggas eller spelas från mark. Bollen måste spelas antingen från:\\n\\n    en peg placerad i eller på marken, eller\\n    själva marken.\\n\\nI syfte att tillämpa denna regel innefattar \\'94marken\\'94 sand eller andra naturliga material som har lagts dit för att placera peggen eller bollen på plats. Spelaren får inte slå ett slag mot en boll på en icke godkänd peg eller en boll som är uppeggad på ett sätt som denna regel inte tillåter. Plikt för brott mot Regel 6.2b(2):\\n\\n    Plikt för första brottet: allmän plikt.\\n    Plikt för andra brottet: diskvalifikation.\\n\\n(3) Vissa förhållanden på tee får förbättras. Innan ett slag slås får spelaren vidta dessa åtgärder på tee för att förbättra förhållanden som påverkar slaget (se Regel 8.1b(8)):\\n\\n    förändra markytan på tee (t ex att göra ett hack med en klubba eller fot),\\n    flytta, böja eller bryta av gräs, ogräs och andra naturföremål som sitter fast eller växer i marken på tee,\\n    ta bort eller trycka ned sand och jord på tee samt\\n    ta bort dagg, rimfrost och vatten på tee.\\n\\nMen spelaren får den allmänna plikten om spelaren vidtar någon annan åtgärd för att förbättra förhållanden som påverkar slaget i strid med Regel 8.1a. (4) Begränsning för att flytta teemarkeringar, eller saknade teemarkeringar, vid spel från tee.\\n\\n    Teemarkeringarnas placering, som är fastställd av tävlingsledningen för att definiera varje tee, ska vara kvar på samma ställe för alla spelare som spelar från denna tee.\\n    Om spelaren förbättrar förhållanden som påverkar slaget genom att flytta någon sådan teemarkering innan spelaren slår ett slag från tee, får spelaren den allmänna plikten för brott mot Regel 8.1a(1).\\n    Om en spelare upptäcker att en eller båda teemarkeringarna saknas, bör spelaren söka hjälp av tävlingsledningen. Men om tävlingsledningen inte är tillgänglig inom en rimlig tid, bör spelaren använda sin rimliga bedömning (Regel 1.3b(2)) för att uppskatta läget för tee.\\n\\nI alla andra situationer betraktas teemarkeringarna som vanliga flyttbara tillverkade föremål som får tas bort så som Regel 15.2 tillåter. (5) En boll är inte i spel förrän ett slag har gjorts. Vare sig bollen är peggad eller på marken när hålet ska startas eller ska spelas igen från tee enligt en regel:\\n\\n    är bollen inte i spel förrän spelaren slår ett slag mot den, och\\n    bollen får lyftas eller rubbas utan plikt innan slaget slås.\\n\\nOm en peggad boll faller av peggen eller stöts ner från peggen av spelaren innan han/hon har slagit ett slag mot den, får den peggas om var som helst på tee utan plikt. Men om spelaren slår ett slag mot den bollen medan den faller av eller efter att den fallit av, blir det ingen plikt, slaget räknas och bollen är i spel. (6) När en boll i spel ligger på tee. Om spelarens boll i spel är på tee efter ett slag (t ex en peggad boll efter ett slag som missade bollen) eller efter att ha tagit lättnad, får spelaren:\\n\\n    lyfta eller rubba bollen utan plikt (se Regel 9.4b, Undantag 1) och\\n    spela den bollen eller en annan boll från var som helst på tee från en peg eller från marken enligt (2), men även spela bollen som den ligger.\\n\\nPlikt för att spela boll från fel plats i strid med Regel 6.2b(6): allmän plikt enligt Regel 14.7a.\\n6.3\\nEn boll som används vid spelet av ett hål\\nSyfte med regeln: Ett hål spelas genom ett eller flera på varandra följande slag från tee till green och i hålet. Efter att ha slagit ut från tee krävs det i normala fall av spelaren att spela samma boll tills hålet är avslutat. Spelaren får plikt för att slå ett slag mot fel boll eller en inbytt boll när byte inte är tillåtet enligt reglerna.\\n6.3a\\nHåla ut med samma boll som spelats från tee\\nEn spelare får spela vilken godkänd boll som helst när hålet startas från tee och får byta boll mellan två hål. Spelaren måste håla ut med samma boll som spelats från tee, utom när:\\n\\n    den bollen är förlorad eller stannar out of bounds eller\\n    spelaren byter in en annan boll (vare sig detta är tillåtet eller inte).\\n\\nSpelaren bör sätta ett identifieringsmärke på bollen som ska spelas (se Regel 7.2).\\n6.3b\\nByta in en annan boll under spelet av ett hål\\n(1) När spelare tillåts och inte tillåts att byta in en annan boll. Vissa regler tillåter en spelare att byta ut den boll spelaren använder för att spela ett hål genom att byta in en annan boll som bollen i spel, och andra regler gör det inte:\\n\\n    När spelaren tar lättnad enligt en regel, antingen genom att droppa en boll eller placera en boll (t ex när en boll inte stannar inom lättnadsområdet eller när spelaren tar lättnad på green), får spelaren använda antingen den ursprungliga bollen eller en annan boll (Regel 14.3a).\\n    När spelaren spelar igen varifrån föregående slag slogs, får spelaren använda antingen den ursprungliga bollen eller en annan boll (Regel 14.6).\\n    När spelaren återplacerar en boll på en punkt, tillåts spelaren inte att byta in en boll och måste använda den ursprungliga bollen, med vissa undantag (Regel 14.2a).\\n\\n(2) Inbytt boll blir boll i spel. När en spelare byter in en annan boll som bollen i spel (se Regel 14.4):\\n\\n    är den ursprungliga bollen inte längre i spel, även om den är i vila på banan.\\n    Detta gäller även om spelaren:\\n        bytt in en annan boll i stället för den ursprungliga bollen när detta inte var tillåtet enligt reglerna (vare sig spelaren insåg att han/hon bytt in en annan boll eller inte), eller\\n        återplacerat, droppat eller placerat den inbytta bollen (1) på fel sätt, (2) på fel plats eller (3) genom att använda sig av ett förfarande som inte är tillämpligt.\\n    För att rätta till ett fel innan den inbytta bollen spelas, se Regel 14.5.\\n\\nOm spelarens ursprungliga boll inte har hittats och spelaren sätter en annan boll i spel för att ta lättnad med slag och distans (se Regel 17.1d, 18.1, 18.2b och 19.2a) eller enligt vad som är tillåtet enligt en regel som gäller när det är känt eller så gott som säkert vad som har hänt med bollen (se Regel 6.3c, 9.6, 11.2c, 15.2b, 16.1e och 17.1c):\\n\\n    Spelaren måste fortsätta spela med den inbytta bollen.\\n    Spelaren får inte spela den ursprungliga bollen även om den hittas på banan innan de tre minuternas söktid är ute (se Regel 18.2a(1)).\\n\\n(3) Att slå slag mot en felaktigt inbytt boll. Om en spelare slår ett slag mot en felaktigt inbytt boll, får spelaren ett slags plikt och måste sedan spela färdigt hålet med den felaktigt inbytta bollen.\\n6.3c\\nFel boll\\n(1) Slå slag mot fel boll. En spelare får inte slå ett slag mot fel boll. Undantag – Boll som rör sig i vatten: Det blir ingen plikt om en spelare slår ett slag mot fel boll som rör sig i vattnet i ett pliktområde eller i tillfälligt vatten:\\n\\n    Slaget räknas inte, och\\n    spelaren måste rätta till misstaget enligt reglerna genom att spela rätt boll från dess ursprungliga punkt eller ta lättnad enligt reglerna.\\n\\nPlikt för spel på fel boll i strid med Regel 6.3c(1): I matchspel, får spelaren den allmänna plikten (förlorat hål):\\n\\n    Om spelaren och motspelaren spelar varandras bollar under spelet av ett hål, får den som var först med att slå ett slag mot fel boll den allmänna plikten (förlorat hål).\\n    Men om det inte är känt vilken fel boll som spelades först, blir det ingen plikt och hålet måste spelas färdigt med de utbytta bollarna.\\n\\nI slagspel får spelaren den allmänna plikten (två slags plikt) och måste rätta till misstaget genom att fortsätta spela med den ursprungliga bollen genom att spela den som den ligger eller ta lättnad enligt reglerna:\\n\\n    Slaget som slagits med fel boll och varje ytterligare slag innan felet rättas till (både slag som slagits och varje ytterligare pliktslag enbart från att spela med den bollen) räknas inte.\\n    Om spelaren inte rättar till misstaget innan spelaren slår ett slag för att starta ett annat hål eller, om det rör sig om det sista hålet för ronden, innan spelarens scorekort lämnas in, blir spelaren diskvalificerad.\\n\\n(2) Vad som ska göras när spelares boll har spelats av en annan spelare som fel boll. Om det är känt eller så gott som säkert att spelarens boll har spelats av en annan spelare som fel boll, måste spelaren återplacera den ursprungliga bollen eller en annan boll på den ursprungliga punkten (som, om den inte är känd, måste uppskattas) (se Regel 14.2). Detta gäller oavsett om den ursprungliga bollen har hittats eller inte.\\n6.3d\\nNär spelare får spela fler än en boll samtidigt\\nEn spelare får spela fler än en boll samtidigt på ett hål endast när:\\n\\n    han/hon spelar en provisorisk boll (som antingen blir bollen i spel eller ska ges upp, så som anges i Regel 18.3c), eller\\n    han/hon spelar två bollar i slagspel för att rätta till ett eventuellt allvarligt brott vid spel från fel plats (se Regel 14.7b) eller vid osäkerhet om vilket förfarande som är rätt (se Regel 20.1c(3)).\\n\\n6.4\\nSpelordning vid spelet av ett hål\\nSyfte med regeln: Regel 6.4 täcker spelordningen genom hela hålet. Spelordningen från tee beror på vem som har honnören och baseras därefter på vilken boll som ligger längst från hålet.\\n\\n    I matchspel är spelordningen grundläggande; om en spelare spelar i fel ordning, får motspelaren återkalla slaget och därigenom tvinga spelaren att spela igen.\\n    I slagspel blir det ingen plikt att spela i fel ordning, och spelarna både får och uppmanas att spela \\'94ready golf\\'94, d v s att spela i fel ordning på ett säkert och ansvarsfullt sätt.\\n\\n6.4a\\nMatchspel\\n(1) Spelordning. Spelaren och motspelaren måste spela i denna ordning:\\n\\n    Starta det första hålet. På första hålet, bestäms honnören av den lottning som tävlingsledningen har fastställt eller, om det inte har skett någon lottning, genom överenskommelse eller genom att använda en slumpmässig metod (t ex att singla slant).\\n    Starta alla andra hål.\\n        Spelaren som vinner ett hål har honnören på nästa tee.\\n        Om hålet delats, behålls honnören av spelaren som hade den på föregående tee.\\n        Om en spelare inom rätt tid ber om ett domslut (se Regel 20.1b) som ännu inte har avgjorts av tävlingsledningen och skulle kunna påverka honnören på nästa hål, bestäms honnören genom överenskommelse eller genom att använda en slumpmässig metod.\\n    Efter att båda spelare startat ett hål.\\n        Bollen som är längre från hålet ska spelas först.\\n        Om båda bollarna är på samma avstånd från hålet eller deras avstånd i förhållande till varandra inte är känt, ska bollen som spelas först avgöras genom överenskommelse eller genom att använda en slumpmässig metod.\\n\\n(2) Motspelare får återkalla spelares slag som slagits i fel ordning. Om spelaren spelar när det var motspelarens tur att spela blir det ingen plikt men motspelaren får återkalla slaget:\\n\\n    Detta måste göras omedelbart och innan någon av spelarna slår ännu ett slag. När motspelaren återkallar slaget, kan motspelaren inte ta tillbaka detta.\\n    Om motspelaren återkallar slaget, måste spelaren, när det är spelarens tur att spela, spela en boll varifrån slaget slogs (se Regel 14.6).\\n    Om motspelaren inte återkallar slaget, räknas slaget och bollen är i spel och måste spelas som den ligger.\\n\\nUndantag – Spela i fel ordning efter överenskommelse för att spara tid: För att spara tid:\\n\\n    får spelaren erbjuda motspelaren att spela i fel ordning eller gå med på motspelarens begäran att få spela i fel ordning.\\n    Om motspelaren sedan slår slaget i fel ordning, har spelaren gett upp rätten att återkalla slaget.\\n\\nSe Regel 23.6 (spelordning i fyrboll).\\n6.4b\\nSlagspel\\n(1) Normal spelordning.\\n\\n    Starta det första hålet. På första hålet bestäms honnören av den lottning som tävlingsledningen har fastställt eller, om det inte har skett någon lottning, genom överenskommelse eller slumpmässig metod (t ex att singla slant).\\n    Starta alla andra hål.\\n        Spelaren i gruppen (\\'94bollen\\'94) med den lägsta bruttoscoren på ett hål har honnören på nästa tee; spelaren med den näst lägsta bruttoscoren bör sedan spela; och så vidare.\\n        Om två eller flera spelare har samma score på ett hål, bör de spela i samma ordning som på föregående tee.\\n        Honnören bestäms av bruttoscorer, även i en handicaptävling.\\n    Efter att alla spelare har startat ett hål.\\n        Bollen som är längst från hål bör spelas först.\\n        Om två eller flera bollar är på samma avstånd från hålet eller deras avstånd i förhållande till varandra inte är känt, bör bollen som ska spelas först avgöras genom överenskommelse eller genom att använda en slumpmässig metod.\\n\\nDet blir ingen plikt om en spelare spelar i fel ordning, förutom att om två eller fler spelare kommer överens om att spela i fel ordning för att ge en av dem en fördel och en av dem sedan spelar i fel ordning, får varje spelare som gjort överenskommelsen den allmänna plikten (två slags plikt) (2) Spela i fel ordning på ett säkert och ansvarsfullt sätt (\\'94ready golf\\'94). Spelare både får och uppmuntras till att spela i fel ordning på ett säkert och ansvarsfullt sätt, t ex när:\\n\\n    två eller fler spelare kommer överens att göra det av praktiska skäl eller för att spara tid,\\n    en spelares boll stannar på ett mycket kort avstånd från hålet och spelaren vill håla ut, eller\\n    en enskild spelare är redo och kan spela innan en annan spelare vars tur det är att spela enligt den normala spelordningen (1), så länge som att spela i fel ordning inte distraherar, stör eller utsätter någon annan spelare för fara.\\n\\nMen om spelaren vars tur det är att spela enligt (1) är redo och kan spela och visar att han/hon vill spela först, bör övriga spelare i regel vänta tills den spelaren har spelat. En spelare bör inte spela i fel ordning för att få en fördel gentemot andra spelare.\\n6.4c\\nNär en spelare ska spela en provisorisk boll eller en annan boll från tee\\nSpelordningen i detta fall är att alla spelare i gruppen (\\'94bollen\\'94) ska slå sitt första slag på hålet, innan spelaren spelar den provisoriska bollen eller en annan boll från tee. Om fler än en spelare ska spela en provisorisk boll eller en annan boll från tee, är spelordningen densamma som tidigare. Se Regel 6.4a(2) och 6.4b för en provisorisk boll eller en annan boll som spelats i fel ordning.\\n6.4d\\nNär en spelare tar lättnad eller ska spela en provisorisk boll från någonstans utom från tee\\nSpelordning enligt Regler 6.4a(1) och 6.4b(1) i dessa två fall är: (1) Ta lättnad för att spela boll från en annan punkt än där den ligger.\\n\\n    När spelare blir medveten om att han/hon är skyldig att ta lättnad med slag och distans. Spelarens spelordning baseras på den punkt varifrån spelarens föregående slag slogs.\\n    När spelare har valet att spela boll som den ligger eller ta lättnad.\\n        Spelarens spelordning baseras på den punkt där den ursprungliga bollen ligger (som, om den inte är känd, måste uppskattas) (se Regel 14.2).\\n        Detta gäller även när spelaren redan har beslutat att ta lättnad med slag och distans eller ta lättnad för att spela från en annan plats än där den ursprungliga bollen ligger (t ex när den ursprungliga bollen ligger i ett pliktområde eller ska betraktas som ospelbar).\\n\\n(2) Spela provisorisk boll. Spelordningen för spelaren är att spela en provisorisk boll direkt efter att ha slagit det föregående slaget och innan någon annan spelar en boll, utom:\\n\\n    när ett hål startas från tee (se Regel 6.4c), eller\\n    när spelaren väntar med att fatta beslut om att spela en provisorisk boll (spelarens spelordning i detta fall, när spelaren har bestämt sig för att spela en provisorisk boll, baseras på den punkt varifrån föregående slag slogs).\\n\\n6.5\\nAvsluta spelet av ett hål\\nEn spelare har avslutat ett hål:\\n\\n    I matchspel, när:\\n        spelaren hålar ut eller spelarens nästa slag skänkts, eller\\n        ett hål är avgjort (t ex när motspelaren skänker hålet, motspelarens score för hålet är lägre än vad spelaren har möjlighet att kunna göra eller motspelaren får den allmänna plikten (förlorat hål)).\\n    I slagspel, när spelaren hålar ut enligt Regel 3.3c.\\n\\nOm en spelare inte är medveten om att han/hon avslutat ett hål och fortsätter att spela hålet, anses inte spelarens fortsatta spel vara övningsspel, och spelaren får inte heller någon plikt för att spela en annan boll, inklusive fel boll. Se Regel 21.1b(1), 21.2b(1), 21.3b(1) och 23.3c (när en spelare har avslutat ett hål i andra former av slagspel eller i fyrboll).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 6 Spela ett hål",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

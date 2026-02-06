@@ -1,0 +1,158 @@
+{
+  "rule_number": 17,
+  "rule_code": "Rule 17",
+  "title": "Pliktområden",
+  "summary": {
+    "short": "Regel 17 definierar vad som är ett pliktområde (gult/rött) och vilka alternativ spelaren har när bollen är eller anses vara i ett pliktområde.",
+    "detailed": "Definierar vad som är ett pliktområde (gult/rött) och vilka alternativ spelaren har när bollen är eller anses vara i ett pliktområde, inklusive särskilda krav vid spelförbudszon."
+  },
+  "sections": [
+    {
+      "section_number": "17.1",
+      "title": "Alternativ för en boll i ett pliktområde",
+      "purpose": "Beskriver när en boll är i ett pliktområde och de grundläggande alternativen: spela bollen som den ligger eller ta lättnad med plikt.",
+      "key_points": [
+        "En boll är i pliktområdet när någon del av den ligger i, vidrör eller är ovanför pliktområdet.",
+        "Spelaren får alltid välja att spela bollen som den ligger i pliktområdet.",
+        "Vill man inte spela bollen som den ligger måste man ta lättnad med plikt enligt 17.1d eller 17.2.",
+        "Om det är känt eller så gott som säkert att bollen är i ett pliktområde kan lättnad tas även om bollen inte hittas.",
+        "Gula och röda pliktområden ger olika lättnadsalternativ (rött har även sidolättnad).",
+        "Spelförbudszon i ett pliktområde kräver särskild lättnad enligt 17.1e."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "17.1a",
+          "title": "När en boll är i ett pliktområde",
+          "summary": "Förklarar exakt när en boll räknas som liggande i ett pliktområde, inklusive när den bara delvis är i området.",
+          "key_points": [
+            "Bollen är i ett pliktområde om någon del av bollen ligger på eller vidrör mark/föremål innanför pliktområdets gräns.",
+            "Bollen är också i pliktområdet om någon del av den är ovanför området eller gränsen.",
+            "Om en boll samtidigt är i pliktområde och annat område på banan avgörs tillståndet enligt Regel 2.2c.",
+            "Pliktområdets gräns definieras av banmarkeringar (t.ex. stolpar/linjer) enligt lokala bestämmelser."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "17.1b",
+          "title": "Spela bollen som den ligger eller ta lättnad med plikt",
+          "summary": "Anger huvudvalet i pliktområde: antingen spela bollen som den ligger eller ta lättnad med plikt utanför pliktområdet.",
+          "key_points": [
+            "Spelaren får utan plikt spela bollen som den ligger i pliktområdet.",
+            "Spelet från pliktområde följer vanliga slagregler för spelfältet (inga extra begränsningar bara för att bollen är i pliktområdet).",
+            "Vill spelaren inte spela bollen som den ligger måste lättnad med plikt tas enligt 17.1d eller 17.2.",
+            "Om en spelförbudszon finns i pliktområdet och påverkar spelet måste lättnad tas enligt 17.1e."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "17.1c",
+          "title": "Lättnad när bollen inte hittas men är i pliktområde",
+          "summary": "Ger lättnad med plikt när det är känt eller så gott som säkert att en förlorad boll ligger i ett pliktområde.",
+          "key_points": [
+            "Om det är känt eller så gott som säkert att bollen stannat i ett pliktområde får lättnad med plikt tas enligt 17.1d eller 17.2.",
+            "Så snart en annan boll sätts i spel enligt dessa alternativ är den ursprungliga bollen inte längre i spel, även om den senare hittas.",
+            "Om det inte är känt eller så gott som säkert att bollen är i pliktområde och den är förlorad, måste lättnad tas med slag och distans enligt Regel 18.2.",
+            "Treminutersregeln för söktid gäller fortfarande, men ersätts av att en ny boll satts i spel med rätt procedur."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "17.1d",
+          "title": "Lättnadsalternativ för boll i pliktområde",
+          "summary": "Samlar de tre lättnadsalternativen för en boll i pliktområde: slag och distans, flagglinjen och sidolättnad (för rött pliktområde).",
+          "key_points": [
+            "Alla lättnadsalternativ i denna regel ger ett slags plikt.",
+            "Alternativen gäller både när bollen ligger i pliktområdet och när det är känt eller så gott som säkert att den är där utan att hittas.",
+            "Lättnad med slag och distans innebär spel från platsen för föregående slag enligt 14.6.",
+            "Flagglinjelättnad: droppa en boll utanför pliktområdet på en linje mellan hålet och punkten där bollen senast skar gränsen.",
+            "Vid rött pliktområde finns sidolättnad: två klubblängder från punkten där bollen senast skar gränsen, inte närmare hål.",
+            "Lättnadsområdet får aldrig ligga i samma pliktområde som bollen och måste vara i samma område på banan där bollen först träffar marken vid dropp."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "17.1e",
+          "title": "Spelförbudszon i pliktområde",
+          "summary": "När en boll ligger i eller påverkas av en spelförbudszon i ett pliktområde får den inte spelas som den ligger och särskild lättnad krävs.",
+          "key_points": [
+            "Ligger bollen i en spelförbudszon i ett pliktområde måste spelaren ta lättnad med plikt enligt 17.1d eller 17.2.",
+            "Om spelförbudszonen fortfarande stör efter att lättnad tagits enligt 17.1d måste ytterligare lättnad tas enligt 16.1f(2).",
+            "Om bollen ligger i pliktområdet men utanför spelförbudszonen, och zonen stör stans eller sving, måste spelaren antingen:",
+            "  – ta lättnad med plikt utanför pliktområdet enligt 17.1d eller 17.2, eller",
+            "  – ta lättnad utan plikt inom pliktområdet genom att droppa i lättnadsområde från närmaste punkt för fullständig lättnad från zonen.",
+            "Ingen lättnad utan plikt ges om spelaren väljer en uppenbart orimlig klubba, stans, sving eller spelriktning."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "17.2",
+      "title": "Alternativ efter att en boll spelats från ett pliktområde",
+      "purpose": "Reglerar vilka alternativ som finns när en boll spelats från ett pliktområde och sedan hamnar i ett nytt läge, t.ex. i samma/annat pliktområde, förlorad eller ospelbar.",
+      "key_points": [
+        "Efter slag från pliktområde kan bollen hamna i samma eller annat pliktområde, ute på banan, förlorad eller out of bounds.",
+        "Spelaren får ofta välja mellan flera lättnadsalternativ, alla med ett slags plikt.",
+        "Det finns ett särskilt extra alternativ att spela från platsen för senaste slag utanför pliktområdet.",
+        "Om spelaren först tar slag-och-distans-lättnad inne i pliktområdet kan ytterligare lättnad utanför pliktområdet tas med ytterligare pliktslag.",
+        "Totala antalet pliktslag summeras om man kombinerar flera lättnadsalternativ i samma situation."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "17.2a",
+          "title": "Boll spelad från pliktområde stannar i samma eller annat pliktområde",
+          "summary": "Ger spelaren standardalternativen plus ett extra alternativ att spela från där senaste slaget utanför pliktområde slogs.",
+          "key_points": [
+            "Spelaren får alltid spela bollen som den ligger i sitt nya läge i pliktområdet.",
+            "Med ett slags plikt får spelaren annars ta lättnad enligt 17.1d (slag och distans, flagglinje och ev. sidolättnad för rött område).",
+            "Vid flagglinje- eller sidolättnad används punkten där bollen senast skar det aktuella pliktområdets gräns som referens.",
+            "Extra alternativ: med ett slags plikt får spelaren spela från platsen för det senaste slaget utanför alla pliktområden (återgång i spelet).",
+            "Om spelaren redan droppat efter slag-och-distans inne i pliktområdet och sedan tar lättnad utanför pliktområdet tillkommer ytterligare ett slags plikt (totalt två).",
+            "Figur-exemplen visar hur samma logik gäller både om bollen stannar kvar eller lämnar och åter kommer in i samma pliktområde."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "17.2b",
+          "title": "Boll spelad från pliktområde blir förlorad, out of bounds eller ospelbar utanför pliktområdet",
+          "summary": "Reglerar plikt och alternativ när en boll efter slag från pliktområde inte kan spelas vidare ute på banan.",
+          "key_points": [
+            "Är bollen efter slag från pliktområde förlorad utanför området eller out of bounds måste slag-och-distans enligt 18.2 användas.",
+            "Är bollen ospelbar utanför pliktområdet tillämpas Regel 19.2 (ospelbar boll) med slag-och-distans som ett av alternativen.",
+            "Tar spelaren slag-och-distans-lättnad genom att droppa i pliktområdet men spelar inte bollen därifrån får spelaren ta ytterligare lättnad utanför pliktområdet.",
+            "Kombineras slag-och-distans med ytterligare lättnad utanför pliktområdet ger det två slags plikt i samma situation.",
+            "Spelaren kan välja att gå direkt till lättnad utanför pliktområdet och får då ändå totalt två slags plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "17.3",
+      "title": "Ingen lättnad enligt andra regler för boll i pliktområde",
+      "purpose": "Klargör att när en boll ligger i ett pliktområde får spelaren inte ta fri lättnad enligt vissa andra regler; lättnad måste tas enligt Regel 17.",
+      "key_points": [
+        "När bollen är i pliktområde finns ingen fri lättnad från onormala banförhållanden enligt 16.1.",
+        "Det finns heller ingen fri lättnad för pluggad boll enligt 16.3 i pliktområde.",
+        "En boll i pliktområde kan inte förklaras ospelbar med fri lättnad; ospelbarhetsreglerna ger bara alternativ med plikt.",
+        "Spelarens enda lättnadsmöjligheter är de som anges i Regel 17 (pliktlättnad).",
+        "Undantag: farlig situation på grund av djur i pliktområde ger fri lättnad inom pliktområdet eller lättnad med plikt utanför enligt 16.2b(2)."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "17\nPliktområden\n17.1\nAlternativ för en boll i ett pliktområde\nPliktområden är definierade som antingen röda eller gula. Detta påverkar spelarens lättnadsalternativ (se Regel 17.1d). En spelare får stå i ett pliktområde för att spela en boll utanför pliktområdet, även efter att ha tagit lättnad från pliktområdet.\n17.1a\nNär en boll är i ett pliktområde\nEn boll är i ett pliktområde då någon del av bollen:\n\n    ligger på eller vidrör marken eller något annat (t ex varje naturligt eller konstgjort föremål) innanför pliktområdets gräns eller\n    är ovanför gränsen eller någon annan del av pliktområdet.\n\nOm en del av bollen är både i ett pliktområde och i ett annat område på banan, se Regel 2.2c.\n17.1b\nEn spelare får spela bollen som den ligger i ett pliktområde eller ta lättnad med plikt\nSpelaren får antingen:\n\n    spela bollen som den ligger utan plikt, enligt samma regler som gäller för en boll på spelfältet (vilket innebär att det inte finns några särskilda regler som begränsar hur bollen får spelas från ett pliktområde), eller\n    spela en boll från en plats utanför pliktområdet genom att ta lättnad med plikt enligt Regel 17.1d eller 17.2.\n\nUndantag – Lättnad måste tas för störande inverkan från en spelförbudszon i ett pliktområde (se Regel 17.1e).\n17.1c\nLättnad för en boll som inte hittas men är i ett pliktområde\nOm en spelares boll inte har hittats och det är känt eller så gott som säkert att bollen har stannat i ett pliktområde:\n\n    Spelaren får ta lättnad med plikt enligt Regel 17.1d eller 17.2.\n    Så snart spelaren sätter en annan boll i spel för att ta lättnad på detta sätt:\n        är den ursprungliga bollen inte längre i spel och får inte spelas.\n        Detta gäller även om den sedan hittas på banan innan de tre minuternas söktid är ute (se Regel 6.3b).\n\nMen om det inte är känt eller så gott som säkert att bollen har stannat i ett pliktområde och bollen är förlorad, måste spelaren ta lättnad med slag och distans enligt Regel 18.2.\n17.1d\nLättnad för en boll i ett pliktområde\nOm en spelares boll är i ett pliktområde, och även när det är känt eller så gott som säkert att den är i ett pliktområde även om den inte hittats, har spelaren dessa lättnadsalternativ, vardera för ett slags plikt: (1) Lättnad med slag och distans. Spelaren får spela den ursprungliga bollen eller en annan boll från där det föregående slaget slogs (se Regel 14.6). (2) Lättnad på flagglinjen. Spelaren får droppa den ursprungliga bollen eller en annan boll (se Regel 14.3) utanför pliktområdet, och då hålla den uppskattade punkten, där den ursprungliga bollen senast skar pliktområdets gräns, mellan hålet och punkten där bollen droppas (utan begränsning för hur långt bakåt bollen får droppas). Punkten på linjen där bollen först träffar marken när den droppas bildar ett lättnadsområde som är en klubblängd i alla riktningar, men med dessa begränsningar:\n\n    Begränsningar för lättnadsområdets läge:\n        får inte vara närmare hålet än den uppskattade punkten där den ursprungliga bollen senast skar pliktområdets gräns, och\n        får vara i vilket område på banan som helst utom i samma pliktområde, men\n        måste vara i samma område på banan som bollen först träffade marken när den droppades.\n\n\nFIG. #1 17.1d: LÄTTNAD FÖR BOLL I GULT PLIKTOMRÅDE\nimage\nNär det är känt eller så gott som säkert att en boll är i ett gult pliktområde och spelaren önskar att ta lättnad, har spelaren två alternativ, båda med ett slags plikt. Spelaren får:\n\n    ta lättnad med slag och distans genom att spela en boll från ett lättnadsområde baserat på var föregående slag slogs.\n    ta lättnad på flagglinjen genom att droppa en boll utanför pliktområdet och hålla punkt X mellan hålet och punkten där bollen droppas.\n\nFIG. #2 17.1d: LÄTTNAD FÖR BOLL I RÖTT PLIKTOMRÅDE\nimage\nNär det är känt eller så gott som säkert att en boll är i ett rött pliktområde och spelaren önskar att ta lättnad, har spelaren tre alternativ, alla med ett slags plikt. Spelaren får:\n\n    ta lättnad med slag och distans genom att spela en boll från ett lättnadsområde baserat på var föregående slag slogs.\n    ta lättnad på flagglinjen genom att droppa en boll utanför pliktområdet och hålla punkt X mellan hålet och punkten där bollen droppas.\n    ta lättnad i sidled (bara rött pliktområde). Referenspunkten för att ta lättnad är punkt X, och en boll måste droppas i och spelas från ett lättnadsområde på två klubblängder, som inte är närmare håletän punkt X.\n\n\n(3) Lättnad i sidled (endast för rött pliktområde). När bollen senast skar gränsen för ett rött pliktområde, får spelaren droppa den ursprungliga bollen eller en annan boll i detta lättnadsområde i sidled (se Regel 14.3):\n\n    Referenspunkt: Den uppskattade punkt där den ursprungliga bollen senast skar det röda pliktområdets gräns.\n    Storlek på lättnadsområde. mätt från referenspunkten: Två klubblängder, men med dessa begränsningar:\n    Begränsningar för lättnadsområde:\n        Får inte vara närmare hålet än referenspunkten och\n        får vara i vilket område på banan som helst utom i samma pliktområde, men\n        om det finns mer än ett område på banan inom två klubblängder från referenspunkten, måste bollen stanna i lättnadsområdet i samma område på banan som där bollen först träffade marken när den droppades i lättnadsområdet.\n\nProcedure for Taking Lateral Relief\nSe Regel 25.4m (för spelare som använder ett rörelsehjälpmedel på hjul är Regel 17.1d(3) modifierad för att utöka lättnadsområdet i sidled till fyra klubblängder). Se Committee Procedures, Section 8; Model Local Rule B-2 (tävlingsledningen får anta en lokal regel som tillåter lättnad i sidled på den motsatta sidan av ett rött pliktområde på samma avstånd från hålet).\n17.1e\nLättnad måste tas för störande inverkan från en spelförbudszon i ett pliktområde\nI var och en av dessa situationer får spelaren inte spela bollen som den ligger: (1) När en boll är i en spelförbudszon i ett pliktområde. Spelaren måste ta lättnad med plikt enligt Regel 17.1d eller 17.2. Om spelaren har störande inverkan från en spelförbudszon efter att ha tagit lättnad enligt denna regel, får bollen inte spelas som den ligger. I stället måste spelaren ta ytterligare lättnad enligt Regel 16.1f(2). (2) När en spelförbudszon på banan har störande inverkan på stans eller sving för en boll i ett pliktområde. Om en spelares boll är i ett pliktområde och utanför en spelförbudszon, men en spelförbudszon (oavsett om den är i ett onormalt banförhållande eller i ett pliktområde) har störande inverkan på spelarens område för avsedd stans eller område för avsedd sving, måste spelaren antingen:\n\n    ta lättnad med plikt utanför pliktområdet enligt Regel 17.1d eller 17.2, eller\n    ta lättnad utan plikt genom att droppa den ursprungliga bollen eller en annan boll i detta lättnadsområde (om det finns) i pliktområdet (se Regel 14.3):\n        Referenspunkt: Den närmaste punkten för fullständig lättnad från spelförbudszonen.\n        Storlek på lättnadsområde, mätt från referenspunkten: En klubblängd, men med dessa begränsningar:\n        Begränsningar för lättnadsområde:\n            Måste vara i samma pliktområde där bollen ligger, och\n            får inte vara närmare hålet än referenspunkten.\n\n(3) Ingen lättnad när det är uppenbart orimligt att spela bollen. Det blir ingen lättnad utan plikt från störande inverkan av spelförbudszonen under (2):\n\n    när det är uppenbart orimligt att spela bollen som den ligger på grund av något som spelaren inte har rätt att ta lättnad för utan plikt, (t ex när en spelare inte kan slå ett slag på grund av var bollen ligger i en buske), eller\n    när det blir störande inverkan bara på grund av att spelaren väljer en klubba, typ av stans eller sving eller spelriktning som är uppenbart orimlig under omständigheterna.\n\nSe Regel 16.1f för vad man ska göra när det blir störande inverkan av en spelförbudszon var som helst utom i ett pliktområde. Plikt för att spela en boll från fel plats i strid med Regel 17.1: allmän plikt enligt Regel 14.7a.\n17.2\nAlternativ efter att en boll spelats från ett pliktområde\n17.2a\nNär en boll som spelats från ett pliktområde stannar i samma eller i ett annat pliktområde\nOm en boll som spelats från ett pliktområde stannar i samma pliktområde eller i ett annat pliktområde får spelaren spela bollen som den ligger (se Regel 17.1b). Eller, med ett slags plikt, får spelaren ta lättnad enligt något av dessa alternativ: (1) Vanliga lättnadsalternativ. Spelaren får ta lättnad med slag och distans enligt Regel 17.1d(1), lättnad på flagglinjen enligt Regel 17.1d(2) eller, för ett rött pliktområde, lättnad i sidled enligt Regel 17.1d(3). Enligt Regel 17.1d(2) eller (3) är den uppskattade punkt som används för att fastställa lättnadsområdet där den ursprungliga bollen senast skar gränsen till det pliktområde där den nu ligger. Om spelaren tar lättnad med slag och distans genom att droppa en boll i pliktområdet (se Regel 14.6) och sedan beslutar sig för att inte spela den droppade bollen från där den stannar:\n\n    får spelaren ta ytterligare lättnad utanför pliktområdet enligt Regel 17.1d(2) eller (3) (för ett rött pliktområde) eller enligt Regel 17.2a(2).\n    Om spelaren gör detta, får spelaren ytterligare ett slags plikt, och får då totalt två slags plikt: ett slag för att ta lättnad med slag och distans och ett slag för att ta lättnad utanför pliktområdet.\n\n(2) Extra lättnadsalternativ: Spela från där senaste slaget utanför pliktområdet slogs. I stället för att använda sig av något av de vanliga lättnadsalternativen enligt (1) får spelaren välja att spela den ursprungliga bollen eller en annan boll från där spelaren slog sitt senaste slag utanför ett pliktområde (se Regel 14.6).\nFIG. #1 17.2a: BOLL SOM SPELATS FRÅN PLIKTOMRÅDE STANNAR I SAMMA PLIKTOMRÅDE\nimage\nEn spelare spelar från tee till punkt A i pliktområdet. Spelaren spelar bollen från punkt A till punkt B. Om spelaren väljer att ta lättnad med ett slags plikt finns det fyra alternativ. Spelaren får:\n\n    ta lättnad med slag och distans genom att spela en boll från ett lättnadsområde baserat på var det föregående slaget slogs vid punkt A och spelar sitt 4:e slag.\n    ta lättnad på flagglinjen genom att droppa en boll utanför pliktområdet och hålla punkt X mellan hålet och punkten där bollen droppas och spelar sitt 4:e slag.\n    ta lättnad i sidled (bara rött pliktområde). Referenspunkten för att ta lättnad är punkt X, och en boll måste droppas i och spelas från ett lättnadsområde på två klubblängder som inte är närmare hålet än punkt X, och spelar sitt 4:e slag.\n    spela en boll från tee eftersom det var där spelaren slog sitt senaste slag utanför pliktområdet och spelar sitt 4:e slag.\n\nOm spelaren väljer alternativ (1) och sedan bestämmer sig för att inte spela den droppade bollen, får spelaren ta lättnad på flagglinjen eller lättnad i sidled i förhållande till punkt X, eller spela igen från tee och då lägga till ytterligare ett pliktslag för totalt två slags plikt och kommer då att spela sitt 5:e slag.\nFIG. #2 17.2a: BOLL SOM SPELATS FRÅN PLIKTOMRÅDE, STANNAR I SAMMAPLIKTOMRÅDE EFTER DEN LÄMNAT DET OCH ÅTERVÄNT\nimage\nEn spelare spelar från tee till punkt A i pliktområdet. Spelaren spelar bollen från punkt A till punkt B, där bollen lämnar pliktområdet men återvänder tillbaka in i pliktområdet vid punkt X. Om spelaren väljer att ta lättnad med ett slags plikt finns det fyra alternativ. Spelaren får:\n\n    ta lättnad med slag och distans genom att spela en boll från ett lättnadsområde baserat på var det föregående slaget slogs vid punkt A och spelar sitt 4:e slag.\n    ta lättnad på flagglinjen genom att droppa en boll utanför pliktområdet och hålla punkt X (punkten där bollen senast skar pliktområdets gräns) mellan hålet och den punkt där bollen droppas och spelar sitt 4:e slag.\n    ta lättnad i sidled (bara rött pliktområde). Referenspunkten för att ta lättnad är punkt X, och en boll måste droppas i och spelas från ett lättnadsområde på två klubblängder som inte är närmare hålet än punkt X, och spelar sitt 4:e slag.\n    spela en boll från tee eftersom det var där spelaren slog sitt senaste slag utanför pliktområdet och spelar sitt 4:e slag.\n\nOm spelaren väljer alternativ (1) och sedan bestämmer sig för att inte spela den droppade bollen, får spelaren ta lättnad på flagglinjen eller lättnad i sidled i förhållande till punkt X, eller spela igen från tee och då lägga till ytterligare ett pliktslag för totalt två slags plikt och kommer då att spela sitt 5:e slag.\n17.2b\nNär en boll som spelats från ett pliktområde är förlorad, out of bounds eller ospelbar utanför pliktområdet\nEfter att ha spelat en boll från ett pliktområde kan en spelare ibland vara tvungen eller välja att ta lättnad med slag och distans, eftersom den ursprungliga bollen antingen är:\n\n    out of bounds eller förlorad utanför pliktområdet (se Regel 18.2) eller\n    ospelbar utanför pliktområdet (se Regel 19.2a).\n\nOm en spelare tar lättnad med slag och distans genom att droppa en boll i pliktområdet (se Regel 14.6) och sedan beslutar sig för att inte spela den droppade bollen från där den stannar:\n\n    får spelaren ta ytterligare lättnad utanför pliktområdet enligt Regel 17.1d(2) eller (3) (för ett rött pliktområde) eller enligt Regel 17.2a(2).\n    Om spelaren gör detta får spelaren ytterligare ett slags plikt,och får då totalt två slags plikt: ett slag för att ta lättnad med slag och distans och ett slag för att ta lättnad utanför pliktområdet.\n\nSpelaren får direkt ta sådan lättnad utanför pliktområdet utan att först droppa en boll i pliktområdet, men får fortfarande totalt två slags plikt. Plikt för att spela en boll från fel plats i strid med Regel 17.2: allmän plikt enligt Regel 14.7a.\n17.3\nIngen lättnad enligt andra regler för en boll i ett pliktområde\nNär en spelares boll är i ett pliktområde, blir det ingen lättnad för:\n\n    störande inverkan från ett onormalt banförhållande (Regel 16.1),\n    en pluggad boll (Regel 16.3) eller\n    en ospelbar boll (Regel 19).\n\nSpelarens enda lättnadsmöjlighet är att ta lättnad med plikt enligt Regel 17. Men om en farlig situation på grund av djur stör spelet på en boll i ett pliktområde, får spelaren antingen ta lättnad utan plikt i pliktområdet eller lättnad med plikt utanför pliktområdet (se Regel 16.2b(2)).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text based on 2019 R&A/USGA Rules of Golf, Rule 17",
+    "created_by": "",
+    "created_at": ""
+  }
+}

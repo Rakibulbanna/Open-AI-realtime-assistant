@@ -1,0 +1,117 @@
+{
+  "rule_number": 18,
+  "rule_code": "Rule 18",
+  "title": "Lättnad med slag och distans; boll förlorad eller out of bounds; provisorisk boll",
+  "summary": {
+    "short": "Regel 18 beskriver hur och när slag-och-distans-lättnad tas, vad som gäller för förlorad eller out of bounds-boll och hur provisorisk boll fungerar.",
+    "detailed": "Spelaren får alltid ta lättnad med slag och distans genom att gå tillbaka till föregående slagplats med ett slags plikt. När bollen är förlorad eller out of bounds måste denna lättnad tas, om inte en annan specifik regel kan användas. Regeln förklarar också när en provisorisk boll får spelas, hur den ska annonseras, när den blir bollen i spel och när den måste ges upp."
+  },
+  "sections": [
+    {
+      "section_number": "18.1",
+      "title": "Lättnad med plikt enligt slag och distans tillåts när som helst",
+      "purpose": "Klargör att slag-och-distans-lättnad alltid är ett möjligt alternativ, oavsett var bollen ligger.",
+      "key_points": [
+        "Spelaren får när som helst ta lättnad med slag och distans med ett slags plikt.",
+        "Ny boll spelad från föregående slagplats blir bollen i spel; den ursprungliga bollen är inte längre i spel.",
+        "Gäller även om den ursprungliga bollen hittas inom söktiden, med vissa undantag.",
+        "Undantag: när slaget spelas som provisorisk boll eller som en andra boll enligt särskilda regler i slagspel."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "18.2",
+      "title": "Boll som är förlorad eller out of bounds: lättnad med slag och distans måste tas",
+      "purpose": "Definierar när en boll är förlorad eller out of bounds och hur lättnad med slag och distans måste tas.",
+      "key_points": [
+        "En boll är förlorad om den inte hittas och identifieras inom tre minuter från det att sökningen började.",
+        "Spelaren får rimlig extra tid att identifiera en boll som hittas inom tre minuter.",
+        "En boll är out of bounds endast när hela bollen är utanför banans gräns.",
+        "Spelaren får stå out of bounds för att spela en boll på banan."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "18.2a",
+          "title": "När en boll är förlorad eller out of bounds",
+          "summary": "Anger tidsgränsen för sökande och kriterierna för förlorad boll och out of bounds-boll.",
+          "key_points": [
+            "Tre minuters söktid gäller från det att spelaren eller caddien börjar leta.",
+            "Om bollen inte identifieras inom rimlig tid efter att den hittats är den förlorad.",
+            "Out of bounds kräver att hela bollen är utanför gränsen; annars anses den på banan."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "18.2b",
+          "title": "Vad man ska göra när en boll är förlorad eller out of bounds",
+          "summary": "Förklarar att slag-och-distans-lättnad måste tas och listar undantag där andra regler kan användas.",
+          "key_points": [
+            "Vid förlorad eller out of bounds-boll måste slag och distans tillämpas med ett slags plikt.",
+            "Spelaren spelar då en boll från föregående slagplats.",
+            "Undantag finns när det är känt eller så gott som säkert vad som hänt bollen, t.ex. rubbad av utomstående, i flyttbart tillverkat föremål, i onormalt banförhållande, i pliktområde eller avsiktligt påverkad av person."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "18.3",
+      "title": "Provisorisk boll",
+      "purpose": "Beskriver när och hur en provisorisk boll får spelas, samt när den blir bollen i spel eller måste ges upp.",
+      "key_points": [
+        "Provisorisk boll får spelas när bollen kan vara förlorad utanför pliktområde eller out of bounds.",
+        "Spelaren måste tydligt ange att bollen spelas som provisorisk innan slaget.",
+        "Provisorisk boll kan spelas flera gånger så länge den spelas från samma avstånd eller längre från hålet.",
+        "Regeln klargör när den provisoriska bollen blir bollen i spel och när den måste ges upp."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "18.3a",
+          "title": "När provisorisk boll tillåts",
+          "summary": "Anger situationer där provisorisk boll får spelas enligt slag och distans för att spara tid.",
+          "key_points": [
+            "Tillåten när bollen kan vara förlorad utanför pliktområde eller kan vara out of bounds.",
+            "Gäller även när bollen kan vara både i pliktområde och förlorad eller out of bounds.",
+            "Om provisorisk boll spelas när den inte är tillåten blir den spelarbollen med slag-och-distans-plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "18.3b",
+          "title": "Meddela spel av en provisorisk boll",
+          "summary": "Kräver att spelaren tydligt meddelar att en boll spelas provisoriskt.",
+          "key_points": [
+            "Spelaren måste använda ordet \"provisorisk\" eller motsvarande tydlig formulering.",
+            "Det räcker inte att säga att man spelar en ny boll eller spelar om.",
+            "Om spelaren inte meddelar att bollen är provisorisk blir den bollen i spel med slag-och-distans-plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "18.3c",
+          "title": "Spela en provisorisk boll tills den blir bollen i spel eller ges upp",
+          "summary": "Förklarar hur länge en provisorisk boll behåller sin status, när den blir bollen i spel och när den måste överges.",
+          "key_points": [
+            "Provisorisk boll kan spelas flera gånger så länge den slås från en punkt på samma avstånd eller längre från hålet än där den ursprungliga bollen bedöms vara.",
+            "Den blir bollen i spel när den ursprungliga bollen är förlorad eller out of bounds, eller när provisorisk boll spelas från närmare hål än den ursprungliga bollens bedömda läge.",
+            "När ursprungliga bollen hittas utanför pliktområde inom söktiden, eller hittas i/är känd eller så gott som säker i pliktområde, måste den provisoriska bollen ges upp.",
+            "Alla slag med provisorisk boll innan den ges upp räknas inte, och vidare spel med den blir spel med fel boll."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "18\nLättnad med slag och distans; boll förlorad eller out of bounds; provisorisk boll\n18.1\nLättnad med plikt enligt slag och distans tillåts när som helst\nEn spelare får när som helst ta lättnad med slag och distans genom att lägga till ett slags plikt och spela den ursprungliga bollen eller en annan boll varifrån det föregående slaget slogs (se Regel 14.6). Spelaren har alltid denna möjlighet att ta lättnad med slag och distans:\n\n    oavsett var spelarens boll är på banan och\n    även när en regel kräver att spelaren ska ta lättnad på ett visst sätt eller spela en boll från en viss plats.\n\nNär spelaren sätter en annan boll i spel med plikt enligt slag och distans (se Regel 14.4):\n\n    är den ursprungliga bollen inte längre i spel och får inte spelas.\n    Detta gäller även om den ursprungliga bollen hittas på banan innan de tre minuternas söktid är ute (se Regel 6.3b).\n\nMen detta gäller inte en boll som ska spelas varifrån det föregående slaget slogs när spelaren:\n\n    meddelar att spelaren spelar en provisorisk boll (se Regel 18.3b) eller\n    spelar en andra boll i slagspel enligt Regel 14.7b eller 20.1c(3).\n\n18.2\nBoll som är förlorad eller out of bounds: lättnad med slag och distans måste tas\n18.2a\nNär en boll är förlorad eller out of bounds\n(1) När en boll är förlorad. En boll är förlorad om den inte hittas inom tre minuter efter att spelaren eller spelarens caddie börjar leta efter den. Om en boll hittas inom tre minuter men det är osäkert om det är spelarens boll:\n\n    måste spelaren snarast försöka identifiera bollen (se Regel 7.2) och får en rimlig tid att göra det, även om detta sker efter att de tre minuternas söktid är ute.\n    Detta innefattar en rimlig tid att komma fram till bollen, om spelaren inte befinner sig där bollen hittas.\n\nOm spelaren inte identifierar sin boll inom denna rimliga tid, är bollen förlorad. (2) När en boll är out of bounds. En boll i vila är out of bounds bara när hela bollen är utanför banans gräns. En boll är på banan när någon del av bollen:\n\n    ligger på eller vidrör marken eller något annat (t ex naturliga eller konstgjorda föremål) innanför banans gräns eller\n    är ovanför banans gräns eller varje annan del av banan.\n\nEn spelare får stå out of bounds för att spela en boll på banan.\nFIG. 18.2a: NÄR EN BOLL ÄR OUT OF BOUNDS\nimage\nEn boll är out of bounds bara när hela bollen är utanför banans gräns. Figurerna visar exempel på när en boll är på banan och out of bounds.\n18.2b\nVad man ska göra när en boll är förlorad eller out of bounds\nOm en boll är förlorad eller out of bounds, måste spelaren ta lättnad med slag och distans genom att lägga till ett slags plikt och spela den ursprungliga bollen eller en annan boll varifrån det föregående slaget slogs (se Regel 14.6). Undantag – Spelaren får byta in en annan boll enligt annan regel när det är känt eller så gott som säkert vad som hände med bollen: I stället för att ta lättnad med slag och distans får spelaren byta in en annan boll enligt en regel som gäller när spelarens boll inte har hittats och det är känt eller så gott som säkert att bollen:\n\n    stannat på banan och rubbats av något utomstående (se Regel 9.6) eller spelats som fel boll av en annan spelare (se Regel 6.3c(2)),\n    stannat på banan i eller på ett flyttbart tillverkat föremål (se Regel 15.2b) eller i ett onormalt banförhållande (se Regel 16.1e),\n    är i ett pliktområde (se Regel 17.1c), eller\n    avsiktligt påverkats eller stoppats av någon person (se Regel 11.2c).\n\nPlikt för att spela en boll från fel plats i strid med Regel 18.2: allmän plikt enligt Regel 14.7a.\n18.3\nProvisorisk boll\n18.3a\nNär provisorisk boll tillåts\nOm en boll kan vara förlorad utanför ett pliktområde eller skulle kunna vara out of bounds får spelaren, för att spara tid, provisoriskt spela en annan boll enligt plikten för slag och distans (se Regel 14.6). Detta omfattar när:\n\n    den ursprungliga bollen inte har hittats och identifierats och ännu inte är förlorad,\n    en boll kan vara förlorad i ett pliktområde, men skulle också kunna vara förlorad någon annanstans på banan, eller\n    en boll kan vara förlorad i ett pliktområde, men skulle också kunna vara out of bounds.\n\nOm en spelare slår ett slag från där det föregående slaget slogs med avsikt att spela en provisorisk boll, när en provisorisk boll inte är tillåten, blir bollen som spelas spelarens boll i spel med plikten för slag och distans (se Regel 18.1). Om även den provisoriska bollen kan vara förlorad utanför ett pliktområde eller vara out of bounds:\n\n    får spelaren spela ytterligare en provisorisk boll.\n    förhåller sig denna provisoriska boll till den första provisoriska bollen som den första provisoriska bollen till den ursprungliga bollen.\n\n18.3b\nMeddela spel av en provisorisk boll\nInnan slaget slås måste spelaren meddela någon att spelaren ska spela en provisorisk boll:\n\n    Det räcker inte för spelaren att bara säga att han/hon spelar en annan boll eller spelar igen.\n    Spelaren måste använda ordet “provisorisk” eller på annat sätt tydligt ange att han/hon spelar bollen provisoriskt enligt Regel 18.3.\n\nOm spelaren inte meddelar detta till någon (även om spelaren avsett att spela en provisorisk boll) och spelar en boll varifrån det föregående slaget slogs, blir den bollen spelarens boll i spel med plikt enligt slag och distans (se Regel 18.1). Men om det inte finns någon i närheten som kan höra spelarens meddelande, får spelaren spela den provisoriska bollen och sedan informera någon om sin handling när så blir möjligt.\n18.3c\nSpela en provisorisk boll tills den blir bollen i spel eller ges upp\n(1) Spela en provisorisk boll mer än en gång. Spelaren får fortsätta att spela den provisoriska bollen utan att den förlorar sin status som en provisorisk boll så länge den spelas från en punkt som är på samma avstånd eller längre från hålet än där den ursprungliga bollen bedöms vara. Detta gäller även om den provisoriska bollen spelas flera gånger. Men den slutar att vara en provisorisk boll när den blir bollen i spel (2) eller ges upp enligt (3) och blir därmed fel boll. (2) När en provisorisk boll blir boll i spel. Den provisoriska bollen blir spelarens boll i spel med plikt enligt slag och distans i något av dessa två fall:\n\n    När den ursprungliga bollen är förlorad var som helst på banan utom i ett pliktområde eller är out of bounds. Den ursprungliga bollen är inte längre i spel (även om den sedan hittas på banan efter att de tre minuternas söktid är ute) och är nu fel boll som inte får spelas (se Regel 6.3c).\n    När en provisorisk boll spelas från en punkt som är närmare hål än där den ursprungliga bollen bedöms vara. Den ursprungliga bollen är inte längre i spel (även om den hittas på banan innan de tre minuternas söktid är ute eller hittas närmare hålet än vad som bedömts) och är nu fel boll som inte får spelas (se Regel 6.3c).\n\nOm spelaren spelar en provisorisk boll till i stort sett samma område som den ursprungliga bollen och inte kan identifiera vilken boll som är vilken:\n\n    om bara en av bollarna hittas på banan betraktas den bollen som den provisoriska bollen som nu är i spel.\n    om båda bollarna hittas på banan, måste spelaren välja en av bollarna som ska betraktas som den provisoriska bollen som nu är i spel, och den andra bollen betraktas som den ursprungliga bollen som nu inte längre är i spel och får inte spelas.\n\nFIG. 18.3c: PROVISORISK BOLL SPELAS FRÅN EN PUNKT SOM ÄR NÄRMARE HÅL ÄN DÄR DEN URSPRUNGLIGA BOLLEN BEDÖMS VARA\nimage\n\n    En spelares ursprungliga boll spelad från tee kan vara förlorad i en buske, så spelaren meddelar och spelar en provisorisk boll, och den stannar vid punkt A.\n    Eftersom punkt A är längre från hålet än där den ursprungliga bollen bedöms vara, får spelaren spela den provisoriska bollen från punkt A utan att den förlorar sin status som provisorisk boll.\n    Spelaren spelar den provisoriska bollen från punkt A till punkt B.\n    Eftersom punkt B är närmare hålet än där den ursprungliga bollen bedöms vara, och om spelaren spelar den provisoriska bollen, från punkt B, blir den provisoriska bollen spelarens boll i spel med plikt enligt slag och distans.\n\nUndantag – En spelare får byta in en annan boll enligt en annan regel när det är känt eller så gott som säkert vad som hände med bollen: Spelaren har ett extra alternativ när spelarens boll inte har hittats och det är känt eller så gott som säkert att bollen:\n\n    stannat på banan och rubbats av något utomstående (se Regel 9.6),\n    stannat på banan i eller på ett flyttbart tillverkat föremål (se Regel 15.2b) eller ett onormalt banförhållande (se Regel 16.1e) eller\n    avsiktligt påverkats eller stoppats av någon person (se Regel 11.2c).\n\nNär någon av dessa regler gäller, får spelaren antingen:\n\n    byta in en annan boll enligt vad som tillåts enligt den regeln eller\n    betrakta den provisoriska bollen som bollen i spel med plikt enligt slag och distans.\n\n(3) När en provisorisk boll måste ges upp. När en provisorisk boll ännu inte har blivit bollen i spel, måste den ges upp i något av dessa två fall:\n\n    När den ursprungliga bollen hittas på banan utanför ett pliktområde innan de tre minuternas söktid är ute. Spelaren måste spela den ursprungliga bollen som den ligger.\n    När den ursprungliga bollen hittas i ett pliktområde eller det är känt eller så gott som säkert att den är i ett pliktområde. Spelaren måste antingen spela den ursprungliga bollen som den ligger eller ta lättnad med plikt enligt Regel 17.1d.\n\nI båda fallen:\n\n    får spelaren inte slå några fler slag på den provisoriska bollen som nu är fel boll (se Regel 6.3c), och\n    alla slag med den provisoriska bollen innan den getts upp (även slag och eventuella pliktslag uteslutande från spel med den bollen) räknas inte.\n\nEn spelare får be andra att inte leta efter den ursprungliga bollen, när spelaren skulle föredra att fortsätta spela med den provisoriska bollen, men de andra är inte skyldiga att gå med på det. Om den provisoriska bollen inte har blivit bollen i spel och en boll hittas som kan vara den ursprungliga bollen, måste spelaren vidta alla rimliga åtgärder för att identifiera den. Om spelaren inte gör det, kan tävlingsledningen diskvalificera spelaren enligt Regel 1.2a om tävlingsledningen bedömer det som ett allvarligt fall av dåligt uppförande i strid med spelets anda.\n",
+  "metadata": {
+    "language": "sv",
+    "source": "Spelregler för Golf – Regel 18 (svensk text från användaren)",
+    "created_by": "ChatGPT (GPT-5.1 Thinking)",
+    "created_at": "2025-11-27T23:34:36.382208Z"
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "rule_number": 14,
+  "rule_code": "14",
+  "title": "Förfaranden med bollen: markera, lyfta, rengöra, återplacera, droppa och spela från rätt plats",
+  "summary": {
+    "short": "Regel 14 beskriver hur bollen får lyftas, rengöras, återplaceras, droppas i lättnadsområde och vad som händer om man spelar från fel plats.",
+    "detailed": "Regel 14 samlar alla grundprocedurer för hur en boll hanteras på banan. Den förklarar när och hur läget måste markeras, vem som får lyfta bollen och i vilka situationer den får rengöras. Regeln beskriver också hur en boll ska återplaceras på en punkt, hur lättnad tas genom att droppa i ett lättnadsområde, när en boll åter är i spel efter att ha varit ur spel och hur misstag i proceduren kan rättas. Avslutningsvis definieras vad som räknas som att spela från fel plats och hur detta ska hanteras i slagspel."
+  },
+  "sections": [
+    {
+      "section_number": "14.1",
+      "title": "Markera, lyfta och rengöra en boll",
+      "purpose": "Definierar hur och av vem en boll får markeras, lyftas och rengöras, samt när detta ger plikt.",
+      "key_points": [
+        "Gäller alla avsiktliga lyft av en boll i vila, oavsett hur den lyfts.",
+        "Läget måste markeras när en boll ska återplaceras på samma punkt.",
+        "Bara spelaren eller någon med spelarens godkännande (med vissa undantag för caddie) får lyfta bollen.",
+        "Regeln anger när en lyft boll får rengöras och när det är förbjudet."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "14.1a",
+          "title": "Läget för en boll som ska lyftas och återplaceras måste markeras",
+          "summary": "Innan en boll som ska återplaceras lyfts måste läget markeras korrekt med bollmarkering eller klubba.",
+          "key_points": [
+            "Gäller när en regel kräver att bollen ska återplaceras på exakt samma punkt.",
+            "Läget markeras genom bollmarkering precis bakom/intill bollen eller genom att hålla en klubba bakom/intill bollen.",
+            "Bollmarkeringen ska tas bort innan slaget slås.",
+            "Vid lättnad behöver läget inte markeras innan bollen lyfts."
+          ],
+          "procedural_steps": [
+            "Bedöm om regeln kräver återplacering på ursprunglig punkt.",
+            "Placera bollmarkering eller klubba direkt bakom eller alldeles intill bollen.",
+            "Lyft bollen på valfritt sätt.",
+            "När bollen återplacerats, ta bort bollmarkeringen innan du slår."
+          ],
+          "penalties": [
+            "Ett slags plikt om bollen lyfts utan att läget markerats, om läget markerats felaktigt eller om slag slås med bollmarkeringen kvar."
+          ]
+        },
+        {
+          "subsection_code": "14.1b",
+          "title": "Vem som får lyfta bollen",
+          "summary": "Som huvudregel får bara spelaren, eller någon spelaren godkänt vid just det tillfället, lyfta bollen.",
+          "key_points": [
+            "Spelaren får alltid lyfta sin egen boll enligt reglerna.",
+            "Spelaren kan ge en annan person engångsgodkännande att lyfta bollen.",
+            "Godkännandet måste ges vid varje enskilt lyft, inte generellt för hela ronden.",
+            "Caddien får utan uttryckligt godkännande lyfta bollen på green eller när det rimligen är tydligt att spelaren tar lättnad."
+          ],
+          "procedural_steps": [
+            "Avgör om bollen behöver lyftas enligt en regel.",
+            "Spelaren lyfter själv bollen, eller ger någon annan (inklusive caddie) tillstånd att göra det.",
+            "På green eller vid uppenbar lättnad får caddien lyfta utan extra godkännande."
+          ],
+          "penalties": [
+            "Ett slags plikt för spelaren om caddien lyfter bollen i en situation där detta inte är tillåtet enligt reglerna (se också Regel 9.4)."
+          ]
+        },
+        {
+          "subsection_code": "14.1c",
+          "title": "Rengöra en boll",
+          "summary": "Grundregeln är att en lyft boll får rengöras, men det finns tydliga undantag där rengöring är förbjuden eller begränsad.",
+          "key_points": [
+            "En boll lyft från green får alltid rengöras.",
+            "En boll lyft någon annanstans får normalt rengöras.",
+            "Rengöring är förbjuden när bollen lyfts för att kontrollera om den är skadad, om den stör spelet eller om man bara kontrollerar om den ligger i ett förhållande där lättnad kan tas (om man sedan inte tar lättnad).",
+            "Vid identifiering får bollen bara rengöras så mycket som behövs för att identifiera den."
+          ],
+          "procedural_steps": [
+            "Avgör varför bollen lyfts (green, identifiering, skadekontroll, stör spel, möjlig lättnad).",
+            "Applicera tillåtelse/begränsning för rengöring beroende på skäl.",
+            "Om rengöring inte är tillåten men ändå skett, återplacera bollen på rätt punkt."
+          ],
+          "penalties": [
+            "Ett slags plikt om spelaren rengör bollen när rengöring inte är tillåten enligt Regel 14.1c."
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": "14.2",
+      "title": "Återplacera en boll på en punkt",
+      "purpose": "Reglerar när och hur en boll ska återplaceras på en bestämd punkt, vilken boll som får användas och hur man agerar om läget förändrats eller bollen inte stannar.",
+      "key_points": [
+        "Huvudregel: den ursprungliga bollen ska tillbaka till sin ursprungliga punkt.",
+        "Vissa undantag tillåter att en annan boll används.",
+        "Endast spelaren eller den som lyft/rubbat bollen får återplacera den.",
+        "Om läget ändrats eller bollen inte stannar finns särskilda procedurer."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "14.2a",
+          "title": "Den ursprungliga bollen måste användas",
+          "summary": "När en boll ska återplaceras måste den ursprungliga bollen användas, med några få tydliga undantag.",
+          "key_points": [
+            "Huvudregel: samma boll ska återplaceras.",
+            "En annan boll får ersätta den ursprungliga om den inte kan återfås snabbt med rimlig ansträngning.",
+            "En annan boll får användas om den ursprungliga är hackad eller sprucken.",
+            "Vid återupptagande av spel efter avbrott, eller när bollen tidigare spelats som fel boll av annan spelare, får annan boll användas."
+          ],
+          "procedural_steps": [
+            "Försök återfinna den ursprungliga bollen inom några sekunder med rimlig ansträngning.",
+            "Kontrollera om bollen är spelbar eller skadad enligt Regel 4.2c.",
+            "Avgör om något av undantagen gäller; om inte, använd den ursprungliga bollen vid återplacering."
+          ],
+          "penalties": []
+        },
+        {
+          "subsection_code": "14.2b",
+          "title": "Vem som måste återplacera bollen och hur den måste återplaceras",
+          "summary": "Regeln begränsar vem som får återplacera bollen och anger hur själva återplaceringen ska gå till.",
+          "key_points": [
+            "Endast spelaren eller den som lyfte/rubbade bollen får återplacera den.",
+            "Bollen måste återplaceras för hand på den punkt som regeln anger.",
+            "Bollen släpps försiktigt så att den stannar på den punkten."
+          ],
+          "procedural_steps": [
+            "Identifiera vem som lyfte eller orsakade att bollen rubbades.",
+            "Den spelaren eller den personen återplacerar bollen för hand direkt på den korrekta punkten.",
+            "Bekräfta att bollen stannar på punkten innan slaget slås."
+          ],
+          "penalties": [
+            "Ett slags plikt om bollen återplaceras av någon som inte har rätt att göra det, eller om bollen återplaceras på fel sätt även om punkten är korrekt."
+          ]
+        },
+        {
+          "subsection_code": "14.2c",
+          "title": "Punkt där bollen återplaceras",
+          "summary": "Bollen ska i normalfallet tillbaka till sin ursprungliga punkt, inklusive samma vertikala läge mot fasta föremål.",
+          "key_points": [
+            "Standard: återplacera på ursprunglig punkt (som kan behöva uppskattas).",
+            "Läget innefattar höjd och kontakt mot fasta föremål (t.ex. stolpe, träd, mur).",
+            "Lösa naturföremål som tagits bort behöver inte läggas tillbaka."
+          ],
+          "procedural_steps": [
+            "Fastställ (eller uppskatta) den ursprungliga punkten där bollen vilade.",
+            "Om bollen låg mot eller på ett fast föremål, återskapa samma kontaktläge.",
+            "Placera bollen på den punkten enligt proceduren i 14.2b."
+          ],
+          "penalties": []
+        },
+        {
+          "subsection_code": "14.2d",
+          "title": "Var bollen ska återplaceras om det ursprungliga läget har förändrats",
+          "summary": "Om läget förändrats måste bollen återplaceras så nära det ursprungliga läget som möjligt, med särskilda regler för sand.",
+          "key_points": [
+            "I sand ska det ursprungliga läget återskapas så gott det går.",
+            "Var bollen låg täckt i sand får en liten del lämnas synlig när läget återskapas.",
+            "Utanför sand placeras bollen på den närmaste punkt som mest liknar det ursprungliga läget, inom en klubblängd, inte närmare hål och i samma område på banan.",
+            "Om exakt läge inte kan avgöras uppskattas det enligt samma princip."
+          ],
+          "procedural_steps": [
+            "Avgör om bollen ursprungligen låg i sand eller inte.",
+            "Om i sand: återskapa sandläget och återplacera bollen där.",
+            "Om utanför sand: hitta närmaste punkt som mest liknar det gamla läget inom en klubblängd, inte närmare hål, i samma område.",
+            "Placera bollen på den valda punkten."
+          ],
+          "penalties": [
+            "Allmän plikt om spelaren spelar från rätt plats men underlåter att återskapa sandläget enligt 14.2d(1)."
+          ]
+        },
+        {
+          "subsection_code": "14.2e",
+          "title": "Vad man ska göra om återplacerad boll inte stannar kvar på sitt ursprungliga ställe",
+          "summary": "Om en korrekt återplacerad boll inte stannar på punkten efter två försök ska den placeras på närmaste punkt där den ligger kvar, med områdesbegränsningar.",
+          "key_points": [
+            "Försök först att återplacera bollen på ursprunglig punkt; om den inte stannar, försök en gång till.",
+            "Om bollen inte stannar efter andra försöket: placera den på närmaste punkt där den ligger kvar.",
+            "Den nya punkten får inte vara närmare hål och måste ligga i rätt område på banan (spelfält, bunker/pliktområde eller green/spelfält beroende på ursprunglig punkt)."
+          ],
+          "procedural_steps": [
+            "Återplacera bollen på ursprunglig punkt och släpp den.",
+            "Om den rullar bort, upprepa proceduren en andra gång.",
+            "Om den inte stannar andra gången: identifiera närmaste punkt där den kommer att ligga kvar enligt områdeskraven.",
+            "Placera bollen på den nya punkten (vid behov enligt 14.2e)."
+          ],
+          "penalties": [
+            "Allmän plikt för att spela från fel plats om proceduren i 14.2e inte följs (se även Regel 14.7a)."
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": "14.3",
+      "title": "Droppa en boll i ett lättnadsområde",
+      "purpose": "Beskriver droppningsproceduren vid lättnad: vilken boll som får användas, hur den ska droppas, var den måste stanna och vad som händer om den påverkas av någon.",
+      "key_points": [
+        "Det är alltid tillåtet att byta boll när lättnad tas genom droppning.",
+        "En korrekt droppning kräver rätt person, rätt höjd/rörelse och rätt plats.",
+        "Bollen måste slutligen stanna inom lättnadsområdet, annars följer extra steg.",
+        "Avsiktlig påverkan av droppad boll i rörelse ger omdroppning och i vissa fall plikt."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "14.3a",
+          "title": "Den ursprungliga bollen eller en annan boll får användas",
+          "summary": "När lättnad tas genom droppning får spelaren alltid använda antingen den ursprungliga bollen eller en annan boll.",
+          "key_points": [
+            "Vid varje droppning är det fritt val av boll.",
+            "Det spelar ingen roll om bollen använts tidigare under hålet eller ronden."
+          ],
+          "procedural_steps": [
+            "Avgör att lättnad med droppning ska tas enligt relevant regel.",
+            "Välj om du vill använda ursprunglig boll eller byta till en annan boll.",
+            "Fortsätt med droppningsproceduren enligt 14.3b."
+          ],
+          "penalties": []
+        },
+        {
+          "subsection_code": "14.3b",
+          "title": "Bollen måste droppas på ett riktigt sätt",
+          "summary": "Beskriver tre krav för en korrekt droppning: vem som droppar, hur bollen släpps och var den droppas.",
+          "key_points": [
+            "Endast spelaren själv får droppa bollen.",
+            "Bollen måste droppas rakt ned från knähöjd utan att beröra spelare eller utrustning innan markkontakt.",
+            "Bollen måste droppas i rätt lättnadsområde eller på flagglinjen enligt aktuell regel.",
+            "En boll droppad på fel sätt räknas inte som ett av de två giltiga försöken innan placering krävs."
+          ],
+          "procedural_steps": [
+            "Ställ dig så att bollen kan släppas från knähöjd.",
+            "Håll bollen i handen i knähöjd och släpp den rakt ned.",
+            "Säkerställ att bollen inte träffar din kropp eller utrustning innan den tar mark.",
+            "Bekräfta att bollen droppas i rätt lättnadsområde eller på korrekt punkt på flagglinjen.",
+            "Om droppningen är felaktig: droppa igen på rätt sätt (ingen övre gräns för antal försök)."
+          ],
+          "penalties": [
+            "Om spelaren spelar en boll som droppats på fel sätt men som ligger i lättnadsområdet: ett slags plikt.",
+            "Om bollen spelas från utanför lättnadsområdet eller efter placering när droppning krävdes: allmän plikt."
+          ]
+        },
+        {
+          "subsection_code": "14.3c",
+          "title": "En boll som droppas på ett riktigt sätt måste stanna inom lättnadsområdet",
+          "summary": "Efter en korrekt droppning måste bollen komma till vila inom lättnadsområdet; annars krävs ny droppning och eventuellt placering.",
+          "key_points": [
+            "Lättnadsproceduren är klar först när bollen stannar inom lättnadsområdet.",
+            "Det saknar betydelse om bollen efter droppning träffar spelare, utrustning eller annat utomstående av misstag.",
+            "Stannar bollen utanför lättnadsområdet krävs en andra korrekt droppning.",
+            "Om även den andra droppade bollen stannar utanför, ska bollen placeras där den andra droppade bollen först träffade marken, med ytterligare regler om den inte stannar där."
+          ],
+          "procedural_steps": [
+            "Droppa bollen korrekt enligt 14.3b.",
+            "Kontrollera om bollen stannar inom lättnadsområdet.",
+            "Om den stannar utanför: droppa en boll på nytt på rätt sätt.",
+            "Om den andra droppade bollen också stannar utanför: placera en boll på den punkt där den andra droppade bollen först tog mark.",
+            "Om den placerade bollen inte stannar: placera igen, och vid behov på närmaste punkt där den stannar enligt 14.2e (kan hamna utanför lättnadsområdet)."
+          ],
+          "penalties": []
+        },
+        {
+          "subsection_code": "14.3d",
+          "title": "Vad man ska göra om en boll som droppats på ett riktigt sätt avsiktligt påverkas eller stoppas av en person",
+          "summary": "Reglerar situationen när någon avsiktligt påverkar en korrekt droppad boll i rörelse innan den stannat.",
+          "key_points": [
+            "En droppad boll anses avsiktligt påverkad om någon medvetet rör vid den i rörelse eller placerar utrustning/person i vägen.",
+            "Om detta sker måste spelaren droppa en boll igen på rätt sätt; den påverkade bollen räknas inte som ett av de två giltiga försöken.",
+            "Om en spelare eller dennes caddie avsiktligt påverkar bollen får den spelaren allmän plikt.",
+            "Om det inte fanns någon rimlig möjlighet att bollen skulle stanna inom lättnadsområdet blir det ingen plikt och droppningen räknas som ett av försöken."
+          ],
+          "procedural_steps": [
+            "Avgör om den droppade bollen avsiktligt påverkats eller stoppats innan den stannat.",
+            "Om ja och rimlig möjlighet fanns att bollen skulle stanna inom lättnadsområdet: droppa en ny boll på rätt sätt; räkna inte den påverkade droppningen som ett av två försök.",
+            "Om en spelare eller dess caddie var ansvarig: lägg på allmän plikt för den spelaren.",
+            "Om ingen rimlig möjlighet fanns att bollen skulle stanna inom lättnadsområdet: ingen plikt och droppningen räknas som ett av försöken enligt 14.3c(2)."
+          ],
+          "penalties": [
+            "Allmän plikt för den spelare (eller vars caddie) som avsiktligt påverkar eller stoppar den droppade bollen."
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": "14.4",
+      "title": "När spelarens boll åter är i spel",
+      "purpose": "Slår fast exakt när en boll åter blir bollen i spel efter att ha varit ur spel.",
+      "key_points": [
+        "En boll som lyfts, förlorats eller är out of bounds är ur spel.",
+        "Bollen är åter i spel när den spelas från tee eller sätts tillbaka på banan med avsikt att vara i spel."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "14.4",
+          "title": "När spelarens boll åter är i spel efter det att den ursprungliga bollen varit ur spel",
+          "summary": "Definierar när en boll anses vara i spel igen efter att den lyfts, varit förlorad eller out of bounds.",
+          "key_points": [
+            "En boll är inte i spel när den lyfts från banan, är förlorad eller out of bounds.",
+            "Bollen blir åter i spel när spelaren slår från tee eller när en boll återplaceras, droppas eller placeras med avsikt att bli i spel.",
+            "En boll som sätts i spel med fel procedur är ändå i spel tills annat görs enligt reglerna.",
+            "En återplacerad boll är i spel även om bollmarkeringen ligger kvar."
+          ],
+          "procedural_steps": [
+            "Identifiera att den tidigare bollen inte längre är i spel (lyft, förlorad, OOB).",
+            "Bestäm när en ny eller samma boll sätts i spel genom slag från tee eller genom att droppa/placera/återplacera med avsikt.",
+            "Behandla denna boll som bollen i spel, även om proceduren varit felaktig (eventuell plikt bedöms separat)."
+          ],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "14.5",
+      "title": "Rätta till misstag vid inbyte, återplacering, droppning eller placering",
+      "purpose": "Förklarar när och hur en spelare kan rätta procedurfel kring bollen och hur detta påverkar plikt.",
+      "key_points": [
+        "Misstag vid inbyte, återplacering, droppning eller placering kan ofta rättas utan plikt om bollen inte spelats.",
+        "Vilken regel/lättnadsvariant som ska användas vid rättelse beror på typ av misstag.",
+        "Vissa plikter kopplade till den ursprungliga bollen faller bort när misstaget rättas."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "14.5a",
+          "title": "Spelare får rätta till ett misstag innan bollen spelas",
+          "summary": "Om en boll satts i spel på fel sätt eller som otillåten inbytesboll får spelaren rätta misstaget utan plikt så länge bollen inte har spelats.",
+          "key_points": [
+            "Gäller misstag vid inbyte, återplacering, droppning eller placering.",
+            "Spelaren får rätta procedurfelet utan plikt innan bollen spelas."
+          ],
+          "procedural_steps": [
+            "Upptäck att bollen bytts in otillåtet eller satts i spel på fel sätt/plats/med fel procedur.",
+            "Ta upp den felaktigt satta bollen och applicera korrekt regel/procedur.",
+            "Sätt en boll i spel på korrekt sätt innan något slag slås mot den."
+          ],
+          "penalties": []
+        },
+        {
+          "subsection_code": "14.5b",
+          "title": "När spelaren får använda sig av en annan regel eller ett annat lättnadsalternativ för att rätta till misstag när lättnad tas",
+          "summary": "Beskriver vilka regler och lättnadsalternativ som får användas när ett lättnadsmisstag rättas, beroende på typ av misstag.",
+          "key_points": [
+            "Om bollen satts i spel enligt rätt regel på rätt plats men måste droppas/placeras igen, måste samma regel och samma lättnadsalternativ användas vid rättelsen.",
+            "Om bollen satts i spel enligt rätt regel men på fel plats, måste samma regel användas men valfritt lättnadsalternativ enligt den regeln är tillåtet vid rättelsen.",
+            "Om bollen satts i spel enligt en regel som inte var tillämplig, får vilken regel som helst användas som korrekt passar situationen vid rättelsen."
+          ],
+          "procedural_steps": [
+            "Klassificera misstaget som: (1) rätt regel/rätt plats men ny droppning/placering krävs, (2) rätt regel men fel plats, eller (3) fel regel.",
+            "Vid typ (1): använd samma regel och samma lättnadsalternativ när du rättar.",
+            "Vid typ (2): använd samma regel men du får byta till ett annat lättnadsalternativ inom den regeln.",
+            "Vid typ (3): välj en regel som faktiskt gäller situationen (t.ex. Regel 17 istället för att behandla bollen som ospelbar i pliktområde)."
+          ],
+          "penalties": []
+        },
+        {
+          "subsection_code": "14.5c",
+          "title": "Ingen plikt för handlingar som begåtts efter misstag som rörde en ursprunglig boll",
+          "summary": "När ett procedurfel rättas tillbaka till den ursprungliga bollen bortfaller vissa plikter som bara gällde den ursprungliga bollen efter misstaget.",
+          "key_points": [
+            "Handlingar efter misstaget som endast rör den ursprungliga bollen (t.ex. oavsiktligt rubba den eller förbättra förhållanden för slaget med den) ger ingen plikt när misstaget rättas.",
+            "Om samma handlingar även innebär plikt för den boll som sätts i spel för att rätta misstaget kvarstår plikten för denna nya boll.",
+            "Allmän plikt för att avsiktligt påverka/stoppa droppad boll enligt 14.3d kvarstår även om misstag rättas."
+          ],
+          "procedural_steps": [
+            "Rätta procedurfelet enligt 14.5a.",
+            "Identifiera handlingar som inträffade efter misstaget och som bara gällde den ursprungliga bollen.",
+            "Ignorera plikter som bara gällde den ursprungliga bollen, men behåll plikter som även berör bollen som nu är i spel."
+          ],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "14.6",
+      "title": "Slå nästa slag varifrån föregående slag slogs",
+      "purpose": "Beskriver hur en boll sätts i spel när en spelare ska spela ett nytt slag från samma plats som det föregående slaget, beroende på var detta slag slogs.",
+      "key_points": [
+        "Metoden för att sätta en boll i spel beror på om föregående slag slogs från tee, spelfält/pliktområde/bunker eller green.",
+        "Från tee spelas (och får peggas) en boll inom teeområdet.",
+        "Från spelfält/pliktområde/bunker droppas en boll inom ett lättnadsområde runt föregående slagpunkt.",
+        "Från green placeras en boll på den punkt där föregående slag slogs."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "14.6a",
+          "title": "Föregående slag slogs från tee",
+          "summary": "Om nästa slag ska slås från tee igen måste en boll spelas från rätt teeområde och får peggas.",
+          "key_points": [
+            "En boll i spel sätts tillbaka på teeområdet från vilket föregående slag slogs.",
+            "Bollen får peggas enligt Regel 6.2b."
+          ],
+          "procedural_steps": [
+            "Identifiera vilket teeområde föregående slag slogs från.",
+            "Placera eller pegga den ursprungliga eller en ny boll inom tee enligt 6.2b.",
+            "Slå nästa slag från teeområdet."
+          ],
+          "penalties": []
+        },
+        {
+          "subsection_code": "14.6b",
+          "title": "Föregående slag slogs från spelfältet, ett pliktområde eller en bunker",
+          "summary": "När nästa slag ska slås från samma område som föregående slag (spelfält, pliktområde eller bunker) droppas en boll inom ett lättnadsområde runt den tidigare slagpunkten.",
+          "key_points": [
+            "Referenspunkten är den punkt där föregående slag slogs.",
+            "Lättnadsområdet är en klubblängd från referenspunkten, inte närmare hål och i samma område på banan.",
+            "Bollen droppas enligt 14.3 inom detta lättnadsområde."
+          ],
+          "procedural_steps": [
+            "Fastställ (eller uppskatta) den exakta punkt där föregående slag slogs.",
+            "Mät upp en klubblängd för lättnadsområdet runt denna referenspunkt.",
+            "Säkerställ att hela lättnadsområdet ligger i samma område på banan och inte närmare hål.",
+            "Droppa en boll inom detta lättnadsområde enligt 14.3."
+          ],
+          "penalties": []
+        },
+        {
+          "subsection_code": "14.6c",
+          "title": "Föregående slag slogs från green",
+          "summary": "Om nästa slag ska slås från samma plats på green måste en boll placeras på den tidigare slagpunkten.",
+          "key_points": [
+            "Referenspunkten är punkten på green där föregående slag slogs.",
+            "Bollen placeras (inte droppas) på denna punkt enligt proceduren i 14.2b(2) och 14.2e."
+          ],
+          "procedural_steps": [
+            "Fastställ (eller uppskatta) den exakta punkten på green där föregående slag slogs.",
+            "Placera den ursprungliga eller en annan boll direkt på denna punkt.",
+            "Om bollen inte stannar, följ 14.2e för att hitta närmaste punkt där den ligger kvar."
+          ],
+          "penalties": [
+            "Allmän plikt för att spela från fel plats om nästa slag inte spelas från korrekt punkt/område enligt 14.6."
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": "14.7",
+      "title": "Spela från fel plats",
+      "purpose": "Definierar vad som avses med att spela från fel plats och hur sådana situationer hanteras i slagspel, inklusive allvarliga brott.",
+      "key_points": [
+        "Grundregeln är att bollen spelas från där den ligger, om inte en regel anger annat.",
+        "Att spela från fel plats medför normalt allmän plikt.",
+        "I slagspel måste allvarliga brott rättas, annars riskerar spelaren diskvalifikation.",
+        "Vid osäkerhet kan spelaren spela två bollar och låta tävlingsledningen avgöra."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "14.7a",
+          "title": "Plats varifrån bollen måste spelas",
+          "summary": "Slår fast grundprincipen att bollen måste spelas från där den ligger, om inte reglerna kräver eller tillåter spel från annan plats.",
+          "key_points": [
+            "Efter att hålet startats måste varje slag spelas från den plats där bollen stannat.",
+            "Undantag gäller när en regel kräver eller tillåter spel från annan plats (t.ex. lättnad eller slag och distans).",
+            "Det är inte tillåtet att medvetet spela bollen i spel från fel plats."
+          ],
+          "procedural_steps": [
+            "Efter varje slag: identifiera bollens nya läge.",
+            "Kontrollera om någon regel kräver eller tillåter flytt av bollen.",
+            "Om inte: spela bollen som den ligger.",
+            "Undvik att slå slag från en plats som inte stämmer med reglernas krav."
+          ],
+          "penalties": [
+            "Allmän plikt (förlust av hål i matchspel, två slags plikt i slagspel) för att spela bollen från fel plats."
+          ]
+        },
+        {
+          "subsection_code": "14.7b",
+          "title": "Hur man avslutar ett hål efter att ha spelat från fel plats i slagspel",
+          "summary": "Reglerar hur spelaren ska agera i slagspel efter att ha spelat från fel plats, inklusive hantering av allvarliga regelbrott och spel med två bollar.",
+          "key_points": [
+            "Spelaren måste avgöra om hålet ska spelas färdigt med bollen från fel plats eller om misstaget ska rättas genom spel från rätt plats.",
+            "Vid allvarligt brott (betydande fördel) måste misstaget rättas, annars blir spelaren diskvalificerad.",
+            "Om det är oklart om brottet är allvarligt får spelaren spela två bollar (en från fel plats, en från rätt plats) och senare rapportera till tävlingsledningen.",
+            "Tävlingsledningen avgör i efterhand vilken boll/score som ska räknas och om ytterligare plikt eller diskvalifikation gäller."
+          ],
+          "procedural_steps": [
+            "Upptäck att ett slag spelats från fel plats.",
+            "Bedöm om brottet kan vara allvarligt (skulle spelet från fel plats kunna ge en betydande fördel?).",
+            "Om du anser att det inte är allvarligt: spela färdigt hålet med bollen från fel plats.",
+            "Om du anser eller misstänker att det är allvarligt: rätta genom att spela en boll från rätt plats innan nästa hål påbörjas eller scorekort lämnas in.",
+            "Om du är osäker: spela två bollar (en fortsätter från fel plats, en från rätt plats) och rapportera senare.",
+            "Rapportera alltid till tävlingsledningen om du spelat två bollar p.g.a. osäkerhet."
+          ],
+          "penalties": [
+            "Allmän plikt för spel från fel plats, läggs till scoren med den boll som tävlingsledningen beslutar ska räknas.",
+            "Diskvalifikation om ett allvarligt brott inte rättas innan nästa hål startas eller scorekortet lämnas in.",
+            "Ytterligare allmän plikt om även bollen som spelats för att rätta misstaget spelats från fel plats; i vissa fall kan detta leda till diskvalifikation."
+          ]
+        }
+      ]
+    }
+  ],
+  "original_full_text": "14\nFörfaranden med bollen: Markera, lyfta och rengöra; återplacera på en punkt; droppa i lättnadsområde; spela från fel plats\n14.1\nMarkera, lyfta och rengöra en boll\nDenna regel gäller vid det avsiktliga ”lyftandet” av en spelares boll i vila. Detta kan göras på vilket sätt som helst, vilket innefattar att plocka upp bollen med handen, rotera den eller på annat sätt avsiktligt orsaka att den rubbas från sitt läge.\n14.1a\nLäget för en boll som ska lyftas och återplaceras måste markeras\nInnan en boll som ska lyftas enligt en regel som kräver att bollen ska återplaceras på sin ursprungliga punkt, måste spelaren markera läget, vilket innebär att:\n\n    placera en bollmarkering precis bakom eller alldeles intill bollen eller\n    hålla en klubba på marken precis bakom eller alldeles intill bollen.\n\nOm läget varit markerat med en bollmarkering och bollen har återplacerats, måste spelaren ta bort bollmarkeringen innan ett slag slås. Om spelaren lyfter bollen utan att markera läget, markerar läget på fel sätt eller slår ett slag med bollmarkeringen kvar på plats får spelaren ett slags plikt. När en boll lyfts för att ta lättnad enligt en regel, behöver spelaren inte markera läget innan bollen lyfts.\n14.1b\nVem som får lyfta bollen\nSpelarens boll får enligt reglerna bara lyftas av:\n\n    spelaren, eller\n    vem som helst som spelaren godkänt, men ett sådant godkännande måste ges varje gång innan bollen lyfts och inte allmänt för ronden.\n\nUndantag – När en caddie får lyfta spelarens boll utan godkännande: Caddien får lyfta spelarens boll utan godkännande när:\n\n    spelarens boll är på green, eller\n    det är rimligt att dra slutsatsen (t ex utifrån en handling eller ett yttrande) att spelaren kommer ta lättnad enligt en regel.\n\nOm caddien lyfter bollen när det inte är tillåtet att göra detta, får spelaren ett slags plikt (se Regel 9.4). Se Regel 25.2g, 25.4a och 25.5d (för spelare med vissa funktionsnedsättningar är Regel 14.1b modifierad för att tillåta en medhjälpare att lyfta spelarens boll på green utan godkännande).\n14.1c\nRengöra en boll\nEn boll som lyfts från green får alltid rengöras (se Regel 13.1b). En boll som lyfts någon annanstans får alltid rengöras, utom när den är lyft:\n\n    för att se om den är hackad eller sprucken. Rengöring är inte tillåten (se Regel 4.2c(1)).\n    för identifiering. Rengöring är tillåten bara så mycket som behövs för identifiering (se Regel 7.3).\n    om den stör spelet. Rengöring är inte tillåten (se Regel 15.3b(2)).\n    för att se om den ligger i ett förhållande varifrån lättnad är tillåten. Rengöring är inte tillåten om inte spelaren sedan tar lättnad enligt en regel (se Regel 16.4).\n\nOm spelaren rengör sin boll när det inte är tillåtet enligt denna regel, får spelaren ett slags plikt och måste återplacera bollen om den var lyft. Se Regel 22.2 (i foursome, får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling); 23.5 (i fyrboll, får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning).\n14.2\nÅterplacera en boll på en punkt\nDenna regel gäller när en boll lyfts eller rubbats och en regel kräver att den ska återplaceras på en punkt.\n14.2a\nDen ursprungliga bollen måste användas\nDen ursprungliga bollen måste användas när en boll återplaceras. Undantag – En annan boll får användas när:\n\n    den ursprungliga bollen inte kan återfås med rimlig ansträngning och inom några få sekunder, så länge som spelaren inte medvetet såg till att bollen inte kunde återfås,\n    den ursprungliga bollen är hackad och sprucken (se Regel 4.2c),\n    spelet återupptas efter det hade blivit stoppat (se Regel 5.7d), eller\n    den ursprungliga bollen spelades av en annan spelare som en fel boll (se Regel 6.3c(2)).\n\n14.2b\nVem som måste återplacera bollen och hur den måste återplaceras\n(1) Vem som måste återplacera bollen. Spelarens boll får enligt reglerna endast återplaceras av:\n\n    spelaren, eller\n    någon person som lyfte bollen eller orsakade att bollen rubbades.\n\nOm spelaren spelar en boll som återplacerats av någon som inte hade tillåtelse att göra det, får spelaren ett slags plikt. Se Regel 25.2h, 25.3c och 25.4a (en modifiering av Regel 14.2b tillåter spelare med vissa funktionsnedsättningar att ge allmänt godkännande till vilken annan person som helst att placera eller återplacera spelarens boll). (2) Hur en boll måste återplaceras. Bollen måste återplaceras genom att lägga ner den med handen på den punkt som krävs och släppa den så att den stannar på den punkten. Om spelaren spelar en boll som återplacerats på ett felaktigt sätt men på den rätta punkten, får spelaren ett slags plikt.\n14.2c\nPunkt där bollen återplaceras\nBollen måste återplaceras på sin ursprungliga punkt (som, om den inte är känd, måste uppskattas), utom när bollen måste återplaceras på en annan punkt enligt Regel 14.2d(2) och 14.2e eller när spelaren tar lättnad enligt en regel. Om bollen var i vila på, under eller mot något oflyttbart tillverkat föremål, integrerat föremål, föremål för banans gräns samt växande eller fast naturligt föremål:\n\n    innefattar bollens ”läge” dess vertikala läge i förhållande till marken.\n    Detta betyder att bollen måste återplaceras på dess ursprungliga punkt på, under eller emot sådant föremål.\n\nOm några lösa naturföremål tagits bort på grund av att bollen lyfts eller rubbats eller innan bollen återplaceras, behöver dessa inte läggas tillbaka. Se Regel 15.1a, Undantag 1, när det gäller begränsningar för att ta bort lösa naturföremål, innan en lyft eller rubbad boll återplaceras.\n14.2d\nVar bollen ska återplaceras om det ursprungliga läget har förändrats\nOm läget för en lyft eller rubbad boll som måste återplaceras har förändrats, måste spelaren återplacera bollen på det här sättet: (1) Boll i sand. När bollen var i sand, antingen i en bunker eller någon annanstans på banan:\n\n    måste spelaren, när han/hon återplacerar bollen på sin ursprungliga punkt (som, om den inte är känd, måste uppskattas) (se Regel 14.2c), återskapa det ursprungliga läget så gott det går.\n    får en liten del av bollen lämnas synlig när spelaren återskapar läget för en boll som varit täckt med sand.\n\nOm spelaren spelar från rätt plats men inte återskapar läget i strid mot denna regel får spelaren den allmänna plikten. (2) Boll var som helst utom i sand. När bollen var någon annanstans utom i sand, måste spelaren återplacera bollen genom att placera den på den närmaste punkten i ett läge som mest liknar det ursprungliga läget som är:\n\n    inom en klubblängd från dess ursprungliga punkt (som, om den inte är känd, måste uppskattas) (se Regel 14.2c).\n    inte närmare hålet, samt\n    i samma område på banan som den punkten.\n\nOm spelaren vet att det ursprungliga läget har förändrats men inte hur det ursprungliga läget var, måste spelaren uppskatta det ursprungliga läget och återplacera bollen enligt (1) eller (2). Undantag – För lägen som förändrats medan spelet var avbrutet och bollen har lyfts, se Regel 5.7d.\n14.2e\nVad man ska göra om återplacerad boll inte stannar kvar på sitt ursprungliga ställe\nOm spelaren försöker återplacera en boll men den inte stannar på sin ursprungliga punkt, måste spelaren försöka en andra gång. Om bollen inte heller då stannar på den punkten, måste spelaren återplacera bollen genom att placera den på den närmaste punkt där bollen kommer att ligga kvar, men med dessa begränsningar beroende på var den ursprungliga punkten är:\n\n    Punkten får inte vara närmare hålet.\n    Ursprunglig punkt på spelfältet. Närmaste punkten måste vara på spelfältet.\n    Ursprunglig punkt i bunker eller pliktområde. Närmaste punkten måste vara antingen i samma bunker eller i samma pliktområde.\n    Ursprunglig punkt på green. Närmaste punkten måste vara på green eller på spelfältet.\n\nPlikt för att spela en boll från fel plats i strid med Regel 14.2: allmän plikt enligt Regel 14.7a. Se Regel 22.2 (i foursome, får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling); 23.5 (i fyrboll, får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning).\n14.3\nDroppa en boll i ett lättnadsområde\nDenna regel gäller när en spelare måste droppa en boll när spelaren tar lättnad enligt en regel, även när spelaren måste slutföra lättnadsproceduren genom att placera en boll enligt Regel 14.3c(2). Om spelaren förbättrar lättnadsområdet innan eller efter att ha droppat en boll, se Regel 8.1.\n14.3a\nDen ursprungliga bollen eller en annan boll får användas\nSpelaren får använda den ursprungliga bollen eller en annan boll. Detta innebär att spelaren får använda vilken boll som helst varje gång spelaren droppar eller placerar en boll enligt denna regel.\n14.3b\nBollen måste droppas på ett riktigt sätt\nSpelaren måste droppa bollen på ett riktigt sätt, vilket innebär att alla kraven i (1), (2) och (3) uppfylls: (1) Spelaren måste droppa bollen. Bollen får endast droppas av spelaren. Varken spelarens caddie eller någon annan får göra detta. Se Regel 25.2h, 25.3c och 25.4a (en modifiering av Regel 14.3b(1) tillåter spelare med vissa funktionsnedsättningar att ge allmänt godkännande till vilken annan person som helst att droppa spelarens boll). (2) Bollen måste droppas rakt ned från knähöjd utan att vidröra spelare eller utrustning. Spelaren måste släppa bollen från ett läge i knähöjd så att bollen:\n\n    faller rakt ned, utan att spelaren kastar, roterar eller rullar den eller utför någon annan rörelse som skulle kunna påverka var bollen stannar och\n    inte vidrör någon del av spelarens kropp eller utrustning innan den träffar marken.\n\nKnähöjd” innebär höjden från marken till spelarens knä i stående position. Se Regel 25.6b (för vägledning om hur Regel 14.3b(2) ska tillämpas för spelare med vissa funktionsnedsättningar).\n14.3c\nEn boll som droppas på ett riktigt sätt måste stanna inom lättnadsområdet\nDenna regel gäller bara när en boll droppats på ett riktigt sätt enligt Regel 14.3b. (1) Spelaren har slutfört lättnadsproceduren när bollen som droppats på ett riktigt sätt stannar inom lättnadsområdet. Bollen måste stanna inom lättnadsområdet. Det spelar ingen roll om bollen, efter att ha träffat marken, vidrör någon person (inklusive spelaren själv), utrustning eller något annat utomstående innan den stannar:\n\n    Om bollen stannar inom lättnadsområdet, har spelaren slutfört lättnadsproceduren och måste spela bollen som den ligger.\n    Om bollen stannar utanför lättnadsområdet, måste spelaren handla enligt Regel 14.3c(2).\n\nI inget av fallen blir det plikt för någon spelare om en boll som droppats på ett riktigt sätt av misstag träffar någon person (inklusive spelaren själv), utrustning eller något annatutomstående innan den stannar. Undantag – När en boll som droppats på ett riktigt sätt avsiktligt påverkas eller stoppas av någon person: Se Regel 14.3d för vad som ska göras när den droppade bollen avsiktligt påverkas eller stoppas av någon person innan den stannar. (2) Vad man ska göra om en boll som droppats på ett riktigt sätt stannar utanför lättnadsområdet. Om bollen stannar utanför lättnadsområdet, måste spelaren droppa en boll på ett riktigt sätt en andra gång. Om den bollen också stannar utanför lättnadsområdet, måste sedan spelaren slutföra lättnadsproceduren genom att använda förfarandet för att återplacera en boll i reglerna 14.2b(2) och 14.2e:\n\n    Spelaren måste placera en boll på den punkt där den boll som droppats den andra gången först träffade marken.\n    Om den placerade bollen inte stannar på den punkten, måste spelaren placera en boll på den punkten en andra gång.\n    Om den boll som placerats en andra gång inte heller stannar på den punkten, måste spelaren placera en boll på den närmaste punkt där bollen kommer att stanna, i enlighet med begränsningarna i Regel 14.2e. Detta skulle kunna leda till att bollen placeras utanför lättnadsområdet.\n\n14.3d\nVad man ska göra om en boll som droppats på ett riktigt sätt avsiktligt påverkas eller stoppas av en person\nI syfte att tillämpa denna regel är en droppad boll ”avsiktligt påverkad eller stoppad” när:\n\n    en person avsiktligt vidrör bollen i rörelse efter att den träffar marken, eller\n    bollen i rörelse träffar någon utrustning eller annat föremål eller någon person (inklusive spelaren själv och spelarens caddie) som en spelare avsiktligt placerat eller lämnat på en speciell plats, så att utrustningen, föremålet eller personen skulle kunna påverka eller stoppa bollen i rörelse.\n\nNär en boll som droppats på ett riktigt sätt avsiktligt påverkas eller stoppas av någon person (oavsett om detta sker inom lättnadsområdet eller utanför lättnadsområdet) innan den stannar:\n\n    måste spelaren droppa en boll igen enligt förfarandet i Regel 14.3b (vilket innebär att bollen som avsiktligt påverkats eller stoppats inte räknas som en av de två droppningar som krävs innan en boll måste placeras enligt Regel 14.3c(2)).\n    Om bollen avsiktligt påverkats eller stoppats av någon spelare eller hans/hennes caddie, får den spelaren den allmänna plikten.\n\nUndantag – När det inte finns någon rimlig möjlighet att bollen kommer att stanna inom lättnadsområdet: Om en boll som droppats på ett riktigt sätt avsiktligt påverkas eller stoppas (oavsett om detta sker inom lättnadsområdet eller utanför lättnadsområdet) när det inte finns någon rimlig möjlighet att den kommer att stanna inom lättnadsområdet:\n\n    blir det ingen plikt för någon spelare, och\n    den droppade bollen anses ha stannat utanför lättnadsområdet och räknas som en av de två droppningar som krävs innan en boll måste placeras enligt Regel 14.3c(2).\n\nPlikt för att spela en boll från fel plats eller spela en boll som placerats i stället för att droppas i strid med Regel 14.3: allmän plikt enligt Regel 14.7a. Se Regel 22.2 (i foursome, får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling); 23.5 (i fyrboll, får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning).\n14.4\nNär spelarens boll åter är i spel efter det att den ursprungliga bollen varit ur spel\nNär en spelares boll i spel är lyft från banan eller är förlorad eller out of bounds, är bollen inte längre i spel. Spelaren har en boll i spel igen först när:\n\n    spelaren spelar den ursprungliga bollen eller en annan boll från tee, eller\n    den ursprungliga bollen eller en annan boll är återplacerad, droppad eller placerad på banan med avsikt att den bollen ska bli i spel.\n\nOm en boll åter sätts in på banan på något sätt med avsikt att den ska bli i spel, är den bollen i spel även om den:\n\n    bytts in i stället för den ursprungliga bollen även om detta inte var tillåtet enligt reglerna, eller\n    återplacerats, droppats eller placerats (1) på fel plats, (2) på fel sätt eller (3) genom att använda ett förfarande som inte var tillämpligt.\n\nEn återplacerad boll är i spel även om bollmarkeringen som markerar dess läge inte har tagits bort.\n14.5\nRätta till misstag som gjorts vid inbyte, återplacering, droppning eller placering av en boll\n14.5a\nSpelare får rätta till ett misstag innan bollen spelas\nNär en spelare har bytt in en annan boll i stället för sin ursprungliga boll när det inte är tillåtet enligt reglerna eller när spelarens boll i spel återplacerats, droppats eller placerats (1) på fel sätt, (2) på fel plats eller (3) genom att använda ett förfarande som inte var tillämpligt:\n\n    får spelaren rätta till misstaget utan plikt.\n    Men detta är bara tillåtet innan bollen spelas.\n\n14.5b\nNär spelaren får använda sig av en annan regel eller ett annat lättnadsalternativ för att rätta till misstag när lättnad tas\nOm spelaren måste använda samma regel och lättnadsalternativ som först användes när spelaren rättar till ett misstag då lättnad tas, eller om spelaren får använda sig av en annan regel eller annat lättnadsalternativ, beror på vilken sorts misstag det handlar om: (1) När boll satts i spel enligt gällande regel och droppats eller placerats på rätt ställe, men regel kräver att boll ska droppas eller placeras igen.\n\n    För att rätta detta misstag måste spelaren fortsätta att ta lättnad genom att använda sig av samma regel och samma lättnadsalternativ enligt den regeln.\n    Om spelaren, till exempel, använt sig av sidolättnadsalternativet (Regel 19.2c) när lättnad tagits för ospelbar boll och bollen droppats i rätt lättnadsområde men (1) droppats på fel sätt (se Regel 14.3b) eller (2) stannat utanför lättnadsområdet (se Regel 14.3c), måste spelaren när misstaget rättas till fortsätta att ta lättnad enligt Regel 19.2 och använda samma lättnadsalternativ (sidolättnad enligt Regel 19.2c).\n\n(2) När boll satts i spel enligt gällande regel men boll droppats eller placerats på fel plats.\n\n    För att rätta detta misstag måste spelaren fortsätta att ta lättnad enligt samma regel men får använda vilket av lättnadsalternativen som helst enligt den regel som gäller för spelarens situation.\n    Om spelaren, t ex använde sig av sidolättnadsalternativet (Regel 19.2c) när lättnad tagits för ospelbar boll och av misstag droppat bollen utanför det tillämpliga lättnadsområdet, måste spelaren när han rättar till misstaget fortsätta att använda Regel 19.2 och får använda något av lättnadsalternativen enligt den regeln.\n\n(3) När boll satts i spel enligt en regel som inte var tillämplig.\n\n    För att rätta detta misstag kan spelaren använda vilken regel som helst som gäller för spelarens situation.\n    Om spelaren, t ex felaktigt tog lättnad för ospelbar boll för sin boll i ett pliktområde (vilket Regel 19.1 inte tillåter), måste spelaren rätta till misstaget antingen genom att återplacera bollen (om den har lyfts) enligt Regel 9.4, eller ta lättnad med plikt enligt Regel 17, och får då använda något av de lättnadsalternativ enligt den regel som gäller för spelarens situation.\n\n14.5c\nIngen plikt för handlingar som begåtts efter misstag som rörde en ursprunglig boll\nNär en spelare rättar till ett misstag enligt Regel 14.5a, räknas inte någon plikt för handlingar som begåtts efter misstaget och som endast gäller den ursprungliga bollen, t ex att av misstag förorsakat att den rubbats (se Regel 9.4b) eller att förbättra förhållanden som påverkar slaget med den ursprungliga bollen (se Regel 8.1a). Men om samma handlingar också skulle ge plikt för bollen som sätts i spel för att rätta till misstaget (t ex när dessa handlingar förbättrade förhållandena som påverkar slaget med den boll som nu är i spel), gäller plikten för bollen som nu är i spel. Undantag – Plikt för att avsiktligt påverka eller stoppa en droppad boll: Om en spelare i slagspel får den allmänna plikten för att avsiktligt påverka eller stoppa sin droppade boll enligt Regel 14.3d, får spelaren ändå den plikten, även om spelaren åter droppar en boll och använder sig av tillvägagångssättet i Regel 14.3b.\n14.6\nSlå nästa slag varifrån föregående slag slogs\nDenna regel tillämpas varje gång det krävs eller är tillåtet enligt en regel för en spelare att slå nästa slag varifrån föregående slag slogs (t ex att ta lättnad med slag och distans eller spela på nytt efter ett slag som återkallats eller på något annat sätt inte räknas).\n\n    Hur en spelare måste sätta en boll i spel beror på i vilket område på banan det föregående slaget slogs.\n    I alla dessa situationer får spelaren antingen använda den ursprungliga bollen eller en annan boll.\n\n14.6a\nFöregående slag slogs från tee\nDen ursprungliga bollen eller en annan boll måste spelas någonstans innanför tee (och får peggas) enligt Regel 6.2b.\n14.6b\nFöregående slag slogs från spelfältet, ett pliktområde eller en bunker\nDen ursprungliga bollen eller en annan boll måste droppas i detta lättnadsområde (se Regel 14.3):\n\n    Referenspunkt: Den punkt varifrån föregående slag slagits (som, om den inte är känd, måste uppskattas).\n    Storlek på lättnadsområde mätt från referenspunkten: En klubblängd, men med följande begränsningar:\n    Begränsningar för lättnadsområde:\n        Måste vara i samma område på banan som referenspunkten och\n        får inte vara närmare hål än referenspunkten.\n\n14.6c\nFöregående slag slogs från green\nDen ursprungliga bollen eller en annan boll måste placeras på den punkt varifrån föregående slag slagits (som, om den inte är känd, måste uppskattas) (se Regel 14.2), genom att använda det förfarande som gäller för att återplacera en boll enligt Regel 14.2b(2) och 14.2e. Plikt för att spela boll från fel plats i strid med Regel 14.6: allmän plikt enligt Regel 14.7a.\n14.7\nSpela från fel plats\n14.7a\nPlats varifrån bollen måste spelas\nEfter att ha startat ett hål:\n\n    måste en spelare slå varje slag varifrån spelarens boll stannat, utom när reglerna kräver eller tillåter spelaren att spela en boll från en annan plats (se Regel 9.1).\n    En spelare får inte spela sin boll i spel från fel plats.\n\nPlikt för att spela boll från fel plats i strid med Regel 14.7a: allmän plikt.\n14.7b\nHur man avslutar ett hål efter att ha spelat från fel plats i slagspel\n(1) Spelaren måste bestämma sig för att spela hålet färdigt med den boll som spelats från fel plats eller rätta till misstaget genom att spela från rätt plats. Vad en spelare sedan ska göra beror på om det var ett allvarligt brott – d v s, om spelaren skulle kunna ha fått en betydande fördel genom att spela från fel plats:\n\n    Inte ett allvarligt brott. Spelaren måste spela hålet färdigt med bollen som spelats från fel plats utan att rätta till misstaget.\n    Allvarligt brott.\n        Spelaren måste rätta till misstaget genom att spela hålet färdigt med en boll som spelats från rätt plats enligt reglerna.\n        Om spelaren inte rättar till misstaget innan spelaren slår ett slag för att starta ett annat hål eller, om det rör sig om det sista hålet i ronden, innan spelaren lämnar in sitt scorekort, blir spelaren diskvalificerad.\n    Vad man ska göra om det är oklart om ett regelbrott är allvarligt. Spelaren ska spela hålet färdigt med bollen som spelats från fel plats och en andra boll spelad från rätt plats enligt reglerna.\n\n(2) En spelare som spelar två bollar måste rapportera till tävlingsledningen. Om spelaren är osäker på om spelet från fel plats var ett allvarligt regelbrott och beslutar sig för att spela en andra boll i ett försök att rätta till misstaget:\n\n    måste spelaren rapportera det inträffade till tävlingsledningen innan scorekortet lämnas in.\n    Detta gäller även om spelaren tror att spelaren fick samma score med båda bollarna samt när spelaren, efter att ha beslutat sig för att spela en andra boll, väljer att inte avsluta hålet med båda bollarna.\n\nOm spelaren inte rapporterar det inträffade till tävlingsledningen, blir spelaren diskvalificerad. (3) När en spelare spelat två bollar, kommer tävlingsledningen att avgöra spelarens score på hålet. Spelarens score på hålet beror på om tävlingsledningen anser att det var ett allvarligt brott att spela den ursprungliga bollen från fel plats:\n\n    Inget allvarligt brott.\n        Scoren med bollen som spelats från fel plats räknas, och spelaren får den allmänna plikten enligt Regel 14.7a (vilket innebär att två slags plikt ska läggas till scoren med den bollen).\n        Alla slag med den andra bollen (inklusive slag som slagits eller pliktslag enbart från att spela den bollen) räknas inte.\n    Allvarligt brott.\n        Scoren med bollen som spelats för att rätta till misstaget att spela från fel plats räknas, och spelaren får den allmänna plikten enligt Regel 14.7a (vilket innebär att två slags plikt ska läggas till scoren med den bollen).\n        Slag som slagits för att spela den ursprungliga bollen från fel plats och alla andra slag med den bollen räknas inte (varken slag som slagits eller pliktslag enbart från att spela den bollen).\n        Om den boll som spelats för att rätta till misstaget också spelats från fel plats:\n            Om tävlingsledningen beslutar att det inte var ett allvarligt brott, får spelaren den allmänna plikten (ytterligare två slags plikt) enligt Regel 14.7a, totalt fyra slags plikt som läggs till scoren med den bollen (två för att spela den ursprungliga bollen från fel plats och två för att spela den andra bollen från fel plats).\n            Om tävlingsledningen beslutar att det var ett allvarligt brott, blir spelaren diskvalificerad.\n",
+  "metadata": {
+    "language": "sv",
+    "source": "SGF / R&A Regler för Golf – svensk version",
+    "created_by": "",
+    "created_at": "2025-11-27T21:44:04.452374Z"
+  }
+}

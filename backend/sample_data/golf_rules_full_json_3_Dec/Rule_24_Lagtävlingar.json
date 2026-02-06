@@ -1,0 +1,110 @@
+{
+  "rule_number": 24,
+  "rule_code": "24",
+  "title": "Lagtävlingar",
+  "summary": {
+    "short": "Regel 24 beskriver hur lagtävlingar fungerar, hur villkor och format bestäms, lagkaptenens roll samt hur råd får ges inom laget, inklusive särskilda regler för rådgivare och begränsningar mellan lagmedlemmar.",
+    "detailed": "I lagtävlingar består ett lag av flera spelare som spelar individuellt eller som sidor och tävlar mot andra lag. Deras spel kan samtidigt ingå i en annan tävling, till exempel individuellt slagspel. Regel 1–23 gäller även i lagtävlingar, men med särskilda tillägg i Regel 24. Tävlingsledningen bestämmer spelform, hur lagets totala resultat räknas ut, poängsystem, hur många scorer som räknas samt om och hur delade resultat särskiljs. Varje lag får utse en lagkapten som leder laget och beslutar om vilka som spelar, i vilken ordning och i vilka kombinationer; kaptenen kan också själv vara spelare. Dessutom kan tävlingsledningen med lokal regel tillåta en eller flera rådgivare som får ge råd till laget enligt Regel 10.2. Om rådgivaren också är spelare får hen inte agera som rådgivare under sin egen rond. I grunden är råd mellan lagmedlemmar förbjudet utom mellan partners när de spelar tillsammans som en sida, men detta kan delvis ändras med särskild lokal regel. Brott mot rådreglerna ger allmän plikt enligt Regel 10.2."
+  },
+  "sections": [
+    {
+      "section_number": "24.1",
+      "title": "Översikt av lagtävlingar",
+      "purpose": "Definiera vad ett lag är i golftävlingar och förklara hur lagtävlingar förhåller sig till andra tävlingar och grundreglerna.",
+      "key_points": [
+        "Ett lag är en grupp spelare som spelar individuellt eller som sidor för att tävla mot andra lag.",
+        "Spelares rond i en lagtävling kan samtidigt räknas i en annan tävling, till exempel ett individuellt slagspel.",
+        "Regel 1–23 gäller även i lagtävlingar, men med modifieringar som anges i Regel 24."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "24.2",
+      "title": "Villkor för lagtävling",
+      "purpose": "Förklara att tävlingsledningen bestämmer upplägg, spelform, poängsystem och särskiljning i lagtävlingar.",
+      "key_points": [
+        "Tävlingsledningen bestämmer spelform för lagtävlingen.",
+        "Tävlingsledningen fastställer hur ett lags totala resultat ska räknas ut.",
+        "I matchspel bestämmer tävlingsledningen hur många poäng som ges för vunnen eller delad match.",
+        "I slagspel bestämmer tävlingsledningen hur många scorer som ska räknas in i varje lags totala resultat.",
+        "Tävlingsledningen avgör om tävlingen får sluta oavgjord eller delad.",
+        "Om oavgjort inte accepteras ska tävlingsledningen ange hur särskiljning ska gå till."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "24.3",
+      "title": "Lagkapten",
+      "purpose": "Beskriva lagkaptenens formella roll, befogenheter och möjligheten att också vara spelare.",
+      "key_points": [
+        "Varje lag får namnge en lagkapten som leder och representerar laget.",
+        "Lagkaptenen får fatta beslut för laget, till exempel vilka spelare som ska spela i vilka ronder eller matcher.",
+        "Lagkaptenen bestämmer i vilken ordning spelare ska spela.",
+        "Lagkaptenen kan även bestämma vilka spelare som ska spela tillsammans som partners.",
+        "Lagkaptenen får vara en spelare i tävlingen."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "24.4",
+      "title": "Råd som tillåts i lagtävling",
+      "purpose": "Reglera vem som får ge råd till lagets spelare, hur rådgivare fungerar och begränsningar för råd mellan lagmedlemmar.",
+      "key_points": [
+        "Tävlingsledningen kan med lokal regel tillåta ett lag att ha särskild rådgivare som får ge råd till lagets spelare.",
+        "Om rådgivaren själv är spelare får denne inte agera som rådgivare under sin egen rond.",
+        "Råd mellan lagmedlemmar som inte är partners är i grunden förbjudet under pågående spel, även om de spelar i samma boll.",
+        "Brott mot rådreglerna i lagtävling bestraffas med allmän plikt enligt Regel 10.2.",
+        "Tävlingsledningen kan genom modell-lokala regler utöka eller justera möjligheterna till rådgivning inom laget."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "24.4a",
+          "title": "Person som tillåts att ge råd till laget (Rådgivare)",
+          "summary": "Tävlingsledningen kan med lokal regel tillåta varje lag att utse en rådgivare som får ge råd till lagets spelare under ronden enligt Regel 10.2.",
+          "key_points": [
+            "Tävlingsledningen får anta en lokal regel som tillåter varje lag att namnge en person som rådgivare.",
+            "Rådgivaren får ge råd och annan hjälp som tillåts i Regel 10.2 till spelare i laget och får tillfrågas om råd av spelare i laget.",
+            "Rådgivaren kan vara lagkapten, lagcoach eller någon annan person, inklusive en lagmedlem som spelar i tävlingen.",
+            "Rådgivaren måste identifieras för tävlingsledningen innan råd ges.",
+            "Tävlingsledningen får tillåta byte av ett lags rådgivare under en rond eller under tävlingen.",
+            "Genom modell-lokalregel (Section 8; Model Local Rule H-2) kan tävlingsledningen tillåta att varje lag namnger två rådgivare."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "24.4b",
+          "title": "Begränsning för rådgivare under eget spel",
+          "summary": "Om lagets rådgivare själv är spelare i tävlingen får han eller hon inte agera som rådgivare under sin egen rond.",
+          "key_points": [
+            "Om lagets rådgivare är en spelare i laget får han/hon inte agera som rådgivare under sitt eget spel av en rond.",
+            "Under eget spel betraktas rådgivaren som vilken annan spelande lagmedlem som helst när det gäller begränsningar för råd och hjälp enligt Regel 10.2.",
+            "Samma regler för råd och hjälp gäller då som för övriga spelare, utan extra befogenheter."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "24.4c",
+          "title": "Inga råd mellan lagmedlemmar utom partners",
+          "summary": "Lagmedlemmar får som huvudregel inte ge råd till varandra under spelet, förutom när de spelar tillsammans som partners i samma sida.",
+          "key_points": [
+            "Utom när de spelar tillsammans som partners för en sida får en spelare inte be om råd från eller ge råd till en lagmedlem som spelar på banan.",
+            "Förbudet gäller oavsett om lagmedlemmen spelar i samma boll som spelaren eller i en annan boll på banan.",
+            "Tävlingsledningen kan i slagspel med modell-lokalregel H-5 tillåta att lagmedlemmar som spelar i samma boll får ge varandra råd, om spelarens score bara räknas som del av lagets score.",
+            "Plikt för brott mot Regel 24.4 är allmän plikt enligt Regel 10.2."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "24\\nLagtävlingar\\n24.1\\nÖversikt av lagtävlingar\\n\\n    Ett \\'94lag\\'94 är en grupp spelare som spelar individuellt eller som sidor för att tävla mot andra lag.\\n    Deras spel i lagtävlingen kan även vara del av en annan tävling (t ex ett individuellt slagspel) som äger rum på samma gång.\\n\\nRegel 1-23 gäller i en lagtävling med de modifieringar som anges i dessa speciella regler.\\n24.2\\nVillkor för lagtävling\\nTävlingsledningen bestämmer spelformen, hur ett lags totala resultat ska räknas ut och andra tävlingsvillkor, t ex:\\n\\n    I matchspel, hur många poäng som tilldelas för en vunnen eller delad match.\\n    I slagspel, antal scorer som räknas in i varje lags totala resultat.\\n    Om tävlingen får sluta med en delning eller samma resultat och, om inte, hur särskiljningen ska gå till.\\n\\n24.3\\nLagkapten\\nVarje lag får namnge en lagkapten för att leda laget och fatta beslut för det, t ex vilka spelare i laget som ska spela i vilka ronder eller matcher, i vilken ordning de ska spela och vilka som ska spela tillsammans som partners. Lagkaptenen får vara en spelare i tävlingen.\\n24.4\\nRåd som tillåts i lagtävling\\n24.4a\\nPerson som tillåts att ge råd till laget (Rådgivare)\\nTävlingsledningen får anta en lokal regel som tillåter varje lag att namnge en person (en \\'93rådgivare\\'94) som får ge råd och annan hjälp som tillåts i Regel 10.2 till spelare i laget under en rond och som får tillfrågas om råd av spelare i laget:\\n\\n    Rådgivaren får vara lagkaptenen, en lagcoach eller annan person (inklusive en lagmedlem som spelar i tävlingen).\\n    Rådgivaren måste identifieras för tävlingsledningen innan råd ges.\\n    Tävlingsledningen får tillåta byte av ett lags rådgivare under ronden eller under tävlingen.\\n\\nSe Committee Procedures,\\nSection 8; Model Local Rule H-2\\n(tävlingsledningen får anta en lokal regel som tillåter varje lag att namnge två rådgivare).\\n24.4b\\nBegränsning för rådgivare under eget spel\\nOm ett lags rådgivare är en spelare i laget, har rådgivaren inte rätt att agera i den rollen under eget spel av en rond i tävlingen. Under eget spel av en rond betraktas rådgivaren som varje annan spelande lagmedlem med avseende på begränsningarna för råd och annan hjälp i Regel 10.2.\\n24.4c\\nInga råd mellan lagmedlemmar utom partners\\nUtom när de spelar tillsammans som partners för en sida:\\n\\n    får en spelare inte be om råd från eller ge råd till en medlem av sitt lag som spelar på banan.\\n    Detta gäller vare sig om lagmedlemmen spelar i samma grupp (\\'94boll\\'94) som spelaren eller i en annan grupp (\\'94boll\\'94) på banan.\\n\\nSe Committee Procedures,\\nSection 8; Model Local Rule H-5\\n(i en lagtävling i form av slagspel där en spelares score för ronden bara räknas som en del av lagets score, kan tävlingsledningen anta en lokal regel som tillåter lagmedlemmar som spelar i samma grupp (\\'94boll\\'94) att ge varandra råd, även om de inte är partners). Plikt för brott mot Regel 24.4: allmän plikt enligt Regel 10.2.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 24 Lagtävlingar",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

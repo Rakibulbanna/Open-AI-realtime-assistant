@@ -1,0 +1,239 @@
+{
+  "rule_number": 10,
+  "rule_code": "10",
+  "title": "Förbereda för och slå ett slag; Råd och hjälp; Caddies",
+  "summary": {
+    "short": "Regel 10 beskriver hur ett slag ska slås, förbjudna sätt att slå bollen, begränsningar för råd och annan hjälp under rond, samt vad caddies får och inte får göra och spelarens ansvar för caddiens handlingar.",
+    "detailed": "Regel 10 behandlar tre huvudområden. Regel 10.1 anger hur ett slag ska slås genom att bollen träffas på ett ärligt sätt med klubbhuvudet utan att stötas, fösas eller skyfflas, förbjuder att klubban förankras mot kroppen, förbjuder att slå ett slag när spelaren står över eller på spellinjen samt förbjuder att spela på en boll i rörelse, med vissa specificerade undantag. Regel 10.2 begränsar vilken typ av råd och annan hjälp en spelare får ge och ta emot under ronden; råd får inte ges till eller tas från andra än den egna caddien, och hjälp med riktning, sikte, stans, fysisk hjälp eller skydd mot väderförhållanden är reglerad och delvis förbjuden, med allmän plikt vid brott. Regel 10.3 beskriver caddiens roll: spelaren får ha en caddie som bär klubbor och hjälper på tillåtna sätt, men endast en caddie åt gången; flera spelare kan dela caddie och vissa handlingar är tillåtna, vissa bara med spelarens godkännande och vissa inte alls. Spelaren är ansvarig för caddiens handlingar under ronden och får plikt om caddien bryter mot reglerna."
+  },
+  "sections": [
+    {
+      "section_number": "10.1",
+      "title": "Slå ett slag",
+      "purpose": "Definierar vad som utgör ett slag och anger ett antal förbjudna sätt att slå bollen, inklusive krav på att klubban ska svingas fritt utan förankring, att bollen ska slås på ett ärligt sätt och att slag inte får slås när bollen är i rörelse eller när spelaren står över eller på spellinjen.",
+      "key_points": [
+        "Ett slag är att slå bollen på ett ärligt sätt med klubbhuvudet genom en fri sving, utan att klubban förankras mot kroppen.",
+        "Spelaren måste träffa bollen med en ögonblicklig kontakt och får inte stöta, fösa eller skyffla bollen.",
+        "Oavsiktlig dubbeltträff med klubban räknas som ett slag utan extra plikt.",
+        "Spelaren får inte förankra klubban, vare sig direkt mot kroppen eller indirekt genom en förankringspunkt med underarmen.",
+        "Spelaren får inte slå ett slag med stans där fötterna avsiktligt står över eller på spellinjen eller dess förlängning bakom bollen, med ett begränsat undantag.",
+        "Spelaren får inte spela på en boll i rörelse, med undantag för särskilda situationer där andra regler tar över eller när bollen rör sig i vatten.",
+        "Plikt för att slå ett slag i strid med Regel 10.1 är allmän plikt; i slagspel räknas slaget och två pliktslag läggs till."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "10.1a",
+          "title": "Slå bollen på ett ärligt sätt",
+          "summary": "Ett slag måste utföras genom att spelaren ärligt slår på bollen med klubbhuvudet med endast en kort kontakt, utan att bollen stötas, fösas eller skyfflas; oavsiktlig dubbeltträff räknas som ett slag utan plikt.",
+          "key_points": [
+            "När slaget slås måste spelaren på ett ärligt sätt slå på bollen med någon del av klubbhuvudet.",
+            "Kontakten mellan klubban och bollen ska vara ögonblicklig.",
+            "Bollen får inte stötas, fösas eller skyfflas.",
+            "Om spelarens klubba oavsiktligt träffar bollen mer än en gång, räknas detta som ett enda slag.",
+            "Det blir ingen plikt för en oavsiktlig dubbeltträff."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "10.1b",
+          "title": "Förankra klubban",
+          "summary": "Spelaren får inte förankra klubban mot kroppen, vare sig direkt eller genom en förankringspunkt med underarmen; lättare beröring utan att klubban hålls mot kroppen är tillåten, och underarm definieras särskilt.",
+          "key_points": [
+            "I syfte att slå ett slag får spelaren inte förankra klubban direkt genom att hålla klubban eller den greppande handen mot någon del av kroppen, utom hand eller underarm.",
+            "Spelaren får inte indirekt förankra klubban genom att använda en \\'94förankringspunkt\\'94, det vill säga hålla en underarm mot kroppen så att den greppande handen blir en stabil punkt.",
+            "Om klubban, den greppande handen eller underarmen endast vidrör kroppen eller kläderna utan att hållas mot kroppen är detta inte ett brott mot regeln.",
+            "I denna regel betyder \\'94underarm\\'94 delen av armen under armbågsleden, inklusive handleden.",
+            "FIG. 10.1b illustrerar förankring av klubban (image).",
+            "Se Regel 25.3b och 25.4h för modifiering av Regel 10.1b för spelare som är amputerade eller använder rörelsehjälpmedel."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "10.1c",
+          "title": "Slå ett slag medan man står över eller på spellinjen",
+          "summary": "Spelaren får inte slå ett slag med stans där en fot avsiktligt är på vardera sidan av spellinjen eller vidrör spellinjen eller dess förlängning bakom bollen, med undantag för oavsiktlig stans eller för att undvika någon annans spellinje.",
+          "key_points": [
+            "Spelaren får inte slå ett slag med en stans där en fot avsiktligt placeras på vardera sidan av spellinjen.",
+            "Spelaren får inte slå ett slag när någon fot avsiktligt vidrör spellinjen eller en förlängning av den linjen bakom bollen.",
+            "För denna regel innefattar spellinjen inte något rimligt avstånd på vardera sidan, utan avser den faktiska linjen.",
+            "Undantag: Det blir ingen plikt om stansen tas oavsiktligt eller för att undvika att stå i en annan spelares spellinje.",
+            "Se Regel 25.4i för modifiering av Regel 10.1c för spelare som använder rörelsehjälpmedel (stans tagen med del av rörelsehjälpmedel)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "10.1d",
+          "title": "Spela på en boll i rörelse",
+          "summary": "En spelare får normalt inte slå ett slag på en boll i rörelse, med undantag för särskilda fall som hanteras i andra regler eller när bollen rör sig i vatten, där spelaren kan välja att spela den eller ta lättnad.",
+          "key_points": [
+            "En spelare får inte slå ett slag på en boll i rörelse.",
+            "En boll i spel är i rörelse när den inte har stannat på en punkt.",
+            "Om en boll som stannat vibrerar (oscillerar) men stannar kvar eller återvänder till sin ursprungliga punkt anses den ha stannat och är inte i rörelse.",
+            "Undantag 1: Om en boll börjar röra sig efter att spelaren påbörjat baksvingen för slaget, täcks situationen av Regel 9.1b, inte Regel 10.1d.",
+            "Undantag 2: Om en boll faller av peggen, täcks slag mot en sådan boll av Regel 6.2b(5), inte Regel 10.1d.",
+            "Undantag 3: När en boll rör sig i tillfälligt vatten eller i vatten i ett pliktområde får spelaren utan plikt slå ett slag på bollen i rörelse eller ta lättnad enligt Regel 16.1 eller 17 och lyfta bollen i rörelse.",
+            "Spelaren får inte orimligt fördröja spelet (Regel 5.6a) genom att låta vind eller vattenström föra bollen till en bättre plats.",
+            "Plikt för att slå ett slag i strid med Regel 10.1 är allmän plikt.",
+            "I slagspel räknas slaget som gjorts i strid med regeln och spelaren får två slags plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "10.2",
+      "title": "Råd och annan hjälp",
+      "purpose": "Reglerar vilken typ av råd, information och annan hjälp en spelare får ge och ta emot under en rond, med särskilda begränsningar för råd, hjälp med riktning, placering av föremål, caddies position bakom spellinjen, fysisk hjälp och skydd mot väderförhållanden.",
+      "key_points": [
+        "En grundläggande utmaning i golf är att spelaren själv väljer strategi och taktik, därför är råd och annan hjälp under ronden begränsade.",
+        "Under ronden får en spelare inte ge råd till andra spelare på banan, inte be om råd från andra än sin caddie, och inte vidröra annan spelares utrustning för att skaffa sig rådsliknande information.",
+        "Caddiens hjälp med spellinje och riktning är begränsad, bland annat genom förbud mot att lägga föremål på marken för sikte och att stå i vissa positioner under slaget.",
+        "Andra personer än caddien får bara ge viss allmänt känd information och får inte ge direkt riktad hjälp under slaget.",
+        "Spelaren får inte placera föremål på marken för att hjälpa sikte, stans eller sving och får inte göra märken med samma syfte.",
+        "Caddien får i princip inte stå på eller nära en förlängning av spellinjen bakom bollen när spelaren tar sin stans och slår, annat än i begränsade undantagsfall.",
+        "Spelaren får inte ta emot fysisk hjälp vid slaget eller avsiktligt placera personer eller föremål för att ta bort störningar eller skapa skydd mot väderförhållanden.",
+        "Plikt för brott mot Regel 10.2a eller 10.2b är allmän plikt, tillämpad på rätt hål beroende på när brottet sker."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "10.2a",
+          "title": "Råd",
+          "summary": "Under ronden får en spelare varken ge råd till andra spelare på banan eller be om råd från någon annan än sin egen caddie, och får inte vidröra annan spelares utrustning för att få rådsliknande information; plikt är allmän plikt och tillämpas på aktuellt eller kommande hål.",
+          "key_points": [
+            "Under en rond får spelaren inte ge råd till någon som är med i tävlingen och spelar på banan.",
+            "Spelaren får inte be någon om råd, förutom sin egen caddie.",
+            "Spelaren får inte vidröra någon annan spelares utrustning för att skaffa sig information som skulle vara råd om den getts eller efterfrågats (t ex vidröra en annan spelares klubbor eller bag för att se vilken klubba används).",
+            "Begränsningarna gäller under ronden, men inte före ronden, under spelavbrott enligt Regel 5.7a eller mellan ronder i en tävling.",
+            "Plikt för brott mot Regel 10.2a är allmän plikt.",
+            "Om spelaren ber om eller ger råd när någon av spelarna spelar ett hål, tillämpas den allmänna plikten på det hål som spelas eller just avslutats.",
+            "Om spelaren ber om eller ger råd när båda spelarna är mellan spelet av två hål, tillämpas den allmänna plikten på det kommande hålet.",
+            "I spelformer med partner (Regel 22, 23 och 24) får en spelare ge råd till sin partner eller partnerns caddie och får be sin partner eller partnerns caddie om råd."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "10.2b",
+          "title": "Övrig hjälp",
+          "summary": "Reglerar annan typ av hjälp än råd, bland annat caddiens och andras hjälp med riktning, förbud mot att placera föremål för sikte, begränsning av caddiens position bakom spelaren under stans och slag, samt förbud mot fysisk hjälp eller medvetet skydd mot väderförhållanden under slaget.",
+          "key_points": [
+            "När en caddie hjälper med spellinje eller annan riktningsinformation får caddien inte lägga ned föremål på marken för att ge sådan hjälp; spelaren kan inte undvika plikt genom att ta bort föremålet innan slaget.",
+            "Medan slaget slås får caddien inte stå på en plats för spelaren att spela mot eller göra något annat för att ge riktning, till exempel peka ut en punkt på marken.",
+            "Caddien får inte stå i det otillåtna området (förlängning av spellinjen bakom bollen) om inte detta uttryckligen medges enligt Regel 10.2b(4).",
+            "Caddien får dock stå nära hålet för att passa flaggstången.",
+            "Spelaren får inte ta emot hjälp med spellinje eller riktningsinformation från någon annan än sin caddie, förutom att en annan person får ge allmänt känd information om ett föremål (t ex peka på ett träd som visar mittlinjen för en dold fairway).",
+            "Förutom när spelarens boll är på green får en annan person än caddien stå på en plats för spelaren att spela mot, men måste flytta sig innan slaget slås.",
+            "En spelare får inte placera ett föremål på marken för att få hjälp att sikta, ta stans eller svinga (t ex en klubba på marken för att visa riktning eller fotplacering).",
+            "Att \\'94placera ett föremål\\'94 innebär att föremålet har kontakt med marken och att spelaren inte vidrör föremålet; det hjälper inte att ta bort föremålet innan slaget för att undvika plikt.",
+            "Regeln gäller även liknande handlingar, som att göra ett märke i sand eller dagg för att underlätta sikte eller sving.",
+            "Regeln gäller inte en bollmarkering när den används för att markera bollens läge eller en boll som placerats på en punkt.",
+            "En bollmarkering som är ett \\'94alignment device\\'94 enligt utrustningsreglerna omfattas i stället av Regel 4.3.",
+            "Se Regel 25.2c för modifiering av Regel 10.2b(3) för spelare som är blinda.",
+            "När spelaren börjar ta sin stans och tills slaget slås, råder begränsningar för när caddien avsiktligt får stå på eller nära förlängningen av spellinjen bakom bollen (det otillåtna området).",
+            "För sikte får caddien inte stå i det otillåtna området för att hjälpa spelaren att rikta sig, inklusive genom att bara kliva undan utan att säga något som signal om korrekt riktning.",
+            "Det blir ingen plikt om spelaren backar undan och caddien flyttar sig från det otillåtna området innan spelaren åter börjar ta sin stans.",
+            "För annan hjälp än sikte får caddien stå i det otillåtna området endast om caddien flyttar sig undan innan slaget slås och detta inte är en del av en rutin.",
+            "Det blir ingen plikt om caddien stod i det otillåtna området oavsiktligt.",
+            "Spelaren får fortfarande hjälp av någon annan än caddien som står i det otillåtna området för att följa bollbanan.",
+            "I spelformer med partners och rådgivare (Regel 22, 23 och 24) begränsas partner, partnerns caddie och rådgivare på samma sätt.",
+            "Se Regel 25.2d för modifiering av Regel 10.2b(4) för spelare som är blinda.",
+            "En spelare får inte slå ett slag medan spelaren tar emot fysisk hjälp från sin caddie eller någon annan person.",
+            "En spelare får inte slå ett slag när han/hon avsiktligt placerat caddie eller annan person eller föremål för att ta bort störande element eller skapa skydd mot solljus, regn, vind eller andra väderförhållanden.",
+            "Spelaren får dock själv vidta åtgärder för att skydda sig mot väder under slaget, t ex genom att använda skyddskläder eller hålla ett paraply.",
+            "Spelaren får be en person som inte avsiktligt placerats av spelaren att stå kvar eller flytta sig (t ex när en åskådare skuggar bollen).",
+            "Plikt för brott mot Regel 10.2b är allmän plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "10.3",
+      "title": "Caddies",
+      "purpose": "Beskriver vilken hjälp en caddie får ge spelaren, hur många caddies spelaren får ha, vad en caddie får och inte får göra samt att spelaren är ansvarig för caddiens handlingar och eventuella regelbrott.",
+      "key_points": [
+        "Spelaren får ha en caddie som bär, transporterar och sköter spelarens klubbor och ger råd och annan tillåten hjälp under ronden.",
+        "Spelaren får bara ha en caddie åt gången, men får byta caddie under ronden under vissa villkor.",
+        "Två eller fler spelare får dela caddie, och särskilda regler avgör vilken spelare en caddies handling hänförs till i en regelsituation.",
+        "Regeln listar handlingar som en caddie alltid får göra, handlingar som kräver spelarens uttryckliga godkännande i varje enskilt fall, och handlingar som caddien inte får göra.",
+        "Spelaren är ansvarig för caddiens handlingar under ronden (och vid spelavbrott), och caddiens regelbrott behandlas som om spelaren själv brutit mot regeln."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "10.3a",
+          "title": "Caddie får hjälpa spelare under rond",
+          "summary": "En spelare får ha en caddie som bär klubbor och hjälper på tillåtna sätt men bara en caddie åt gången; caddien kan bytas under ronden, flera spelare kan dela caddie och plikt utdöms om spelaren har mer än en caddie samtidigt.",
+          "key_points": [
+            "En spelare får bara ha en caddie åt gången.",
+            "En caddie får bära, transportera och ha hand om spelarens klubbor samt ge råd och annan tillåten hjälp under ronden.",
+            "Spelaren får inte ha mer än en caddie vid något tillfälle.",
+            "Spelaren får byta caddie under ronden, men inte tillfälligt endast i syfte att få råd från en ny caddie.",
+            "En person som går eller åker med spelaren eller bär andra saker (som regnställ, paraply, mat eller dryck) är inte caddie om inte spelaren utsett personen till caddie eller om personen också bär, transporterar eller sköter spelarens klubbor.",
+            "Två eller fler spelare får dela caddie.",
+            "Om en delad caddies åtgärd utförs efter direkt uppmaning från en av spelarna som delar caddien, anses åtgärden ha vidtagits för den spelaren.",
+            "Om ingen av spelarna direkt uppmanat till caddiens åtgärd, anses den utförd för den spelare vars boll var inblandad.",
+            "Om ingen av de spelare som delar caddien uppmanat till åtgärden och ingen av deras bollar var inblandade, får varje spelare som delade caddie plikt.",
+            "Tävlingsledningen kan enligt Committee Procedures, Section 8 och Model Local Rule H-1 anta lokal regel som begränsar användning av caddies eller valet av caddie.",
+            "Spelare med vissa funktionsnedsättningar får enligt Regel 25.2, 25.4 och 25.5 även ta emot hjälp av en medhjälpare.",
+            "Plikt för brott mot Regel 10.3a: spelaren får allmän plikt för varje hål där spelaren haft hjälp av mer än en caddie vid något tillfälle.",
+            "Om regelbrottet inträffar eller fortsätter mellan två hål får spelaren allmän plikt på det kommande hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "10.3b",
+          "title": "Vad en caddie får göra",
+          "summary": "Anger exempel på handlingar som en caddie alltid får göra, sådana som kräver spelarens godkännande vid varje tillfälle, samt handlingar som aldrig är tillåtna för en caddie.",
+          "key_points": [
+            "Exempel på handlingar som alltid är tillåtna när de i sig är tillåtna enligt reglerna:",
+            "Caddien får bära, transportera och ha hand om spelarens klubbor och utrustning, inklusive köra golfbil eller dra vagn.",
+            "Caddien får leta efter spelarens boll (Regel 7.1).",
+            "Caddien får ge information, råd och annan hjälp innan ett slag slås enligt Regel 10.2a och 10.2b.",
+            "Caddien får jämna till bunkrar och vidta andra åtgärder av omsorg om banan enligt Regel 8.2 Undantag, 8.3 Undantag och 12.2b(2)-(3).",
+            "Caddien får ta bort sand och lös jord och laga skador på green enligt Regel 13.1c.",
+            "Caddien får ta bort eller passa flaggstången enligt Regel 13.2b.",
+            "Caddien får lyfta spelarens boll när det är rimligt att dra slutsatsen att spelaren kommer att ta lättnad enligt en regel (Regel 14.1b).",
+            "Caddien får markera bollens läge samt lyfta och återplacera bollen på green enligt Regel 14.1b Undantag och 14.2b.",
+            "Caddien får rengöra spelarens boll enligt Regel 14.1c.",
+            "Caddien får ta bort lösa naturföremål och flyttbara tillverkade föremål enligt Regel 15.1 och 15.2.",
+            "Handlingar som bara är tillåtna med spelarens godkännande vid varje specifikt tillfälle:",
+            "Caddien får återställa förhållanden som försämrats efter att spelarens boll stannat enligt Regel 8.1d, men endast om spelaren godkänner det.",
+            "Caddien får, när spelarens boll är var som helst utom på green, lyfta spelarens boll enligt en regel som kräver återplacering, men endast med spelarens godkännande enligt Regel 14.1b.",
+            "Handlingar som inte är tillåtna:",
+            "Caddien får inte skänka nästa slag, ett hål eller matchen till motspelaren eller komma överens med motspelaren om ställningen i matchen (Regel 3.2).",
+            "Caddien får inte återplacera en boll om inte caddien själv lyft eller rubbat bollen (Regel 14.2b).",
+            "Caddien får inte droppa eller placera en boll för att ta lättnad enligt Regel 14.3.",
+            "Caddien får inte besluta om att ta lättnad enligt en regel, till exempel för ospelbar boll enligt Regel 19 eller för onormalt banförhållande eller pliktområde enligt Regel 16.1 eller 17; caddien får endast ge råd, medan spelaren själv måste fatta beslutet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "10.3c",
+          "title": "Spelaren är ansvarig för caddiens handlingar och brott mot regler",
+          "summary": "Spelaren ansvarar för caddiens handlingar under ronden och vid spelavbrott, och om caddien bryter mot en regel får spelaren plikten; vad caddien vet anses även vara känt av spelaren när en regels tillämpning beror på kännedom om fakta.",
+          "key_points": [
+            "Spelaren är ansvarig för sin caddies handlingar både under ronden och vid spelavbrott enligt Regel 5.7a, men inte före eller efter ronden.",
+            "Om caddiens handlingar bryter mot en regel, eller skulle ha gjort det om spelaren själv utfört handlingen, får spelaren plikten enligt den regeln.",
+            "När tillämpningen av en regel beror på om spelaren har kännedom om vissa fakta betraktas sådant som caddien känner till också som känt av spelaren."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "10\\nFörbereda för och slå ett slag; Råd och hjälp; Caddies\\n10.1\\nSlå ett slag\\nSyfte med regeln: Regel 10.1 omfattar hur man slår ett slag och ett flertal handlingar som är förbjudna när man gör detta. Ett slag är att slå bollen på ett ärligt sätt med klubbhuvudet. Den grundläggande utmaningen är att styra och kontrollera rörelsen för hela klubban genom att svinga den fritt utan att förankra den.\\n10.1a\\nSlå bollen på ett ärligt sätt\\nNär slaget slås:\\n\\n    måste spelaren på ett ärligt sätt slå på bollen med någon del av klubbhuvudet så att det bara blir en ögonblicklig kontakt mellan klubban och bollen, och bollen får inte stötas, fösas eller skyfflas.\\n    Om spelarens klubba oavsiktligt träffar bollen mer än en gång, räknas detta som ett enda slag, och det blir ingen plikt.\\n\\n10.1b\\nFörankra klubban\\nI syfte att slå ett slag får inte spelaren förankra klubban varken:\\n\\n    direkt, genom att hålla klubban eller den greppande handen mot någon del av kroppen (utom att spelaren får hålla klubban eller en greppande hand mot en hand eller underarm) eller\\n    indirekt, med att använda sig av en \\'94förankringspunkt\\'94 genom att hålla en underarm mot någon del av kroppen för att en greppande hand ska bli en stabil punkt kring vilken den andra handen kan svinga klubban.\\n\\nOm spelarens klubba, greppande hand eller underarm bara vidrör kroppen eller kläderna vid slaget, utan att hållas mot kroppen, blir det inget brott mot denna regel. I syfte att tillämpa denna regel betyder \\'94underarm\\'94 den del av armen som är under armbågsleden och innefattar handleden.\\nFIG. 10.1b: FÖRANKRA KLUBBAN\\nimage\\nSe Regel 25.3b och 25.4h (modifiering av Regel 10.1b för spelare som är amputerade och spelare som använder rörelsehjälpmedel).\\n10.1c\\nSlå ett slag medan man står över eller på spellinjen\\nSpelaren får inte slå ett slag med en stans där en fot avsiktligt placeras på vardera sidan av spellinjen eller medan någon fot avsiktligt vidrör spellinjen eller en förlängning av den linjen bakom bollen. Endast för denna regel gäller att spellinjen inte innefattar ett rimligt avstånd på vardera sidan. Undantag – Det blir ingen plikt om stansen tas oavsiktligt eller för att undvika att stå i en annan spelares spellinje. Se Regel 25.4i (för spelare som använder rörelsehjälpmedel, modifiering av Regel 10.1c innefattar stans som tagits med någon del av ett rörelsehjälpmedel).\\n10.1d\\nSpela på en boll i rörelse\\nEn spelare får inte slå ett slag på en boll i rörelse:\\n\\n    En boll i spel är i \\'94rörelse\\'94 när den inte har stannat på en punkt.\\n    Om en boll som har stannat vibrerar (ibland kallat oscillerar) men stannar kvar eller återvänder till sin ursprungliga punkt, betraktas det som att den har stannat och är inte en boll i rörelse.\\n\\nMen det finns tre undantag där det inte blir plikt: Undantag 1 – En boll börjar röra på sig efter att spelaren har påbörjat baksvingen för slaget: Slå ett slag på en boll i rörelse i denna situation täcks av Regel 9.1b och inte av denna regel. Undantag 2 – En boll faller av peggen: Slå ett slag mot en boll som faller av en peg täcks av Regel 6.2b(5) och inte av denna regel. Undantag 3 - En boll rör sig i vatten: När en boll är i rörelse i tillfälligt vatten eller i vatten i ett pliktområde, får spelaren:\\n\\n    utan plikt slå ett slag på en boll i rörelse eller\\n    ta lättnad under Regel 16.1 eller 17 och får lyfta bollen i rörelse.\\n\\nI båda fallen får inte spelaren orimligt fördröja spelet (se Regel 5.6a) genom att låta vind eller vattenström föra bollen till en bättre plats. Plikt för att slå ett slag i strid med Regel 10.1: allmän plikt. I slagspel, ett slag som görs i brott mot denna regel räknas och spelaren får två slags plikt.\\n10.2\\nRåd och annan hjälp\\nSyfte med regeln: En grundläggande utmaning för spelaren är att bestämma strategi och taktik för sitt spel. Därför finns det begränsningar för de råd och övrig hjälp som en spelare kan få under en rond.\\n10.2a\\nRåd\\nUnder en rond, får en spelare inte:\\n\\n    ge råd till någon i tävlingen och som spelar på banan,\\n    be någon om råd, förutom spelarens caddie eller\\n    vidröra någon annan spelares utrustning för att skaffa sig information som skulle vara råd om det getts eller efterfrågats av den andra spelaren (t ex att vidröra den andra spelarens klubbor eller bag för att se vilken klubba som används).\\n\\nDetta gäller inte före en rond, vid spelavbrott enligt Regel 5.7a eller mellan ronder i en tävling. Plikt för brott mot Regel 10.2a: Allmän plikt. I både matchspel och slagspel tillämpas plikten enligt följande:\\n\\n    Spelare ber om eller ger råd när någon av spelarna spelar hålet. Spelaren får den allmänna plikten på hålet som spelas eller som just avslutats.\\n    Spelare ber om eller ger råd när båda spelarna är mellan spelet av två hål. Spelaren får den allmänna plikten på det kommande hålet.\\n\\nSe Regel 22, 23 och 24 (i spelformer med partners får en spelare ge råd till sin partner eller partnerns caddie och får be sin partner eller partnerns caddie om råd).\\n10.2b\\nÖvrig hjälp\\n(1) Få hjälp av caddie med spellinje eller annan riktningsinformation.  När en spelares caddie hjälper spelaren med spellinjen eller annan riktningsinformation, gäller följande begränsningar för caddien:\\n\\n    Caddien får inte lägga ned ett föremål på marken för att ge sådan hjälp (och spelaren kan inte undvika plikt genom att ta bort föremålet innan slaget slås).\\n    Medan slaget slås, får caddien inte:\\n        stå på någon plats för spelaren att spela mot, eller\\n        göra något annat för att ge sådan hjälp (t ex att peka ut en punkt på marken).\\n    Caddien får inte stå i det otillåtna området när detta inte medges enligt Regel 10.2b(4).\\n\\nMen, denna regel förbjuder inte caddien att stå nära hålet för att passa flaggstången. (2) Få hjälp av någon annan person än caddien med spellinjen eller annan riktningsinformation. Spelaren får inte ta emot hjälp med spellinjen eller annan riktningsinformation från någon annan person än sin caddie, utom enligt följande:\\n\\n    Denna person får tillhandahålla hjälp genom att ge allmänt känd information när det gäller ett föremål (t ex att peka ut ett träd som visar mittlinjen för en dold fairway).\\n    Förutom när spelarens boll är på green, får denna person stå på en plats för spelaren att spela mot, men måste flytta sig innan slaget slås.\\n\\nMen, denna regel förbjuder inte någon person att stå nära hålet för att passa flaggstången.\\nTouching Line of Play on Putting Green\\n(3) Inte placera föremål för att få hjälp att sikta, ta stans eller svinga. En spelare får inte placera ett föremål för att få hjälp att sikta eller att ta en stans för slaget som ska slås (t ex en klubba som placerats på marken för att visa var spelaren bör sikta eller placera fötterna). \\'94Placera ett föremål\\'94 innebär att föremålet har kontakt med marken och att spelaren inte vidrör föremålet. Om spelaren bryter mot denna regel, kan spelaren inte undvika plikt genom att ta bort föremålet innan slaget slås. Denna regel gäller också för en handling med en liknande avsikt, t ex att spelaren gör ett märke i sand eller dagg för att få hjälp med sin sving. Denna regel gäller inte för en bollmarkering när den används för att markera en bolls läge eller för en boll när den är placerad på en punkt. Men, en bollmarkering som överensstämmer med definitionen för \\'94alignment device\\'94 i utrustningsreglerna (Equipment Rules) täcks av Regel 4.3. Se Regel 25.2c (modifiering av Regel 10.2b(3) för spelare som är blinda). (4) Otillåtet område för en caddie innan en spelare slår ett slag. När en spelare börjar ta sin stans för slaget (vilket innebär att ha åtminstone ena foten i läge för stansen) och till dess att slaget slås, råder begränsningar för när och varför en spelares caddie avsiktligt får stå på eller nära en förlängning av spellinjen bakom bollen (d v s det \\'94otillåtna området\\'94) enligt följande:\\n\\n    Att sikta. Caddien får inte stå i det otillåtna området för att hjälpa spelaren att sikta. Denna hjälp innefattar när caddien flyttar sig undan utan att säga något, som genom att göra så, ger ett tecken till spelaren att han/hon är rätt riktad mot det avsedda målet. Men det blir ingen plikt om spelaren backar undan, innan spelaren slår slaget och caddien flyttar sig undan från det otillåtna området, innan spelaren åter börjar ta sin stans för slaget.\\n    Annan hjälp än att sikta. Om caddien hjälper spelaren med något särskilt annat än att sikta (t ex att kontrollera för att se om spelarens klubba kommer att träffa ett träd i närheten under baksvingen), får caddien stå i det otillåtna området, men bara om caddien flyttar sig undan innan slaget slås och förutsatt att detta inte är en del av en vanlig rutin.\\n\\nDet blir ingen plikt om caddien oavsiktligt stod i det otillåtna området. Denna regel förbjuder inte spelaren att få hjälp genom att låta en annan person än spelarens caddie stå i det otillåtna området för att hjälpa till att följa en bollbana. Se Regel 22, 23 och 24 (i spelformer som innefattar partners och rådgivare, begränsas en spelares partner, partnerns caddie och varje rådgivare på samma sätt). Se Regel 25.2d (modifiering av Regel 10.2b(4) för spelare som är blinda). (5) Fysisk hjälp, ta bort störande element och skydd mot väderförhållanden. En spelare får inte slå ett slag:\\n\\n    medan spelaren tar emot fysisk hjälp från sin caddie eller någon annan person eller\\n    när spelaren avsiktligt placerat sin caddie eller någon annan person eller föremål för att:\\n        ta bort störande element, eller\\n        ge skydd mot solljus, regn, vind eller andra väderförhållanden.\\n\\nDenna regel förbjuder inte spelaren från att:\\n\\n    vidta egna åtgärder för att skydda sig från väderförhållanden medan ett slag slås t ex genom att använda skyddskläder, eller att hålla ett paraply över huvudet, eller\\n    be någon annan person som inte avsiktligt placerats av spelaren att stå kvar eller flytta sig (t ex när en åskådare skuggar spelarens boll).\\n\\nPlikt för brott mot Regel 10.2b: allmän plikt.\\n10.3\\nCaddies\\nSyfte med regeln: Spelaren får ha en caddie som bär spelarens klubbor och ger råd och annan hjälp under ronden, men det finns begränsningar för vad caddien får göra. Spelaren är ansvarig för caddiens handlingar under en rond och får plikt om caddien bryter mot reglerna.\\n10.3a\\nCaddie får hjälpa spelare under rond\\n(1) En spelare får bara ha en caddie åt gången. En spelare får ha en caddie för att bära, transportera och ha hand om spelarens klubbor och ge råd och hjälpa spelaren på andra tillåtna sätt under en rond, men med dessa begränsningar:\\n\\n    Spelaren får inte ha mer än en caddie vid något tillfälle.\\n    Spelaren får byta caddie under en rond, men får inte göra det tillfälligt med det enda syftet att få råd från den nya caddien.\\n\\nOavsett om en spelare har en caddie eller inte är varje annan person som går eller åker tillsammans med spelaren eller som bär andra saker åt spelaren (t ex regnställ, paraply eller mat och dryck) inte spelarens caddie, om inte spelaren utsett personen som caddie eller också bär, transporterar eller har hand om spelarens klubbor. (2) Två eller fler spelare får dela caddie. När det uppstår en regelsituation som innefattar en specifik åtgärd av en delad caddie och det behöver fastställas vilken spelare som åtgärden har vidtagits för:\\n\\n    Om caddiens åtgärd vidtagits efter direkt uppmaning av en av spelarna som delade caddien, anses åtgärden vidtagen för den spelaren.\\n    Om ingen av dessa spelare direkt uppmanat till denna åtgärd, betraktas åtgärden som vidtagen av den spelare som delade caddie och vars boll var inblandad.\\n    Om inte någon av spelarna som delade caddien uppmanade caddien till denna åtgärd, och ingen av dessa spelares bollar var inblandade, får varje spelare som delade caddien plikt.\\n\\nSe Committee Procedures, Section 8;Model Local Rule H-1 (tävlingsledningen får anta en lokal regel som begränsar användning av caddies eller spelares val av caddie). Se Regel 25.2, 25.4 och 25.5 (spelare med vissa funktionsnedsättningar får även ta emot hjälp av en medhjälpare). Plikt för brott mot Regel 10.3a:\\n\\n    Spelaren får den allmänna plikten för varje hål som spelaren fått hjälp av mer än en caddie vid något tillfälle.\\n    Om regelbrottet inträffar eller fortsätter mellan två hål, får spelaren den allmänna plikten på det kommande hålet.\\n\\n10.3b\\nVad en caddie får göra\\nDetta är exempel på vad en caddie får och inte får göra: (1) Handlingar som alltid är tillåtna. En caddie får alltid utföra följande handlingar när det är tillåtet enligt reglerna:\\n\\n    Bära, transportera och ha hand om spelarens klubbor och övrig utrustning (inklusive köra en golfbil eller dra en vagn).\\n    Leta efter spelarens boll (Regel 7.1).\\n    Ge information, råd och annan hjälp innan ett slag slås (Regel 10.2a och 10.2b).\\n    Jämna till bunkrar eller vidta andra åtgärder av omsorg om banan (Regel 8.2 Undantag, 8.3 Undantag och 12.2b(2) och (3)).\\n    Ta bort sand och lös jord och laga skador på green (Regel 13.1c).\\n    Ta bort eller passa flaggstången (Regel 13.2b).\\n    Lyfta spelarens boll när det är rimligt att dra slutsatsen (t ex utifrån en handling eller ett yttrande) att spelaren kommer att ta lättnad enligt en regel (Regel 14.1b).\\n    Markera läget för spelarens boll och lyfta och återplacera bollen på green (Regel 14.1b Undantag och 14.2b).\\n    Rengöra spelarens boll (Regel 14.1c).\\n    Ta bort lösa naturföremål och flyttbara tillverkade föremål (Regel 15.1 och 15.2).\\n\\n(2) Handlingar endast tillåtna med spelares godkännande. En caddie får bara utföra dessa handlingar när reglerna tillåter spelaren att utföra dem och bara med spelarens godkännande (vilket måste ges vid varje specifikt tillfälle och inte generellt för en hel rond):\\n\\n    Återställa förhållanden som försämrats efter att spelarens boll stannat (Regel 8.1d).\\n    När en spelares boll är var som helst, utom på green, lyfta spelarens boll enligt en regel som kräver att bollen ska återplaceras (Regel 14.1b).\\n\\n(3) Inte tillåtna åtgärder. En caddie får inte vidta någon av följande åtgärder för spelaren:\\n\\n    Skänka nästa slag, ett hål eller matchen till motspelaren eller komma överens med motspelaren om ställningen i matchen (Regel 3.2).\\n    Återplacera en boll, om inte caddien har lyft eller rubbat bollen (Regel 14.2b).\\n    Droppa eller placera en boll för att ta lättnad (Regel 14.3).\\n    Besluta om att ta lättnad enligt en regel (t.ex. att betrakta en boll som ospelbar enligt Regel 19 eller ta lättnad för onormalt banförhållande eller pliktområde enligt Regel 16.1 eller 17), caddien får ge råd till spelaren att göra detta, men spelaren måste fatta beslutet.\\n\\n10.3c\\nSpelaren är ansvarig för caddiens handlingar och brott mot regler\\nEn spelare är ansvarig för sin caddies handlingar både under en rond och vid spelavbrott enligt Regel 5.7a, men inte före eller efter en rond. Om caddiens handlingar bryter mot någon regel eller skulle bryta mot en regel om spelaren utfört handlingen, får spelaren plikten enligt den regeln. När tillämpningen av en regel beror på om spelaren har kännedom om vissa fakta, betraktas vad som än är känt av spelarens caddie även som känt av spelaren.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 10 Förbereda för och slå ett slag; Råd och hjälp; Caddies",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

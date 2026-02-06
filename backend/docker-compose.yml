@@ -1,0 +1,41 @@
+services:
+   postgres-db:
+      build:
+         context: .
+         dockerfile: Dockerfile.pgvector
+      ports:
+         - "8020:5432"
+      environment:
+         POSTGRES_USER: postgres
+         POSTGRES_PASSWORD: password
+         POSTGRES_DB: golf
+      volumes:
+         - postgres_data:/var/lib/postgresql/data
+         - ./scripts/init-pgvector.sql:/docker-entrypoint-initdb.d/init-pgvector.sql
+
+   # pgadmin:
+   #   image: dpage/pgadmin4:latest
+   #   ports:
+   #     - "80:80"
+   #   environment:
+   #     PGADMIN_DEFAULT_EMAIL: admin@app.com
+   #     PGADMIN_DEFAULT_PASSWORD: admin
+   #     PGADMIN_CONFIG_SERVER_MODE: "False"
+   #     PGADMIN_CONFIG_MASTER_PASSWORD_REQUIRED: "False"
+   #   volumes:
+   #     - pgadmin_data:/var/lib/pgadmin
+   #   depends_on:
+   #     - postgres-db
+
+   redis:
+      image: redis:7-alpine
+      ports:
+         - "6379:6379"
+      volumes:
+         - redis_data:/data
+      command: redis-server --appendonly yes
+
+volumes:
+   postgres_data:
+   redis_data:
+   # pgadmin_data:

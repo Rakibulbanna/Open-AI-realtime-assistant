@@ -1,0 +1,245 @@
+{
+  "rule_number": 23,
+  "rule_code": "23",
+  "title": "Fyrboll",
+  "summary": {
+    "short": "Regel 23 omfattar fyrboll, där två partners bildar en sida, spelar varsin boll och sidans score på hålet är den lägsta av partnernas scorer.",
+    "detailed": "Regeln beskriver fyrboll som spelform i både matchspel och slagspel. Den förklarar hur sidans score räknas, hur scorekortet ska hanteras i slagspel, när ronden och hålet anses påbörjade och avslutade, samt hur partners får representera sidan och hjälpa varandra. Den anger också i vilken ordning sidan får spela, när partners får dela klubbor och hur plikter påverkar en eller båda partners."
+  },
+  "sections": [
+    {
+      "section_number": "23.1",
+      "title": "Översikt av Fyrboll",
+      "purpose": "Definierar fyrboll som spelform och klargör grundprinciperna för hur en sida och dess score fungerar.",
+      "key_points": [
+        "Två partners spelar som en sida där båda spelar sin egen boll hela hålet.",
+        "Sidans score på hålet är den lägre av partnernas scorer (brutto eller netto beroende på tävlingen).",
+        "Regel 1–20 gäller för denna spelform men modifieras av de särskilda bestämmelserna i Regel 23.",
+        "En variant är bästboll, där en individuell spelare möter en sida bestående av två eller tre partners som alla spelar egna bollar."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "23.2",
+      "title": "Resultathantering i fyrboll",
+      "purpose": "Förklarar hur sidans score fastställs i matchspel och slagspel samt hur scorekortet ska föras i slagspel.",
+      "key_points": [
+        "Sidans score på ett hål är alltid baserad på partnernas individuella scorer.",
+        "I slagspel måste sidans scorer föras korrekt och tydligt på ett gemensamt scorekort.",
+        "Det finns ett särskilt undantag från Regel 11.2 när endast en spelares boll fortfarande kan påverka sidans resultat."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "23.2a",
+          "title": "Sidans score på hålet i matchspel och slagspel",
+          "summary": "Anger hur sidans score bestäms beroende på om ingen, en eller båda partners avslutar hålet korrekt.",
+          "key_points": [
+            "Om båda partners hålar ut eller på annat sätt avslutar hålet enligt reglerna räknas den lägsta scoren för sidan.",
+            "Om bara en partner hålar ut eller på annat sätt avslutar hålet enligt reglerna blir den partnerns score sidans score på hålet.",
+            "Om ingen partner avslutar hålet har sidan ingen score: i matchspel förloras hålet (om inte motspelarsidan redan förlorat hålet), i slagspel kan sidan diskvalificeras om felet inte rättas i tid enligt Regel 3.3c."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "23.2b",
+          "title": "Sidans scorekort i slagspel",
+          "summary": "Beskriver vilket ansvar sidan respektive tävlingsledningen har för scorekortet i fyrboll slagspel.",
+          "key_points": [
+            "Sidans bruttoscorer för alla hål ska finnas på ett enda scorekort.",
+            "För varje hål måste bruttoscore för minst en partner föras in; fler scorer får föras in utan plikt.",
+            "Varje score måste vara tydligt kopplad till rätt spelare, annars blir sidan diskvalificerad.",
+            "Endast en partner behöver intyga scorekortet enligt Regel 3.3b(2).",
+            "Tävlingsledningen avgör vilken score som ska räknas för sidan på varje hål och tillämpar handicapslag i handicaptävling."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "23.2c",
+          "title": "När Regel 11.2 inte gäller i fyrboll",
+          "summary": "Anger en särskild situation där avsiktlig påverkan av en boll i rörelse inte ger plikt i fyrboll.",
+          "key_points": [
+            "Undantaget gäller när partnern redan avslutat hålet och spelarens boll i rörelse behöver hålas ut för att påverka sidans resultat på hålet med ett slag.",
+            "Om någon då avsiktligt påverkar eller stoppar bollen när det inte finns någon rimlig chans att den kan hålas ut, får personen ingen plikt.",
+            "I denna situation får spelarens boll inte räknas för sidans score."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "23.3",
+      "title": "När en rond påbörjas och avslutas; När ett hål är avslutat",
+      "purpose": "Förklarar när en sidas rond räknas som startad och avslutad samt när ett hål är färdigspelat i fyrboll.",
+      "key_points": [
+        "En sidas rond startar när en av partners slår ett slag för att starta sitt första hål.",
+        "Kriterierna för när ronden är avslutad skiljer sig mellan matchspel och slagspel.",
+        "Regeln definierar även när ett enskilt hål är färdigspelat för sidan beroende på partnernas resultat."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "23.3a",
+          "title": "När en rond påbörjas",
+          "summary": "Anger exakt när fyrbolls-ronden anses börja för sidan.",
+          "key_points": [
+            "Ronden påbörjas när en av partnerna slår ett slag för att starta sidans första hål."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "23.3b",
+          "title": "När en rond avslutas",
+          "summary": "Beskriver när sidans rond är slut i matchspel respektive slagspel.",
+          "key_points": [
+            "I matchspel avslutas ronden när en sida har vunnit matchen eller när matchen är delad efter sista hålet enligt tävlingsvillkoren.",
+            "I slagspel avslutas ronden när sidan avslutar det sista hålet antingen genom att båda partners hålar ut (inklusive rättning av misstag enligt t.ex. Regel 6.1 eller 14.7b) eller genom att en partner hålar ut och den andra partnern väljer att inte göra det."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "23.3c",
+          "title": "När ett hål är avslutat",
+          "summary": "Definierar när ett hål anses färdigspelat för sidan i matchspel och slagspel.",
+          "key_points": [
+            "I matchspel är hålet avslutat när båda partners har hålat ut eller fått sina nästa slag skänkta, när en partner hålar ut eller får sitt nästa slag skänkt och den andra partnern väljer att inte håla ut eller har en score som inte kan räknas för sidan, eller när hålets resultat är klart.",
+            "I slagspel är hålet avslutat när den ena partnern har hålat ut och den andra partnern har hålat ut, väljer att inte göra detta eller är diskvalificerad för hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "23.4",
+      "title": "En eller båda partners får representera sidan",
+      "purpose": "Klargör i vilken utsträckning en eller båda partners behöver vara med och spela för att sidan ska representeras korrekt.",
+      "key_points": [
+        "Sidan får representeras av en partner under hela eller någon del av en rond.",
+        "Båda partners behöver inte vara närvarande och behöver inte spela varje hål även om de är närvarande.",
+        "En partner som ansluter sent får börja spela för sidan endast mellan spelet av två hål, med olika detaljer för matchspel och slagspel.",
+        "En partner som inte får spela ett hål får ändå ge råd och hjälpa den andra partnern.",
+        "Slår en partner slag på ett hål där partnern inte får spela får sidan den allmänna plikten."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "23.5",
+      "title": "En spelares åtgärder påverkar partnerns spel",
+      "purpose": "Reglerar vilka åtgärder en spelare får utföra med partnerns boll och utrustning samt vem som bär ansvaret vid regelbrott.",
+      "key_points": [
+        "Varje spelare spelar sin egen boll, men får utföra vissa åtgärder som rör partnerns boll.",
+        "Partnern anses normalt ansvarig för regelbrott som orsakas av spelarens eller spelarens caddies agerande när det gäller partnerns boll eller utrustning."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "23.5a",
+          "title": "Spelare tillåts att vidta åtgärder som rör partnerns boll som partnern får vidta",
+          "summary": "Lista över tillåtna åtgärder en spelare får utföra åt partnern och begränsningar i slagspel.",
+          "key_points": [
+            "En spelare får markera läget för partnerns boll, lyfta, återplacera, droppa och placera partnerns boll innan slaget slås, när detta är tillåtet enligt reglerna.",
+            "En spelare och spelarens caddie får hjälpa partnern med allt som partnerns caddie får göra (t.ex. ge och få råd, andra tillåtna åtgärder enligt Regel 10).",
+            "I slagspel får partners inte komma överens om att låta en boll ligga kvar på green för att hjälpa någon av dem eller någon annan spelare (Regel 15.3a)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "23.5b",
+          "title": "Partnern är ansvarig för spelarens åtgärder",
+          "summary": "Förklarar att partnern normalt får plikten om spelaren orsakar regelbrott genom åtgärder som rör partnerns boll eller utrustning.",
+          "key_points": [
+            "Varje åtgärd som spelaren vidtar och som rör partnerns boll eller utrustning betraktas som om den vidtagits av partnern.",
+            "Om spelarens åtgärder skulle bryta mot en regel om de vidtogs av partnern bryter partnern mot regeln och får tillämplig plikt.",
+            "Exempel: spelaren förbättrar förhållanden som påverkar partnerns slag, orsakar att partnerns boll rubbas utan korrekt procedur eller lyfter partnerns boll utan att markera läget.",
+            "Detta gäller även åtgärder av spelarens caddie som rör partnerns boll.",
+            "Om spelarens eller caddiens åtgärder påverkar både spelarens egen boll och partnerns boll kan det leda till plikt för båda partners enligt Regel 23.9a(2)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "23.6",
+      "title": "Spelordning för sidan",
+      "purpose": "Beskriver hur partners får välja spelordning inom sidan samt en begränsning efter skänkt slag i matchspel.",
+      "key_points": [
+        "Partners får spela i den ordning sidan anser vara bäst.",
+        "När det är sidans tur enligt Regel 6.4a (matchspel) eller 6.4b (slagspel) får endera spelaren eller partnern spela först.",
+        "I matchspel får en spelare inte fortsätta spela på ett hål efter att spelarens nästa slag skänkts om detta skulle hjälpa partnern.",
+        "Om spelaren ändå gör detta räknas spelarens score på hålet utan plikt, men sidan får inte räkna partnerns score på hålet."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "23.7",
+      "title": "Partners får dela klubbor",
+      "purpose": "Tillåter partners att dela klubbor under vissa villkor.",
+      "key_points": [
+        "Regel 4.1b(2) är modifierad i fyrboll för att tillåta partners att dela klubbor.",
+        "Det totala antalet klubbor som partners har tillsammans får inte vara högre än 14."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "23.8",
+      "title": "Begränsning för spelaren att stå bakom partnern när ett slag slås",
+      "purpose": "Inför en extra begränsning för var en spelare får stå i förhållande till partnerns spellinje.",
+      "key_points": [
+        "Förutom begränsningarna i Regel 10.2b(4) får en spelare inte stå på eller nära förlängningen av spellinjen bakom bollen i syfte att få information inför sitt nästa slag medan partnern slår.",
+        "Plikt för brott mot Regel 23.8 är allmän plikt."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "23.9",
+      "title": "När plikt gäller bara för en partner eller gäller för båda partners",
+      "purpose": "Klargör när en plikt bara drabbar den spelare som brutit mot regeln och när den även gäller partnern eller hela sidan.",
+      "key_points": [
+        "En spelares plikt kan gälla bara spelaren själv eller båda partners beroende på regel och situation.",
+        "Regeln skiljer mellan andra plikter än diskvalifikation och plikter som innebär diskvalifikation.",
+        "Det finns särskilda situationer där spelarens regelbrott även innebär plikt för partnern."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "23.9a",
+          "title": "Annan plikt än diskvalifikation",
+          "summary": "Förklarar när ett regelbrott bara påverkar en spelares score och när det även drabbar partnern.",
+          "key_points": [
+            "Som huvudregel gäller annan plikt än diskvalifikation bara spelaren och inte partnern.",
+            "Pliktslag läggs till spelarens score, inte till partnerns score.",
+            "En spelare som får allmän plikt i matchspel har ingen score som kan räknas för sidan på det hålet, men partnern får fortsätta spela för sidan.",
+            "Det finns tre situationer då spelarens plikt även gäller partnern: (1) brott mot Regel 4.1b om klubbor, (2) när spelarens regelbrott hjälper partnerns spel, och (3) i matchspel när spelarens regelbrott har negativ inverkan på motspelarens spel.",
+            "Spel på fel boll enligt Regel 6.3c anses inte hjälpa partnern eller skada motspelaren; endast spelaren får allmän plikt, oavsett vems boll som spelats."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "23.9b",
+          "title": "Diskvalifikationer",
+          "summary": "Anger i vilka situationer ett regelbrott leder till att hela sidan diskvalificeras och när bara en spelares score på hålet faller bort.",
+          "key_points": [
+            "En sida blir diskvalificerad om endera partnern diskvalificeras enligt vissa uppräknade regler, bland annat uppföranderegler, utrustningsregler och vissa regler om scorekort.",
+            "I andra fall blir sidan diskvalificerad först om båda partners diskvalificeras, t.ex. vid vissa brott mot reglerna om rondens påbörjande/avslutande eller spelavbrott.",
+            "I slagspel kan sidan också diskvalificeras om båda partners diskvalificeras på samma hål för vissa regler (t.ex. att inte håla ut, fel boll eller spel från fel plats).",
+            "I övriga situationer där en spelare bryter mot en regel som annars innebär diskvalifikation, räknas bara den spelarens score inte för sidan på det hålet; om båda partners saknar giltig score på samma hål i matchspel förlorar sidan hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "23\\nFyrboll\\n23.1\\nÖversikt av Fyrboll\\nFyrboll är en spelform för partners (antingen som matchspel eller slagspel) där:\\n\\n    två partners tävlar tillsammans som en sida, där var och en av spelarna spelar sin egen boll och\\n    en sidas score på hålet är den lägre av de två partnernas scorer på det hålet.\\n\\nRegel 1-20 gäller för denna spelform med de modifieringar som anges i dessa speciella regler. En variant av detta är en form av matchspel som kallas bästboll, där en individuell spelare tävlar mot en sida bestående av två eller tre partners, och varje partner spelar sin egen boll enligt reglerna med de modifieringar som anges i dessa speciella regler. (För bästboll med tre partners som en sida, betyder varje referens till den andra partnern då de andra två partnerna).\\n23.2\\nResultathantering i fyrboll\\n23.2a\\nSidans score på hålet i matchspel och slagspel\\n\\n    När båda partners hålar ut eller på annat sätt avslutar hålet enligt reglerna. Den lägsta scoren blir sidans score på hålet.\\n    När bara en partner hålar ut eller på annat sätt avslutar hålet enligt reglerna. Den partnerns score blir sidans score på hålet. Den andra partnern behöver inte håla ut.\\n    När ingen partner hålar ut eller på annat sätt avslutar hålet enligt reglerna. Sidan har ingen score på det hålet, vilket innebär:\\n        I matchspel förlorar sidan hålet, såvida inte motspelarsidan redan skänkt eller på annat sätt förlorat hålet.\\n        I slagspel är sidan diskvalificerad såvida inte misstaget rättas till i tid enligt Regel 3.3c.\\n\\n23.2b\\nSidans scorekort i slagspel\\n(1) Sidans ansvar. Sidans bruttoscore för varje hål måste föras in på ett enda scorekort. För varje hål:\\n\\n    Bruttoscoren för minst en partner måste föras in på scorekortet.\\n    Det blir ingen plikt för att föra in mer än en partners score på scorekortet.\\n    Varje score på scorekortet måste vara tydligt individuellt identifierbar. Om detta inte görs blir sidan diskvalificerad.\\n    I allmänhet räcker det inte att identifiera en score som sidans score.\\n\\nEndast en partner behöver intyga hålscorerna på sidans scorekort enligt Regel 3.3b(2). (2) Tävlingsledningens ansvar. Tävlingsledningen ansvarar för att avgöra vilken score som ska räknas för sidan på varje hål, inklusive att tillämpa handicapslag i en handicaptävling:\\n\\n    Om bara en score är införd på ett hål räknas den scoren för sidan.\\n    Om båda partners scorer är införda på hålet:\\n        Om de scorerna är olika, räknas den lägsta (brutto eller netto) scoren för sidan på hålet.\\n        Om båda scorerna är lika, kan tävlingsledningen räkna endera scoren. Om scoren som används visar sig vara fel av någon anledning, ska tävlingsledningen räkna den andra scoren.\\n\\nOm scoren som räknas för sidan inte är tydligt individuellt identifierbar som den score som den partnern hade, eller om den partnern är diskvalificerad på grund av något som rör spelet på hålet, blir sidan diskvalificerad.\\nFIG. 23.2b: RESULTATHANTERING I SCRATCHTÄVLING FYRBOLL SLAGSPEL\\nimage\\n23.2c\\nNär Regel 11.2 inte gäller i fyrboll\\nRegel 11.2 gäller inte i denna situation: När en spelares partner redan avslutat hålet och spelarens boll i rörelse behöver hålas ut för att den bollen ska kunna påverka sidans resultat på hålet med ett slag, om någon person då avsiktligt påverkar eller stoppar bollen när det inte finns någon rimlig chans att den kan hålas ut, får den personen ingen plikt och spelarens boll räknas inte för sidan.\\n23.3\\nNär en rond påbörjas och avslutas; När ett hål är avslutat\\n23.3a\\nNär en rond påbörjas\\nEn sidas rond påbörjas när en av partnerna slår ett slag för att starta sitt första hål.\\n23.3b\\nNär en rond avslutas\\nEn sidas rond avslutas:\\n\\n    i matchspel, när:\\n        någon sida har vunnit matchen (se Regel 3.2a(3) ) eller\\n        matchen är delad efter det sista hålet när tävlingsvillkoren anger att matchen får sluta delad (se Regel 3.2a(4)).\\n    i slagspel, när sidan avslutar det sista hålet, antingen genom att båda partners hålar ut (inklusive rättning av ett misstag, t ex enligt Regel 6.1 eller 14.7b) eller genom att en partner hålar ut på det sista hålet och den andra partnern väljer att inte göra det.\\n\\n23.3c\\nNär ett hål är avslutat\\n(1) Matchspel. En sida har avslutat ett hål när:\\n\\n    båda partners har hålat ut eller fått sina nästa slag skänkta,\\n    en partner har hålat ut eller fått sitt nästa slag skänkt och den andra partnern väljer att inte håla ut eller har en score som inte kan räknas för sidan, eller\\n    hålets resultat är klart (t ex när den andra sidans score på hålet är lägre än vad sidan möjligen kan uppnå).\\n\\n(2) Slagspel. En sida har avslutat hålet när den ena partnern har hålat ut och den andra partnern har hålat ut, väljer att inte göra detta eller är diskvalificerad för hålet.\\n23.4\\nEn eller båda partners får representera sidan\\nSidan får representeras av en partner under hela, eller någon del av en rond. Det är inte nödvändigt för båda partners att vara närvarande eller, om närvarande, för båda att spela varje hål. Om en partner är frånvarande och sedan ansluter sig för att spela, får den partnern bara påbörja spelet för sidan mellan spelet av två hål, vilket innebär:\\n\\n    Matchspel – innan någon spelare i match startar ett hål. Om partnern ansluter sig först sedan någon av spelarna från endera sidan i matchen har startat spelet på ett hål, får den partnern inte spela för sidan förrän på nästa hål.\\n    Slagspel – innan den andra partnern startar ett hål. Om partnern ansluter sig först sedan den andra partnern har startat spelet på ett hål, är den anslutande partnern inte tillåten att spela för sidan förrän på nästa hål.\\n\\nEn anslutande partner som inte tillåts att spela på ett hål får dock ge råd eller hjälpa den andra partnern och vidta andra åtgärder för den andra partnern på det hålet (se Regel 23.5a och 23.5b). Plikt för att slå ett slag när det inte är tillåtet att spela hålet enligt Regel 23.4: allmän plikt.\\n23.5\\nEn spelares åtgärder påverkar partnerns spel\\n23.5a\\nSpelare tillåts att vidta åtgärder som rör partnerns boll som partnern får vidta\\nTrots att varje spelare som tillhör en sida måste spela sin egen boll:\\n\\n    får en spelare vidta varje åtgärd som rör partnerns boll som partnern själv tillåts vidta innan slaget slås, t ex att markera bollens läge och lyfta, återplacera, droppa och placera bollen.\\n    får en spelare och spelarens caddie hjälpa partnern med allt som partnerns caddie tillåts att hjälpa till med (t ex att ge och bli ombedd om råd samt vidta andra tillåtna åtgärder enligt Regel 10), men får inte ge någon hjälp som partnerns caddie inte tillåts att ge enligt reglerna.\\n\\nI slagspel får partners inte komma överens med varandra om att låta en boll ligga kvar på green för att hjälpa antingen någon av dem eller någon annan spelare (se Regel 15.3a).\\n23.5b\\nPartnern är ansvarig för spelarens åtgärder\\nVarje åtgärd som spelaren vidtar och som rör partnerns boll eller utrustning betraktas som om den vidtagits av partnern. Om spelarens åtgärder skulle bryta mot en regel om de vidtogs av partnern:\\n\\n    bryter partnern mot regeln och får den tillämpliga plikten (se Regel 23.9a).\\n    Exempel på detta är när spelaren bryter mot reglerna genom att:\\n        förbättra förhållanden som påverkar det slag som ska slås av partnern,\\n        oavsiktligt orsakar att partnerns boll rubbas eller\\n        inte markera läget för partnerns boll innan den lyfts.\\n\\nDetta gäller också åtgärder som vidtas av spelarens caddie och som rör partnerns boll och som skulle vara ett brott mot reglerna om de vidtagits av partnern eller partnerns caddie. Om spelarens eller spelarens caddies åtgärder påverkar spelet med både spelarens egen boll och partnerns boll, se Regel 23.9a(2) för att få reda på när det leder till plikt för båda partnerna.\\n23.6\\nSpelordning för sidan\\nPartners får spela i den ordning som sidan anser vara bäst. Detta innebär att när det är en spelares tur att spela enligt Regel 6.4a (matchspel) eller 6.4b (slagspel), får endera spelaren eller partnern spela först. Undantag – att fortsätta spel på hål efter att ett slag skänkts i matchspel:\\n\\n    En spelare får inte fortsätta spelet på ett hål efter att spelarens nästa slag skänkts, om detta skulle hjälpa partnern.\\n    Om spelaren gör detta räknas spelarens score på hålet utan plikt, men sidan får inte räkna partnerns score på hålet.\\n\\n23.7\\nPartners får dela klubbor\\nRegel 4.1b(2) är modifierad för att tillåta partners att dela klubbor, så länge som det totala antalet klubbor de har tillsammans inte är högre än 14.\\n23.8\\nBegränsning för spelaren att stå bakom partnern när ett slag slås\\nFörutom begränsningarna i Regel 10.2b(4) får en spelare i syfte att få information inför sitt (spelarens) nästa slag inte stå på eller nära förlängningen av spellinjen bakom bollen medan partnern slår ett slag. Plikt för brott mot Regel 23.8: allmän plikt.\\n23.9\\nNär plikt gäller bara för en partner eller gäller för båda partners\\nNär en spelare får plikt för brott mot en regel, gäller plikten antingen spelaren själv eller för båda partners (d v s för sidan). Detta beror på plikten och spelformen:\\n23.9a\\nAnnan plikt än diskvalifikation\\n(1) Plikt gäller normalt bara spelaren, inte partnern. När en spelare får en annan plikt än diskvalifikation, gäller plikten normalt bara spelaren och inte spelarens partner, utom i situationer som täcks av (2).\\n\\n    Varje pliktslag läggs bara till spelarens score, inte till partnerns score.\\n    En spelare som får den allmänna plikten (förlust av hål) i matchspel har ingen score som kan räknas för sidan på det hålet; men denna plikt påverkar inte partnern som får fortsätta spela för sidan på det hålet.\\n\\n(2) Tre situationer då spelarens plikt även gäller partnern.\\n\\n    När en spelare bryter mot Regel 4.1b (maximalt 14 klubbor; delade, tillagda eller ersatta klubbor). I matchspel får sidan plikt (justering av ställningen i matchen); i slagspel får partnern samma plikt som spelaren.\\n    När spelarens regelbrott hjälper partnerns spel. I både matchspel och slagspel får partnern samma plikt som spelaren.\\n    I matchspel när spelarens regelbrott har negativ inverkan på motspelarens spel. Även partnern får samma plikt som spelaren.\\n\\nUndantag – Spelare som spelar på fel boll anses inte ha hjälpt partnerns spel eller haft negativ inverkan på motspelarens spel:\\n\\n    Bara spelaren (inte partnern) får den allmänna plikten för brott mot Regel 6.3c.\\n    Detta gäller oavsett om bollen som spelats som fel boll tillhör partnern, en motspelare eller någon annan.\\n\\n23.9b\\nDiskvalifikationer\\n(1) När regelbrott av en partner innebär att sidan blir diskvalificerad. En sida blir diskvalificerad om endera partnern blir diskvalificerad enligt någon av dessa regler:\\n\\n    Regel 1.2 Riktlinjer för spelares uppförande\\n    Regel 1.3 Spela enligt reglerna\\n    Regel 4.1a Godkända klubbor för att slå ett slag\\n    Regel 4.1c Förfarande för att ta en klubba ur spel\\n    Regel 4.2a Bollar godkända för spel av en rond\\n    Regel 4.3 Användning av utrustning\\n    Regel 5.6a Orimlig fördröjning av spelet\\n    Regel 5.7b Vad spelare måste göra när tävlingsledningen avbryter spelet\\n    Regel 6.2b Regler för tee.\\n\\nEndast matchspel:\\n\\n    Regel 3.2c Tillämpa handicap i handicapmatch\\n\\nEndast slagspel:\\n\\n    Regel 3.3b(2) Spelarens skyldigheter: Intyga scorer på hål och lämna in scorekortet\\n    Regel 3.3b(3) Felaktig score på hål\\n    Regel 5.2b Övning på banan före eller mellan ronder\\n    Regel 23.2b Sidans scorekort i slagspel\\n\\n(2) När brott av båda partners innebär att sidan blir diskvalificerad. En sida blir diskvalificerad om båda partners blir diskvalificerade enligt någon av dessa regler:\\n\\n    Regel 5.3 Påbörja och avsluta en rond\\n    Regel 5.4 Spela i grupper \\'94bollar\\'94\\n    Regel 5.7a När spelare får eller måste avbryta spel\\n    Regel 5.7c Vad spelare måste göra när spelet återupptas\\n\\nEndast slagspel: En sida blir diskvalificerad om båda partners blir diskvalificerade på samma hål enligt någon kombination av dessa regler:\\n\\n    Regel 3.3c Att inte håla ut\\n    Regel 6.1b En boll måste spelas från tee\\n    Regel 6.3c Fel boll\\n    Regel 14.7 Spela från fel plats\\n    Regel 20.1c(3) Underlåta att inte rapportera spel med två bollar\\n\\n(3) När regelbrott av en spelare innebär att spelaren inte har en giltig score på hålet. I alla andra situationer när en spelare bryter mot en regel som leder till diskvalifikation, blir inte spelaren diskvalificerad, men den spelarens score på hålet där regelbrottet inträffade räknas inte för sidan. Om båda partners i matchspel bryter mot en sådan regel på samma hål, förlorar sidan hålet.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Regler för golfspel – Regel 23 Fyrboll",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

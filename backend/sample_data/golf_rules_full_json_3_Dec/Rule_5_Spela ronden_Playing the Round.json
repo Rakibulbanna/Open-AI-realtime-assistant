@@ -1,0 +1,324 @@
+{
+  "rule_number": 5,
+  "rule_code": "5",
+  "title": "Spela ronden / Playing the Round",
+  "summary": {
+    "short": "Regel 5 beskriver vad en rond är, hur och när den påbörjas och avslutas, regler för övning före, under och mellan ronder, krav på att spela i rätt boll, regler om speltempo och avbrott i spelet samt hur spelet ska återupptas.",
+    "detailed": "Regel 5 definierar en rond, inklusive förlängd match och särspel i slagspel, och förklarar när en rond påbörjas och avslutas. Den anger vad som räknas som övning på banan, vilka begränsningar som gäller före, under och mellan ronder i match- och slagspel, samt att spelaren måste spela i den boll som tävlingsledningen fastställt. Regeln förbjuder övningsslag under spelet av ett hål och begränsar övningsslag mellan hål. Den behandlar orimlig fördröjning och uppmuntrar raskt speltempo, inklusive rekommendationer om \\'93ready golf\\'94. Slutligen reglerar den när spelare får eller måste avbryta spelet, hur olika typer av spelavbrott hanteras, samt hur bollen och spelet ska hanteras när spelet återupptas."
+  },
+  "sections": [
+    {
+      "section_number": "5.1",
+      "title": "Innebörd av rond",
+      "purpose": "Definierar vad en rond är, hur många hål den omfattar, i vilken ordning de spelas och hur förlängd match respektive särspel i slagspel förhåller sig till ronden.",
+      "key_points": [
+        "En rond är 18 eller färre hål spelade i den ordning som fastställts av tävlingsledningen.",
+        "När en rond slutar oavgjord kan spelet fortsätta tills någon vinner.",
+        "En oavgjord match som förlängs med ett hål i taget är en fortsättning av samma rond, inte en ny rond.",
+        "Ett särspel i slagspel är en ny rond.",
+        "Spelaren spelar sin rond från det att ronden påbörjas till dess att den avslutas, utom när spelet är avbrutet enligt Regel 5.7a.",
+        "När en regel talar om åtgärder som utförs \\'94under en rond\\'94 omfattar detta normalt inte tiden då spelet är avbrutet enligt Regel 5.7a, om inte regeln uttryckligen säger annat."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "5.2",
+      "title": "Övning på banan före eller mellan ronder",
+      "purpose": "Definierar vad som räknas som övning på banan och anger begränsningar för övning före och mellan ronder i matchspel och slagspel.",
+      "key_points": [
+        "Övning på banan innebär att spela en boll eller att pröva ytan på en green genom att rulla en boll eller gnugga ytan.",
+        "Begränsningarna för övning på banan före eller mellan ronder gäller endast spelaren, inte spelarens caddie."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "5.2a",
+          "title": "Matchspel",
+          "summary": "I matchspel får spelaren öva på banan före en rond eller mellan ronder.",
+          "key_points": [
+            "I en matchspelstävling får en spelare öva på banan före en rond.",
+            "Spelaren får också öva på banan mellan ronder i samma matchspelstävling.",
+            "Det finns inga särskilda plikter i denna regel för matchspel avseende övning på banan före eller mellan ronder."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.2b",
+          "title": "Slagspel",
+          "summary": "I slagspel finns begränsningar för övning på banan på tävlingsdagen, med vissa tillåtna undantag före ronden och möjlighet att öva efter avslutad sista rond för dagen.",
+          "key_points": [
+            "På dagen för en slagspelstävling får en spelare inte öva på banan före sin rond.",
+            "Spelaren får dock öva puttning eller chippning på eller nära sin första tee, öva på varje övningsområde samt öva på eller nära green på det hål som just avslutats, även om samma hål ska spelas igen samma dag (se Regel 5.5b).",
+            "Efter att ha avslutat spelet av sin sista rond den dagen får spelaren öva på banan.",
+            "Om en spelare slår ett slag i strid med denna regel får spelaren den allmänna plikten som läggs till på spelarens första hål.",
+            "Om spelaren slår ytterligare ett slag i strid med denna regel blir spelaren diskvalificerad.",
+            "Tävlingsledningen kan genom lokal regel (Model Local Rule I-1) i alla spelformer förbjuda, begränsa eller tillåta övning på banan före eller mellan ronder."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "5.3",
+      "title": "Påbörja och avsluta en rond",
+      "purpose": "Förklarar när en rond anses börja och sluta i matchspel och slagspel, samt vilka krav som gäller för att starta på rätt tid och plats.",
+      "key_points": [
+        "En rond börjar när spelaren slår ett slag för att starta sitt första hål.",
+        "Spelaren måste starta på sin fastställda starttid och från den startplats som tävlingsledningen bestämt.",
+        "En rond avslutas vid olika tidpunkter i matchspel och slagspel enligt särskilda regler."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "5.3a",
+          "title": "När rond påbörjas",
+          "summary": "Definierar exakt när en rond påbörjas och anger kraven på att starta på rätt tid, inklusive undantag när spelaren är tidig eller sen inom fem minuter eller har exceptionella omständigheter.",
+          "key_points": [
+            "En spelares rond påbörjas när spelaren slår ett slag för att starta sitt första hål (se Regel 6.1a).",
+            "Spelaren måste vara beredd att spela på sin starttid och från den startplats som fastställts av tävlingsledningen.",
+            "En fastställd starttid är en exakt tid, t ex betyder 9:00 exakt 9:00:00, inte tiden fram till 9:01.",
+            "Om starttiden försenas av t ex väder, långsamt spel eller behov av domslut, bryter inte spelaren mot regeln om han/hon är på plats och redo när bollen kan starta.",
+            "Huvudplikt för brott mot Regel 5.3a är diskvalifikation, men det finns tre undantag:",
+            "Undantag 1: Om spelaren anländer till startplatsen beredd att spela inte mer än fem minuter för sent får spelaren den allmänna plikten på sitt första hål.",
+            "Undantag 2: Om spelaren startar inte mer än fem minuter för tidigt får spelaren den allmänna plikten på sitt första hål.",
+            "Undantag 3: Om tävlingsledningen beslutar att exceptionella omständigheter förhindrade spelaren att starta i tid blir det inget regelbrott och ingen plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.3b",
+          "title": "När en rond avslutas",
+          "summary": "Anger när en rond anses avslutad i matchspel respektive slagspel, inklusive rättelse av misstag på sista hålet.",
+          "key_points": [
+            "I matchspel avslutas spelarens rond när resultatet av matchen är avgjort enligt Regel 3.2a(3) eller (4).",
+            "I slagspel avslutas spelarens rond när spelaren hålar ut på det sista hålet, inklusive rättelse av misstag enligt t ex Regel 6.1 eller 14.7b.",
+            "Reglerna 21.1e, 21.2e, 21.3e och 23.3b anger när en rond påbörjas och avslutas i andra slagspelsformer och i fyrboll."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "5.4",
+      "title": "Spela i grupper \\'94bollar\\'94",
+      "purpose": "Fastställer att spelare måste spela i de grupper (bollar) som tävlingsledningen bestämt i matchspel och slagspel.",
+      "key_points": [
+        "Under en rond måste spelare i både matchspel och slagspel följa den bollindelning som gäller.",
+        "Att inte spela i rätt boll kan leda till diskvalifikation."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "5.4a",
+          "title": "Matchspel",
+          "summary": "I matchspel måste spelaren och motspelaren spela varje hål i samma boll.",
+          "key_points": [
+            "Under en rond i matchspel måste spelaren och motspelaren spela varje hål tillsammans i samma grupp (boll)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.4b",
+          "title": "Slagspel",
+          "summary": "I slagspel måste spelaren stanna kvar i den boll som tävlingsledningen bestämt, om inte byte godkänns.",
+          "key_points": [
+            "Under en slagspelsrond måste spelaren stanna kvar i den boll som fastställts av tävlingsledningen.",
+            "Ett byte av boll får bara ske om tävlingsledningen godkänner det, antingen innan eller efter att bytet skett.",
+            "Plikten för brott mot Regel 5.4 är diskvalifikation."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "5.5",
+      "title": "Övning under ronden eller medan spelet är avbrutet",
+      "purpose": "Begränsar övning under pågående rond och när spelet är avbrutet, med vissa undantag för puttning och chippning.",
+      "key_points": [
+        "Spelaren får inte slå övningsslag under spelet av ett hål.",
+        "Det finns begränsningar för övningsslag mellan hål, med särskilt tillåtna övningsområden.",
+        "När spelet är avbrutet får övning endast ske i vissa tillåtna situationer.",
+        "Plikten för brott mot Regel 5.5 är den allmänna plikten, som läggs på nästa hål om brottet sker mellan två hål."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "5.5a",
+          "title": "Inga övningsslag under spelet av ett hål",
+          "summary": "Förbjuder övningsslag mot någon boll under spelet av ett hål, men tillåter övningssvingar och vissa artighetsslag.",
+          "key_points": [
+            "Under spelet av ett hål får spelaren inte slå ett övningsslag mot någon boll, vare sig på eller utanför banan.",
+            "En övningssving utan avsikt att träffa en boll räknas inte som övningsslag.",
+            "Att slå tillbaka en boll till ett övningsområde eller till en annan spelare enbart av artighet räknas inte som övningsslag.",
+            "Slag som utförs för att spela ut ett hål vars resultat redan är avgjort räknas inte som övningsslag."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.5b",
+          "title": "Begränsningar för övningsslag efter att ett hål är avslutat",
+          "summary": "Förbjuder övningsslag efter att ett hål avslutats och före nästa hål startas, med undantag för puttning eller chippning på vissa platser utan orimlig fördröjning.",
+          "key_points": [
+            "Efter att ha avslutat ett hål, men innan spelaren slår för att starta nästa hål, får spelaren inte slå övningsslag.",
+            "Undantag: spelaren får öva puttning eller chippning på eller nära green på hålet som just avslutats, varje övningsgreen (se Regel 13.1e) samt tee på nästa hål.",
+            "Övningsslag enligt undantaget får inte göras från en bunker.",
+            "Sådan övning får inte orimligt fördröja spelet (se Regel 5.6a).",
+            "Tävlingsledningen kan genom lokal regel (Model Local Rule I-2) förbjuda spelare från att öva puttning eller chippning på eller nära green på det hål som just avslutats."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.5c",
+          "title": "Övning medan spelet är avbrutet eller stoppat på annat sätt",
+          "summary": "Begränsar övning när spelet är avbrutet enligt Regel 5.7a och anger var spelaren ändå får öva.",
+          "key_points": [
+            "När spelet är avbrutet eller stoppat enligt Regel 5.7a får spelaren inte göra övningsslag utom i de fall som tillåts i Regel 5.5b, var som helst utanför banan eller på platser på banan där tävlingsledningen uttryckligen tillåter övning.",
+            "Om en match avbryts efter överenskommelse mellan spelarna och inte ska återupptas samma dag får spelarna öva på banan utan begränsningar innan matchen återupptas.",
+            "Plikten för brott mot Regel 5.5 är den allmänna plikten; om brottet sker mellan två hål läggs plikten på nästa hål."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "5.6",
+      "title": "Orimlig fördröjning; Raskt speltempo",
+      "purpose": "Förbjuder orimlig fördröjning av spelet, anger pliktskala för upprepade fördröjningar och uppmuntrar till raskt speltempo med rekommendationer för hur spelare ska agera.",
+      "key_points": [
+        "Spelaren får inte orimligt fördröja spelet vare sig under spel av ett hål eller mellan två hål.",
+        "Ett kortare avbrott kan vara tillåtet av särskilda skäl, t ex domslut, skada, sjukdom eller andra godtagbara orsaker.",
+        "Regeln inför en stegvis pliktskala för upprepade brott mot speltempo.",
+        "Spelare uppmuntras att spela i raskt tempo och att släppa igenom snabbare bollar.",
+        "Tävlingsledningen uppmuntras att anta riktlinjer för speltempo med tydlig max tid och tillhörande plikter."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "5.6a",
+          "title": "Orimlig fördröjning av spel",
+          "summary": "Förbjuder orimlig fördröjning av spelet och inför en pliktskala vid upprepade överträdelser, även mellan hål.",
+          "key_points": [
+            "Spelaren får inte orimligt fördröja spelet, vare sig under spelet av ett hål eller mellan två hål.",
+            "Kortare avbrott är tillåtna av speciella skäl, t ex när spelaren begär hjälp från domare eller tävlingsledning, vid skada eller sjukdom eller andra goda skäl.",
+            "Plikt vid första överträdelsen är ett slags plikt.",
+            "Plikt vid andra överträdelsen är allmän plikt.",
+            "Plikt vid tredje överträdelsen är diskvalifikation.",
+            "Om fördröjningen sker mellan två hål läggs plikten på nästa hål.",
+            "Regel 25.6a beskriver hur Regel 5.6a tillämpas för spelare med funktionsnedsättning."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.6b",
+          "title": "Raskt speltempo",
+          "summary": "Betonar att en rond ska spelas i raskt tempo, ger rekommendationer om tidsåtgång för slag och uppmuntrar bland annat \\'91ready golf\\'92 i slagspel.",
+          "key_points": [
+            "Avsikten är att en golfrond ska spelas i raskt tempo.",
+            "Varje spelare bör förstå att det egna speltempot påverkar hur lång tid det tar för både den egna bollen och efterföljande bollar att spela sina ronder.",
+            "Spelare uppmuntras att släppa igenom snabbare bollar.",
+            "Spelaren bör spela i rask takt under hela ronden, inklusive tid för förberedelse och genomförande av slag samt förflyttning mellan slag och till nästa tee.",
+            "Spelaren bör förbereda sig inför nästa slag i förväg och vara redo att spela när det är spelarens tur.",
+            "Det rekommenderas att spelaren genomför slaget inom högst 40 sekunder när spelaren kan eller borde kunna spela utan hinder eller störningar.",
+            "Spelaren bör normalt kunna spela snabbare än 40 sekunder och uppmuntras att göra det.",
+            "I matchspel får spelarna komma överens om att spela i fel ordning för att vinna tid (se Regel 6.4a Undantag).",
+            "I slagspel uppmuntras \\'93ready golf\\'94 på ett säkert och ansvarsfullt sätt (se Regel 6.4b(2)).",
+            "Tävlingsledningen bör anta en lokal regel med riktlinjer för speltempo, som kan ange maximal tid för rond, hål eller slag samt vilka plikter som gäller om riktlinjerna inte följs (se Committee Procedures, Section 5H)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "5.7",
+      "title": "Avbryta spelet; Återuppta spelet",
+      "purpose": "Reglerar när spelaren får eller måste avbryta spelet, vad som gäller vid olika typer av spelavbrott beslutade av tävlingsledningen, när och hur spelet ska återupptas samt hur bollen ska hanteras i samband med avbrott.",
+      "key_points": [
+        "Spelare får endast avbryta spelet i vissa angivna situationer; annars riskerar spelaren diskvalifikation.",
+        "Tävlingsledningen kan besluta om omedelbart eller normalt spelavbrott, med olika krav på spelarna.",
+        "Spelaren måste återuppta spelet på rätt plats och tid, annars gäller diskvalifikation med vissa undantag.",
+        "Bollen får lyftas vid avbrott och måste återplaceras korrekt när spelet återupptas, annars kan allmän plikt utdömas för spel från fel plats."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "5.7a",
+          "title": "När spelare får eller måste avbryta spelet",
+          "summary": "Begränsar när en spelare får avbryta spelet och kräver avbrott vid beslut av tävlingsledningen; ger särskild rätt att avbryta vid fara för blixtnedslag.",
+          "key_points": [
+            "En spelare får inte avbryta spelet under en rond annat än i följande fall: när tävlingsledningen avbryter spelet, efter överenskommelse i matchspel (om det inte försenar tävlingen) eller när spelaren har skäl att tro att det finns fara för blixtnedslag.",
+            "Alla spelare måste avbryta spelet om tävlingsledningen beslutar om avbrott (se Regel 5.7b).",
+            "Spelare i match får komma överens om att avbryta spelet av vilken anledning som helst, så länge detta inte försenar tävlingen; om en spelare senare vill återuppta spelet upphör överenskommelsen.",
+            "En enskild spelare får avbryta spelet om det finns skäl att tro att det är fara för blixtnedslag, men måste rapportera detta till tävlingsledningen så snart som möjligt.",
+            "Att lämna banan i sig räknas inte som avbrott i spelet; orimlig fördröjning täcks av Regel 5.6a.",
+            "Om spelaren avbryter spelet utan tillåten orsak enligt denna regel eller inte rapporterar till tävlingsledningen när detta krävs, blir spelaren diskvalificerad."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.7b",
+          "title": "Vad spelare måste göra när tävlingsledningen avbryter spelet",
+          "summary": "Anger skillnaden mellan omedelbart och normalt spelavbrott, samt hur spelare ska agera beroende på var i spelet de befinner sig när avbrottet inträffar.",
+          "key_points": [
+            "Tävlingsledningen kan besluta om två typer av spelavbrott: omedelbart avbrott (t ex vid överhängande fara) och normalt avbrott (t ex mörker eller ospelbar bana).",
+            "Vid omedelbart avbrott får spelaren inte slå några ytterligare slag innan tävlingsledningen återupptar spelet; tävlingsledningen bör ha ett tydligt sätt att meddela detta.",
+            "Vid normalt avbrott och när alla i bollen är mellan två hål måste de avbryta spelet och får inte starta ett nytt hål förrän spelet återupptas.",
+            "Vid normalt avbrott och när någon i bollen har startat ett hål får spelarna välja att antingen avbryta spelet direkt eller spela ut hålet; de har en kort tid (normalt högst två minuter) på sig att bestämma sig.",
+            "Om spelarna fortsätter att spela hålet får de avsluta hålet eller avbryta innan hålet är klart; när hålet väl avslutats eller spelet avbrutits får inga fler slag slås förrän spelet återupptas enligt Regel 5.7c.",
+            "Om spelarna inte kan enas om vad som ska göras gäller i matchspel att om motspelaren avbryter måste spelaren också avbryta, och ingen får fortsätta förrän spelet återupptas; om spelaren inte avbryter får han/hon den allmänna plikten (förlust av hål).",
+            "I slagspel får varje spelare i bollen själv besluta att avbryta eller fortsätta, oavsett vad de andra gör, men spelaren får bara fortsätta om markören stannar kvar och för spelarens score.",
+            "Plikten för brott mot Regel 5.7b är diskvalifikation.",
+            "Undantag: det blir ingen plikt om tävlingsledningen beslutar att förhållandena gav spelarna berättigad anledning att inte avbryta spelet när detta krävdes.",
+            "Model Local Rule J-1 ger rekommenderade metoder för hur tävlingsledningen tillkännager omedelbara och normala spelavbrott."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.7c",
+          "title": "Vad spelare måste göra när spelet återupptas",
+          "summary": "Anger var och när spelaren måste återuppta spelet efter ett avbrott, och att misslyckande kan leda till diskvalifikation med vissa undantag.",
+          "key_points": [
+            "Spelaren måste återuppta spelet där han/hon avbröt spelet av ett hål eller, om avbrottet skedde mellan två hål, på nästa tee, även om spelet återupptas en annan dag.",
+            "Om spelaren återupptar spelet från annan plats än där spelet avbröts kan Regel 6.1b och 14.7 (spel från fel plats) bli tillämpliga.",
+            "Spelaren måste vara på rätt plats och redo att spela vid den tidpunkt som tävlingsledningen fastställt för återupptagandet, och får inte återuppta spelet före denna tid.",
+            "Om möjligheten att återuppta spelet försenas, t ex p g a spelare framför, bryter spelaren inte mot regeln om han/hon är på plats och redo när bollen kan återuppta spelet.",
+            "Plikt för brott mot Regel 5.7c(2) är diskvalifikation.",
+            "Undantag från diskvalifikation för att inte återuppta spelet i tid motsvarar Undantag 1, 2 och 3 i Regel 5.3a samt undantaget i Regel 5.7b."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "5.7d",
+          "title": "Lyfta bollen när spelet avbryts, återplacera och byta in en boll när spelet återupptas",
+          "summary": "Reglerar hur spelaren får lyfta, återplacera eller byta boll i samband med spelavbrott, samt vad som gäller om boll eller markering rör sig under avbrottet.",
+          "key_points": [
+            "När spelet av ett hål avbryts enligt Regel 5.7 får spelaren markera bollens läge och lyfta bollen enligt Regel 14.1.",
+            "När spelet återupptas och bollen lyfts vid avbrottet måste spelaren återplacera den ursprungliga bollen eller en annan boll på den ursprungliga punkten (om den inte är känd måste den uppskattas) enligt Regel 14.2.",
+            "Om bollen inte lyftes när spelet avbröts får spelaren antingen spela den som den ligger eller markera, lyfta och återplacera den ursprungliga bollen eller en annan boll på den ursprungliga punkten.",
+            "Om bollens läge förändrats som en följd av att bollen lyfts måste spelaren återplacera bollen enligt Regel 14.2d.",
+            "Om bollens läge förändrats efter att bollen lyfts och innan den återplacerats gäller inte Regel 14.2d; bollen måste återplaceras på den ursprungliga punkten (uppskattad vid behov) enligt Regel 14.2, och om läget eller förhållandena försämrats under tiden gäller Regel 8.1d.",
+            "Om boll eller bollmarkering har rubbats på något sätt (även av naturkrafter) innan spelet återupptas måste spelaren antingen återplacera bollen på den ursprungliga punkten eller först sätta ut en bollmarkering och sedan återplacera den ursprungliga bollen eller en annan boll på den punkten.",
+            "Om förhållandena som påverkar slaget försämrats medan spelet varit avbrutet gäller Regel 8.1d.",
+            "Plikt för att spela en boll från fel plats i strid med Regel 5.7d är allmän plikt enligt Regel 14.7a."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "5\\nSpela ronden\\n5.1\\nInnebörd av rond\\nEn \\'93rond\\'94 är 18 eller färre hål spelade i den ordning som fastställts av tävlingsledningen. När en rond slutar oavgjord och spelet kommer att fortsätta tills någon vinner:\\n\\n    Oavgjord match förlängd med ett hål i taget. Detta är en fortsättning av samma rond, inte en ny rond.\\n    Särspel i slagspel. Detta är en ny rond.\\n\\nEn spelare spelar sin rond från när den påbörjas till dess att den avslutas (se Regel 5.3), utom när spelet är avbrutet enligt Regel 5.7a. När en regel syftar på handlingar som utförts \\'93under en rond\\'94 så innefattar inte detta när spelet är avbrutet enligt Regel 5.7a om inte regeln säger annat.\\n5.2\\nÖvning på banan före eller mellan ronder\\nI syfte att tillämpa denna regel:\\n\\n    innebär \\'93övning på banan\\'94 att spela en boll, eller pröva ytan på en green på något hål genom att rulla en boll eller gnugga ytan och\\n    gäller begränsningar för övning på banan före eller mellan ronder bara spelaren, inte spelarens caddie.\\n\\n5.2a\\nMatchspel\\nEn spelare får öva på banan före en rond eller mellan ronder i en matchspelstävling.\\n5.2b\\nSlagspel\\nPå dagen för en slagspelstävling:\\n\\n    En spelare får inte öva på banan före en rond, utom att spelaren får:\\n        öva puttning eller chippning på eller nära sin första tee,\\n        öva på varje övningsområde eller\\n        öva på eller nära green på det hål som just avslutats, även om spelaren ska spela det hålet igen samma dag (se Regel 5.5b).\\n    En spelare får öva på banan efter att ha avslutat spelet av sin sista rond den dagen.\\n\\nOm en spelare slår ett slag i strid med denna regel, får spelaren den allmänna plikten som läggs till spelarens första hål. Om spelaren slår ytterligare ett slag i strid med denna regel, blir spelaren diskvalificerad. Se Committee Procedures, Section 8; Model Local Rule I-1 (i varje spelform får tävlingsledningen anta en lokal regel som förbjuder, begränsar eller tillåter övning på banan före eller mellan ronder).\\n5.3\\nPåbörja och avsluta en rond\\n5.3a\\nNär rond påbörjas\\nEn spelares rond påbörjas när spelaren slår ett slag för att starta sitt första hål (se Regel 6.1a). Spelaren måste starta på (och inte före) sin starttid:\\n\\n    Detta innebär att spelaren måste vara beredd att spela på den starttid och från den startplats som fastställts av tävlingsledningen.\\n    En starttid fastställd av tävlingsledningen är en exakt tid (t ex betyder 9:00 detsamma som 9:00:00 och inte tiden fram till 9:01).\\n\\nOm starttiden har försenats av någon anledning (t ex väder, långsamt spel av andra grupper eller behov av ett domslut från en domare) så blir det inget brott mot denna regel om spelaren är på plats och beredd att spela när spelarens grupp (\\'94boll\\'94) kan starta. Plikt för brott mot Regel 5.3a: Diskvalifikation, utom i dessa tre fall:\\n\\n    Undantag 1 – Spelare anländer till startplatsen, beredd att spela, inte mer än fem minuter för sent: Får spelaren den allmänna plikten på sitt första hål.\\n    Undantag 2 – Spelare startar inte mer än fem minuter för tidigt: Får spelaren den allmänna plikten på sitt första hål.\\n    Undantag 3 – Tävlingsledningen beslutar att exceptionella omständigheter förhindrat spelare att starta i tid: Detta blir inget brott mot denna regel och ingen plikt.\\n\\n5.3b\\nNär en rond avslutas\\nEn spelares rond avslutas:\\n\\n    i matchspel när resultatet av matchen är avgjort enligt Regel 3.2a(3) eller (4).\\n    i slagspel när spelaren hålar ut på det sista hålet (inklusive rättning av ett misstag, t ex enligt Regel 6.1 eller 14.7b).\\n\\nSe Regel 21.1e, 21.2e, 21.3e och 23.3b (när en rond påbörjas och avslutas i andra former av slagspel och i fyrboll).\\n5.4\\nSpela i grupper \\'94bollar\\'94\\n5.4a\\nMatchspel\\nUnder en rond måste spelaren och motspelaren spela varje hål i samma grupp (\\'94boll\\'94).\\n5.4b\\nSlagspel\\nUnder en rond måste spelaren stanna kvar i den grupp (\\'94boll\\'94) som fastställts av tävlingsledningen, om inte tävlingsledningen godkänner ett byte antingen innan eller efter att det sker. Plikt för brott mot Regel 5.4: diskvalifikation.\\n5.5\\nÖvning under ronden eller medan spelet är avbrutet\\n5.5a\\nInga övningsslag under spelet av ett hål\\nUnder spelet av ett hål får en spelare inte slå ett övningsslag mot någon boll på eller utanför banan. Följande är inte övningsslag:\\n\\n    En övningssving gjord utan avsikt att träffa någon boll.\\n    Att slå tillbaka en boll till ett övningsområde eller till en annan spelare, när det görs enbart av artighet.\\n    Slag utförda av en spelare för att spela ut ett hål vars resultat har avgjorts.\\n\\n5.5b\\nBegränsningar för övningsslag efter att ett hål är avslutat\\nEfter att ha avslutat spelet av ett hål, men innan spelaren slår ett slag för att starta ett annat hål, får spelaren inte slå ett övningsslag. Undantag – Var spelare tillåts att öva puttning eller chippning: Spelaren får öva puttning eller chippning på eller nära:\\n\\n    green på det hål som just avslutats och varje övningsgreen (se Regel 13.1e) samt\\n    tee på nästa hål.\\n\\nMen sådana övningsslag får inte göras från en bunker och får inte orimligt fördröja spelet (se Regel 5.6a). Se Committee Procedures, Section 8; Model Local Rule I-2 (tävlingsledningen får anta en lokal regel som förbjuder spelare från att öva puttning eller chippning på eller nära green på det hål som just avslutats).\\n5.5c\\nÖvning medan spelet är avbrutet eller stoppat på annat sätt\\nMedan spelet är avbrutet eller på annat sätt stoppat enligt Regel 5.7a, får en spelare inte göra ett övningsslag förutom:\\n\\n    vad som tillåts i Regel 5.5b,\\n    var som helst utanför banan och\\n    var som helst på banan där tävlingsledningen tillåter detta.\\n\\nOm en match avbryts efter överenskommelse mellan spelarna och inte kommer att återupptas samma dag får spelarna öva på banan utan begränsning innan matchen återupptas. Plikt för brott mot Regel 5.5: allmän plikt. Om regelbrottet sker mellan två hål, läggs plikten på nästa hål.\\n5.6\\nOrimlig fördröjning; Raskt speltempo\\n5.6a\\nOrimlig fördröjning av spel\\nEn spelare får inte orimligt fördröja spelet, vare sig under spelet av ett hål eller mellan två hål. En spelare kan tillåtas ett kortare avbrott av speciella skäl, t ex:\\n\\n    när spelaren begär hjälp från en domare eller tävlingsledningen,\\n    när spelaren blir skadad eller sjuk eller\\n    när det finns något annat gott skäl.\\n\\nPlikt för brott mot Regel 5.6a:\\n\\n    Plikt vid första överträdelsen: ett slags plikt.\\n    Plikt för andra överträdelsen: allmän plikt.\\n    Plikt vid tredje överträdelsen: diskvalifikation.\\n\\nOm spelaren fördröjer spelet mellan två hål på ett orimligt sätt, läggs plikten på nästa hål. Se Regel 25.6a (tillämpning av Regel 5.6a för spelare med funktionsnedsättning).\\n5.6b\\nRaskt speltempo\\nMeningen är att en golfrond ska spelas i rask takt. Varje spelare bör inse att hans/hennes speltempo troligen påverkar hur lång tid det kommer att ta för andra spelare att spela sina ronder, både de i spelarens egen grupp (\\'94boll\\'94) och de i efterföljande grupper (\\'94bollar\\'94). Spelare uppmuntras att släppa igenom snabbare grupper (\\'94bollar\\'94). (1) Rekommendationer för speltempo. Spelaren bör spela i rask takt under hela ronden, inklusive den tid det tar att:\\n\\n    förbereda och genomföra varje slag,\\n    förflytta sig från en plats till en annan mellan slagen och\\n    förflytta sig till nästa tee sedan ett hål är avslutat.\\n\\nEn spelare bör förbereda sig inför nästa slag i förväg och vara redo att spela när det är spelarens tur. När det är spelarens tur att spela:\\n\\n    rekommenderas att spelaren genomför slaget inom högst 40 sekunder när spelaren kan (eller borde kunna) spela utan hinder eller störningar, och\\n    bör spelaren som regel kunna spela fortare än så och uppmuntras att göra det.\\n\\n(2) Spela i fel ordning för att hålla speltempot. Beroende på spelformen finns det tillfällen när spelare får spela i fel ordning för att hålla speltempot:\\n\\n    I matchspel får spelarna komma överens om att en av dem får spela i fel ordning för att vinna tid (se Regel 6.4a Undantag).\\n    I slagspel får spelare tillämpa \\'93ready golf\\'94 på ett säkert och ansvarsfullt sätt (se Regel 6.4b(2)).\\n\\n(3) Tävlingsledningens riktlinjer för speltempo. För att uppmuntra och upprätthålla raskt spel bör tävlingsledningen anta en lokal regel som anger riktlinjer för speltempo. Dessa riktlinjer får ange maximal tid för att spela en rond, ett eller flera hål och ett slag, och den får ange plikt om riktlinjerna inte följs.\\nEncouraging Prompt Pace of Play\\nSe Committee Procedures, Section 5H (rekommendationer när det gäller riktlinjer för speltempo).\\n5.7\\nAvbryta spelet; Återuppta spelet\\n5.7a\\nNär spelare får eller måste avbryta spelet\\nEn spelare får inte avbryta spelet under en rond utom i dessa fall:\\n\\n    Avbrott efter beslut av tävlingsledningen. Alla spelare måste avbryta spelet om tävlingsledningen avbryter spelet (se Regel 5.7b).\\n    Avbrott efter överenskommelse i matchspel. Spelare i en match får komma överens om att avbryta spelet av vilken anledning som helst, utom när detta skulle försena tävlingen. Om de kommer överens om att avbryta spelet och en spelare sedan vill återuppta spelet, har överenskommelsen upphört och den andra spelaren måste återuppta spelet.\\n    Enskild spelare avbryter spelet på grund av blixtnedslag. En spelare får avbryta spelet om spelaren har skäl att tro det är fara för blixtnedslag, men måste rapportera det till tävlingsledningen så fort som möjligt.\\n\\nAtt lämna banan är i sig inte avbrott i spelet. En spelares fördröjning av spelet täcks av Regel 5.6a, inte av denna regel. Om en spelare avbryter spelet av någon orsak som inte tillåts enligt denna regel eller inte rapporterar till tävlingsledningen när det krävs att detta görs, blir spelaren diskvalificerad.\\n5.7b\\nVad spelare måste göra när tävlingsledningen avbryter spelet\\nTävlingsledningen kan besluta om två typer av spelavbrott, vart och ett med olika krav på när spelarna måste avbryta spelet. (1) Omedelbart avbrott (t ex när det är överhängande fara). Om tävlingsledningen beslutar om omedelbart avbrott av spelet får en spelare inte slå något ytterligare slag innan tävlingsledningen återupptar spelet. Tävlingsledningen bör använda sig av ett tydligt sätt att informera spelarna om ett omedelbart avbrott. (2) Normalt avbrott (t ex för mörker eller ospelbar bana). Vad som sker när tävlingsledningen avbryter spelet av normala orsaker beror på var varje spelande grupp är:\\n\\n    Mellan två hål. Om alla spelare i en grupp (\\'94boll\\'94) är mellan två hål måste de avbryta spelet och får inte slå något slag för att starta ett nytt hål innan tävlingsledningen återupptar spelet.\\n    Under spelet av ett hål. Om någon spelare i gruppen (\\'94bollen\\'94) har startat spelet av ett hål, får spelarna välja att antingen avbryta spelet eller spela ut hålet.\\n        Spelarna får en kort stund (som normalt inte bör vara längre än två minuter) på sig för att avgöra om man ska avbryta eller spela ut hålet.\\n        Om spelarna fortsätter spelet av hålet, får de fortsätta för att avsluta hålet eller avbryta innan de avslutat hålet.\\n        Så snart spelarna avslutar hålet eller avbryter innan de avslutat hålet, får de inte slå något ytterligare slag, förrän tävlingsledningen återupptar spelet enligt Regel 5.7c.\\n\\nOm spelarna inte kommer överens om vad man ska göra:\\n\\n        Matchspel. Om motspelaren avbryter spelet, måste även spelaren göra detta, och ingen av dem får fortsätta förrän tävlingsledningen återupptar spelet. Om spelaren inte avslutar spelet, får han/hon den allmänna plikten (förlust av hål).\\n        Slagspel. Varje spelare i gruppen (\\'94bollen\\'94) får välja att avbryta spelet eller fortsätta spelet, oavsett vad de andra i gruppen (\\'94bollen\\'94) beslutar att göra, förutom att spelaren bara får fortsätta om spelarens markör stannar kvar för att föra spelarens score.\\n\\nPlikt för brott mot Regel 5.7b: diskvalifikation. Undantag – Ingen plikt om tävlingsledningen beslutar att spelarna hade en berättigad anledning att inte avbryta spelet: Det blir inget brott mot denna regel och ingen plikt om tävlingsledningen beslutar att förhållandena gjorde att det fanns berättigad anledning för spelarna att inte avbryta spelet när detta krävdes av dem. Se Committee Procedures, Section 8; Model Local Rule J-1 (rekommenderade metoder för tävlingsledning att tillkännage omedelbara och normala spelavbrott för spelare).\\n5.7c\\nVad spelare måste göra när spelet återupptas\\n(1) Var spelet återupptas. Spelaren måste återuppta spelet där spelaren avbröt spelet av ett hål eller mellan två hål på nästa tee, även om det återupptas en annan dag. Om en spelare återupptar spelet från en annan plats än där spelaren avbrutit spelet, se Regel 6.1b och 14.7. (2) När spelet återupptas. Spelaren måste vara vid den angivna platsen i (1) och redo att spela:\\n\\n    vid den tidpunkt som tävlingsledningen angett att spelet ska återupptas, och\\n    spelaren måste återuppta spelet vid (och inte innan) denna tidpunkt.\\n\\nOm möjligheten att återuppta spelet försenas av någon anledning (t ex när spelare i gruppen (\\'94bollen\\'94) framför måste spela först och flytta sig ur vägen), blir det inget brott mot denna regel om spelaren är på plats och redo att spela när spelarens grupp (\\'94boll\\'94) kan återuppta spelet. Plikt för brott mot Regel 5.7c(2): diskvalifikation. Undantag från diskvalifikation för att inte återuppta spelet i tid: Undantag 1, 2 och 3 i Regel 5.3a och undantaget i Regel 5.7b gäller även här.\\n5.7d\\nLyfta bollen när spelet avbryts, återplacera och byta in en boll när spelet återupptas\\n(1) Lyfta bollen när spelet avbryts eller innan spelet återupptas. När spelet av ett hål avbryts enligt denna regel, får spelaren markera sin bolls läge och lyfta bollen (se Regel 14.1). Antingen innan eller när spelet återupptas:\\n\\n    När spelarens boll lyfts när spelet avbröts. Spelaren måste återplacera den ursprungliga bollen eller en annan boll på den ursprungliga punkten (som, om den inte är känd, måste uppskattas)(se Regel 14.2).\\n    När spelarens boll inte lyfts när spelet avbröts. Spelaren får spela bollen som den ligger eller markera dess läge, lyfta bollen (se Regel 14.1) och återplacera den bollen eller en annan boll på den ursprungliga punkten (se Regel 14.2).\\n\\nI båda fallen:\\n\\n    Om bollens läge är förändrat som en följd av att bollen lyfts, måste spelaren återplacera den bollen eller en annan boll i enlighet med Regel 14.2d.\\n    Om bollens läge är förändrat efter att bollen lyfts och innan den är återplacerad gäller inte Regel 14.2d:\\n        Den ursprungliga bollen eller en annan boll måste återplaceras på den ursprungliga punkten (som, om den inte är känd, måste uppskattas) (se Regel 14.2).\\n        Men om läget eller andra förhållanden som påverkar slaget har försämrats under denna tid gäller Regel 8.1d.\\n\\n(2) Hur man ska handla om en boll eller bollmarkering har rubbats medan spelet varit avbrutet. Om spelarens boll eller bollmarkering rubbats på något sätt (även av naturkrafter) innan spelet återupptas måste spelaren antingen:\\n\\n    återplacera den ursprungliga bollen eller en annan boll på den ursprungliga punkten (som, om den inte är känd, måste uppskattas) (se Regel 14.2) eller\\n    placera en bollmarkering för att markera dess ursprungliga läge och sedan återplacera den ursprungliga bollen eller en annan boll på den punkten (se Regel 14.1 och 14.2).\\n\\nOm de förhållanden som påverkar slaget för spelaren försämrats medan spelet varit avbrutet, se Regel 8.1d. Plikt för att spela boll från fel plats i strid med Regel 5.7d: allmän plikt enligt Regel 14.7a.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 5 Spela ronden",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

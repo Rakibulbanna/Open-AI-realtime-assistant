@@ -1,0 +1,213 @@
+{
+  "rule_number": 20,
+  "rule_code": "20",
+  "title": "Lösning av regelproblem / Rulings and Decisions",
+  "summary": {
+    "short": "Regel 20 beskriver hur regelproblem löses under ronden, hur spelare ska agera vid osäkerhet, samt hur domare och tävlingsledning fattar och korrigerar domslut – inklusive när diskvalifikation kan ske även efter att resultatet blivit slutgiltigt.",
+    "detailed": "Regel 20 förklarar först hur spelare ska hantera regelfrågor under en rond (20.1): spelaren får inte orimligt fördröja spelet, kan i matchspel begära domslut i tid och i slagspel spela två bollar för att skydda sina rättigheter. I matchspel (20.1b) kan spelarna i viss mån komma överens om lösningar, men domslut kan begäras fram till dess att resultatet är slutgiltigt. I slagspel (20.1c) får man inte avgöra regelfrågor genom överenskommelse, man ska skydda övriga spelares intressen, och vid osäkerhet kan man spela två bollar och sedan låta tävlingsledningen fastställa vilken score som gäller. Regel 20.2 klargör domarens och tävlingsledningens roller, hur videobevis får användas enligt \\'94blotta ögat\\'94-principen, samt hur felaktiga domslut skiljs från administrativa misstag och kan korrigeras. Regel 20.2e–f reglerar när spelare kan diskvalificeras efter att resultatet blivit slutgiltigt och hur obehörig spelare hanteras. Slutligen anger Regel 20.3 att situationer som inte täcks av reglerna ska lösas av tävlingsledningen på ett rimligt och rättvist sätt, i linje med spelets anda och jämförbara situationer i reglerna."
+  },
+  "sections": [
+    {
+      "section_number": "20.1",
+      "title": "Lösa regelproblem under en rond",
+      "purpose": "Beskriva hur spelare ska hantera regelfrågor under pågående rond, utan att orimligt fördröja spelet och samtidigt skydda sina rättigheter.",
+      "key_points": [
+        "Spelare får inte orimligt fördröja spelet när de söker hjälp med reglerna under en rond.",
+        "Om domare eller tävlingsledning inte kan nås inom rimlig tid måste spelaren själv avgöra hur han/hon ska göra och spela vidare.",
+        "I matchspel kan spelaren skydda sina rättigheter genom att begära ett domslut enligt Regel 20.1b.",
+        "I slagspel kan spelaren skydda sina rättigheter genom att spela två bollar enligt Regel 20.1c(3)."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "20.1a",
+          "title": "Spelare måste undvika orimlig fördröjning",
+          "summary": "Spelare får inte orimligt fördröja spelet när de hanterar regelfrågor; om hjälp inte finns att få i tid måste de själva besluta och spela vidare.",
+          "key_points": [
+            "Spelare får inte orimligt fördröja spelet när de söker hjälp med reglerna.",
+            "Om domare eller tävlingsledning inte kan nås inom rimlig tid måste spelaren själv avgöra hur han/hon ska göra.",
+            "Spelaren kan i matchspel skydda sina rättigheter genom att begära domslut enligt Regel 20.1b(2).",
+            "Spelaren kan i slagspel skydda sina rättigheter genom att spela två bollar enligt Regel 20.1c(3)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "20.1b",
+          "title": "Regelproblem i matchspel",
+          "summary": "I matchspel kan spelarna ibland avgöra regelfrågor genom överenskommelse, men domare och tävlingsledning kan ge bindande domslut om de tillkallas i tid. Det finns tydliga tidsgränser för när domslut kan begäras, både före och efter att resultatet är slutgiltigt.",
+          "key_points": [
+            "Spelare i en match får under ronden komma överens om hur en regelfråga ska avgöras.",
+            "Ett överenskommet utfall är bindande även om det visar sig vara fel enligt reglerna, så länge spelarna inte medvetet bortsett från en regel eller plikt som de visste gällde (Regel 1.3b(1)).",
+            "Om en domare är utsedd för matchen måste domaren avgöra varje regelfråga som domaren får kännedom om i tid, och spelarna måste följa domslutet.",
+            "Om ingen domare finns tillgänglig och spelarna inte är överens kan någon begära domslut enligt 20.1b(2).",
+            "En spelare kan begära domslut från domare eller tävlingsledning om hur reglerna ska tillämpas för det egna spelet eller motspelarens spel.",
+            "Om domare/tävlingsledning inte går att nå inom rimlig tid kan spelaren meddela motspelaren att domslut kommer att sökas senare.",
+            "Domslut ges bara om begäran görs i tid, beroende på när spelaren blev medveten om de fakta som skapat regelproblemet.",
+            "Om spelaren blir medveten om fakta innan sista hålet påbörjats måste begäran göras innan någon slår slag för att starta ett annat hål.",
+            "Om spelaren blir medveten om fakta under eller efter avslutandet av matchens sista hål måste begäran göras innan matchresultatet är slutgiltigt (Regel 3.2a(5)).",
+            "Om begäran inte görs i tid kommer inget domslut att ges och resultatet på det aktuella hålet/hålen står fast, även om reglerna tillämpades fel.",
+            "För domslut om tidigare hål krävs att: (1) motspelaren brutit mot Regel 3.2d(1) eller 3.2d(2), (2) begäran baseras på fakta spelaren inte kände till innan nästa hål startades, och (3) en begäran görs i tid efter att spelaren fått kännedom om fakta.",
+            "Efter att matchens resultat är slutgiltigt kan tävlingsledningen bara ge domslut om: (1) förfrågan baseras på fakta spelaren inte kände till innan resultatet var slutgiltigt, och (2) motspelaren bröt mot Regel 3.2d(1) eller 3.2d(2) och kände till överträdelsen innan resultatet var slutgiltigt.",
+            "För sådana domslut efter slutgiltigt resultat finns ingen tidsgräns.",
+            "En spelare som är osäker på rätt förfarande i match får inte spela två bollar – detta är endast tillåtet i slagspel (Regel 20.1c)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "20.1c",
+          "title": "Regelproblem i slagspel",
+          "summary": "I slagspel får spelare inte avgöra regelfrågor genom överenskommelse. De ska skydda övriga spelares intressen och kan vid osäkerhet spela två bollar och sedan låta tävlingsledningen avgöra vilken score som gäller.",
+          "key_points": [
+            "Spelare får inte avgöra regelfrågor genom överenskommelse; en sådan överenskommelse är inte bindande för någon spelare, domare eller tävlingsledning.",
+            "Spelare uppmanas att hjälpa varandra att tillämpa reglerna, men slutlig bedömning ska göras av tävlingsledningen.",
+            "En spelare bör ta upp regelproblem med tävlingsledningen innan scorekortet lämnas in.",
+            "För att skydda andra spelares intressen bör en spelare som vet eller tror att en annan spelare brutit eller kan ha brutit mot regler informera den spelaren, markören, domare eller tävlingsledningen.",
+            "Detta ska göras snarast möjligt, och senast innan den andre spelaren lämnar in scorekortet, om det inte är omöjligt.",
+            "Underlåtenhet att göra detta kan leda till diskvalifikation enligt Regel 1.2a om det bedöms som allvarligt dåligt uppförande mot spelets anda.",
+            "En spelare som är osäker på rätt förfarande medan ett hål spelas får utan plikt avsluta hålet med två bollar.",
+            "Spelaren måste bestämma sig för att spela två bollar efter att den osäkra situationen uppstått och innan ett slag slås.",
+            "Spelaren bör välja vilken boll som ska räknas (om reglerna tillåter det förfarandet) genom att meddela valet till markören eller en annan spelare innan slag slås med någon av bollarna.",
+            "Om inget val meddelas i tid räknas i stället den först spelade bollen som vald.",
+            "Spelaren måste rapportera alla fakta till tävlingsledningen innan scorekortet lämnas in, även om scoren är samma med båda bollarna. Underlåtenhet leder till diskvalifikation.",
+            "Om spelaren slog ett slag innan beslutet att spela en andra boll gäller inte 20.1c(3) alls; scoren med den boll som var i spel före beslutet blir då den som räknas.",
+            "Spelaren får ingen extra plikt bara för att en andra boll spelats i en sådan situation, men den andra bollen räknas inte.",
+            "En andra boll enligt denna regel är inte detsamma som en provisorisk boll enligt Regel 18.3.",
+            "När två bollar spelats fastställer tävlingsledningen vilken score som gäller enligt 20.1c(4): man ser vilken boll som är vald och om förfarandet med den bollen var tillåtet enligt reglerna.",
+            "Om reglerna tillåter proceduren för den valda bollen räknas dess score.",
+            "Om proceduren inte var tillåten för den valda bollen, men för den andra, räknas den andra bollens score.",
+            "Om proceduren inte var tillåten för någon av bollarna räknas normalt den valda bollen, utom om det skett ett allvarligt fel av fel plats – då räknas den andra bollen.",
+            "Om allvarligt fel av fel plats skett med båda bollarna blir spelaren diskvalificerad.",
+            "Alla slag (inklusive pliktslag) med bollen som inte ska räknas räknas inte i spelarens score.",
+            "Med att reglerna tillåter proceduren avses att antingen: (a) bollen spelats som den låg från en plats där det var tillåtet, eller (b) bollen satts i spel på rätt sätt, enligt rätt procedur och på rätt plats."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "20.2",
+      "title": "Domslut angående regelfrågor",
+      "purpose": "Förklara hur domare och tävlingsledning fattar, tolkar och eventuellt korrigerar domslut, och när diskvalifikation eller resultatändring kan ske.",
+      "key_points": [
+        "En domare har av tävlingsledningen fått befogenhet att avgöra fakta och tillämpa reglerna, och spelarens skyldighet är att följa domarens domslut.",
+        "Tävlingsledningen avgör regelfrågor när ingen domare finns eller när domare hänskjuter en fråga, och deras domslut är slutgiltigt.",
+        "Vid användning av videobevis gäller \\'94blotta ögat\\'94-principen: sådant som rimligen inte kunde ses med blotta ögat ska bortses från.",
+        "Felaktiga domslut (regel-tolkningar) kan ibland korrigeras, medan administrativa misstag kan rättas utan tidsgräns.",
+        "Spelare kan diskvalificeras även efter att resultat är slutgiltigt i vissa fall, t.ex. vid allvarligt dåligt uppträdande eller medveten regelöverträdelse.",
+        "En obehörig spelare behandlas som om han/hon inte deltagit, och resultaten ändras därefter.",
+        "Situationer som inte uttryckligen täcks av reglerna måste avgöras av tävlingsledningen på ett rimligt och rättvist sätt."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "20.2a",
+          "title": "Domslut av domare",
+          "summary": "Domaren avgör fakta och tillämpar reglerna; spelaren måste följa domslutet, men domaren kan själv söka \\'94second opinion\\'94 eller hänskjuta till tävlingsledningen.",
+          "key_points": [
+            "En domare är en person som tävlingsledningen gett befogenhet att avgöra fakta och tillämpa reglerna.",
+            "Domaren kan ta hjälp av tävlingsledningen innan domslut fattas.",
+            "Domarens domslut om fakta eller tillämpning av regler måste följas av spelaren.",
+            "Spelaren har ingen rätt att överklaga till tävlingsledningen, men domaren kan själv be om en \\'94second opinion\\'94 eller hänskjuta frågan till tävlingsledningen.",
+            "Domarens beslut är slutgiltigt, och en spelare får ingen plikt om domaren felaktigt tillåtit ett regelbrott.",
+            "Felaktiga domslut kan dock korrigeras enligt Regel 20.2d, om det fortfarande är möjligt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "20.2b",
+          "title": "Domslut av tävlingsledning",
+          "summary": "När domare saknas eller hänskjuter en fråga beslutar tävlingsledningen, och dess domslut är slutgiltigt; i sista hand kan frågan skickas vidare till The R&A.",
+          "key_points": [
+            "Om ingen domare finns eller domaren hänvisar frågan, ska domslut avges av tävlingsledningen.",
+            "Tävlingsledningens domslut är slutgiltigt.",
+            "Om tävlingsledningen inte kan komma fram till ett beslut kan frågan hänvisas till The R&A, vars beslut är slutgiltigt.",
+            "Rekommendation: förfrågningar bör först ställas till Svenska Golfförbundet, som endast i tveksamma fall hänskjuter till The R&A."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "20.2c",
+          "title": "Använda \\'94blotta ögat\\'94 som norm vid användning av videobevisning",
+          "summary": "Videobevis får inte användas för att fälla spelare för sådant som inte rimligen kunde ses med blotta ögat; men regelbrott kan ändå konstateras om spelaren på annat sätt vet att det skett.",
+          "key_points": [
+            "Vid faktabedömning med videobevis är användningen begränsad till vad som rimligen kunde ses med \\'94blotta ögat\\'94.",
+            "Om videon visar något som rimligen inte kunde ses med blotta ögat ska videobevisningen bortses ifrån, även om den tyder på regelbrott.",
+            "Även om man bortser från videobevis kan ett regelbrott konstateras om spelaren på annat sätt blivit medveten om fakta (t.ex. att känna att klubban vidrört sand i bunker även om det inte syns)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "20.2d",
+          "title": "Felaktiga domslut och administrativa misstag",
+          "summary": "Skiljer mellan felaktiga domslut (felaktig tillämpning av regler) och administrativa misstag (procedurfel i tävlingsadministrationen), samt hur och när dessa kan rättas.",
+          "key_points": [
+            "Ett felaktigt domslut innebär att domare eller tävlingsledning försökt tillämpa reglerna men gjort det på fel sätt.",
+            "Exempel på felaktiga domslut: felaktig plikt (för mycket eller för lite), tillämpning av en regel som inte gäller eller inte finns, eller misstolkning av en regel.",
+            "Om ett domslut senare visar sig vara fel ska det korrigeras enligt reglerna, om det fortfarande är möjligt.",
+            "Om det är för sent att korrigera gäller det felaktiga domslutet.",
+            "Om en spelare bryter mot regel p.g.a. att han/hon missförstått en instruktion från domare/tävlingsledning (t.ex. lyfter en boll när det egentligen inte är tillåtet), blir det ingen plikt – instruktionen ses som ett felaktigt domslut.",
+            "Ett administrativt misstag är ett procedurfel i tävlingsadministrationen (annat än felaktigt domslut) och kan alltid rättas, utan tidsgräns.",
+            "Exempel på administrativa misstag: fel särskiljning vid lika resultat i slagspel, felberäknad handicap som ger fel vinnare, eller fel prisutdelning p.g.a. missad score.",
+            "I sådana fall bör misstaget rättas och tävlingsresultaten justeras därefter."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "20.2e",
+          "title": "Diskvalificera spelare efter att resultatet är slutgiltigt",
+          "summary": "Anger i vilka situationer en spelare kan diskvalificeras även efter att resultatet av match eller slagspelstävling är slutgiltigt.",
+          "key_points": [
+            "I matchspel finns ingen tidsgräns för att diskvalificera en spelare enligt Regel 1.2 (allvarligt dåligt uppträdande) eller 1.3b(1) (avsiktligt åsidosättande av regler/plikter som spelarna vet gäller).",
+            "Diskvalifikation i matchspel kan ske även efter att matchresultatet är slutgiltigt (Regel 3.2a(5)).",
+            "För domslut efter slutgiltigt matchresultat enligt 20.1b(3) gäller de särskilda reglerna där.",
+            "I slagspel får plikt normalt inte läggas till eller korrigeras efter att tävlingen har avslutats.",
+            "En slagspelstävling anses avslutad när resultatet blivit slutgiltigt på det sätt som tävlingsledningen anger, eller vid kvalslagspel inför matchspel när spelaren slagit ut på första matchhålet.",
+            "En spelare måste ändå diskvalificeras efter avslutad tävling om: (1) spelaren lämnat in en score på ett hål som är lägre än den verkliga (med undantag enligt Regel 3.3b(3) för okända plikter),",
+            "(2) spelaren visste innan tävlingen avslutats att han/hon brutit mot en regel där plikten är diskvalifikation, eller",
+            "(3) spelaren kommit överens med annan spelare om att åsidosätta regler eller plikter de vet gäller (Regel 1.3b(1)).",
+            "Tävlingsledningen kan dessutom diskvalificera en spelare enligt Regel 1.2 (allvarligt dåligt uppträdande) även efter att tävlingen avslutats."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "20.2f",
+          "title": "Obehörig spelare",
+          "summary": "Om det visar sig att en spelare varit obehörig enligt tävlingsvillkoren kan resultat ändras när som helst, och spelaren behandlas som om han/hon inte deltagit.",
+          "key_points": [
+            "Det finns ingen tidsgräns för att rätta till resultat när man upptäcker att en spelare varit obehörig enligt tävlingsvillkoren.",
+            "Detta gäller både efter att matchresultat blivit slutgiltiga och efter avslutad slagspelstävling.",
+            "Spelaren behandlas då som om han/hon inte deltagit i tävlingen, snarare än att formellt diskvalificeras.",
+            "Resultaten justeras i enlighet med detta."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "20.3",
+      "title": "Situationer som inte täcks av reglerna",
+      "purpose": "Ange hur tävlingsledningen ska agera när en situation uppstår som inte uttryckligen behandlas i reglerna.",
+      "key_points": [
+        "Om en situation inte täcks av reglerna ska tävlingsledningen avgöra frågan.",
+        "Alla omständigheter i situationen ska beaktas.",
+        "Beslutet ska vara rimligt och rättvist.",
+        "Beslutet ska vara konsekvent med hur liknande situationer betraktas enligt reglerna och spelets anda."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "20\\nLösning av regelproblem under rond. Domslut av domare och tävlingsledning\\n20.1\\nLösa regelproblem under en rond\\n20.1a\\nSpelare måste undvika orimlig fördröjning\\nSpelare får inte orimligt fördröja spelet när de söker hjälp med reglerna under en rond:\\n\\n    Om en domare eller tävlingsledningen inte går att nå inom rimlig tid för att hjälpa till med en regelfråga, måste spelaren avgöra vad man ska göra och spela vidare.\\n    Spelaren kan skydda sina rättigheter genom att be om ett domslut i matchspel (se Regel 20.1b(2)) eller genom att spela två bollar i slagspel (se Regel 20.1c(3)).\\n\\n20.1b\\nRegelproblem i matchspel\\n(1) Avgöra problem genom överenskommelse. Under en rond får spelarna i en match komma överens om hur man avgör en regelfråga:\\n\\n    Det överenskomna utfallet är bindande även om det visar sig vara fel enligt reglerna, så länge spelarna inte överenskommit att bortse från någon regel eller plikt som de visste gällde (se Regel 1.3b(1)).\\n    Men om en domare är utsedd för matchen, måste domaren avgöra varje regelfråga som kommer till domarens kännedom i tid (se Regel 20.1b(2), och spelarna måste följa det domslutet.\\n\\nOm en domare inte finns tillgänglig och spelarna inte är överens eller tvivlar på hur reglerna ska tolkas, kan någon av dem begära ett domslut enligt Regel 20.1b(2). (2) Begäran om regelbeslut gjord innan resultat av match är slutgiltigt. När en spelare vill att en domare eller tävlingsledningen ska avgöra hur reglerna ska tillämpas för spelarens eget spel eller motspelarens spel, får spelaren begära ett domslut. Om en domare eller tävlingsledningen inte går att nå inom rimlig tid, får spelaren begära ett domslut genom att meddela motspelaren att ett senare domslut kommer att sökas när en domare eller tävlingsledningen går att nå. Om en spelare gör en begäran om ett domslut innan resultatet av matchen är slutgiltigt:\\n\\n    Ett domslut ges endast om begäran gjorts i tid, vilket beror på när spelaren blivit medveten om de fakta som skapat regelproblemet:\\n        När spelare blir medveten om fakta innan någon av spelarna har påbörjat matchens sista hål. När spelaren blir medveten om fakta, måste begäran om domslutet göras innan någon av spelarna slår ett slag för att påbörja ett annat hål.\\n        När spelare blir medveten om fakta under eller efter avslutandet av matchens sista hål. Begäran om domslut måste göras innan resultatet av matchen är slutgiltigt (se Regel 3.2a(5)).\\n    Om spelaren inte gör en begäran inom denna tid, kommer inte ett domslut att ges av en domare eller tävlingsledning och resultatet på det aktuella hålet eller de aktuella hålen kommer att stå fast även om reglerna tillämpades på fel sätt.\\n\\nOm spelaren begär ett domslut om ett tidigare hål, kommer ett domslut endast att ges om alla dessa tre villkor uppfylls:\\n\\n    Motspelaren bröt mot Regel 3.2d(1) (att uppge fel antal slag) eller Regel 3.2d(2) (att inte meddela spelaren om en plikt),\\n    begäran är baserad på fakta som spelaren inte var medveten om innan någon av spelarna slog ett slag för att påbörja spelet på det spelade hålet eller, om man var mellan två hål, hålet som just avslutats samt\\n    efter att ha blivit medveten om dessa fakta gör spelaren en begäran om ett domslut i tid (som anges ovan).\\n\\n(3) Begäran om domslut efter det att matchresultat är slutgiltigt. När en spelare gör en begäran om ett domslut efter att matchens resultat är slutgiltigt:\\n\\n    Tävlingsledningen kommer bara att ge spelaren ett domslut om båda dessa villkor uppfylls:\\n        Förfrågan är baserad på fakta spelaren inte var medveten om innan resultatet av matchen var slutgiltigt, och\\n        motspelaren bröt mot Regel 3.2d(1) (att uppge fel antal slag) eller Regel 3.2d(2) (inte meddela spelaren om ett pliktslag) och kände till regelbrottet innan resultatet av matchen var slutgiltigt.\\n    Det finns ingen tidsgräns för att ge ett sådant domslut.\\n\\n(4) Ingen rätt att spela två bollar. En spelare som är osäker på det rätta förfarandet i en match får inte spela ut hålet med två bollar. Det förfarandet gäller endast i slagspel (se Regel 20.1c).\\n20.1c\\nRegelproblem i slagspel\\n(1) Ingen rätt att avgöra regelfrågor genom överenskommelse. Om en domare eller tävlingsledningen inte går att nå inom rimlig tid för att hjälpa till med en regelfråga:\\n\\n    uppmanas spelarna att hjälpa varandra med att tillämpa reglerna, men de har ingen rätt att avgöra en regelfråga genom överenskommelse och en sådan överenskommelse som de kan nå är inte bindande för någon spelare, domare eller tävlingsledning.\\n    bör en spelare ta upp alla regelproblem med tävlingsledningen innan spelaren lämnar in sitt scorekort.\\n\\n(2) Spelare bör värna om andra spelare i tävlingen. För att skydda alla andra spelares intressen:\\n\\n    Om en spelare känner till eller tror att en annan spelare har brutit eller kan ha brutit mot reglerna och att den andra spelaren inte känner till eller inte bryr sig om detta, bör spelaren säga till den andra spelaren, spelarens markör, en domare eller tävlingsledningen.\\n    Detta bör ske snarast efter att spelaren blir medveten om problemet, och senast innan den andra spelaren lämnar in sitt scorekort, om det inte är omöjligt att göra detta.\\n\\nOm spelaren inte gör detta, kan tävlingsledningen diskvalificera spelaren enligt Regel 1.2a, om den beslutar att detta varit ett allvarligt fall av dåligt uppförande i strid med spelets anda. (3) Spela två bollar när man är osäker på vad man ska göra. En spelare som är osäker på rätt förfarande medan han/hon spelar ett hål får avsluta hålet med två bollar utan plikt:\\n\\n    Spelaren måste bestämma sig för att spela två bollar efter det att den osäkra situationen uppstått och innan ett slag slås.\\n    Spelaren bör välja vilken boll som ska räknas, om reglerna tillåter förfarandet som används för den bollen, genom att meddela det valet till sin markör eller till en annan spelare innan ett slag slås.\\n    Om spelaren inte väljer i tid, betraktas den först spelade bollen som vald i frånvaro av val.\\n    Spelaren måste rapportera fakta om situationen till tävlingsledningen innan scorekortet lämnas in, även om spelaren har samma score med båda bollarna. Spelaren blir diskvalificerad om spelaren inte gör detta.\\n    Om spelaren slog ett slag innan beslutet att spela en andra boll:\\n        Denna regel gäller inte alls, och scoren som räknas är scoren med den boll som spelades, innan spelaren bestämde sig för att spela den andra bollen.\\n        Men spelaren får ingen plikt för att ha spelat den andra bollen.\\n\\nEn andra boll som spelas enligt denna regel är inte detsamma som en provisorisk boll enligt Regel 18.3. (4) Tävlingsledningens beslut om score på hål. När en spelare spelar två bollar enligt (3), ska tävlingsledningen fastställa spelarens score på hålet enligt följande:\\n\\n    Scoren med den valda bollen (oavsett om den valts av spelaren eller i frånvaro av val) räknas om reglerna tillåter förfaringssättet för den bollen.\\n    Om reglerna inte tillåter det använda förfaringssättet för den bollen, räknas scoren med den andra bollen om reglerna tillåter det använda förfaringssättet för denna andra boll.\\n    Om reglerna inte tillåter det använda förfaringssättet för någon av de två bollarna, räknas scoren med den valda bollen (oavsett om den valts av spelaren eller i frånvaro av val), såvida inte det skett ett allvarligt brott genom att spela bollen från fel plats, och i så fall räknas scoren med den andra bollen.\\n    Om det skett ett allvarligt brott genom att spela bollen från fel plats med båda bollarna, blir spelaren diskvalificerad.\\n    Alla slag på bollen som inte ska räknas (inklusive slag som slagits och varje pliktslag enbart från att spela med den bollen) räknas inte i spelarens score för hålet.\\n\\n\\'93Regler tillåter det använda förfaringssättet\\'94 innebär antingen: (a) den ursprungliga bollen spelades som den låg och det var tillåtet att spela därifrån, eller (b) bollen som spelades sattes i spel enligt rätt förfarande, på rätt sätt och på rätt plats enligt reglerna.\\n20.2\\nDomslut angående regelfrågor\\n20.2a\\nDomslut av domare\\nEn domare är en person som tävlingsledningen gett befogenhet att avgöra frågor om fakta och tillämpa reglerna. Domaren kan ta hjälp av tävlingsledningen innan ett domslut fattas. En domares domslut om fakta eller hur reglerna ska tillämpas måste följas av spelaren. En spelare har inte rätt att överklaga en domares domslut till tävlingsledningen, men efter att ett domslut har fattats, kan domaren:\\n\\n    få en \\'94second opinion\\'94 från en annan domare, eller\\n    hänskjuta ett domslut till tävlingsledningen för granskning,\\n\\nmen behöver inte göra detta. En domares beslut är slutgiltigt, så om en domare felaktigt ger tillåtelse för en spelare att bryta mot en regel, får inte spelaren plikt. Men, se Regel 20.2d när ett felaktigt beslut av en domare eller tävlingsledningen kommer att korrigeras.\\n20.2b\\nDomslut av tävlingsledning\\nNär det inte finns någon domare som kan avge ett domslut eller när domaren hänvisar ett domslut till tävlingsledningen:\\n\\n    ska domslutet avges av tävlingsledningen, och\\n    tävlingsledningens domslut är slutgiltigt.\\n\\nOm tävlingsledningen inte kan komma fram till ett beslut, kan den hänvisa frågan till The R&A, vars beslut är slutgiltigt. Anmärkning: Det rekommenderas att förfrågningar i första hand ställs till Svenska Golfförbundet, som endast i tveksamma fall överlämnar frågan till The R&A.\\n20.2c\\nAnvända \\'94blotta ögat\\'94 som norm vid användning av videobevisning\\nNär tävlingsledningen avgör faktafrågor i samband med domslut är användningen av videobevis begränsad till \\'93blotta ögat\\'94 som norm:\\n\\n    Om de fakta som visas på videon rimligen inte kunde ha setts med \\'94blotta ögat\\'94, ska man bortse från videobevisningen, även om den tyder på ett brott mot reglerna.\\n    Men även om man bortser från videobevis i enlighet med \\'93blotta ögat\\'94 som norm, kommer ett brott mot reglerna fortfarande att kunna konstateras om spelaren på annat sätt blivit medveten om fakta som fastslår ett regelbrott (t ex att spelaren känt att klubban vidrört sand i en bunker även om detta inte kunde ses med blotta ögat).\\n\\n20.2d\\nFelaktiga domslut och administrativa misstag\\n(1) Felaktiga domslut. Ett felaktigt domslut har inträffat, när en domare eller tävlingsledningen har försökt att tillämpa reglerna men har gjort detta på ett felaktigt sätt. Exempel på felaktiga domslut är:\\n\\n    att tillämpa felaktig plikt eller att inte tillämpa plikt,\\n    att tillämpa en regel som inte gäller eller inte finns och\\n    att misstolka en regel och tillämpa den på ett felaktigt sätt.\\n\\nOm ett domslut av en domare eller tävlingsledningen senare visar sig vara fel, ska regelbeslutet om möjligt korrigeras i enlighet med reglerna. Om det är för sent att göra detta, gäller det felaktiga domslutet. Om en spelare vidtar en åtgärd i strid med en regel, som orsakats av att spelaren missförstått en domares eller tävlingslednings instruktion under en rond eller medan spelet är avbrutet enligt Regel 5.7a (t ex att lyfta en boll i spel när det inte är tillåtet enligt reglerna), blir det ingen plikt och instruktionen betraktas som ett felaktigt domslut. Se Committee Procedures, Section 6C (vad tävlingsledningen bör göra i händelse av ett felaktigt domslut). (2) Administrativa misstag. Ett administrativt misstag är ett procedurfel i samband med administrationen av tävlingen, och det finns ingen tidsgräns för att rätta till ett sådant misstag, inte ens efter att resultatet av en match är slutgiltigt eller en slagspelstävling har avslutats. Ett administrativt misstag är något annat än ett felaktigt domslut. Exempel på administrativa misstag omfattar:\\n\\n    att i slagspel använda fel särskiljning vid lika resultat,\\n    att felberäkna en handicap som leder till att fel spelare vinner tävlingen och\\n    att dela ut ett pris till fel spelare efter att inte ha tagit med vinnarens score.\\n\\nI dessa situationer bör misstaget rättas till, och resultaten från tävlingen bör följaktligen ändras.\\n20.2e\\nDiskvalificera spelare efter att resultatet av match eller tävling är slutgiltigt\\n(1) Matchspel. Det finns ingen tidsgräns för att diskvalificera en spelare enligt Regel 1.2 (allvarligt fall av dåligt uppträdande) eller Regel 1.3b(1) (att avsiktligt inte tillämpa en plikt eller komma överens med en annan spelare om att åsidosätta någon regel eller plikt som de vet gäller). Detta kan göras även efter att matchens resultat är slutgiltigt (se Regel 3.2a(5)). För när tävlingsledningen ska avge ett domslut när en förfrågan görs efter att matchens resultat är slutgiltigt, se Regel 20.1b(3). (2) Slagspel. Normalt får plikt inte läggas till eller korrigeras efter att en slagspelstävling har avslutats, vilket är gjort:\\n\\n    när resultatet blir slutgiltigt på det sätt som angetts av tävlingsledningen, eller\\n    i kvalificering i form av slagspel, följt av matchspel, när spelaren har slagit ut för att påbörja sin första match.\\n\\nMen en spelare måste diskvalificeras även efter det att tävlingen avslutats om spelaren:\\n\\n    lämnade in en score på ett hål som var lägre än den verkliga. Förutom att spelaren inte blir diskvalificerad om anledningen till den lägre scoren var att ett eller flera pliktslag, som spelaren inte kände till och inte tagit med innan tävlingen avslutades (se Regel 3.3b(3)).\\n    visste innan tävlingen hade avslutats att spelaren brutit mot någon annan regel där plikten är diskvalifikation eller\\n    kom överens med en annan spelare att åsidosätta någon regel eller plikt som de visste gällde (se Regel 1.3b(1)).\\n\\nTävlingsledningen kan också diskvalificera en spelare enligt Regel 1.2 (allvarligt fall av dåligt uppträdande) efter att tävlingen har avslutats.\\n20.2f\\nObehörig spelare\\nDet finns ingen tidsgräns för att rätta till resultaten i en tävling, när det upptäcks att en spelare som har tävlat är obehörig enligt tävlingsvillkoren. Detta gäller även efter att resultatet för en match är slutgiltigt eller efter att en slagspelstävling har avslutats. Under dessa omständigheter behandlas spelaren som om han/hon inte deltagit i tävlingen, i motsats till att bli diskvalificerad, och resultaten ändras därmed.\\n20.3\\nSituationer som inte täcks av reglerna\\nVarje situation som inte täcks av reglerna bör avgöras av tävlingsledningen:\\n\\n    efter beaktande av alla omständigheter, och\\n    genom att bedöma situationen på ett sätt som är rimligt, rättvist och konsekvent med hur liknande situationer betraktas enligt reglerna.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 20 Lösning av regelproblem under rond",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

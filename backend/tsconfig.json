@@ -1,0 +1,89 @@
+{
+   "compilerOptions": {
+      "module": "commonjs",
+      "declaration": true,
+      "removeComments": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "allowSyntheticDefaultImports": true,
+      "target": "ES2021",
+      "sourceMap": true,
+      "outDir": "./dist",
+      "baseUrl": "./",
+      "incremental": true,
+      "skipLibCheck": true,
+      "strictNullChecks": true,
+      "noImplicitAny": true,
+      "strictBindCallApply": true,
+      "forceConsistentCasingInFileNames": false,
+      "noFallthroughCasesInSwitch": false,
+      "paths": {
+         "./libs/helper": [
+            "libs/helper/src"
+         ],
+         "./libs/helper/*": [
+            "libs/helper/src/*"
+         ],
+         "@app/prisma": [
+            "libs/prisma/src"
+         ],
+         "@app/prisma/*": [
+            "libs/prisma/src/*"
+         ],
+         "@app/common": [
+            "libs/common/src"
+         ],
+         "@app/common/*": [
+            "libs/common/src/*"
+         ],
+         "@app/redis": [
+            "libs/redis/src"
+         ],
+         "@app/redis/*": [
+            "libs/redis/src/*"
+         ],
+         "@app/file-upload": [
+            "libs/file-upload/src"
+         ],
+         "@app/file-upload/*": [
+            "libs/file-upload/src/*"
+         ],
+         "@app/send-mailer": [
+            "libs/send-mailer/src"
+         ],
+         "@app/send-mailer/*": [
+            "libs/send-mailer/src/*"
+         ],
+         "libs/common": [
+            "libs/common/src"
+         ],
+         "libs/common/*": [
+            "libs/common/src/*"
+         ],
+         "libs/prisma": [
+            "libs/prisma/src"
+         ],
+         "libs/prisma/*": [
+            "libs/prisma/src/*"
+         ],
+         "libs/file-upload": [
+            "libs/file-upload/src"
+         ],
+         "libs/file-upload/*": [
+            "libs/file-upload/src/*"
+         ],
+         "libs/redis": [
+            "libs/redis/src"
+         ],
+         "libs/redis/*": [
+            "libs/redis/src/*"
+         ],
+         "libs/send-mailer": [
+            "libs/send-mailer/src"
+         ],
+         "libs/send-mailer/*": [
+            "libs/send-mailer/src/*"
+         ]
+      }
+   }
+}

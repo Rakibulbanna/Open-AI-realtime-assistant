@@ -1,0 +1,210 @@
+{
+  "rule_number": 3,
+  "rule_code": "3",
+  "title": "Tävlingen / The Competition",
+  "summary": {
+    "short": "Regel 3 beskriver hur en golftävling är uppbyggd: spelform (matchspel eller slagspel), hur spelare tävlar (enskilt, som partners eller i lag), hur brutto- och nettoscorer används samt de särskilda reglerna för matchspel och slagspel.",
+    "detailed": "Regel 3 förklarar tävlingens grunddelar, inklusive skillnaden mellan matchspel och slagspel, individuellt spel och partnertävlingar samt användningen av bruttoscorer och nettoscorer i scratch- och handicaptävlingar. Den anger särskilda regler för matchspel, bland annat hur hål och match vinns eller delas, skänkningar, handicap i matchspel samt spelarnas informationsskyldigheter och rättigheter. Den beskriver också slagspel, med fokus på scorekort, ansvarsfördelning mellan spelare och markör, hantering av felaktiga scorer samt kravet att håla ut på varje hål."
+  },
+  "sections": [
+    {
+      "section_number": "3.1",
+      "title": "Centrala delar i varje tävling",
+      "purpose": "Fastställer tävlingens grundläggande komponenter: vilken spelform som används, om spelare tävlar individuellt eller som partners samt om resultat beräknas som bruttoscore eller nettoscore.",
+      "key_points": [
+        "Varje tävling spelas i en bestämd spelform: matchspel eller slagspel, med särskilda regler för alternativa slagspelsformer i Regel 21.",
+        "Regel 1–20 gäller båda spelformerna, men vissa regler är specifika för antingen matchspel eller slagspel.",
+        "Golf kan spelas av enskilda spelare eller som partners och i lagtävlingar, med modifieringar i Reglerna 22, 23 och 24.",
+        "Tävlingen kan spelas som scratch (bruttoscore) eller med handicap (nettoscore) för att göra tävlingen rättvis mellan spelare med olika spelstyrka."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "3.1a",
+          "title": "Spelform: Matchspel eller slagspel",
+          "summary": "Förklarar de grundläggande skillnaderna mellan matchspel och vanlig slagspelsform samt hänvisar till andra slagspelsformer i Regel 21.",
+          "key_points": [
+            "I matchspel (Regel 3.2) tävlar en spelare mot en motspelare, och resultatet baseras på vunna, förlorade eller delade hål.",
+            "I den vanliga formen av slagspel (Regel 3.3) tävlar alla spelare mot varandra, och resultatet baseras på totalscoren – det totala antalet slag (inklusive pliktslag) på varje hål i alla ronder.",
+            "De flesta reglerna gäller i båda spelformerna, men vissa regler gäller endast för matchspel eller endast för slagspel.",
+            "Regel 21 omfattar andra former av slagspel (poängbogey, maxantal slag och par/bogey) där en annan metod för resultatberäkning används; Regler 1–20 gäller i dessa former med de modifieringar som anges i Regel 21.",
+            "Committee Procedures, Section 6C(11) ger vägledning för tävlingar där de två spelformerna kombineras i samma rond."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "3.1b",
+          "title": "Hur spelare tävlar: Spela som enskild eller som partners",
+          "summary": "Beskriver att golf kan spelas av enskilda spelare eller som partners i olika lagformat, och att reglerna anpassas genom särskilda regler för partnertävlingar och lagtävlingar.",
+          "key_points": [
+            "Golf spelas antingen av enskilda spelare som tävlar på egen hand eller av partners som tävlar tillsammans som en sida.",
+            "Regel 1–20 och Regel 25 fokuserar på individuellt spel men gäller även för partnertävlingar med de modifieringar som anges i Reglerna 22 och 23.",
+            "I tävlingar där man tävlar som partners, t ex foursome och fyrboll, gäller särskilda modifieringar enligt Regel 22 respektive Regel 23.",
+            "I lagtävlingar gäller ytterligare modifieringar enligt Regel 24."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "3.1c",
+          "title": "Hur spelare får resultat: bruttoscorer eller nettoscorer",
+          "summary": "Skiljer mellan scratchtävlingar där bruttoscore används och handicaptävlingar där nettoscore beräknas utifrån spelarens handicap.",
+          "key_points": [
+            "I en scratchtävling är spelarens bruttoscore för ett hål eller en rond det totala antalet slag (både utförda slag och pliktslag).",
+            "I scratchtävlingar tillämpas inte spelarens handicap.",
+            "I en handicaptävling är spelarens nettoscore för ett hål eller en rond detsamma som bruttoscoren justerad utifrån spelarens handicapslag.",
+            "Handicapjusteringen används för att spelare med olika spelstyrka ska kunna tävla på ett rättvist sätt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "3.2",
+      "title": "Matchspel",
+      "purpose": "Förklarar de särskilda regler som gäller i matchspel, särskilt skänkningar och informationsskyldighet om antal slag och ställning, eftersom spelaren och motspelaren enbart tävlar mot varandra och kan se varandras spel.",
+      "key_points": [
+        "Matchspel har egna regler för hur hål och match vinns eller delas, och hur resultatet blir slutgiltigt.",
+        "Skänkningar (slag, hål eller match) är centrala i matchspel och regleras särskilt.",
+        "Spelare måste ge korrekt information om antal slag och plikt, känna till ställningen i matchen och tillvarata sina egna rättigheter enligt reglerna."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "3.2a",
+          "title": "Resultat för hål och match",
+          "summary": "Anger hur en spelare vinner eller delar ett hål, hur en match vinns eller förlängs samt när matchresultatet blir slutgiltigt enligt tävlingsledningens bestämmelser.",
+          "key_points": [
+            "En spelare vinner ett hål när han/hon avslutar hålet på färre slag (inklusive pliktslag) än motspelaren, när motspelaren skänker hålet eller när motspelaren får den allmänna plikten (förlust av hål).",
+            "Om motspelarens boll i rörelse måste hålas ut för att dela hålet och bollen avsiktligt påverkas eller stoppas när det inte finns rimlig möjlighet att den kan hålas ut, är hålet avgjort och spelaren vinner hålet (se Regel 11.2a, Undantag).",
+            "Ett hål är delat (halverat) när spelaren och motspelaren har samma antal slag inklusive pliktslag, eller när de kommer överens att betrakta hålet som delat efter att minst en spelare har slagit ett slag för att starta hålet.",
+            "En spelare vinner matchen när han/hon leder med fler hål än det finns kvar att spela, när motspelaren skänker matchen eller när motspelaren diskvalificeras.",
+            "Om matchen är oavgjord efter sista hålet förlängs den med ett hål i taget tills någon vinner, normalt i samma ordning som under ronden om inte tävlingsledningen bestämmer annat; tävlingsvillkoren kan istället ange att matchen slutar oavgjord.",
+            "Resultatet av en match blir slutgiltigt på det sätt som tävlingsledningen fastställt i tävlingsvillkoren, t ex när resultatet anslås på officiell resultattavla eller rapporteras till utsedd person (se Committee Procedures, Section 5A(7))."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "3.2b",
+          "title": "Skänkningar",
+          "summary": "Reglerar när och hur en spelare får skänka motspelarens nästa slag, ett hål eller matchen och hur en skänkning tydligt ska meddelas.",
+          "key_points": [
+            "En spelare får skänka motspelarens nästa slag när som helst innan detta slag slås; motspelaren anses då ha avslutat hålet med en score som inkluderar det skänkta slaget och bollen får tas bort.",
+            "En skänkning som görs medan motspelarens boll fortfarande är i rörelse gäller motspelarens nästa slag, såvida inte bollen hålas ut; spelaren får skänka nästa slag genom att påverka eller stoppa bollen i rörelse om det enbart görs för att skänka slaget och det inte finns rimlig möjlighet att bollen kan hålas ut.",
+            "En spelare får skänka ett hål när som helst innan hålet är avslutat, och till och med innan hålet startas, men spelare får inte komma överens om att skänka hål till varandra för att förkorta matchen; om de gör det med vetskap om att det inte är tillåtet blir båda diskvalificerade.",
+            "En spelare får skänka matchen när som helst innan matchen är avgjord, även innan matchen har startats.",
+            "En skänkning är utförd först när den har meddelats tydligt, antingen muntligt eller genom en handling som tydligt visar avsikten att skänka slaget, hålet eller matchen.",
+            "Om motspelaren lyfter sin boll i strid med reglerna på grund av att spelarens yttrande eller handling rimligen missuppfattats som en skänkning, blir det ingen plikt och bollen måste återplaceras på sin ursprungliga punkt (som vid behov uppskattas) enligt Regel 14.2.",
+            "En skänkning är slutgiltig och kan varken avböjas eller återtas."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "3.2c",
+          "title": "Tillämpa handicap i handicapmatch",
+          "summary": "Förklarar hur handicap ska uppges och tillämpas i handicapmatch samt konsekvenserna av att uppge felaktig handicap.",
+          "key_points": [
+            "Spelaren och motspelaren bör uppge sina handicap för varandra före matchen.",
+            "Om en spelare uppger en för hög handicap och detta påverkar antalet slag som spelaren ger eller får, blir spelaren diskvalificerad; om det inte påverkar antalet slag blir det ingen plikt.",
+            "Om en spelare uppger en för låg handicap blir det ingen plikt, men spelaren måste använda den uppgivna lägre handicapen för beräkning av de slag som ges eller fås.",
+            "Handicapslag tillämpas per hål och den med lägre nettoscore vinner hålet.",
+            "Om en oavgjord match förlängs ska handicapslag ges per hål på samma sätt som under ronden, om inte tävlingsledningen bestämmer något annat.",
+            "Varje spelare ansvarar för att veta på vilka hål handicapslag ges eller fås enligt hålindexeringen (ofta på scorekortet); om spelarna inte, eller av misstag, tillämpar handicapslag på ett hål står det överenskomna resultatet fast om inte misstaget korrigeras i tid (se Regel 3.2d(3))."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "3.2d",
+          "title": "Spelares och motspelares skyldigheter",
+          "summary": "Beskriver spelarnas skyldigheter att lämna korrekt information om antal slag och plikter, att känna till ställningen i matchen samt att tillvarata sina egna rättigheter och vid behov begära domslut.",
+          "key_points": [
+            "Motspelaren har rätt att när som helst under ett hål eller efter det avslutats fråga spelaren om antalet slag (inklusive pliktslag) på hålet, för att kunna planera sitt spel eller bekräfta hålresultatet.",
+            "Spelaren måste uppge rätt antal slag; att inte svara på motspelarens fråga betraktas som att uppge felaktigt antal slag.",
+            "Spelaren får den allmänna plikten (förlust av hål) om han/hon uppger fel antal slag, om inte felet rättas i tid – under spelet av hålet innan motspelaren slår ytterligare ett slag eller vidtar liknande åtgärd, eller efter hålet innan nästa hål startar eller, på sista hålet, innan resultatet blir slutgiltigt.",
+            "Ingen plikt utdöms om felaktig uppgift om antal slag efter hålet inte påverkar motspelarens uppfattning om huruvida hålet vunnits, förlorats eller delats.",
+            "När en spelare får plikt måste spelaren informera motspelaren så snart detta rimligen är möjligt, med hänsyn till avstånd och praktiska omständigheter; detta gäller även om spelaren inte insåg plikten, eftersom spelare förväntas känna till när de brutit mot en regel.",
+            "Om spelaren inte informerar om plikten och inte rättar detta innan motspelaren slår ett ytterligare slag eller vidtar liknande åtgärd, får spelaren den allmänna plikten, såvida inte motspelaren redan kände till plikten (t ex genom att se att spelaren tagit lättnad med plikt).",
+            "Spelarna förväntas veta ställningen i matchen (t ex vem som är ett visst antal hål upp eller om matchen är all square) och kan korrigera en felaktig ställning innan nästa hål startas eller, på sista hålet, innan resultatet blir slutgiltigt; annars blir den felaktiga ställningen gällande.",
+            "Om en spelare begär domslut i tid enligt Regel 20.1b, och det visar sig att motspelaren angett fel antal slag eller inte informerat om en plikt, måste ställningen i matchen korrigeras.",
+            "Spelarna bör tillvarata sina egna rättigheter i enlighet med reglerna: de kan välja att agera eller inte agera på ett regelbrott som ger plikt, men de får inte komma överens om att inte tillämpa regler eller plikter de vet gäller – i så fall blir båda diskvalificerade enligt Regel 1.3b om någon av dem har påbörjat ronden.",
+            "Om spelarna är oeniga om huruvida ett regelbrott skett kan någon av dem be om domslut enligt Regel 20.1b; om en domare är utsedd för matchen under hela ronden ansvarar domaren för att hantera varje regelbrott som domaren ser eller får reda på (se Regel 20.1b(1))."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "3.3",
+      "title": "Slagspel",
+      "purpose": "Förklarar de särskilda reglerna för slagspel, särskilt krav på scorekort, ansvarsfördelning mellan spelare och markör samt kravet att håla ut, eftersom varje spelare tävlar mot hela startfältet och alla måste behandlas lika.",
+      "key_points": [
+        "I slagspel tävlar varje spelare mot alla andra spelare i tävlingen.",
+        "Scorekortet är centralt och måste intygas av både spelaren och markören efter ronden.",
+        "Det finns detaljerade regler för hur felaktiga scorer på scorekortet hanteras och vilka plikter som gäller.",
+        "Spelaren måste håla ut på varje hål i ronden, annars riskerar spelaren diskvalifikation om felet inte rättas i tid."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "3.3a",
+          "title": "Vinnare i slagspel",
+          "summary": "Anger hur vinnaren i slagspel bestäms i både scratch- och handicaptävlingar.",
+          "key_points": [
+            "Den spelare som avslutar alla ronder med det lägsta antalet slag (både utförda slag och pliktslag) vinner slagspeltävlingen.",
+            "I en handicaptävling är vinnaren den spelare som har lägst antal nettoslag efter att handicap tillämpats.",
+            "Committee Procedures, Section 5A(6) rekommenderar att tävlingsvillkoren ska ange hur delade placeringar ska avgöras."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "3.3b",
+          "title": "Resultathantering i slagspel",
+          "summary": "Beskriver ansvarsfördelningen mellan markör och spelare för att föra, kontrollera, intyga och lämna in scorekortet samt konsekvenserna av felaktiga scorer och uteblivna pliktslag.",
+          "key_points": [
+            "Spelarens score förs in på scorekortet av markören, som utses av tävlingsledningen eller väljs av spelaren på ett sätt som godkänts av tävlingsledningen; spelaren bör ha samma markör under hela ronden om inte tävlingsledningen godkänner byte.",
+            "Efter varje hål bör markören tillsammans med spelaren bekräfta antalet slag (inklusive pliktslag) på hålet och föra in bruttoscoren på scorekortet.",
+            "När ronden är avslutad måste markören intyga scorerna för hålen på scorekortet; om spelaren haft fler än en markör ska varje markör intyga scorerna för de hål där han/hon var markör, men en markör som sett alla hål får intyga hela scorekortet.",
+            "En markör får vägra att intyga en spelares score på ett hål som markören anser är fel; i så fall måste tävlingsledningen bedöma alla tillgängliga fakta och fatta beslut om spelarens score på hålet, och kan vid behov själv intyga scoren eller godta intygande från någon annan som sett hålet.",
+            "Om en markör som är spelare medvetet intygar en felaktig score på ett hål, bör markören diskvalificeras enligt Regel 1.2a.",
+            "Under ronden bör spelaren hålla reda på sina scorer på varje hål och efter ronden noggrant kontrollera de scorer som markören fört in, samt ta upp eventuella problem med tävlingsledningen.",
+            "Spelaren måste se till att markören intygar scorerna på scorekortet, får inte ändra någon score utan markörens samtycke eller godkännande av tävlingsledningen, måste själv intyga scorerna och utan dröjsmål lämna in scorekortet till tävlingsledningen; därefter får scorekortet inte ändras.",
+            "Om spelaren bryter mot något av kraven i Regel 3.3b (t ex inte lämnar in scorekort eller inte intygar scorerna) blir spelaren diskvalificerad, utom när tävlingsledningen finner att regelbrottet beror på att markören inte fullgjort sina skyldigheter och det låg utom spelarens kontroll.",
+            "Om en spelare lämnar in ett scorekort med felaktig score på något hål och den inlämnade scoren är högre än den verkliga, står den högre scoren fast.",
+            "Om en spelare lämnar in ett scorekort där scoren på ett hål är lägre än den verkliga eller där ingen score har förts in på hålet, blir spelaren diskvalificerad.",
+            "Om en score är för låg därför att ett pliktslag som spelaren inte kände till har utelämnats, diskvalificeras inte spelaren; upptäcks felet före tävlingens avslutande ska tävlingsledningen rätta scoren genom att lägga till de pliktslag som borde ha räknats.",
+            "Detta undantag gäller inte när den utelämnade plikten är diskvalifikation, eller när spelaren blivit informerad om, eller var osäker på, att en plikt kunde gälla och ändå inte tog upp saken med tävlingsledningen innan scorekortet lämnades in.",
+            "Spelaren är inte ansvarig för att ange handicap på scorekortet eller för att summera scorerna; en felaktigt angiven eller tillämpad handicap på scorekortet, eller en felaktigt summerad score, medför ingen plikt för spelaren.",
+            "När tävlingsledningen tar emot scorekortet ansvarar den för att summera spelarens scorer och beräkna handicapslagen för tävlingen, samt använda dem för att räkna fram spelarens nettoscore.",
+            "Committee Procedures, Section 5A(5) ger rekommendationer för hur man avgör när ett scorekort anses inlämnat, och Section 8 samt Model Local Rule L-1 och L-2 ger möjlighet att införa lokala regler om mildrad plikt för icke intygade scores och ansvar för att handicap finns på scorekortet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "3.3c",
+          "title": "Att inte håla ut",
+          "summary": "Slår fast att spelaren i slagspel måste håla ut på varje hål i ronden och att underlåtenhet att göra det leder till diskvalifikation om felet inte rättas i tid, med vissa skillnader i andra slagspelsformer enligt Regel 21.",
+          "key_points": [
+            "En spelare måste håla ut på varje hål i en rond i slagspel.",
+            "Om spelaren inte hålar ut på ett hål måste felet rättas innan spelaren slår ett slag för att starta ett annat hål eller, på det sista hålet, innan scorekortet lämnas in.",
+            "Om felet att inte håla ut inte rättas i tid blir spelaren diskvalificerad.",
+            "Regel 21.1, 21.2 och 21.3 innehåller särskilda regler för andra slagspelsformer (poängbogey, maxantal slag och par/bogey) där resultatberäkningen är annorlunda och spelaren inte diskvalificeras för att inte håla ut."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "3\\nTävlingen\\n3.1\\nCentrala delar i varje tävling\\n3.1a\\nSpelform: Matchspel eller slagspel\\n(1) Matchspel eller vanligt slagspel. Dessa spelformer är mycket olika:\\n\\n    I matchspel (se Regel 3.2) tävlar en spelare och en motspelare mot varandra, och resultatet baseras på vunna, förlorade eller delade hål.\\n    I den vanliga formen av slagspel (se Regel 3.3) tävlar alla spelare med varandra, och resultatet baseras på totalscoren – d v s, genom att summera varje spelares totala antal slag (både utförda slag och pliktslag) på varje hål i alla ronder.\\n\\nDe flesta av reglerna gäller i båda spelformerna, men somliga regler gäller bara för den ena eller andra spelformen. Se Committee Procedures, Section 6C(11) (att beakta för tävlingsledningen om den ordnar en tävling som kombinerar de två spelformerna i en och samma rond). (2) Andra former av slagspel. Regel 21 omfattar andra former av slagspel (poängbogey, maxantal slag och par/bogey), där man använder sig av en annan metod för resultatberäkning. Regel 1-20 gäller i dessa spelformer med de modifieringar som anges i Regel 21.\\n3.1b\\nHur spelare tävlar: Spela som enskild eller som partners\\nGolf spelas antingen av enskilda spelare som tävlar på egen hand eller av partners som tävlar tillsammans som en sida. Även om Regel 1-20 och Regel 25 lägger tonvikten vid individuellt spel, gäller de även:\\n\\n    i tävlingar där man tävlar som partners (foursome och fyrboll) med de modifieringar som anges i Regel 22 och 23, samt\\n    i lagtävlingar med de modifieringar som anges i Regel 24.\\n\\n3.1c\\nHur spelare får resultat: bruttoscorer eller nettoscorer\\n(1) Scratchtävlingar. I en scratchtävling:\\n\\n    är spelarens \\'94bruttoscore\\'94 för ett hål eller ronden det totala antalet slag (både utförda slag och pliktslag).\\n    tillämpas inte spelarens handicap.\\n\\n(2) Handicaptävlingar. I en handicaptävling:\\n\\n    är spelarens \\'94nettoscore\\'94 för ett hål eller ronden detsamma som bruttoscoren, justerad utifrån spelarens handicapslag.\\n    Detta görs för att spelare med olika spelstyrka ska kunna tävla på ett rättvist sätt.\\n\\n3.2\\nMatchspel\\nSyfte med regeln: Matchspel har speciella regler (i synnerhet om skänkningar och att lämna information om antalet slag), eftersom spelaren och motspelaren:\\n\\n    enbart tävlar mot varandra på varje hål,\\n    kan se varandras spel, samt\\n    kan tillvarata sina egna intressen.\\n\\n3.2a\\nResultat för hål och match\\n(1) Vinna ett hål. En spelare vinner ett hål, när:\\n\\n    spelaren avslutar hålet på färre slag (både utförda slag och pliktslag) än motspelaren,\\n    motspelaren skänker hålet, eller\\n    motspelaren får den allmänna plikten (förlust av hål).\\n\\nOm motspelarens boll i rörelse behöver hålas ut för att dela hålet och bollen avsiktligt påverkas eller stoppas av någon person vid en tidpunkt då det inte finns en rimlig möjlighet att den kan hålas ut (t ex när bollen har rullat förbi hålet och inte kommer att rulla tillbaka dit), har hålet avgjorts och spelaren vinner hålet (se Regel 11.2a, Undantag). (2) Dela ett hål. Ett hål är delat (även kallat \\'93halverat\\'94), när:\\n\\n    spelaren och motspelaren avslutar hålet på samma antal slag (både utförda slag och pliktslag), eller\\n    spelaren och motspelaren kommer överens att betrakta hålet som delat (men detta är bara tillåtet efter att minst en av spelarna har slagit ett slag för att starta hålet).\\n\\n(3) Vinna en match. En spelare vinner en match, när:\\n\\n    spelaren leder över motspelaren med flera hål än det finns kvar att spela,\\n    motspelaren skänker matchen, eller\\n    motspelaren blir diskvalificerad.\\n\\n(4) Förlänga en oavgjord match. Om en match är oavgjord efter det sista hålet:\\n\\n    Förlängs matchen med ett hål i taget, tills någon vinner. Se Regel 5.1 (en förlängd match är en fortsättning av samma rond, inte en ny rond).\\n    Hålen spelas i samma ordning som under ronden, om inte tävlingsledningen fastställer en annan ordning.\\n\\nMen tävlingsvillkoren kan ange att matchen ska sluta oavgjord i stället för att förlängas. (5) När resultatet är slutgiltigt. Resultatet av en match blir slutgiltigt på det sätt som bestämts av tävlingsledningen (vilket bör anges i tävlingsvillkoren), t ex:\\n\\n    när resultatet har tillkännagetts på en officiell resultattavla eller annan fastställd plats, eller\\n    när resultatet har rapporterats till en person som utsetts av tävlingsledningen.\\n\\nSe Committee Procedures, Section 5A(7) (rekommendationer för hur resultatet av en match blir slutgiltigt).\\n3.2b\\nSkänkningar\\n(1) Spelare får skänka slag, hål eller matchen. En spelare får skänka motspelarens nästa slag, ett hål eller matchen:\\n\\n    Skänka nästa slag. Detta är tillåtet när som helst, innan motspelarens nästa slag slås.\\n        Motspelaren har då avslutat hålet med en score som tar med detta skänkta slag, och vem som helst får ta bort bollen.\\n        En skänkning som görs medan motspelarens boll fortfarande är i rörelse efter föregående slag gäller för motspelarens nästa slag, såvida inte bollen hålas ut (i vilket fall skänkningen inte spelar någon roll).\\n        Spelaren får skänka motspelarens nästa slag genom att påverka eller stoppa motspelarens boll i rörelse, om detta endast görs för att skänka nästa slag och bara då det inte finns någon rimlig möjlighet att bollen kan hålas ut.\\n    Skänka ett hål. Detta är tillåtet när som helst, innan hålet är avslutat (se Regel 6.5), och även innan spelarna startar hålet. En spelare och en motspelare får inte komma överens om att skänka hål till varandra i syfte att förkorta matchen. Om de gör så och vet att detta inte är tillåtet blir de diskvalificerade.\\n    Skänka matchen. Detta är tillåtet när som helst, innan matchen är avgjord (se Regel 3.2a(3) och (4)), och även innan spelarna påbörjar matchen.\\n\\n(2) Hur skänkningar görs. En skänkning är utförd först när den har meddelats på ett tydligt sätt:\\n\\n    Detta kan göras antingen muntligt eller genom en handling som tydligt visar spelarens avsikt att skänka slaget, hålet eller matchen (t ex genom att göra en gest).\\n    Om motspelaren lyfter sin boll i strid med reglerna på grund av att spelarens yttrande eller handling rimligen missuppfattats som en skänkning av nästa slag, hålet eller matchen, blir det ingen plikt och bollen måste återplaceras på dess ursprungliga punkt (som, om den inte är känd, måste uppskattas) (se Regel 14.2). En skänkning är slutgiltig och kan inte avböjas eller återtas.\\n\\n3.2c\\nTillämpa handicap i handicapmatch\\n(1) Uppge handicap. Spelaren och motspelaren bör informera varandra om sina handicap före matchen. Om en spelare uppger en felaktig handicap antingen före eller under matchen och inte rättar till sitt misstag innan motspelaren slår sitt nästa slag:\\n\\n    Uppgiven handicap för hög. Spelaren blir diskvalificerad om detta påverkar det antal slag som spelaren ger eller får. Om det inte gör det, blir det ingen plikt.\\n    Uppgiven handicap för låg. Det blir ingen plikt, och spelaren måste använda sig av den uppgivna lägre handicapen för att beräkna antalet slag som spelaren ger eller får.\\n\\n(2) Hål där handicapslag tillämpas.\\n\\n    Handicapslag tillämpas per hål, och den med lägre nettoscore vinner hålet.\\n    Om en oavgjord match förlängs, ges handicapslag per hål på samma sätt som under ronden (såvida inte tävlingsledningen anger ett annat sätt för detta).\\n\\nVarje spelare är ansvarig för att känna till på vilka hål handicapslag ges eller fås, baserat på tävlingsledningens hålindexering (som brukar finnas på scorekortet). Om spelarna inte, eller av misstag, tillämpar handicapslag på ett hål, står det överenskomna resultatet fast, om inte spelarna korrigerar det misstaget i tid (se Regel 3.2d(3)).\\n3.2d\\nSpelares och motspelares skyldigheter\\n(1) Informera motspelare om antalet slag. När som helst under spelet av ett hål eller efter att hålet avslutats, har motspelaren rätt att fråga spelaren hur många slag han/hon har på hålet (både utförda slag och pliktslag). Detta är till för att motspelaren ska kunna avgöra hur han/hon ska spela nästa slag och resten av hålet eller för att bekräfta resultatet på det just avslutade hålet. När spelaren blir tillfrågad om antalet slag, eller när spelaren ger denna upplysning utan att ha tillfrågats:\\n\\n    Måste spelaren uppge rätt antal slag.\\n    Om en spelare inte svarar på motspelarens begäran, betraktas detta som att uppge felaktigt antal slag.\\n\\nSpelaren får den allmänna plikten (förlust av hål), om han/hon till motspelaren uppger fel antal slag, om inte spelaren rättar till sitt misstag i tid:\\n\\n    Fel antal slag uppgivet under spelet av ett hål. Spelaren måste uppge rätt antal slag, innan motspelaren slår ytterligare ett slag eller vidtar någon liknande åtgärd (t ex att skänka nästa slag eller hålet).\\n    Fel antal slag uppgivet efter att ett hål avslutats. Spelaren måste uppge rätt antal slag:\\n        innan någon av spelarna slår ett slag för att starta ett annat hål eller vidtar någon liknande åtgärd (t ex att skänka nästa hål eller matchen), eller\\n        om det rör sig om det sista hålet i matchen, innan resultatet är slutgiltigt (se Regel 3.2a(5)).\\n\\nUndantag – Ingen plikt om resultatet på hålet inte påverkas: Om spelaren uppger fel antal slag efter att ett hål avslutats, men detta inte påverkar motspelarens uppfattning om hålet har vunnits, förlorats eller delats, blir det ingen plikt. (2) Upplysa motspelare om plikt. När en spelare får plikt:\\n\\n    måste spelaren upplysa motspelaren om den plikten så snart detta rimligtvis är möjligt, med hänsyn till hur nära varandra som spelaren och motspelaren är och andra praktiska faktorer. Det kanske inte alltid är möjligt att upplysa motspelaren om plikten, innan motspelaren slår sitt nästa slag.\\n    Detta krav gäller även om spelaren inte är medveten om plikten (eftersom spelare förväntas känna till när de har brutit mot en regel).\\n\\nOm spelaren inte gör detta och inte rättar till det misstaget, innan motspelaren slår ytterligare ett slag eller vidtar någon liknande åtgärd (t ex att skänka nästa slag eller hålet), får spelaren den allmänna plikten (förlust av hål). Undantag – Ingen plikt när motspelaren kände till spelarens plikt: Om motspelaren kände till att spelaren fått plikt, t ex genom att se att spelaren uppenbarligen tagit lättnad med plikt, får spelaren ingen plikt för att han/hon inte upplyste motspelaren om det. (3) Veta ställningen i matchen. Spelarna förväntas veta ställningen i matchen – d v s om någon av dem leder med ett visst antal hål (\\'93hål upp\\'94 i matchen) eller om matchen är lika (även kallat \\'93all square\\'94). Om spelarna av misstag är överens om en ställning i matchen som är felaktig:\\n\\n    kan de korrigera ställningen i matchen, innan någon av spelarna slår ett slag för att starta ett annat hål eller, om det rör sig om det sista hålet i matchen, innan resultatet är slutgiltigt (se Regel 3.2a(5)).\\n    Om det inte korrigeras inom den tiden, blir den felaktiga ställningen i matchen den faktiska ställningen.\\n\\nUndantag – När spelaren begär domslut i tid: Om spelaren begär ett domslut i tid (se Regel 20.1b), och det kommer fram att motspelaren antingen (1) angett ett felaktigt antal slag eller (2) inte upplyst spelaren om en plikt, måste den felaktiga ställningen i matchen korrigeras. (4) Tillvarata egna rättigheter och intressen. Spelarna i en match bör tillvarata sina egna rättigheter och intressen i enlighet med reglerna:\\n\\n    Om spelaren vet eller tror att motspelaren har brutit mot en regel som ger plikt, kan spelaren välja att agera på regelbrottet eller inte.\\n    Men om spelaren och motspelaren kommer överens om att inte tillämpa reglerna eller en plikt som de vet gäller och någon av dessa spelare har påbörjat ronden, blir båda diskvalificerade enligt Regel 1.3b.\\n    Om spelaren och motspelaren är oeniga om huruvida en av dem har brutit mot en regel, kan någon av spelarna tillvarata sina rättigheter genom att be om ett domslut enligt Regel 20.1b.\\n\\nNär en domare är utsedd för en match under hela ronden, är domaren ansvarig för att hantera varje regelbrott som domaren ser eller får reda på (se Regel 20.1b(1)).\\n3.3\\nSlagspel\\nSyfte med regeln: Slagspel har speciella regler (i synnerhet för scorekort och för att håla ut), eftersom:\\n\\n    varje spelare tävlar mot alla de andra spelarna i tävlingen, och\\n    alla spelare måste behandlas lika enligt reglerna.\\n\\nEfter ronden måste spelaren och markören (som för spelarens score) intyga att spelarens score på varje hål är riktig och spelaren måste lämna in scorekortet till tävlingsledningen.\\n3.3a\\nVinnare i slagspel\\nDen spelare som avslutar alla ronder på det lägsta antalet slag (både utförda slag och pliktslag) vinner. I en handicaptävling innebär detta det lägsta antalet nettoslag. Se Committee Procedures, Section 5A(6) (tävlingsvillkoren bör fastslå hur en delad placering ska avgöras).\\n3.3b\\nResultathantering i slagspel\\nSpelarens score förs in på spelarens scorekort av markören, som antingen är utsedd av tävlingsledningen eller vald av spelaren själv på ett sätt som godkänts av tävlingsledningen. Spelaren måste ha samma markör under hela ronden, om inte tävlingsledningen godkänner ett byte antingen före eller efter att det sker. (1) Markörens skyldigheter: Föra in och intyga scoren för hål på scorekort. Efter varje hål under ronden bör markören tillsammans med spelaren bekräfta antalet slag på det hålet både utförda slag och pliktslag) och föra in bruttoscoren på scorekortet. När ronden har avslutats:\\n\\n    måste markören intyga scorerna för hålen på scorekortet.\\n    Om spelaren haft mer än en markör, måste varje markör intyga scoren på de hål där han/hon var markör, men om en av markörerna sett spelaren spela alla hål, får den markören intyga scoren för alla hålen.\\n\\nEn markör får vägra att intyga en spelares score på ett hål som markören anser är fel. I så fall behöver tävlingsledningen överväga alla tillgängliga fakta och fatta ett beslut rörande spelarens score på hålet. Om markören ändå vägrar att intyga spelarens score på hålet, kan tävlingsledningen intyga scoren på hålet eller godta intygande från någon annan som sett spelarens handlingar på hålet i fråga. Om en markör, som är en spelare, medvetet intygar en felaktig score på ett hål, bör markören diskvalificeras enligt Regel 1.2a.\\nFIG. 3.3b: ANSVARSOMRÅDEN NÄR DET GÄLLER SCOREKORT I SLAGSPEL MED HANDICAP\\nimage\\n(2) Spelarens skyldigheter: Intyga scorer på hål och lämna in scorekortet. Under ronden bör spelaren hålla reda på sina scorer på varje hål. När ronden är avslutad:\\n\\n    bör spelaren noggrant kontrollera scoren på hålen som förts in av markören och ta upp eventuella problem med tävlingsledningen,\\n    måste spelaren se till att markören på scorekortet intygar scoren på hålen,\\n    får spelaren inte ändra någon score på ett hål som införts av markören utan markörens samtycke eller efter godkännande av tävlingsledningen (men varken spelaren eller markören behöver göra något extra intygande av den ändrade scoren), samt\\n    måste spelaren intyga scoren på hålen på scorekortet och utan dröjsmål lämna in det till tävlingsledningen, och därefter får spelaren inte ändra på scorekortet.\\n\\nOm spelaren bryter mot något av dessa krav i Regel 3.3b, blir spelaren diskvalificerad. Undantag – Ingen plikt när regelbrott beror på att markören inte fullgör sina skyldigheter: Det blir ingen plikt om tävlingsledningen finner att spelarens brott mot Regel 3.3b(2) orsakats av att markören inte fullgjort sina skyldigheter (t ex att markören försvinner med spelarens scorekort eller utan att intyga scorekortet), så länge som detta låg utom spelarens kontroll. Se Committee Procedures, Section 5A(5) (rekommendationer för hur man avgör när ett scorekort har lämnats in). Se Committee Procedures Section 8; Model Local Rule L-1 (att mildra plikt för att ha lämnat in ett scorekort utan att hålscorer blivit intygade). (3) Felaktig score på hål. Om en spelare lämnar in ett scorekort med en felaktig score på något hål:\\n\\n    Lämnat in en högre score än den verkliga. Den inlämnade score som var högre står fast.\\n    Lämnat in en lägre score än den verkliga eller ingen score. Spelaren blir diskvalificerad.\\n\\nUndantag – icke känd plikt utelämnad: Om en eller flera av spelarens scorer på hålen är lägre än de verkliga på grund av att spelaren utelämnat ett eller flera pliktslag, som spelaren inte kände till, innan scorekortet lämnades in:\\n\\n    Blir inte spelaren diskvalificerad.\\n    Om, i stället, felet upptäcks före avslutandet av tävlingen, ska tävlingsledningen ändra på spelarens score på detta eller dessa hål genom att lägga till de pliktslag som skulle ha tagits med i scoren på detta eller dessa hål enligt reglerna.\\n\\nDetta undantag gäller inte:\\n\\n    när den utelämnade plikten är diskvalifikation, eller\\n    när spelaren blivit informerad om att en plikt skulle kunna gälla eller var osäker på om en plikt gällde och inte tog upp detta med tävlingsledningen, innan scorekortet lämnades in.\\n\\n(4) Spelaren är inte ansvarig för att ange handicap på scorekort eller summera scorer. En spelares handicap behöver inte anges på scorekortet, och spelare behöver inte heller summera sina egna scorer. Om spelaren lämnar in ett scorekort, där en handicap av misstag felaktigt angetts eller tillämpats eller där scoren av misstag summerats felaktigt, blir det ingen plikt. När tävlingsledningen tar emot scorekortet från spelaren efter avslutad rond, är tävlingsledningen ansvarig för:\\n\\n    att summera spelarens scorer och\\n    att göra en beräkning av spelarens handicapslag för tävlingen och att använda den för att räkna ut spelarens nettoscore.\\n\\nSe Committee Procedures, Section 8; Model Local Rule L-2 (göra spelaren ansvarig för att handicap står på scorekortet).\\n3.3c\\nAtt inte håla ut\\nEn spelare måste håla ut på varje hål i en rond. Om spelaren inte hålar ut på något hål:\\n\\n    måste spelaren rätta till det felet, innan spelaren slår ett slag för att starta ett annat hål eller, om det rör sig om det sista hålet i ronden, innan scorekortet lämnas in.\\n    Om felet inte rättas till inom den tiden, blir spelaren diskvalificerad.\\n\\nSe Regel 21.1, 21.2 och 21.3 (regler för andra former av slagspel (poängbogey, maxantal slag och par/bogey) där resultathanteringen är annorlunda och en spelare inte blir diskvalificerad om spelaren inte hålar ut).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 3 Tävlingen",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

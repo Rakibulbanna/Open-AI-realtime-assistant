@@ -1,0 +1,134 @@
+{
+  "rule_number": 1,
+  "rule_code": "1",
+  "title": "Spelet, spelares uppförande och reglerna",
+  "summary": {
+    "short": "Regel 1 beskriver vad golfspelet är, hur spelare förväntas uppföra sig och vad det innebär att spela enligt reglerna, inklusive ansvar och pliktnivåer.",
+    "detailed": "Regel 1 anger grunderna för golf: spelet spelas hål för hål genom att slå en boll från tee tills den är hålad, med huvudprincipen att spela banan som den är och bollen som den ligger, med vissa reglerade undantag. Den beskriver riktlinjer för spelares uppförande – hederlighet, hänsyn till andra och omsorg om banan – och ger tävlingsledningen möjlighet att tillämpa plikt eller diskvalifikation vid allvarligt dåligt uppförande eller genom en uppförandekod. Regeln klargör också vad som avses med \\'93regler\\'94 och tävlingsvillkor, spelarens ansvar att själv tillämpa reglerna och göra rimliga bedömningar av lägen, samt hur plikter och flerfaldiga regelbrott ska hanteras."
+  },
+  "sections": [
+    {
+      "section_number": "1.1",
+      "title": "Golfspelet",
+      "purpose": "Förklarar hur golf spelas över en rond och ett hål samt slår fast grundprinciperna att spela banan som den är och bollen som den ligger, med vissa undantag enligt reglerna.",
+      "key_points": [
+        "Golf spelas över en rond om 18 eller färre hål på en bana genom att slå en boll med en klubba.",
+        "Varje hål startar med ett slag från tee och avslutas när bollen är hålad på green eller när reglerna anger att hålet är avslutat.",
+        "Grundprincipen är att spelaren spelar banan som den är och bollen som den ligger, men reglerna tillåter ibland att bollen spelas från en annan plats eller att förhållanden ändras."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "1.2",
+      "title": "Riktlinjer för spelares uppförande",
+      "purpose": "Beskriver hur spelare förväntas uppträda i spelets anda och ger tävlingsledningen möjlighet att fastställa en uppförandekod och att vid allvarligt dåligt uppförande diskvalificera spelare.",
+      "key_points": [
+        "Spelare förväntas spela i spelets anda genom hederlighet, hänsyn mot andra och att ta väl hand om banan.",
+        "Det finns normalt ingen plikt enbart för dåligt uppförande, men tävlingsledningen kan diskvalificera en spelare vid allvarligt fall av dåligt uppförande.",
+        "Tävlingsledningen kan anta en uppförandekod som lokal regel, med särskilda plikter för brott mot dess normer."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "1.2a",
+          "title": "Uppförande som förväntas av alla spelare",
+          "summary": "Alla spelare förväntas spela i spelets anda genom att uppföra sig hederligt, visa hänsyn mot andra och ta väl hand om banan; allvarligt dåligt uppförande kan leda till diskvalifikation.",
+          "key_points": [
+            "Spelare ska uppföra sig på ett hederligt sätt, följa reglerna, tillämpa alla former av plikt och vara ärliga i alla aspekter av spelet.",
+            "Spelare ska vara hänsynsfulla mot andra genom att spela i rask takt, värna om andras säkerhet och inte störa en annan spelares spel; vid risk att träffa någon bör spelaren ropa en varning, till exempel \\'94fore\\'94.",
+            "Spelare ska ta väl hand om banan genom att lägga tillbaka uppslagna torvor, jämna ut sand i bunkrar, laga nedslagsmärken och undvika onödig skada på banan.",
+            "Det finns ingen plikt enbart för att inte uppföra sig på detta sätt, men tävlingsledningen kan diskvalificera en spelare för ett allvarligt fall av dåligt uppförande som strider mot spelets anda.",
+            "Annan plikt än diskvalifikation för dåligt uppförande kan endast användas om den ingår i en uppförandekod som antagits enligt Regel 1.2b."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "1.2b",
+          "title": "Uppförandekod",
+          "summary": "Tävlingsledningen kan anta en uppförandekod som lokal regel med normer för spelares uppförande och plikt för brott mot dessa normer, inklusive möjlighet till diskvalifikation vid allvarligt dåligt uppförande.",
+          "key_points": [
+            "Tävlingsledningen kan fastställa egna normer för spelares uppförande i en uppförandekod som antas som en lokal regel.",
+            "Uppförandekoden kan innefatta plikt för brott mot dess normer, till exempel ett slags plikt eller den allmänna plikten.",
+            "Tävlingsledningen kan diskvalificera en spelare för ett allvarligt fall av dåligt uppförande om spelaren inte lever upp till normerna i uppförandekoden.",
+            "Committee Procedures, Section 5I förklarar vilka normer för spelares uppförande som kan antas i en uppförandekod."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "1.3",
+      "title": "Spela enligt reglerna",
+      "purpose": "Definierar vad som avses med regler och tävlingsvillkor, spelarens ansvar att tillämpa reglerna och göra rimliga bedömningar samt hur plikter och flerfaldiga regelbrott ska tillämpas.",
+      "key_points": [
+        "Termen \\'94regler\\'94 omfattar Regler för golfspel (Regel 1–25 och definitionerna) och lokala regler som tävlingsledningen antar.",
+        "Spelare är ansvariga för att följa alla tävlingsvillkor som antagits av tävlingsledningen.",
+        "Spelare ska själva tillämpa reglerna, vara ärliga med sin egen plikt och acceptera att rimliga bedömningar av lägen gäller även om de senare visar sig felaktiga.",
+        "Plikter tillämpas på olika nivåer, inklusive ett slags plikt, allmän plikt och diskvalifikation, och får inte ändras utöver vad reglerna föreskriver."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "1.3a",
+          "title": "Innebörd av \\'93regler\\'94; tävlingsvillkor",
+          "summary": "Förklarar att \\'94regler\\'94 omfattar Regler för golfspel, definitionerna och lokala regler, samt att spelare också måste följa de tävlingsvillkor som tävlingsledningen beslutar.",
+          "key_points": [
+            "Termen \\'94regler\\'94 innebär Regel 1–25 samt definitionerna i Regler för golfspel.",
+            "Termen omfattar även varje lokal regel som tävlingsledningen antar för tävlingen eller banan.",
+            "Spelare är ansvariga för att rätta sig efter alla tävlingsvillkor som antagits av tävlingsledningen, inklusive villkor för deltagande, spelform och speldatum, antal ronder, antal hål och hålens ordning i en rond.",
+            "Committee Procedures, Section 5C och Section 8 ger vägledning om lokala regler och modelltexter, och Section 5A behandlar tävlingsvillkor."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "1.3b",
+          "title": "Tillämpa reglerna",
+          "summary": "Anger att spelare själva ansvarar för att tillämpa reglerna, lägga till sin egen plikt och göra rimliga bedömningar av lägen; sådana rimliga bedömningar accepteras normalt även om de senare visar sig felaktiga.",
+          "key_points": [
+            "Spelare är ansvariga för att tillämpa reglerna på sig själva och förväntas inse när de brutit mot en regel och vara ärliga när de lägger till sin egen plikt.",
+            "Om en spelare vet att han/hon brutit mot en regel som innebär plikt och avsiktligen låter bli att lägga till plikten blir spelaren diskvalificerad.",
+            "Om två eller flera spelare kommer överens om att åsidosätta en regel eller plikt som de vet gäller och någon av dem har påbörjat ronden, blir de diskvalificerade även om de ännu inte handlat enligt överenskommelsen.",
+            "När fakta ska fastställas är spelaren ansvarig för att ta hänsyn både till sin egen kännedom och till all annan information som rimligtvis kan finnas tillgänglig.",
+            "En spelare får be om hjälp med reglerna av en domare eller tävlingsledningen, men om hjälp inte kan fås inom rimlig tid måste spelaren fortsätta spelet och ta upp frågan igen så snart en domare eller tävlingsledning finns tillgänglig (se Regel 20.1).",
+            "Många regler kräver att spelaren fastställer en plats, punkt, linje, gräns, ett område eller annat läge, till exempel var en boll senast skar gränsen till ett pliktområde eller var en boll ska återplaceras.",
+            "Dessa bedömningar ska göras raskt och noggrant men kan ofta inte bli exakta; så länge spelaren gör vad som rimligen kan förväntas accepteras bedömningen även om den senare via exempelvis videogranskning visar sig felaktig.",
+            "Om spelaren blir medveten om att en bedömning är felaktig innan slaget utförs, måste felet rättas (se Regel 14.5)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "1.3c",
+          "title": "Plikter",
+          "summary": "Förklarar när plikt ska tillämpas, vilka tre huvudnivåer av plikt som finns, att vare sig spelare eller tävlingsledning får ändra plikter samt hur flerfaldiga regelbrott och vissa undantag hanteras.",
+          "key_points": [
+            "Plikt tillämpas när spelarens eller caddiens handlingar leder till ett regelbrott (se Regel 10.3c).",
+            "Plikt tillämpas också när någon annan utför en handling som skulle vara ett regelbrott om den utförts av spelaren eller caddien, när detta sker på spelarens begäran eller med spelarens tillåtelse.",
+            "Om spelaren ser någon annan utföra en handling som gäller spelarens boll eller utrustning och vet att den skulle vara ett regelbrott om den utfördes av spelaren eller caddien och inte försöker stoppa den, kan plikt också tillämpas.",
+            "Det finns tre huvudnivåer av plikt: ett slags plikt, allmän plikt (förlust av hål i matchspel eller två slags plikt i slagspel) och diskvalifikation.",
+            "Ett slags plikt används bland annat där den möjliga fördelen av ett regelbrott är liten eller när spelaren tar lättnad med plikt genom att spela från en annan plats än där den ursprungliga bollen ligger.",
+            "Allmän plikt används vid brott mot de flesta regler där den möjliga fördelen är mer betydande.",
+            "Diskvalifikation kan tillämpas vid vissa handlingar eller regelbrott som innebär ett allvarligt fall av dåligt uppförande (se Regel 1.2) eller där den möjliga fördelen är alltför stor för att spelarens score ska anses giltig.",
+            "Plikter får endast tillämpas såsom reglerna föreskriver; varken spelare eller tävlingsledning får ändra plikter eller låta bli att tillämpa dem på annat sätt.",
+            "Felaktig tillämpning av plikt eller att ingen plikt tillämpas gäller bara om det är för sent att rätta felet (se Regel 20.1b(2), 20.1b(3), 20.2d och 20.2e).",
+            "I matchspel kan spelare och motspelare komma överens om hur en regelfråga ska avgöras så länge de inte kommer överens om att bortse från någon regel eller plikt som de vet gäller (se Regel 20.1b(1)).",
+            "Vid flerfaldiga regelbrott utan mellanliggande händelser (utfört slag eller att spelaren blivit medveten om ett regelbrott) gäller enkel plikt; om reglerna har olika plikt gäller den högre nivån.",
+            "Vid regelbrott både före och efter en mellanliggande händelse tillämpas flerfaldiga plikter.",
+            "Undantag – att inte återplacera en rubbad boll: Om en spelare måste återplacera en rubbad boll enligt Regel 9.4 och inte gör det, utan spelar från fel plats, får spelaren bara den allmänna plikten enligt Regel 14.7a.",
+            "Varje pliktslag som spelaren får för att ta lättnad, till exempel ett slags plikt enligt Regel 17.1, 18.1 eller 19.2, läggs alltid till utöver varje annan plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "1\\nSpelet, spelares uppförande och reglerna\\n1.1\\nGolfspelet\\nGolf spelas över en rond om 18 (eller färre) hål på en bana genom att slå en boll med en klubba. Varje hål startas med ett slag från tee och avslutas när bollen är hålad på green (eller när reglerna på annat sätt anger att hålet är avslutat). För varje slag gäller att spelaren:\\n\\n    spelar banan som den är samt\\n    spelar bollen som den ligger.\\n\\nMen det finns undantag där reglerna tillåter spelaren att ändra på förhållandena på banan och kräva av eller tillåta spelaren att spela bollen från en annan plats än där den ligger.\\n1.2\\nRiktlinjer för spelares uppförande\\n1.2a\\nUppförande som förväntas av alla spelare\\nAlla spelare förväntas spela i spelets anda genom att:\\n\\n    Uppföra sig på ett hederligt sätt – till exempel genom att följa reglerna, tillämpa alla former av plikt och att vara ärliga när det gäller alla aspekter av spelet.\\n    Vara hänsynsfulla mot andra – till exempel, genom att spela i rask takt, värna om andras säkerhet och inte störa en annan spelares spel. Om en spelare slår en boll i en riktning där det skulle kunna finnas en risk att träffa någon, bör spelaren genast ropa ut en varning, t ex den traditionella varningen \\'94fore\\'94.\\n    Ta väl hand om banan – till exempel genom att lägga tillbaka uppslagna torvor, jämna ut sand i bunkrar, laga nedslagsmärken och inte orsaka onödig skada på banan.\\n\\nDet blir ingen plikt enligt reglerna om inte spelaren uppför sig på detta sätt, utom att tävlingsledningen kan diskvalificera en spelare för att ha handlat i strid med spelets anda, om den finner att spelaren har gjort sig skyldig till ett allvarligt fall av dåligt uppförande. \\'94Allvarligt fall av dåligt uppförande\\'94 är när spelarens uppförande är så långt från vad som kan förväntas inom golfen, att den strängaste sanktionen i form av uteslutning från tävlingen är motiverad. Annan plikt än diskvalifikation kan bara användas för spelares dåliga uppförande, om sådan plikt har antagits som en del av en uppförandekod enligt Regel 1.2b.\\n1.2b\\nUppförandekod\\nTävlingsledningen kan fastställa sina egna normer för spelares uppförande i en uppförandekod som antagits som en lokal regel.\\n\\n    Koden kan innefatta plikt för brott mot dess normer, t ex ett slags plikt eller den allmänna plikten.\\n    Tävlingsledningen kan även diskvalificera en spelare för ett allvarligt fall av dåligt uppförande, om han/hon inte lever upp till normerna för koden.\\n\\nSe Committee Procedures, Section 5I (som förklarar vilka normer för spelares uppförande som kan antas).\\n1.3\\nSpela enligt reglerna\\n1.3a\\nInnebörd av \\'93regler\\'94; tävlingsvillkor\\nTermen \\'93regler\\'94 innebär:\\n\\n    Regel 1-25 samt definitionerna i dessa Regler för golfspel och\\n    varje \\'93lokal regel\\'94 som tävlingsledningen antar för tävlingen eller banan.\\n\\nSpelare är även ansvariga för att rätta sig efter alla \\'93tävlingsvillkor\\'94 som antagits av tävlingsledningen (villkor för deltagande, spelform och -datum, antalet ronder samt antalet hål och hålens ordning i en rond). Se Committee Procedures, Section 5C och Section 8 (lokala regler och en fullständig uppsättning modeller på lokala regler); Section 5A (tävlingsvillkor).\\n1.3b\\nTillämpa reglerna\\n(1) Spelares skyldigheter att tillämpa reglerna. Spelare är ansvariga för att tillämpa reglerna när det gäller dem själva:\\n\\n    Spelare förväntas inse när de har brutit mot en regel och vara ärliga när de lägger till sin egen plikt.\\n        Om en spelare vet att han/hon har brutit mot en regel som innebär plikt och avsiktligen låter bli att lägga till plikten, blir spelaren diskvalificerad.\\n        Om två eller flera spelare kommer överens om att åsidosätta någon regel eller plikt som de vet gäller och någon av dessa spelare har påbörjat ronden, blir de diskvalificerade (även om de ännu inte har handlat i enlighet med överenskommelsen).\\n    När det blir nödvändigt att fastslå fakta, är en spelare ansvarig för att inte bara ta hänsyn till sin egen kännedom om dessa fakta utan även all annan information som rimligtvis kan finnas tillgänglig.\\n    En spelare får be om hjälp med reglerna av en domare eller av tävlingsledningen, men om hjälp inte kan fås inom rimlig tid måste spelaren fortsätta spelet ochta upp frågan med en domare eller med tävlingsledningen så snart någon av dessa blir tillgänglig (se Regel 20.1).\\n\\n(2) Acceptera spelares \\'93rimliga bedömning\\'94 av ett läge när reglerna ska tillämpas.\\n\\n    Många regler kräver av en spelare att fastställa en plats, punkt, linje, gräns, ett område eller något annat läge enligt reglerna, t ex:\\n        att bedöma var en boll senast skar gränsen för ett pliktområde,\\n        att bedöma eller mäta när man droppar eller placerar en boll när man tar lättnad,\\n        att återplacera en boll på dess ursprungliga punkt (oavsett om denna punkt är känd eller uppskattad),\\n        att avgöra i vilket område på banan som bollen ligger, inklusive om bollen ligger på banan, eller\\n        att avgöra om bollen vidrör, ligger i eller på ett onormalt banförhållande.\\n    Sådana avgöranden om lägen måste göras raskt och noggrant men kan ofta inte bli exakta.\\n    Så länge som spelaren gör vad som under omständigheterna rimligen kan förväntas för att fatta ett riktigt beslut, kommer spelarens rimliga bedömning att accepteras även om den, efter att slaget utförts, via videogranskning eller annan information visar sig vara felaktig.\\n    Om en spelare blir medveten om att beslutet är felaktigt innan slaget utförs, måste detta rättas till (se Regel 14.5).\\n\\n1.3c\\nPlikter\\n(1) Handlingar som föranleder plikter. Plikt tillämpas när spelarens egna eller caddiens handlingar leder till ett regelbrott (se Regel 10.3c). Plikt tillämpas även när:\\n\\n    en annan person utför en handling som skulle innebära ett regelbrott om den utförts av spelaren eller caddien, och denna person gör detta på spelarens begäran eller agerar med spelarens tillåtelse, eller\\n    spelaren ser en annan person som är i färd med att utföra en handling när det gäller spelarens boll eller utrustning som spelaren vet skulle vara ett regelbrott, om den utförs av spelaren eller caddien, och inte vidtar rimliga åtgärder för att invända mot eller förhindra händelseförloppet.\\n\\n(2) Pliktnivåer. Avsikten med plikt är att utesluta varje möjlighet till någon fördel för spelaren. Det finns tre huvudnivåer för plikt:\\n\\n    Ett slags plikt. Denna plikt tillämpas både i matchspel och slagspel i enlighet med vissa regler, där antingen (a) den möjliga fördelen av ett regelbrott är liten eller (b) en spelare tar lättnad med plikt genom att spela en boll från en annan plats än där den ursprungliga bollen ligger.\\n    Allmän plikt (förlust av hål i matchspel, två slags plikt i slagspel). Denna plikt tillämpas för ett brott mot de flesta regler, där den möjliga fördelen är mera betydande än då bara ett slags plikt tillämpas.\\n    Diskvalifikation. I både matchspel och slagspel kan en spelare bli diskvalificerad från tävlingen för vissa handlingar eller regelbrott som innebär ett allvarligt fall av dåligt uppförande (se Regel 1.2) eller där den möjliga fördelen är alltför betydande för att spelarens score ska kunna anses som giltig.\\n\\n(3) Ingen handlingsfrihet att modifiera plikter. Plikter får endast tillämpas såsom reglerna föreskriver:\\n\\n    Varken en spelare eller tävlingsledningen har rättighet att tillämpa plikter på något annat sätt, och\\n    en felaktig tillämpning av plikt eller att inte tillämpa en plikt gäller endast om det är för sent att rätta till felet (se Regel 20.1b(2), 20.1b(3), 20.2d och 20.2e).\\n\\nI matchspel kan spelaren och motspelaren komma överens om hur man avgör en regelfråga så länge som de inte kommer överens om att bortse från någon regel eller plikt som de vet gäller (se Regel 20.1b(1)). (4) Tillämpa plikt vid flerfaldiga regelbrott. Om en spelare får flerfaldiga plikter för att ha brutit mot olika regler eller samma regel flera gånger, beror på om någon annan händelse kommer emellan och på vad spelaren gjorde. I syfte att tillämpa denna regel finns två typer av mellanliggande händelser:\\n\\n    ett utfört slag, och\\n    att ha blivit medveten om ett regelbrott (detta innefattar när en spelare vet att han/hon har brutit mot en regel, när spelaren informerats om ett regelbrott eller när spelaren är osäker på om han/hon har brutit mot en regel eller inte).\\n\\nPlikter tillämpas enligt följande:\\n\\n    Enkel plikt gäller för flerfaldiga regelbrott utan mellanliggande händelser. Om en spelare bryter mot olika regler eller samma regel flera gånger utan mellanliggande händelser, får spelaren bara en plikt. Om de regler som brutits emot har olika plikt, får spelaren endast plikt enligt den högre nivån.\\n    Flerfaldiga plikter gäller för regelbrott före och efter mellanliggande händelse: Om en spelare bryter mot en regel och sedan bryter mot samma regel eller en annan regel efter mellanliggande händelse, får spelaren flerfaldiga plikter.\\n\\nUndantag – Att inte återplacera en rubbad boll: Om det krävs av en spelare att en rubbad boll ska återplaceras enligt Regel 9.4 och detta inte görs utan bollen spelas från fel plats, får spelaren bara den allmänna plikten enligt Regel 14.7a. Men varje pliktslag som en spelare får för att ta lättnad (t ex ett slags plikt enligt Regel 17.1, 18.1 och 19.2) läggs alltid till utöver varje annan plikt.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 1 Spelet, spelares uppförande och reglerna",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "rule_number": 12,
+  "rule_code": "12",
+  "title": "Bunkrar / Bunkers",
+  "summary": {
+    "short": "Regel 12 definierar när en boll är i en bunker och vilka särskilda begränsningar och möjligheter som gäller när man spelar en boll i bunker, inklusive vad som är tillåtet när man rör sanden och vilka lättnadsalternativ som finns.",
+    "detailed": "Regel 12 beskriver först exakt när en boll anses ligga i en bunker (12.1), inklusive fall där sanden är borta eller där bollen ligger i eller på föremål som berör sanden. Därefter förklarar regeln hur en boll i en bunker får spelas (12.2): spelaren får ta bort lösa naturföremål och flyttbara tillverkade föremål, men det finns tydliga begränsningar för att vidröra sanden före slaget – särskilt i området precis framför eller bakom bollen, vid övningssving och i baksving. Samtidigt listas många situationer där det är tillåtet att röra sanden, till exempel när man tar stans, jämnar ut av omsorg om banan eller placerar utrustning i bunkern. Begränsningarna upphör när bollen spelats ut ur bunkern eller spelaren tar lättnad utanför bunkern. Slutligen pekar Regel 12.3 på särskilda lättnadsregler som gäller för boll i bunker vid onormala banförhållanden, farliga djursituationer och ospelbar boll, med hänvisning till relevanta regler (16.1c, 16.2 och 19.3)."
+  },
+  "sections": [
+    {
+      "section_number": "12.1",
+      "title": "När en boll är i en bunker",
+      "purpose": "Definiera när en boll anses ligga i en bunker, vilket avgör vilka särskilda bunkersregler som gäller.",
+      "key_points": [
+        "En boll är i en bunker när någon del av bollen vidrör sanden på marken innanför bunkerns gräns.",
+        "En boll är också i en bunker när den är innanför bunkerns gräns och vilar på mark där det normalt skulle ha funnits sand, även om sanden blåsts eller sköljts bort.",
+        "En boll är i bunkern om den ligger i eller på ett löst naturföremål, flyttbart tillverkat föremål, onormalt banförhållande eller integrerat föremål som antingen vidrör sanden i bunkern eller är på mark där det normalt skulle ha funnits sand.",
+        "Om bollen ligger på jord, gräs eller annat växande eller fastsittande naturföremål innanför bunkerns gräns utan att beröra sand anses bollen inte vara i bunkern.",
+        "Om en del av bollen är både i bunkern och i ett annat område på banan avgörs bollens status enligt Regel 2.2c.",
+        "Illustration i FIG. 12.1 visar typfall för när en boll är respektive inte är i bunker."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "12.2",
+      "title": "Spela en boll i en bunker",
+      "purpose": "Beskriva vad som är tillåtet och förbjudet när man spelar en boll i bunker, särskilt kring att ta bort föremål och röra sanden, samt vad som gäller när bollen spelats ut ur bunkern.",
+      "key_points": [
+        "Regel 12.2 gäller både under en rond och medan spelet är avbrutet enligt Regel 5.7a.",
+        "Spelaren får ta bort lösa naturföremål och flyttbara tillverkade föremål i bunkern, inklusive rimlig beröring och förflyttning av sanden i samband med detta.",
+        "Det finns tydliga begränsningar för att avsiktligt vidröra sand i bunkern före slaget, t.ex. för att pröva sandens beskaffenhet, i området precis framför eller bakom bollen, vid övningssving eller i baksving.",
+        "Utöver dessa begränsningar är det tillåtet att vidröra sand på många andra sätt, t.ex. när man tar stans, jämnar ut sand av omsorg om banan eller placerar utrustning i bunkern.",
+        "Efter att bollen spelats ut ur bunkern eller spelaren tar (eller avser att ta) lättnad utanför bunkern, upphör begränsningarna i Regel 12.2b(1) för den bollen.",
+        "Om bollen som spelats från bunkern åter hamnar i bunkern eller spelaren väljer att inte ta lättnad utanför bunkern, gäller begränsningarna i Regel 12.2b(1) och Regel 8.1a åter för den bollen.",
+        "Plikt för brott mot Regel 12.2 (inklusive 12.2b) är allmän plikt."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "12.2a",
+          "title": "Ta bort lösa naturföremål och flyttbara tillverkade föremål",
+          "summary": "Spelaren får ta bort lösa naturföremål och flyttbara tillverkade föremål i en bunker, inklusive rimlig beröring och förflyttning av sand i samband med detta.",
+          "key_points": [
+            "Innan spelaren spelar en boll i en bunker får han/hon ta bort lösa naturföremål enligt Regel 15.1.",
+            "Spelaren får också ta bort flyttbara tillverkade föremål enligt Regel 15.2.",
+            "All rimlig beröring eller förflyttning av sand i bunkern som sker i samband med sådant borttagande är tillåten."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "12.2b",
+          "title": "Begränsningar för att vidröra sand i en bunker",
+          "summary": "Anger när det är förbjudet respektive tillåtet att röra sanden i bunkern före slaget, samt vad som gäller efter att bollen spelats ut ur bunkern eller lättnad tagits utanför bunkern.",
+          "key_points": [
+            "Innan spelaren slår ett slag på en boll i en bunker får han/hon inte avsiktligt vidröra sanden i bunkern med hand, klubba, kratta eller annat föremål i syfte att pröva sandens beskaffenhet för att få information inför nästa slag.",
+            "Spelaren får inte vidröra sanden i bunkern med klubban i området precis framför eller precis bakom bollen, utom när detta är tillåtet enligt Regel 7.1a (ärlig sökning) eller Regel 12.2a (borttagande av lösa naturföremål eller flyttbara tillverkade föremål).",
+            "Spelaren får inte vidröra sanden i bunkern med klubban när han/hon gör en övningssving.",
+            "Spelaren får inte vidröra sanden i bunkern med klubban när han/hon gör en baksving inför slaget.",
+            "För spelare som är blinda (Regel 25.2f) och spelare som använder rörelsehjälpmedel (Regel 25.4l) finns modifieringar av begränsningarna i Regel 12.2b(1).",
+            "Utöver det som omfattas av 12.2b(1) förbjuder inte regeln spelaren att vidröra sanden i bunkern på andra sätt, t.ex.:",
+            "– att gräva in sig med fötterna för att ta stans för övningssving eller slaget,",
+            "– att jämna ut sand i bunkern av omsorg om banan,",
+            "– att lägga ned eller slänga klubbor, utrustning eller andra föremål i bunkern,",
+            "– att mäta, markera, lyfta, återplacera eller vidta annan åtgärd enligt en regel,",
+            "– att luta sig mot en klubba för att vila, hålla balansen eller undvika att ramla,",
+            "– att slå till sanden i frustration eller ilska.",
+            "Även om beröring av sand i dessa fall är tillåten får spelaren allmän plikt om handlingen förbättrar förhållandena som påverkar slaget i strid med Regel 8.1.",
+            "När en boll i bunker har spelats så att den är utanför bunkern, eller när spelaren har tagit eller avser att ta lättnad utanför bunkern, får spelaren vidröra sanden i bunkern utan plikt enligt 12.2b(1) och jämna ut sanden av omsorg om banan utan plikt enligt Regel 8.1a.",
+            "Detta gäller även om bollen stannar utanför bunkern men:",
+            "– spelaren måste eller får ta lättnad med slag och distans genom att droppa en boll i bunkern, eller",
+            "– sanden i bunkern är i spelarens spellinje för nästa slag från en plats utanför bunkern.",
+            "Om bollen som spelats från bunkern åter hamnar i bunkern och spelaren tar lättnad genom att droppa en boll i bunkern, eller om spelaren väljer att inte ta lättnad utanför bunkern, gäller åter begränsningarna i 12.2b(1) samt Regel 8.1a.",
+            "Plikt för brott mot Regel 12.2 (inklusive 12.2b): allmän plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "12.3",
+      "title": "Särskilda regler för lättnad för boll i bunker",
+      "purpose": "Peka ut vilka andra regler som innehåller särskilda lättnadsbestämmelser när en boll ligger i en bunker.",
+      "key_points": [
+        "När en boll är i en bunker kan särskilda lättnadsregler bli aktuella vid störande inverkan från onormala banförhållanden enligt Regel 16.1c.",
+        "Särskilda lättnadsregler gäller också vid störande inverkan från en farlig situation på grund av djur enligt Regel 16.2.",
+        "För ospelbar boll i bunker gäller särskilda lättnadsalternativ enligt Regel 19.3.",
+        "Regel 12.3 är därmed en hänvisningsregel som leder vidare till mer detaljerade lättnadsregler i Regel 16 och 19."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "12\\nBunkrar\\n12.1\\nNär en boll är i en bunker\\nEn boll är i en bunker när någon del av bollen:\\n\\n    vidrör sanden på marken innanför bunkerns gräns eller\\n    är innanför bunkerns gräns och vilar:\\n        på marken där det normalt skulle ha funnits sand (t ex om sand blåsts eller sköljts bort av vind eller vatten) eller\\n        är i eller på ett löst naturföremål, flyttbart tillverkat föremål, onormalt banförhållande eller integrerat föremål som vidrör sanden i bunkern eller är på marken där det normalt skulle ha funnits sand.\\n\\nOm en boll ligger på jord, gräs, annat växande eller fastsittande naturföremål innanför bunkerns gräns utan att beröra någon sand är bollen inte i bunkern. Om en del av bollen är både i bunkern och på en annan del av banan, se Regel 2.2c.\\nFIG. 12.1: NÄR EN BOLL ÄR I BUNKER\\nimage\\nI enlighet med definition av bunker och Regel 12.1 visar figuren exempel på när en boll är i bunkern eller inte.\\n12.2\\nSpela en boll i en bunker\\nDenna regel gäller både under en rond och medan spelet är avbrutet enligt Regel 5.7a.\\n12.2a\\nTa bort lösa naturföremål och flyttbara tillverkade föremål\\nInnan spelaren spelar en boll i en bunker får han/hon ta bort lösa naturföremål enligt Regel 15.1 och flyttbara tillverkade föremål enligt Regel 15.2. Detta innefattar all rimlig beröring eller förflyttning av sand i bunkern som sker i samband med borttagandet.\\n12.2b\\nBegränsningar för att vidröra sand i en bunker\\n(1) När man vidrör sand och detta leder till plikt. Innan spelaren slår ett slag på en boll i en bunker får han/hon inte:\\n\\n    avsiktligt vidröra sand i bunkern med en hand, klubba, kratta eller annat föremål för att pröva sandens beskaffenhet för att få information inför nästa slag eller\\n    vidröra sand i bunkern med en klubba:\\n        i området precis framför eller precis bakom bollen (utom vad som är tillåtet enligt Regel 7.1a för att på ett ärligt sätt söka efter en boll eller enligt Regel 12.2a när man tar bort ett löst naturföremål eller flyttbart tillverkat föremål),\\n        när man gör en övningssving eller\\n        när man gör en baksving inför ett slag.\\n\\nSe Regel 25.2f (modifiering av Regel 12.2b(1) för spelare som är blinda); Regel 25.4l (tillämpning av Regel 12.2b(1) för spelare som använder rörelsehjälpmedel). (2) När man vidrör sand och detta inte leder till plikt. Utom vad som täcks av punkt (1) förbjuder inte denna regel spelaren från att vidröra sand i bunkern på något annat sätt inklusive:\\n\\n    att gräva in sig med fötterna för att ta en stans för en övningssving eller för slaget,\\n    att jämna ut i bunkern av omsorg om banan,\\n    att placera klubbor, utrustning eller andra föremål i bunkern (antingen genom att slänga eller lägga ner dem),\\n    att mäta, markera, lyfta, återplacera eller vidta någon annan åtgärd enligt en regel,\\n    att luta sig mot en klubba för att vila, hålla balansen eller undvika att ramla eller\\n    att slå till sanden i frustration eller ilska.\\n\\nMen spelaren får den allmänna plikten om spelarens handlingar när det gäller att vidröra sanden förbättrar de förhållanden som påverkar slaget i strid med Regel 8.1. (Se även Regel 8.2 och 8.3 för begränsningar för att förbättra eller försämra andra fysiska förhållanden för att påverka spelet.) (3) Inga begränsningar efter att en boll spelats ut ur bunkern. Efter att en boll i en bunker spelats och den är utanför bunkern, eller att en spelare har tagit eller avser att ta lättnad utanför bunkern, får spelaren:\\n\\n    vidröra sanden i bunkern utan plikt enligt Regel 12.2b(1), och\\n    jämna ut sand i bunkern av omsorg om banan utan plikt enligt Regel 8.1a.\\n\\nDetta gäller även om bollen stannar utanför bunkern och:\\n\\n    det krävs av eller är tillåtet för spelaren att enligt reglerna ta lättnad med slag och distans genom att droppa en boll i bunkern, eller\\n    sanden i bunkern är i spelarens spellinje för nästa slag från en plats utanför bunkern.\\n\\nMen om bollen som spelats från bunkern kommer tillbaka i bunkern och spelaren tar lättnad genom att droppa en boll i bunkern, eller om spelaren beslutar att inte ta lättnad utanför bunkern, gäller åter begränsningarna enligt Regel 12.2b(1) och 8.1a för den bollen som är i spel i bunkern. Plikt för brott mot Regel 12.2: allmän plikt.\\n12.3\\nSärskilda regler för lättnad för boll i bunker\\nNär en boll är i en bunker kan särskilda lättnadsregler gälla i följande situationer:\\n\\n    störande inverkan från onormala banförhållanden (Regel 16.1c),\\n    störande inverkan från en farlig situation på grund av djur (Regel 16.2), och\\n    ospelbar boll (Regel 19.3).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 12 Bunkrar",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

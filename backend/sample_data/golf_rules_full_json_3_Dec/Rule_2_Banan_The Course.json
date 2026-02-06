@@ -1,0 +1,104 @@
+{
+  "rule_number": 2,
+  "rule_code": "2",
+  "title": "Banan / The Course",
+  "summary": {
+    "short": "Regel 2 definierar vad som räknas som banan, hur gränser och out of bounds bestäms, vilka områden som finns på banan samt vilka föremål och spelförbudszoner som kan påverka spelet.",
+    "detailed": "Regel 2 beskriver banans gränser och vad som är out of bounds, de fem definierade områdena på banan (spelfältet och de fyra särskilda områdena) samt hur man avgör i vilket område en boll ligger. Den förklarar också vilka föremål och förhållanden som kan ge fri lättnad och vad som gäller för spelförbudszoner där spelaren måste ta lättnad."
+  },
+  "sections": [
+    {
+      "section_number": "2.1",
+      "title": "Banans gränser och out of bounds",
+      "purpose": "Förklarar hur banans gränser bestäms och vad som räknas som out of bounds.",
+      "key_points": [
+        "Banan definieras av gränser som fastställs av tävlingsledningen (kommittén).",
+        "Områden som ligger utanför dessa gränser räknas som out of bounds och är inte en del av banan."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "2.2",
+      "title": "Definierade områden på banan",
+      "purpose": "Definierar de fem områdena på banan och introducerar skillnaden mellan spelfältet och de fyra särskilda områdena.",
+      "key_points": [
+        "Det finns fem definierade områden på banan.",
+        "Spelfältet omfattar större delen av banan, medan fyra särskilda områden har egna specifika regler.",
+        "Det område där bollen ligger avgör vilka regler som gäller för slag och lättnad."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "2.2a",
+          "title": "Spelfältet",
+          "summary": "Spelfältet är hela banan utom de fyra särskilda områdena och omfattar den mark där bollen vanligtvis spelas, till exempel fairway, ruff och träd.",
+          "key_points": [
+            "Spelfältet omfattar hela banan utom de fyra särskilda områdena som beskrivs i Regel 2.2b.",
+            "Spelfältet är det område där en spelares boll oftast spelas tills den når green.",
+            "Spelfältet innefattar all mark och alla växande eller fastsittande föremål i området, till exempel fairway, ruff och träd."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "2.2b",
+          "title": "De fyra särskilda områdena",
+          "summary": "Beskriver de fyra särskilda områdena som inte ingår i spelfältet: tee på hålet som spelas, pliktområden, bunkrar och green.",
+          "key_points": [
+            "De fyra särskilda områdena är inte en del av spelfältet.",
+            "Den tee som spelaren måste använda för att starta spelet på det hål som spelas är ett särskilt område (Regel 6.2).",
+            "Alla pliktområden är särskilda områden på banan (Regel 17).",
+            "Alla bunkrar är särskilda områden på banan (Regel 12).",
+            "Green på det hål som spelaren spelar är ett särskilt område (Regel 13)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "2.2c",
+          "title": "Avgöra vilket område på banan en boll ligger i",
+          "summary": "Förklarar hur man avgör vilket område på banan en boll ligger i och att bollen alltid anses ligga i endast ett område, med särskilda prioriteringsregler.",
+          "key_points": [
+            "Det område på banan där en spelares boll ligger påverkar vilka regler som gäller vid spel eller lättnad.",
+            "En boll behandlas alltid som att den ligger i endast ett område på banan.",
+            "Om en del av bollen är både på spelfältet och i ett av de fyra särskilda områdena, behandlas bollen som att den ligger i det särskilda området.",
+            "Om en del av bollen är i två särskilda områden på banan, behandlas bollen som att den ligger i det särskilda område som kommer först i ordningen: pliktområde, bunker, green."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "2.3",
+      "title": "Föremål eller förhållanden som kan ha störande inverkan på spelet",
+      "purpose": "Anger vilka föremål och förhållanden som kan ge fri lättnad samt klargör att lättnad utan plikt inte ges från banans gränsföremål eller integrerade föremål.",
+      "key_points": [
+        "Vissa regler ger fri lättnad (utan plikt) från störande inverkan från definierade föremål eller förhållanden.",
+        "Exempel på sådana är lösa naturföremål (Regel 15.1), flyttbara tillverkade föremål (Regel 15.2) och onormala banförhållanden (Regel 16.1).",
+        "Onormala banförhållanden inkluderar bland annat hål grävda av djur, mark under arbete, oflyttbara tillverkade föremål och tillfälligt vatten.",
+        "Lättnad utan plikt tillåts inte från föremål för banans gräns eller integrerade föremål som har störande inverkan på spelet."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "2.4",
+      "title": "Spelförbudszoner",
+      "purpose": "Definierar spelförbudszoner som delar av onormala banförhållanden eller pliktområden där spel inte är tillåtet och där spelaren måste ta lättnad.",
+      "key_points": [
+        "En spelförbudszon är en definierad del av ett onormalt banförhållande (se Regel 16.1f) eller ett pliktområde (se Regel 17.1e).",
+        "Spel är inte tillåtet i en spelförbudszon.",
+        "Spelaren måste ta lättnad när spelarens boll är i en spelförbudszon.",
+        "Spelaren måste också ta lättnad när en spelförbudszon stör stans eller område för avsedd sving för en boll utanför spelförbudszonen (se Regel 16.1f och 17.1e).",
+        "Kommittén kan genom en uppförandekod uppmana spelare att hålla sig helt utanför en spelförbudszon (Committee Procedures, Section 5I(2))."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "2\\nBanan\\n2.1\\nBanans gränser och out of bounds\\nGolf spelas på en bana, vars gränser är bestämda av tävlingsledningen. Områden som inte är på banan är out of bounds.\\n2.2\\nDefinierade områden på banan\\nDet finns fem områden på banan.\\n2.2a\\nSpelfältet\\nSpelfältet omfattar hela banan utom de fyra särskilda områden på banan som beskrivs i Regel 2.2b. Det kallas för \\'93spelfältet\\'94, eftersom:\\n\\n    det omfattar större delen av banan och är det område där en spelares boll oftast kommer att spelas tills bollen når fram till green.\\n    det innefattar varje typ av mark och växande eller fastsittande föremål som finns i det området, t ex fairway, ruff och träd.\\n\\nFIG. 2.2: DEFINIERADE OMRÅDEN PÅ BANAN\\nimage\\n2.2b\\nDe fyra särskilda områdena\\nVissa regler gäller specifikt för de fyra områdena på banan som inte ingår i spelfältet:\\n\\n    den tee som spelaren måste använda för att starta spelet på det hål som spelas (Regel 6.2),\\n    alla pliktområden (Regel 17),\\n    alla bunkrar (Regel 12) samt\\n    green på det hål som spelaren spelar (Regel 13).\\n\\n2.2c\\nAvgöra vilket område på banan en boll ligger i\\nDet område på banan som en spelares boll ligger i påverkar vilka regler som gäller när spelaren spelar bollen eller tar lättnad. En boll behandlas alltid som att den ligger i bara ett område på banan:\\n\\n    Om en del av bollen är både på spelfältet eller i ett av de fyra särskilda områdena på banan, behandlas den som att den ligger i det särskilda området på banan.\\n    Om en del av bollen är i två särskilda områden på banan, behandlas den som att den ligger i det särskilda område som kommer först i den här ordningen: pliktområde, bunker, green.\\n\\n2.3\\nFöremål eller förhållanden som kan ha störande inverkan på spelet\\nVissa regler kan ge fri lättnad (lättnad utan plikt) från störande inverkan från vissa definierade föremål eller förhållanden, t ex:\\n\\n    lösa naturföremål (Regel 15.1),\\n    flyttbara tillverkade föremål (Regel 15.2), samt\\n    onormala banförhållanden, som är hål grävt av djur, mark under arbete, oflyttbara tillverkade föremål och tillfälligt vatten (Regel 16.1).\\n\\nMen lättnad utan plikt tillåts inte från föremål för banans gräns eller integrerade föremål som har störande inverkan på spelet.\\n2.4\\nSpelförbudszoner\\nEn spelförbudszon är en definierad del av ett onormalt banförhållande (se Regel 16.1f) eller ett pliktområde (se Regel 17.1e), där spel inte är tillåtet. En spelare måste ta lättnad, när:\\n\\n    spelarens boll är i en spelförbudszon, eller\\n    en spelförbudszon inverkar störande på spelarens stans eller område för avsedd sving, när en boll spelas utanför spelförbudszonen (se Regel 16.1f och 17.1e).\\n\\nSe Committee Procedures, Section 5I(2) (en uppförandekod kan uppmana spelare att helt och hållet hålla sig utanför en spelförbudszon).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 2 Banan",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

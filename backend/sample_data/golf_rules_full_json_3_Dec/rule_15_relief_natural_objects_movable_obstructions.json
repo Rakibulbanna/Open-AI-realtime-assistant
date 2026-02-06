@@ -1,0 +1,217 @@
+{
+  "rule_number": 15,
+  "rule_code": "15",
+  "title": "Lättnad för lösa naturföremål och flyttbara tillverkade föremål",
+  "summary": {
+    "short": "Regel 15 beskriver hur spelaren utan plikt får ta bort lösa naturföremål och flyttbara tillverkade föremål, samt hur man hanterar bollar och bollmarkeringar som kan hjälpa eller störa spelet.",
+    "detailed": "Regel 15 ger lättnad utan plikt för lösa naturföremål och flyttbara tillverkade föremål, samt beskriver hur man hanterar situationer där en boll eller bollmarkering kan hjälpa eller störa spelet. Spelaren får i normalfallet ta bort lösa naturföremål och flyttbara tillverkade föremål överallt på banan, men det finns särskilda undantag – bland annat när en boll ska återplaceras eller när en boll i rörelse kan påverkas. Regeln anger också hur lättnad tas när en boll ligger i eller på ett flyttbart tillverkat föremål (inklusive när bollen inte hittas) och ger procedurer för att kräva att andra spelare lyfter eller flyttar bollar och bollmarkeringar som kan hjälpa eller störa."
+  },
+  "sections": [
+    {
+      "section_number": "15.1",
+      "title": "Lösa naturföremål",
+      "purpose": "Förklara när och hur spelaren utan plikt får ta bort lösa naturföremål och vad som händer om bollen rubbas.",
+      "key_points": [
+        "Spelaren får utan plikt ta bort lösa naturföremål var som helst på eller utanför banan.",
+        "Före återplacering av en boll får vissa lösa naturföremål inte tas bort om det sannolikt skulle ha rubbat bollen.",
+        "Om bollen rubbas när ett löst naturföremål tas bort måste bollen normalt återplaceras och kan medföra plikt enligt Regel 9.4b."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "15.1a",
+          "title": "Borttagande av lösa naturföremål",
+          "summary": "Spelaren får nästan alltid ta bort lösa naturföremål utan plikt, med två viktiga undantag kopplade till återplacering och boll i rörelse.",
+          "key_points": [
+            "Lösa naturföremål får tas bort på valfritt sätt, utan plikt.",
+            "Inför återplacering av en boll (utom på green) får man inte ta bort ett löst naturföremål som sannolikt hade rubbat bollen om det flyttats tidigare.",
+            "Undantaget gäller bara naturföremål som fanns där innan bollen lyftes/rubbades, inte föremål som flyttades i samband med markering eller lyft.",
+            "Det finns begränsningar för att medvetet ta bort lösa naturföremål i syfte att påverka en boll i rörelse (Regel 11.3)."
+          ],
+          "procedural_steps": [
+            "Identifiera om föremålet är ett löst naturföremål (inte fastsittande, inte tillverkat föremål).",
+            "Avgör om bollen ska återplaceras på sin ursprungliga punkt eller inte.",
+            "Om bollen ska återplaceras och föremålet fanns där innan bollen lyftes eller rubbades: ta inte bort föremålet om det sannolikt skulle ha rubbat bollen om det flyttats tidigare.",
+            "I alla andra fall får det lösa naturföremålet tas bort på valfritt sätt.",
+            "Vid situationer med boll i rörelse – kontrollera begränsningarna i Regel 11.3 innan du tar bort föremålet."
+          ],
+          "penalties": [
+            "Ett slags plikt om spelaren otillåtet tar bort ett löst naturföremål enligt undantag 1, men föremålet behöver inte återplaceras.",
+            "Allmän plikt om åtgärden också innebär förbättring av förhållanden som påverkar slaget i strid med Regel 8.1."
+          ]
+        },
+        {
+          "subsection_code": "15.1b",
+          "title": "En boll rubbad när ett löst naturföremål tas bort",
+          "summary": "Om bollen rubbas när ett löst naturföremål tas bort ska bollen återplaceras och plikt kan uppstå beroende på var bollen låg och vilka regler som gäller.",
+          "key_points": [
+            "Om bollen rubbas när ett löst naturföremål tas bort, måste bollen återplaceras på sin ursprungliga punkt.",
+            "Om bollen låg någon annanstans än på green eller tee får spelaren normalt ett slags plikt enligt Regel 9.4b.",
+            "Undantag: ingen plikt vid letande enligt Regel 7.4 eller om ett annat undantag från Regel 9.4b gäller."
+          ],
+          "procedural_steps": [
+            "Fastställ att bollen rubbats till följd av borttagandet av ett löst naturföremål.",
+            "Bestäm den ursprungliga punkten där bollen låg (uppskatta vid behov enligt Regel 14.2).",
+            "Återplacera bollen på den ursprungliga punkten.",
+            "Bedöm om något undantag (t.ex. letande enligt Regel 7.4) gäller för att avgöra om plikt ska utdömas."
+          ],
+          "penalties": [
+            "Ett slags plikt enligt Regel 9.4b om bollen rubbas utanför green eller tee och inget undantag gäller.",
+            "Allmän plikt enligt Regel 14.7a om spelaren underlåter att återplacera bollen och i stället spelar från fel plats."
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": "15.2",
+      "title": "Flyttbara tillverkade föremål",
+      "purpose": "Beskriva lättnad utan plikt från flyttbara tillverkade föremål, inklusive när bollen ligger i eller på ett sådant föremål, även om bollen inte hittas.",
+      "key_points": [
+        "Spelaren får ta bort flyttbara tillverkade föremål var som helst på eller utanför banan utan plikt, med vissa undantag.",
+        "Om bollen rubbas när föremålet tas bort ska bollen återplaceras men ingen plikt utgår.",
+        "När en boll är i eller på ett flyttbart tillverkat föremål ges lättnad utan plikt genom att lyfta bollen, ta bort föremålet och droppa/placera bollen på korrekt sätt.",
+        "Om bollen inte hittas men det är känt eller så gott som säkert att den är i eller på ett flyttbart tillverkat föremål kan spelaren ändå ta lättnad utan plikt enligt denna regel."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "15.2a",
+          "title": "Lättnad från flyttbart tillverkat föremål",
+          "summary": "Ger rätt att ta bort flyttbara tillverkade föremål utan plikt och beskriver hur lättnad tas när bollen är i eller på ett sådant föremål.",
+          "key_points": [
+            "Flyttbara tillverkade föremål får tas bort utan plikt på valfritt sätt.",
+            "Teemarkeringar får inte flyttas när bollen ska spelas från tee.",
+            "Det finns begränsningar för att avsiktligt ta bort flyttbara föremål för att påverka en boll i rörelse (Regel 11.3).",
+            "Om bollen rubbas när föremålet tas bort blir det ingen plikt, men bollen måste återplaceras.",
+            "Om bollen är i eller på ett flyttbart tillverkat föremål får spelaren ta lättnad utan plikt genom att lyfta bollen, ta bort föremålet och droppa/placera inom lättnadsområde eller på green."
+          ],
+          "procedural_steps": [
+            "Identifiera om föremålet är ett flyttbart tillverkat föremål enligt definitionen.",
+            "Ta bort föremålet på valfritt sätt, med beaktande av undantagen för teemarkeringar och boll i rörelse.",
+            "Om bollen rubbas när föremålet tas bort: bestäm ursprunglig punkt och återplacera bollen enligt Regel 14.2.",
+            "Om bollen låg i eller på föremålet utanför green:",
+            "  - Lyft bollen och ta bort föremålet.",
+            "  - Bestäm referenspunkten direkt under där bollen låg.",
+            "  - Droppa den ursprungliga bollen eller en annan boll inom en klubblängd från referenspunkten, i samma område på banan och inte närmare hål.",
+            "Om bollen låg i eller på föremålet på green:",
+            "  - Lyft bollen och ta bort föremålet.",
+            "  - Placera den ursprungliga bollen eller en annan boll på den uppskattade punkten direkt under där bollen låg, enligt proceduren för återplacering."
+          ],
+          "penalties": [
+            "Ingen plikt för att bollen rubbas vid borttagande av ett flyttbart tillverkat föremål, men bollen måste återplaceras.",
+            "Allmän plikt enligt Regel 14.7a om spelaren underlåter att återplacera eller tar lättnad på fel sätt och spelar från fel plats."
+          ]
+        },
+        {
+          "subsection_code": "15.2b",
+          "title": "Lättnad för en boll som inte hittas men är i eller på flyttbart tillverkat föremål",
+          "summary": "Ger lättnad utan plikt när det är känt eller så gott som säkert att en förlorad boll ligger i eller på ett flyttbart tillverkat föremål.",
+          "key_points": [
+            "Om bollen inte hittas men det är känt eller så gott som säkert att den är i eller på ett flyttbart tillverkat föremål, får spelaren ta lättnad utan plikt.",
+            "Referenspunkten är den uppskattade punkten direkt under där bollen senast skar föremålets gräns på banan.",
+            "När en ny boll sätts i spel enligt denna lättnad är den ursprungliga bollen inte längre i spel, även om den senare hittas inom söktiden.",
+            "Om det inte är känt eller så gott som säkert att bollen är i eller på föremålet, måste lättnad tas med slag och distans enligt Regel 18.2."
+          ],
+          "procedural_steps": [
+            "Bedöm om det är känt eller så gott som säkert att bollen har stannat i eller på ett flyttbart tillverkat föremål.",
+            "Om ja:",
+            "  - Bestäm den uppskattade punkten där bollen senast skar föremålets gräns på banan.",
+            "  - Använd denna punkt som referens och ta lättnad utan plikt enligt 15.2a(2) (utanför green) eller 15.2a(3) (på green).",
+            "  - Sätt en ny boll i spel enligt vald lättnadsprocedur; den ursprungliga bollen är därmed inte längre i spel.",
+            "Om nej:",
+            "  - Behandla bollen som förlorad och ta lättnad med slag och distans enligt Regel 18.2."
+          ],
+          "penalties": [
+            "Allmän plikt enligt Regel 14.7a om bollen spelas från fel plats vid felaktig användning av denna lättnadsregel."
+          ]
+        }
+      ]
+    },
+    {
+      "section_number": "15.3",
+      "title": "Boll eller bollmarkering som hjälper eller stör spelet",
+      "purpose": "Reglera hur man hanterar bollar och bollmarkeringar som kan hjälpa eller störa en spelares spel, både på green och på andra delar av banan.",
+      "key_points": [
+        "På green får bollar som kan hjälpa en spelares spel lyftas på begäran; i slagspel finns särskilda plikter vid överenskommelser om att låta bollen ligga kvar.",
+        "Var som helst på banan får en spelare kräva att en annan spelares boll som stör spelarens spel markeras och lyfts.",
+        "Bollmarkeringar som kan hjälpa eller störa spelet får flyttas efter begäran, med mätning fram och tillbaka."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "15.3a",
+          "title": "Boll på green som hjälper spelet",
+          "summary": "En boll i vila på green som kan hjälpa någon spelares spel får lyftas; i slagspel finns extra plikt om spelare kommer överens om att låta bollen ligga kvar för att hjälpa.",
+          "key_points": [
+            "Regeln gäller endast för bollar i vila på green.",
+            "En spelare får lyfta sin egen boll eller kräva att en annan spelare markerar och lyfter sin boll om den kan hjälpa någon spelares spel.",
+            "Den lyfta bollen måste återplaceras på sin ursprungliga punkt.",
+            "I slagspel får en spelare som ombeds lyfta sin boll välja att spela först innan bollen lyfts.",
+            "I slagspel medför en överenskommelse om att låta en hjälpande boll ligga kvar allmän plikt (två slags plikt) för alla spelare som ingick överenskommelsen om slag slås med bollen kvar."
+          ],
+          "procedural_steps": [
+            "Identifiera om en boll i vila på green kan fungera som hjälp (t.ex. backstop nära hålet).",
+            "Om det är spelarens egen boll: markera läget och lyft bollen enligt Regel 13.1b.",
+            "Om bollen tillhör någon annan: kräva att den spelaren markerar och lyfter bollen.",
+            "Efter slaget: återplacera bollen på sin ursprungliga punkt.",
+            "I slagspel: om en spelare blir ombedd att lyfta sin boll får spelaren välja att spela först innan bollen lyfts, om det görs utan oskälig fördröjning."
+          ],
+          "penalties": [
+            "Allmän plikt (två slags plikt i slagspel) för varje spelare som kommer överens om att låta en hjälpande boll ligga kvar om slag därefter spelas med bollen kvar.",
+            "Allmän plikt enligt Regel 14.7a om en boll spelas från fel plats efter felaktig hantering av en hjälpande boll på green."
+          ]
+        },
+        {
+          "subsection_code": "15.3b",
+          "title": "Boll som stör spelet var som helst på banan",
+          "summary": "En spelare får kräva att en annan spelares boll som stör spelarens stans, sving, spellinje eller koncentration markeras och lyfts.",
+          "key_points": [
+            "Störande inverkan uppstår när en annan spelares boll i vila stör stans, sving, spellinje eller distraherar spelaren.",
+            "En spelare får kräva att den andra spelaren markerar och lyfter bollen.",
+            "Bollen får inte rengöras när den lyfts, utom om den lyfts från green enligt Regel 13.1b.",
+            "Bollen måste återplaceras på sitt ursprungliga läge.",
+            "I slagspel får en spelare som blir ombedd att lyfta sin boll välja att spela först.",
+            "En spelare får inte lyfta sin egen boll enligt denna regel utan att ha blivit ombedd av den andra spelaren."
+          ],
+          "procedural_steps": [
+            "Identifiera om en annan spelares boll i vila stör ditt slag (stans, sving, spellinje eller distraktion).",
+            "Om den stör: begär att den andra spelaren markerar och lyfter bollen.",
+            "Den andra spelaren markerar läget, lyfter bollen utan att rengöra (utom på green enligt 13.1b) och återplacerar den på sin ursprungliga punkt efter slaget.",
+            "I slagspel kan den andra spelaren, innan bollen lyfts, välja att spela först om det görs utan oskälig fördröjning.",
+            "Lyft inte din egen boll enligt denna regel utan att ha blivit ombedd; använd istället relevanta regler (t.ex. 13.1b på green) om du vill lyfta din boll."
+          ],
+          "penalties": [
+            "Ett slags plikt för den spelare som lyfter sin boll utan att ha blivit ombedd enligt denna regel (utom på green enligt Regel 13.1b).",
+            "Allmän plikt enligt Regel 14.7a om en boll spelas från fel plats efter felaktig hantering av störande boll."
+          ]
+        },
+        {
+          "subsection_code": "15.3c",
+          "title": "Bollmarkering som hjälper eller stör spelet",
+          "summary": "Bollmarkeringar som kan hjälpa eller störa spelet får flyttas på begäran, och ska sedan flyttas tillbaka med samma mätmetod.",
+          "key_points": [
+            "En spelare får flytta sin egen bollmarkering om den kan hjälpa eller störa spelet.",
+            "En spelare får kräva att en annan spelare flyttar sin bollmarkering av samma skäl som en boll får lyftas enligt 15.3a–b.",
+            "Bollmarkeringen flyttas med en mätmetod (t.ex. en eller flera klubbhuvudlängder) och ska flyttas tillbaka med samma omvända procedur.",
+            "Samma metod bör användas när en störande boll flyttats genom mätning från bollen."
+          ],
+          "procedural_steps": [
+            "Bedöm om en bollmarkering kan hjälpa eller störa ditt eller någon annans spel.",
+            "Om det är din egen markering: flytta den ur vägen genom att mäta från dess ursprungliga läge (t.ex. en klubbhuvudlängd i en viss riktning).",
+            "Om markeringen tillhör någon annan: kräva att den spelaren flyttar markeringen på motsvarande sätt.",
+            "När situationen är klar: flytta tillbaka markeringen genom att använda den omvända mätproceduren för att återvända till ursprungsläget.",
+            "Tillämpa samma mätprincip när en störande boll flyttats ur vägen genom mätning."
+          ],
+          "penalties": [
+            "Allmän plikt för brott mot Regel 15.3, t.ex. om en spelare vägrar att flytta en störande bollmarkering eller slår innan begärd flyttning har gjorts.",
+            "Allmän plikt enligt Regel 14.7a om bollen spelas från fel plats till följd av felaktig hantering av bollmarkering."
+          ]
+        }
+      ]
+    }
+  ],
+  "original_full_text": "15\nLättnad för lösa naturföremål och flyttbara tillverkade föremål (inklusive boll eller bollmarkering som är hjälpande eller störande)\n15.1\nLösa naturföremål\n15.1a\nBorttagande av lösa naturföremål\nEn spelare får, utan plikt, ta bort ett löst naturföremål var som helst på eller utanför banan, och får göra detta på vilket sätt som helst (t ex genom att använda en hand eller fot, använda en klubba eller annan utrustning, få hjälp av andra eller bryta av del från ett löst naturföremål). Men det finns två undantag: Undantag 1 – Att ta bort löst naturföremål där boll måste återplaceras: Före återplacering av en boll som lyfts eller rubbats var som helst utom på green:\n\n    får en spelare inte avsiktligt ta bort ett löst naturföremål som, om det flyttats innan bollen lyfts eller rubbats sannolikt skulle ha orsakat att bollen rubbats.\n    Om spelaren gör så får spelaren ett slags plikt, men det flyttade lösa naturföremålet behöver inte återplaceras.\n\nDetta undantag gäller både under en rond och när spelet avbrutits enligt Regel 5.7a. Det gäller inte för ett löst naturföremål som inte fanns där innan bollen lyftes eller rubbades, eller som flyttades som ett resultat av att markera en bolls läge eller lyfta, rubba eller återplacera en boll eller orsaka att en boll rubbas. Undantag 2 – Begränsningar för att avsiktligt ta bort lösa naturföremål för att påverka boll i rörelse (se Regel 11.3).\n15.1b\nEn boll rubbad när ett löst naturföremål tas bort\nOm en spelare, genom att ta bort ett löst naturföremål, orsakar att spelarens boll rubbas:\n\n    måste bollen återplaceras på dess ursprungliga punkt (som, om den inte är känd, måste uppskattas) (se Regel 14.2).\n    Om den rubbade bollen var i vila någon annanstans än på green (se Regel 13.1d) eller på tee (se Regel 6.2b(6)), får spelaren ett slags plikt enligt Regel 9.4b, utom när Regel 7.4 gäller (ingen plikt för rubbad boll under letande) eller när ett annat undantag från Regel 9.4b gäller.\n\nPlikt för att spela en boll från fel plats i strid med Regel 15.1: allmän plikt enligt Regel 14.7a.\n15.2\nFlyttbara tillverkade föremål\nDenna regel täcker lättnad utan plikt från konstgjorda föremål som överensstämmer med definitionen för flyttbara tillverkade föremål. Den ger inte lättnad för oflyttbara tillverkade föremål (en annan typ av lättnad utan plikt medges enligt Regel 16.1) eller föremål för banans gräns eller integrerade föremål (lättnad utan plikt tillåts inte).\n15.2a\nLättnad från flyttbart tillverkat föremål\n(1) Att ta bort flyttbart tillverkat föremål. En spelare får, utan plikt, ta bort ett flyttbart tillverkat föremål var som helst på eller utanför banan och får göra detta på vilket sätt som helst. Men det finns två undantag: Undantag 1 – Teemarkeringar får inte flyttas när en boll ska spelas från tee (se Regel 6.2b(4) och 8.1a(1)). Undantag 2 – Begränsningar för att avsiktligt ta bort flyttbart tillverkat föremål för att påverka boll i rörelse (se Regel 11.3). Om en spelares boll rubbas när spelaren tar bort ett flyttbart tillverkat föremål:\n\n    blir det ingen plikt, och\n    bollen måste återplaceras på dess ursprungliga punkt (som, om den inte är känd, måste uppskattas) (se Regel 14.2).\n\n(2) Lättnad när en boll är i eller på flyttbart tillverkat föremål var som helst på banan utom på green. Spelaren får ta lättnad utan plikt genom att lyfta bollen, ta bort det flyttbara tillverkade föremålet och droppa den ursprungliga bollen eller en annan boll i detta lättnadsområde (se Regel 14.3):\n\n    Referenspunkt: Den uppskattade punkten direkt under där bollen stannat i eller på det tillverkade föremålet.\n    Storlek på lättnadsområde, mätt från referenspunkten: En klubblängd, men med dessa begränsningar:\n    Begränsningar för lättnadsområdets läge:\n        Måste vara i samma område på banan som referenspunkten och\n        får inte vara närmare hålet än referenspunkten.\n\nFIG. #1 15.2a: EN BOLL RUBBAS NÄR ETT FLYTTBART TILLVERKAT FÖREMÅL TAS BORT (UTOM NÄR EN BOLL ÄR I ELLER PÅ DET TILLVERKADE FÖREMÅLET)\nimage\nFIG. #2 15.2a: EN BOLL I ELLER PÅ ETT FLYTTBART TILLVERKAT FÖREMÅL\nimage\n\n    När en boll är i eller på ett flyttbart tillverkat föremål (t ex en handduk) var som helst på banan, får lättnad utan plikt tas genom att lyfta bollen, ta bort det flyttbara tillverkade föremålet och, utom på green, droppa den bollen eller en annan boll.\n    Referenspunkten för att ta lättnad är den uppskattade punkten direkt under där bollen stannat i eller på det flyttbara tillverkade föremålet.\n    Lättnadsområdet är en klubblängd från referenspunkten, som inte är närmare hålet än referenspunkten och som måste vara i samma område på banan som referenspunkten.\n\n(3) Lättnad när en boll är i eller på flyttbart tillverkat föremål på green. Spelaren får ta lättnad utan plikt genom att:\n\n    lyfta bollen och ta bort det flyttbara tillverkade föremålet, och\n    placera den ursprungliga bollen eller en annan boll på den uppskattade punkten direkt under där bollen stannat i eller på det flyttbara tillverkade föremålet, genom att använda tillvägagångssättet för att återplacera en boll enligt Regel 14.2b(2) och 14.2e.\n\n15.2b\nLättnad för en boll som inte hittas men är i eller på flyttbart tillverkat föremål\nOm en spelares boll inte har hittats och det är känt eller så gott som säkert att bollen har stannat i eller på ett flyttbart tillverkat föremål på banan, får spelaren använda detta lättnadsalternativ i stället för att ta lättnad med slag och distans:\n\n    Spelaren får ta lättnad utan plikt enligt Regel 15.2a(2) eller 15.2a(3), och då använda den uppskattade punkten direkt under där bollen senast skar det flyttbara tillverkade föremålets gräns på banan som referenspunkt.\n    Så snart spelaren sätter en annan boll i spel för att ta lättnad på detta sätt:\n        är den ursprungliga bollen inte längre i spel och får inte spelas.\n        Detta gäller även om den sedan hittas på banan innan de tre minuternas söktid är ute (se Regel 6.3b).\n\nMen om det inte är känt eller så gott som säkert att bollen har stannat i eller på ett flyttbart tillverkat föremål och bollen är förlorad, måste spelaren ta lättnad med slag och distans enligt Regel 18.2. Plikt för att spela en boll från fel plats i strid med Regel 15.2: allmän plikt enligt Regel 14.7a.\n15.3\nBoll eller bollmarkering som hjälper eller stör spelet\n15.3a\nBoll på green som hjälper spelet\nRegel 15.3a gäller bara för en boll i vila på green, ingen annanstans på banan. Om en spelare har skäl att tro att en boll på green kan hjälpa någons spel (t ex att fungera som en möjlig ”backstop” nära hålet), får spelaren:\n\n    markera bollen och lyfta den enligt Regel 13.1b om det är spelarens egen boll eller, om bollen tillhör en annan spelare, kräva att den andra spelaren markerar och lyfter bollen (se Regel 14.1).\n    Den lyfta bollen måste återplaceras på sin ursprungliga punkt (se Regel 14.2).\n\nEndast i slagspel :\n\n    En spelare som blir ombedd att lyfta sin boll får i stället spela den först, och\n    om två eller flera spelare kommer överens om att låta bli att lyfta en boll som kan hjälpa någon spelare, och den spelaren slår ett slag med den hjälpande bollen kvar på plats, får varje spelare som gjort överenskommelsen den allmänna plikten (två slags plikt).\n\nSe Committee Procedures, Section 5J (vägledning om bästa praxis för att förhindra ”backstop”).\n15.3b\nBoll som stör spelet var som helst på banan\n(1) Innebörd av störande inverkan från en annan spelares boll. Det blir störande inverkan enligt denna regel då en annan spelares boll i vila:\n\n    kan störa spelarens område för avsedd stans eller område för avsedd sving,\n    är på eller nära spelarens spellinje så att, med tanke på det avsedda slaget, det finns en rimlig chans att spelarens boll i rörelse skulle kunna träffa den bollen, eller\n    är tillräckligt nära för att distrahera spelaren när spelaren slår slaget.\n\n(2) När lättnad från störande boll tillåts. Om en spelare har skäl att tro att en annan spelares boll var som helst på banan kan ha störande inverkan på spelarens eget spel:\n\n    får spelaren kräva att den andra spelaren markerar läget för och lyfter bollen (se Regel 14.1). Bollen får inte rengöras (utom när den lyfts från green enligt Regel 13.1b) och måste återplaceras på sitt ursprungliga läge (se Regel 14.2).\n    Om den andra spelaren inte markerar bollens läge innan den lyfts eller rengör den när detta inte är tillåtet får spelaren ett slags plikt.\n    Endast i slagspel får en spelare som blir ombedd att lyfta sin boll enligt denna regel i stället spela den först.\n\nEn spelare får inte lyfta sin boll enligt denna regel enbart på grund av spelarens egen uppfattning om att bollen skulle kunna störa en annan spelares spel. Om spelaren lyfter sin boll när spelaren inte blir ombedd att göra det av den andra spelaren (utom när bollen lyfts på green enligt Regel 13.1b), får spelaren ett slags plikt.\n15.3c\nBollmarkering som hjälper eller stör spelet\nOm en bollmarkering kan hjälpa eller störa spelet, kan en spelare:\n\n    flytta bollmarkeringen ur vägen om det är spelarens egen, eller\n    om bollmarkeringen tillhör en annan spelare, kräva att den spelaren flyttar bollmarkeringen ur vägen, av samma skäl som spelaren får kräva att en boll ska lyftas enligt Regel 15.3a och 15.3b.\n\nBollmarkeringen måste flyttas ur vägen till ett nytt läge uppmätt från dess ursprungliga läge, t ex genom att använda en eller flera klubbhuvudlängder. När bollmarkeringen flyttas tillbaka, bör spelaren tillämpa det omvända tillvägagångssättet som användes för att flytta bollmarkeringen ur vägen. Samma tillvägagångssätt bör användas om en spelare flyttade en störande boll ur vägen genom att mäta från bollen. Plikt för brott mot Regel 15.3: allmän plikt. Denna plikt gäller även om spelaren:\n\n    slår ett slag utan att vänta på att en hjälpande boll eller bollmarkering ska lyftas eller flyttas efter att ha blivit medveten om att en annan spelare (1) avsett att lyfta eller flytta den enligt denna regel eller (2) krävt att någon annan ska göra detta, eller\n    vägrar att lyfta sin boll eller flytta sin bollmarkering när spelaren blivit ombedd att göra detta, och ett slag därefter slås av den andra spelaren vars spel kunde ha blivit hjälpt eller stört.\n\nPlikt för att spela en boll från fel plats i strid med Regel 15.3: allmän plikt enligt Regel 14.7a.\n",
+  "metadata": {
+    "language": "sv",
+    "source": "SGF / R&A Regler för Golf – svensk version",
+    "created_by": "",
+    "created_at": "2025-11-27T22:13:26.722699"
+  }
+}

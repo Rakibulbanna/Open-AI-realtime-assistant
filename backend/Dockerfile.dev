@@ -1,0 +1,29 @@
+# syntax=docker/dockerfile:1
+FROM node:22-alpine
+
+# Install dependencies for file watching (important for Windows)
+RUN apk add --no-cache libc6-compat bash
+
+WORKDIR /app
+
+# Copy only package files to install dependencies
+COPY package.json yarn.lock ./
+
+# Install all dependencies (including dev dependencies for hot reload)
+RUN yarn install --frozen-lockfile
+
+# Copy the rest of the source code
+COPY . .
+
+# Generate Prisma client
+RUN yarn prisma generate
+
+# Expose app port
+EXPOSE 9020
+
+# Set environment variables for file watching
+ENV CHOKIDAR_USEPOLLING=true
+ENV WATCHPACK_POLLING=true
+
+# Start in watch mode with polling enabled
+CMD ["yarn", "start:dev"]

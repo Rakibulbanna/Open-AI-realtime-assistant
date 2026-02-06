@@ -1,0 +1,146 @@
+{
+  "rule_number": 11,
+  "rule_code": "11",
+  "title": "En boll i rörelse råkar träffa en person, ett djur eller föremål; Avsiktliga åtgärder för att påverka en boll i rörelse",
+  "summary": {
+    "short": "Regel 11 beskriver vad som gäller när en boll i rörelse av misstag eller avsiktligt träffar personer, djur eller föremål, när plikt utgår och varifrån bollen ska spelas vidare.",
+    "detailed": "Regel 11 gäller varje gång en boll i spel är i rörelse, utom när en boll droppats i ett lättnadsområde och ännu inte stannat (detta hanteras i Regel 14.3). Regel 11.1 behandlar situationer där en boll i rörelse av misstag träffar en person, ett djur eller något utomstående, där utgångspunkten är att ingen spelare får plikt och bollen normalt spelas som den ligger, med särskilda lättnadsförfaranden om bollen stannar på en person, ett djur eller något rörligt föremål, samt särskilda regler när bollen spelats från green och träffar vissa föremål eller personer. Regel 11.2 gäller när en boll i rörelse avsiktligt påverkas eller stoppas av en person eller något som avsiktligt placerats för att påverka bollen, anger allmän plikt för spelaren som gör detta och beskriver hur och varifrån bollen måste spelas beroende på var den skulle ha stannat. Regel 11.3 förbjuder en spelare att avsiktligt förändra fysiska förhållanden eller ta bort lösa naturföremål eller flyttbara tillverkade föremål i syfte att påverka var en boll i rörelse kan stanna, med allmän plikt som följd, men med undantag för vissa tillåtna åtgärder som att flytta flaggstång, boll i vila på green och utrustning."
+  },
+  "sections": [
+    {
+      "section_number": "11.1",
+      "title": "En boll i rörelse träffar av misstag en person eller något utomstående",
+      "purpose": "Förklarar att ingen spelare får plikt när en boll i rörelse av misstag träffar en person eller något utomstående, och anger från vilken plats bollen ska spelas beroende på varifrån slaget slogs och vad bollen träffade.",
+      "key_points": [
+        "Regeln gäller när en boll i spel är i rörelse, vare sig efter ett slag eller på annat sätt, utom för en nyligen droppad boll i lättnadsområde (Regel 14.3).",
+        "Om en boll i rörelse av misstag träffar en person, inklusive spelaren själv, eller något utomstående blir det i normalfallet ingen plikt för någon spelare.",
+        "Detta gäller även om bollen träffar spelaren, motspelaren, andra spelare, deras caddies eller deras utrustning.",
+        "Vid slag från andra delar av banan än green ska bollen normalt spelas som den ligger, med särskild lättnad om bollen stannar på en person, ett djur eller ett rörligt föremål.",
+        "Vid slag från green finns särskilda regler för när slaget måste spelas om om bollen träffar vissa personer, djur eller flyttbara tillverkade föremål på green.",
+        "I slagspel får spelaren allmän plikt om en boll spelad från green i rörelse träffar en annan boll i vila på green när båda bollarna var på green före slaget."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "11.1a",
+          "title": "Ingen plikt för någon spelare",
+          "summary": "När en boll i rörelse av misstag träffar en person eller något utomstående blir det ingen plikt för någon spelare, med ett särskilt undantag när en boll spelad från green i slagspel träffar en annan boll i vila på green.",
+          "key_points": [
+            "Om en spelares boll i rörelse av misstag träffar en person (inklusive spelaren själv) eller något utomstående blir det ingen plikt för någon spelare.",
+            "Detta gäller även när bollen träffar spelaren, motspelaren, annan spelare, deras caddies eller deras utrustning.",
+            "Undantag i slagspel: Om en boll spelad från green i rörelse träffar en annan boll i vila på green och båda bollarna var på green före slaget, får spelaren den allmänna plikten (två slags plikt)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "11.1b",
+          "title": "Plats varifrån bollen måste spelas",
+          "summary": "Anger varifrån bollen ska spelas när en boll i rörelse av misstag träffar någon eller något, med olika förfaranden beroende på om slaget slogs från green eller från någon annanstans, samt särskild lättnad när bollen stannar på en person, ett djur eller ett rörligt föremål.",
+          "key_points": [
+            "När en boll i rörelse som spelats från någonstans utom green av misstag träffar en person eller något utomstående ska bollen normalt spelas som den ligger.",
+            "Om bollen stannar på en person, ett djur eller något utomstående som rör sig får bollen inte spelas som den ligger; spelaren måste ta lättnad.",
+            "Om bollen stannar på en person, ett djur eller något rörligt utomstående någonstans utom på green måste spelaren droppa den ursprungliga bollen eller en annan boll i ett lättnadsområde baserat på punkten rakt under där bollen först stannade.",
+            "Referenspunkten är den uppskattade punkten rakt under där bollen först stannade, med ett lättnadsområde på en klubblängd som måste vara i samma område på banan och inte närmare hål än referenspunkten.",
+            "Om bollen stannar på en person, ett djur eller något rörligt utomstående på green måste spelaren placera den ursprungliga bollen eller en annan boll rakt under den uppskattade punkt där bollen först stannade, enligt förfarandet i Regel 14.2b(2) och 14.2e.",
+            "Plikt för att spela från fel plats i strid med Regel 11.1b(1) är allmän plikt enligt Regel 14.7.",
+            "När en boll spelats från green och i rörelse av misstag träffar spelaren själv eller något utomstående ska bollen normalt spelas som den ligger.",
+            "Om det är känt eller så gott som säkert att en boll i rörelse från green träffat vissa personer, flyttbara föremål eller djur på green måste slaget göras om från den ursprungliga platsen enligt Regel 14.6.",
+            "Dessa objekt inkluderar andra personer än spelaren eller en person som passar flaggstången, vissa flyttbara tillverkade föremål (med undantag för klubban som användes, bollmarkering, boll i vila och flaggstång), samt djur som inte definieras som lösa naturföremål (t ex inte en insekt).",
+            "Om spelaren slår om slaget från fel plats får spelaren allmän plikt enligt Regel 14.7.",
+            "Om spelaren inte slår om slaget får spelaren allmän plikt och slaget räknas, men spelaren anses inte ha spelat från fel plats.",
+            "För spelare som använder rörelsehjälpmedel modifieras Regel 11.1b(2) enligt Regel 25.4k så att boll som träffar hjälpmedlet spelas som den ligger."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "11.2",
+      "title": "En boll i rörelse avsiktligt påverkad eller stoppad av en person",
+      "purpose": "Behandlar situationer där en boll i rörelse avsiktligt påverkas eller stoppas av en person eller något som medvetet placerats ut, anger när regeln gäller, vilken plikt som utgår och hur spelaren ska fortsätta beroende på var bollen skulle ha stannat.",
+      "key_points": [
+        "Regel 11.2 gäller när det är känt eller så gott som säkert att en boll i rörelse avsiktligt påverkats eller stoppats av en person eller av utrustning eller ett föremål som avsiktligt placerats för att påverka bollen.",
+        "En spelare som avsiktligt påverkar eller stoppar en boll i rörelse (oavsett vems boll det är) får allmän plikt.",
+        "Undantag finns när en motspelares boll i matchspel avsiktligt påverkas eller stoppas utan rimlig möjlighet att kunna hålas ut, till exempel som skänkning.",
+        "När en boll avsiktligt påverkas eller stoppas får den inte spelas som den ligger; spelaren måste ta lättnad med utgångspunkt i var bollen skulle ha stannat (på banan, på green eller out of bounds).",
+        "Om slaget slogs från green måste slaget göras om från den ursprungliga platsen.",
+        "Regeln samverkar med andra regler om pliktområden, slag och distans och med regler för spelformer med partner, där partners handlingar räknas som spelarens."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "11.2a",
+          "title": "När Regel 11.2 gäller",
+          "summary": "Regeln gäller endast när det är känt eller så gott som säkert att en boll i rörelse avsiktligt påverkats eller stoppats av en person, antingen genom direkt beröring eller genom att använda utrustning, föremål eller person som placerats för att påverka bollen.",
+          "key_points": [
+            "Regeln gäller bara när det är känt eller så gott som säkert att en spelares boll i rörelse avsiktligt påverkats eller stoppats av en person.",
+            "Detta sker när en person avsiktligt vidrör en boll i rörelse.",
+            "Det sker också när bollen i rörelse träffar utrustning, ett föremål eller en person (t ex spelarens caddie) som en spelare avsiktligt placerat eller låtit stå kvar på en plats där det kan påverka bollen.",
+            "Bollmarkeringar och andra bollar i vila innan bollen spelades eller kom i rörelse omfattas inte av denna definition.",
+            "Undantag: I matchspel när en motspelares boll i rörelse avsiktligt påverkas eller stoppas vid en tidpunkt då det inte finns någon rimlig möjlighet att den kan hålas ut, och detta sker som en skänkning eller när bollen måste hålas för att dela hålet, regleras situationen av Regel 3.2a(1) eller 3.2b(1) i stället.",
+            "För rätten att få en boll eller bollmarkering lyft när den kan hjälpa eller störa spelet, se Regel 15.3."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "11.2b",
+          "title": "När plikt gäller för en spelare",
+          "summary": "En spelare som avsiktligt påverkar eller stoppar en boll i rörelse får allmän plikt, oavsett om det är spelarens egen boll eller någon annans, med undantag för särskilda fall där bollen är i rörelse i vatten och lättnad ska tas.",
+          "key_points": [
+            "En spelare får allmän plikt om han eller hon avsiktligt påverkar eller stoppar någon boll i rörelse.",
+            "Det spelar ingen roll om bollen är spelarens egen boll, en motspelares boll eller en annan spelares boll i slagspel.",
+            "Undantag: När en boll i rörelse i tillfälligt vatten eller i vatten i ett pliktområde lyfts av spelaren för att ta lättnad enligt Regel 16.1 eller 17, utgår ingen plikt (se också Regel 10.1d Undantag 3).",
+            "I foursome (Regel 22.2) får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling.",
+            "I fyrboll (Regel 23.5) får endera partnern agera för sidan, och partnerns handling beträffande spelarens boll eller utrustning betraktas som spelarens handling."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "11.2c",
+          "title": "Plats som en avsiktligt påverkad eller stoppad boll måste spelas ifrån",
+          "summary": "En boll i rörelse som avsiktligt påverkats eller stoppats får inte spelas som den ligger; spelaren måste ta lättnad baserat på var bollen skulle ha stannat eller slå om slaget om slaget slogs från green.",
+          "key_points": [
+            "Om det är känt eller så gott som säkert att en spelares boll i rörelse avsiktligt påverkats eller stoppats av en person, får bollen inte spelas som den ligger, oavsett om den hittats eller inte.",
+            "Spelaren måste ta lättnad med utgångspunkt i den uppskattade punkt där bollen skulle ha stannat om den inte påverkats eller stoppats.",
+            "Om bollen skulle ha stannat någonstans på banan utom på green måste spelaren droppa den ursprungliga bollen eller en annan boll i ett lättnadsområde på en klubblängd från den uppskattade punkten, i samma område på banan och inte närmare hål.",
+            "Undantag: Om den uppskattade punkten där bollen skulle ha stannat är i ett pliktområde behöver spelaren inte ta lättnad enligt Regel 11.2c, utan kan i stället ta lättnad direkt från pliktområdet enligt Regel 17.1d baserat på punkten där bollen senast skar gränsen.",
+            "Om bollen skulle ha stannat på green måste spelaren placera den ursprungliga bollen eller en annan boll på den uppskattade punkten, enligt återplaceringsförfarandet i Regel 14.2b(2) och 14.2e.",
+            "Om bollen skulle ha stannat out of bounds måste spelaren ta lättnad med slag och distans enligt Regel 18.2.",
+            "Plikt för att spela från fel plats i strid med Regel 11.2c(1) är allmän plikt enligt Regel 14.7a.",
+            "Om slaget som ledde till bollen i rörelse slogs från green måste spelaren slå om slaget genom att spela den ursprungliga bollen eller en annan boll från den punkt där slaget slogs enligt Regel 14.6.",
+            "Om spelaren slår om slaget från fel plats får han eller hon allmän plikt enligt Regel 14.7.",
+            "Om spelaren inte slår om slaget får han eller hon allmän plikt och slaget räknas, men spelaren anses inte ha spelat från fel plats."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "11.3",
+      "title": "Avsiktligt ta bort föremål eller förändra förhållanden för att påverka en boll i rörelse",
+      "purpose": "Förbjuder en spelare att avsiktligt förändra fysiska förhållanden eller ta bort vissa föremål i syfte att påverka var en boll i rörelse kan komma att stanna, med allmän plikt som följd, samtidigt som vissa åtgärder för flaggstång, boll i vila på green och utrustning tillåts.",
+      "key_points": [
+        "När en boll är i rörelse får en spelare inte avsiktligt förändra fysiska förhållanden eller flytta vissa föremål för att påverka var bollen kan stanna, oavsett om det är spelarens boll eller någon annan spelares boll.",
+        "Det är förbjudet att förändra fysiska förhållanden genom åtgärder som räknas upp i Regel 8.1a, till exempel återplacera en lös torva eller pressa ned ett område med uppstickande torv.",
+        "Det är förbjudet att lyfta eller ta bort lösa naturföremål eller flyttbara tillverkade föremål i syfte att påverka var bollen i rörelse kan stanna, med hänvisning till undantagen i Regel 15.1a och 15.2a.",
+        "Spelaren bryter mot regeln om han eller hon avsiktligt gör någon av dessa handlingar, även om handlingen faktiskt inte påverkar bollens slutliga läge.",
+        "Undantag: Spelaren får lyfta eller flytta en borttagen flaggstång, en boll i vila på green (med pliktfrågor enligt Regel 9.4, 9.5 och 14.1) och utrustning som tillhör en spelare, dock inte en boll i vila utanför green eller en bollmarkering var som helst.",
+        "Att ta bort flaggstången ur hålet (även vid passning) när en boll är i rörelse täcks av Regel 13.2 och inte av Regel 11.3.",
+        "Plikt för att vidta en otillåten åtgärd i strid med Regel 11.3 är allmän plikt.",
+        "I foursome (Regel 22.2) får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling.",
+        "I fyrboll (Regel 23.5) får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning betraktas som spelarens handling."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "11\\nEn boll i rörelse råkar träffa en person, ett djur eller föremål; Avsiktliga åtgärder för att påverka en boll i rörelse\\nDenna regel gäller varje gång som en boll i spel är i rörelse (vare sig efter ett slag eller på annat sätt), utom när en boll har droppats i ett lättnadsområde och ännu inte stannat. Den situationen behandlas i Regel 14.3.\\n11.1\\nEn boll i rörelse träffar av misstag en person eller något utomstående\\n11.1a\\nIngen plikt för någon spelare\\nOm en spelares boll i rörelse av misstag träffar en person (inklusive spelaren själv) eller något utomstående:\\n\\n    blir det ingen plikt för någon spelare.\\n    Detta gäller även om bollen träffar spelaren, motspelaren eller varje annan spelare eller deras caddies eller utrustning.\\n\\nUndantag – Boll spelad från green i slagspel: Om spelarens boll i rörelse träffar en annan boll i vila på green och båda bollarna var på green före slaget, får spelaren den allmänna plikten (två slags plikt).\\n11.1b\\nPlats varifrån bollen måste spelas\\n(1) När en boll spelas från var som helst utom på green. Om en spelares boll i rörelse som spelats från var som helst utom på green av misstag träffar någon person (inklusive spelaren själv) eller något utomstående (inklusive utrustning), måste bollen i normalfallet spelas som den ligger. Men om bollen stannar på någon person, djur eller något utomstående som rör sig, får inte spelaren spela bollen som den ligger. I stället måste spelaren ta lättnad:\\n\\n    När en boll stannar på någon person, djur eller något utomstående som rör sig var som helst utom på green. Spelaren måste droppa den ursprungliga bollen eller en annan boll i detta lättnadsområde (se Regel 14.3):\\n        Referenspunkt: Den uppskattade punkten rakt under där bollen först stannat på personen, djuret eller något rörligt utomstående.\\n        Storlek på lättnadsområde mätt från referenspunkt. En klubblängd, men med följande begränsningar:\\n        Begränsningar för lättnadsområde:\\n            Måste vara inom samma område på banan som referenspunkten och\\n            får inte vara närmare hål än referenspunkten.\\n    När en boll stannar på någon person, djur eller något utomstående som rör sig på green. Spelaren måste placera sin ursprungliga boll eller någon annan boll rakt under den uppskattade punkt där bollen först stannat på personen, djuret eller något rörligt utomstående genom att använda förfarandet för att återplacera en boll enligt Regel 14.2b(2) och 14.2e.\\n\\nPlikt för att spela från fel plats i strid med Regel 11.1b(1): Allmän plikt enligt Regel 14.7. (2) När en boll spelas från green. Om en spelares boll i rörelse som spelats från green av misstag träffar spelaren själv eller något utomstående, måste bollen normalt spelas som den ligger. Men, om det är känt eller så gott som säkert att bollen i rörelse träffat något av följande på green, måste spelaren slå om slaget genom att spela den ursprungliga bollen eller en annan boll från den punkt där slaget slogs (se Regel 14.6):\\n\\n    Varje annan person än:\\n        spelaren eller\\n        en person som passar flaggstången (detta täcks av Regel 13.2b(2), och inte av denna regel).\\n    Ett flyttbart tillverkat föremål utom:\\n        klubban som använts för att slå slaget,\\n        en bollmarkering,\\n        en boll i vila (se Regel 11.1a om plikt gäller i slagspel) eller\\n        en flaggstång (detta täcks av Regel 13.2b(2), och inte av denna regel).\\n    Ett djur utom de som definieras som ett löst naturföremål (t ex en insekt).\\n\\nOm spelaren slår om slaget, men gör det från fel plats, får spelaren den allmänna plikten enligt Regel 14.7. Om spelaren inte slår om slaget, får spelaren den allmänna plikten och slaget räknas, men spelaren har inte spelat från fel plats. Se Regel 25.4k (för spelare som använder ett rörelsehjälpmedel, är Regel 11.1b(2) modifierad så att en boll som träffar hjälpmedlet spelas som den ligger).\\n11.2\\nEn boll i rörelse avsiktligt påverkad eller stoppad av en person\\n11.2a\\nNär Regel 11.2 gäller\\nDenna regel gäller bara när det är känt eller så gott som säkert att en spelares boll i rörelse avsiktligt påverkats eller stoppats av en person, vilket inträffar när:\\n\\n    en person avsiktligt vidrör en boll i rörelse eller\\n    bollen i rörelse träffar någon utrustning eller annat föremål (utom en bollmarkering eller en annan boll i vila innan bollen spelats eller på något sätt kom i rörelse) eller någon person (t ex spelarens caddie) som en spelare avsiktligt placerat ut eller låtit stå kvar på en särskild plats så att utrustning, föremål eller person skulle kunna påverka eller stoppa boll i rörelse.\\n\\nUndantag – Boll avsiktligt påverkad eller stoppad i matchspel utan rimlig möjlighet att den kan hålas ut: En motspelares boll i rörelse som avsiktligt påverkas eller stoppas vid en tidpunkt när det inte finns någon rimlig möjlighet att den kan hålas ut, och när detta görs antingen som en skänkning eller när bollen behöver hålas ut för delning av hålet, täcks av Regel 3.2a(1) eller 3.2b(1), och inte av denna regel. För en spelares rätt att få en boll eller bollmarkering lyft innan ett slag slås, om spelaren har rimligt skäl att tro att bollen eller bollmarkeringen skulle kunna hjälpa eller störa spelet, se Regel 15.3.\\n11.2b\\nNär plikt gäller för en spelare\\n\\n    En spelare får den allmänna plikten om spelaren avsiktligt påverkar eller stoppar någon boll i rörelse.\\n    Detta gäller oavsett om det är spelarens egen boll, eller en boll som spelas av en motspelare eller någon annan spelare i slagspel.\\n\\nUndantag – Boll i rörelse i vatten: Det blir ingen plikt om spelaren lyfter sin boll i rörelse i vatten i tillfälligt vatten eller i ett pliktområde när lättnad ska tas enligt Regel 16.1 eller 17 (se Regel 10.1d Undantag 3). Se Regel 22.2 (i foursome, får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling); 23.5 (i fyrboll, får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning betraktas som spelarens handling).\\n11.2c\\nPlats som en avsiktligt påverkad eller stoppad boll måste spelas ifrån\\nOm det är känt eller så gott som säkert att en spelares boll i rörelse avsiktligt påverkats eller stoppats av en person (oavsett om bollen har hittats eller ej), får den inte spelas som den ligger. I stället måste spelaren ta lättnad: (1) Slag som slagits från någonstans utom från green. Spelaren måste ta lättnad, baserat på den uppskattade punkt där bollen skulle ha stannat om den inte hade blivit påverkad eller stoppad:\\n\\n    När boll skulle ha stannat var som helst på banan utom på green. Spelaren måste droppa den ursprungliga bollen eller en annan boll i följande lättnadsområde (se Regel 14.3):\\n        Referenspunkt: Den uppskattade punkt där bollen skulle ha stannat.\\n        Storlek på lättnadsområde mätt från referenspunkt: En klubblängd, men med följande begränsningar:\\n        Begränsningar för lättnadsområde:\\n            Måste vara inom samma område på banan som referenspunkten och\\n            får inte vara närmare hål än referenspunkten.\\n\\nUndantag – Bollen bedöms ligga i ett pliktområde: Om den uppskattade punkten för bollen är i ett pliktområde, behöver inte spelaren ta lättnad enligt denna regel. Som ett alternativ får spelaren direkt ta lättnad från pliktområdet enligt Regel 17.1d baserat på den uppskattade punkten där bollen senast skar gränsen för pliktområdet.\\n\\n    När en boll skulle ha stannat på green. Spelaren måste placera den ursprungliga bollen eller en annan boll på den uppskattade punkt där bollen skulle ha stannat genom att använda sig av förfarandet för att återplacera en boll enligt Regel 14.2b(2) och 14.2e.\\n    När en boll skulle ha stannat out of bounds. Spelaren måste ta lättnad med slag och distans i enlighet med Regel 18.2.\\n\\nPlikt för att spela från fel plats i strid med Regel 11.2c(1): allmän plikt enligt Regel 14.7a. (2) Slag som slagits från green. Spelaren måste slå om slaget genom att spela den ursprungliga bollen eller en annan boll från den punkt där slaget slogs (se Regel 14.6). Om spelaren slår om slaget men gör det från fel plats, får spelaren den allmänna plikten enligt Regel 14.7. Om spelaren inte slår om slaget, får spelaren den allmänna plikten och slaget räknas, men spelaren har inte spelat från fel plats.\\n11.3\\nAvsiktligt ta bort föremål eller förändra förhållanden för att påverka en boll i rörelse\\nNär en boll är i rörelse får inte en spelare avsiktligt utföra någon av dessa handlingar för att påverka var denna boll i rörelse (oavsett om det är spelarens boll eller någon annan spelares boll) skulle kunna stanna:\\n\\n    Förändra fysiska förhållanden genom att vidta någon av de åtgärder som finns uppräknade i Regel 8.1a (t ex återplacera en lös torva eller pressa ned ett område med uppstickande torv) eller\\n    lyfta eller ta bort:\\n        ett löst naturföremål (se Regel 15.1a, Undantag 2) eller\\n        ett flyttbart tillverkat föremål (se Regel 15.2a, Undantag 2).\\n\\nSpelaren bryter mot denna regel om spelaren avsiktligt utför någon av dessa handlingar även om handlingen inte påverkar var bollen stannar. Undantag – Att flytta en flaggstång, en boll i vila på green och utrustning för spelare: Denna regel förbjuder inte spelare att lyfta eller flytta:\\n\\n    en borttagen flaggstång,\\n    en boll i vila på green (se Regel 9.4, 9.5 och 14.1 om plikt tillämpas), eller\\n    utrustning som tillhör någon spelare (annat än en boll i vila var som helst utom på green eller en bollmarkering var som helst på banan).\\n\\nAtt ta bort flaggstången från hålet (även vid passning) när en boll är i rörelse täcks av Regel 13.2, och inte av denna regel. Plikt för att vidta en otillåten åtgärd i strid med Regel 11.3: allmän plikt. Se Regel 22.2 (i foursome, får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling); 23.5 (i fyrboll, får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning betraktas som spelarens handling).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 11 En boll i rörelse råkar träffa en person, ett djur eller föremål; Avsiktliga åtgärder för att påverka en boll i rörelse",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

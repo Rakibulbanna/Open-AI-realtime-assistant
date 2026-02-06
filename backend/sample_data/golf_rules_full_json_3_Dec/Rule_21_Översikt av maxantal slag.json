@@ -1,0 +1,357 @@
+{
+  "rule_number": 21,
+  "rule_code": "21",
+  "title": "Andra former av individuellt slagspel och matchspel",
+  "summary": {
+    "short": "Regel 21 beskriver särskilda former av slagspel och matchspel – poängbogey, maxantal slag, par/bogey, treboll matchspel – samt hur reglerna anpassas för andra spelformer som scramble och greensome.",
+    "detailed": "Regel 21 kompletterar de allmänna reglerna för slagspel och matchspel (Regel 1–20) med specialbestämmelser för vissa andra tävlingsformer. Regel 21.1 behandlar poängbogey, där spelaren får poäng på varje hål genom att jämföra sin score mot en fastställd målscore och tävlingen vinns på högsta sammanlagda poäng. Regel 21.2 definierar maxantal slag (t.ex. slaggolf), där spelarens score på ett hål är begränsad till ett i förväg fastställt tak, och spelaren kan plocka upp när maxantalet uppnåtts. Regel 21.3 beskriver par/bogey, en form av slagspel med resultathantering liknande matchspel, där hål vinns, delas eller förloras mot en målscore. I dessa tre slagspelsformer finns särskilda regler för hur resultat räknas, hur scorekortet ska fyllas i, hur plikt påverkar resultatet, undantag från Regel 11.2 och när ronden anses avslutad. Regel 21.4 behandlar treboll matchspel där tre spelare spelar två separata matcher samtidigt, med särskilda regler för spelordning och pliktfördelning. Regel 21.5 klargör att reglerna kan anpassas för många andra spelformer, såsom scramble och greensome, med vägledning i Committee Procedures."
+  },
+  "sections": [
+    {
+      "section_number": "21.1",
+      "title": "Poängbogey",
+      "purpose": "Definierar poängbogey som en form av slagspel där spelaren får poäng per hål genom att jämföra sin score med en fastställd målscore, samt anger hur resultat hanteras, vilka plikter som gäller, ett undantag från Regel 11.2 och när ronden avslutas.",
+      "key_points": [
+        "Poängbogey är slagspel där spelarens eller sidans score på ett hål omvandlas till poäng genom jämförelse mellan faktisk score (slag och pliktslag) och en fastställd målscore, normalt par.",
+        "Tävlingen vinns av den spelare eller sida som efter alla ronder har högst antal poäng.",
+        "Reglerna för slagspel i Regel 1–20 gäller, men modifieras av bestämmelserna i Regel 21.1.",
+        "Regelformen är skriven för scratchtävlingar men kan anpassas för handicaptävlingar samt för spel med partners och lag enligt Regel 22, 23 och 24.",
+        "En spelarens poäng per hål beror på hur många slag under eller över målscoren spelaren har, med en bestämd poängskala från 0 upp till 6 poäng.",
+        "Spelare som inte hålar ut i enlighet med reglerna får noll poäng på hålet, och spelare uppmuntras att avsluta spelet på hålet när resultatet redan blir noll poäng.",
+        "Scorekortet behöver i vissa fall bara visa den faktiska scoren när poäng erhålls; vid noll poäng får scorekortet visa ingen score eller en score som ger noll poäng, och tävlingsledningen beräknar poängen.",
+        "Vissa regelbrott som normalt skulle medföra diskvalifikation leder i poängbogey i stället till noll poäng på det aktuella hålet.",
+        "Ronden anses avslutad när spelaren hålar ut på sista hålet eller inte längre kan få mer än noll poäng på det hålet eller väljer att inte håla ut."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "21.1a",
+          "title": "Översikt av poängbogey",
+          "summary": "Förklarar grunderna i poängbogey: poäng per hål jämfört med en fastställd målscore, högsta poäng totalt vinner, och reglerna bygger på slagspel med särskilda modifieringar.",
+          "key_points": [
+            "I poängbogey baseras spelarens eller sidans score på ett hål på poäng som tilldelas genom att jämföra scoren (slag inklusive pliktslag) med en bestämd målscore för hålet som fastställts av tävlingsledningen.",
+            "Tävlingen vinns av spelaren eller sidan som avslutar alla ronder med högst antal poäng.",
+            "Om inte annat anges är målscoren normalt par, men tävlingsledningen kan fastställa en annan målscore.",
+            "Reglerna för slagspel i Regel 1–20 gäller med de modifieringar som beskrivs i Regel 21.1.",
+            "Regel 21.1 är utformad för scratchtävlingar men kan anpassas för handicaptävlingar.",
+            "Den är skriven för individuellt spel men kan anpassas för spel med partners (foursome och fyrboll enligt Regel 22 och 23) samt lagtävlingar enligt Regel 24."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.1b",
+          "title": "Resultathantering i poängbogey",
+          "summary": "Anger hur poäng tilldelas per hål utifrån spelarens score i förhållande till målscoren, hur hålet anses avslutat och hur scorekortet ska fyllas i; tävlingsledningen ansvarar för poängberäkningen.",
+          "key_points": [
+            "Poäng för varje hål bestäms genom att jämföra spelarens score med den fastställda målscoren (vanligen par om inte annat anges).",
+            "Poängtabellen är: mer än ett slag över målscore eller ingen score = 0 poäng; ett slag över målscore = 1 poäng; målscore = 2 poäng; ett slag under = 3 poäng; två under = 4 poäng; tre under = 5 poäng; fyra under = 6 poäng.",
+            "En spelare som av någon orsak inte hålar ut i enlighet med reglerna får noll poäng på hålet.",
+            "För att påskynda spelet uppmuntras spelare att avsluta spelet på hålet när deras score redan innebär 0 poäng.",
+            "Hålet är avslutat när spelaren hålar ut, när spelaren väljer att inte håla ut, eller när spelarens score ger resultatet noll poäng.",
+            "Om ett hål avslutas genom att håla ut och scoren ger poäng, måste scorekortet visa den faktiska scoren.",
+            "Om scoren ger noll poäng får scorekortet visa antingen ingen score eller en score som resulterar i noll poäng.",
+            "Om hålet avslutas utan att spelaren hålar ut måste scorekortet visa antingen ingen score eller en score som resulterar i noll poäng.",
+            "Tävlingsledningen är ansvarig för att beräkna hur många poäng spelaren får på varje hål och, i handicaptävlingar, tillämpa handicapslag innan poängen beräknas.",
+            "Tävlingsledningen kan i tävlingsvillkoren uppmuntra men inte kräva att spelare antecknar antalet erhållna poäng per hål på scorekortet (se Committee Procedures, Section 5A(5)).",
+            "FIG. 21.1b illustrerar resultathantering i en scratchtävling poängbogey (image)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.1c",
+          "title": "Plikt i poängbogey",
+          "summary": "Alla slagspelsplikter gäller, men för fem särskilda regelbrott blir spelaren inte diskvalificerad utan får noll poäng på hålet; andra diskvalifikationsgrunder kvarstår.",
+          "key_points": [
+            "Alla plikter som gäller i slagspel gäller också i poängbogey.",
+            "Vid vissa särskilda regelbrott blir spelaren dock inte diskvalificerad utan får noll poäng på det hål där brottet skedde.",
+            "Dessa fem situationer är: att inte håla ut enligt Regel 3.3c; att inte rätta misstaget att spela från en plats utanför tee när hålet startas (Regel 6.1b(2)); att inte rätta misstaget att spela fel boll (Regel 6.3c); att inte rätta misstaget att spela från fel plats när detta är ett allvarligt brott (Regel 14.7b); samt att inte rätta misstaget att slå slag i fel ordning enligt Regel 22.3.",
+            "Om spelaren bryter mot någon annan regel som normalt innebär diskvalifikation, blir spelaren diskvalificerad även i poängbogey.",
+            "Efter att pliktslag har lagts till kan spelarens poängbogeyscore på ett hål inte bli lägre än noll poäng."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.1d",
+          "title": "Undantag från Regel 11.2 i poängbogey",
+          "summary": "Gör undantag från Regel 11.2 när en boll i rörelse måste hålas ut för att ge poäng och någon avsiktligt påverkar bollen utan rimlig chans att den kan hålas ut; ingen plikt utgår, spelaren får noll poäng.",
+          "key_points": [
+            "Regel 11.2 gäller inte i en särskild poängbogeysituation.",
+            "Om en spelares boll i rörelse måste hålas ut för att ge ett poäng på hålet och någon person avsiktligt påverkar eller stoppar bollen när det inte finns någon rimlig chans att den kan hålas ut, får den personen ingen plikt.",
+            "I denna situation får spelaren noll poäng på hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.1e",
+          "title": "När en rond avslutas i poängbogey",
+          "summary": "Anger när spelarens rond anses avslutad i poängbogey, antingen när sista hålet hålats ut (inklusive rättelser) eller när spelaren inte kan få mer än noll poäng på sista hålet eller väljer att inte håla ut.",
+          "key_points": [
+            "En spelares rond i poängbogey avslutas när spelaren hålar ut på sitt sista hål.",
+            "Avslutandet inkluderar även rättning av misstag enligt t.ex. Regel 6.1 eller 14.7b.",
+            "Ronden avslutas också om spelaren väljer att inte håla ut på det sista hålet.",
+            "Ronden anses dessutom avslutad om spelaren inte kan få mer än noll poäng på det sista hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "21.2",
+      "title": "Maxantal slag (t.ex. slaggolf)",
+      "purpose": "Definierar maxantal slag som en form av slagspel där scoren på varje hål begränsas av ett fastställt maxantal slag, och beskriver hur resultat hanteras, vilka plikter som gäller, undantag från Regel 11.2 och när ronden avslutas.",
+      "key_points": [
+        "Maxantal slag är slagspel där ett maxantal slag per hål fastställs av tävlingsledningen, till exempel dubbelt par, ett bestämt antal slag eller nettodubbelbogey.",
+        "Spelarens score på ett hål är det faktiska antalet slag inklusive pliktslag, men begränsat till maxantalet.",
+        "Spelare som inte hålar ut i enlighet med reglerna får den maximerade scoren på hålet.",
+        "Reglerna för slagspel i Regel 1–20 gäller med de modifieringar som anges i Regel 21.2.",
+        "Regelformen är skriven för scratchtävlingar men kan anpassas för handicaptävlingar, partnerspel (foursome, fyrboll) och lagtävlingar.",
+        "Scorekortet behöver i vissa fall bara visa den faktiska scoren när den är lägre än maxantalet; i andra fall räcker det att visa ingen score eller en score som når eller överstiger maxantalet.",
+        "Vid vissa allvarliga regelbrott som normalt skulle ge diskvalifikation får spelaren i stället maxantal slag på det aktuella hålet.",
+        "Ronden avslutas när spelaren hålar ut på sista hålet eller när spelaren antingen väljer att inte håla ut eller redan kommer att tilldelas maxantalet slag på hålet."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "21.2a",
+          "title": "Översikt av maxantal slag",
+          "summary": "Förklarar grunderna i maxantal slag: slagspel där scoren på varje hål har ett tak, reglerna bygger på slagspel men anpassas, och spelformen kan användas för både scratch- och handicaptävlingar samt individuellt och med partners.",
+          "key_points": [
+            "Maxantal slag är en form av slagspel där varje hål har ett maximerat antal slag som score, fastställt av tävlingsledningen.",
+            "Exempel på maxantal är två gånger par, ett fastställt antal slag eller nettodubbelbogey.",
+            "Reglerna för slagspel i Regel 1–20 gäller, men modifieras av bestämmelserna i Regel 21.2.",
+            "Regel 21.2 är skriven för scratchtävlingar men kan användas i handicaptävlingar.",
+            "Formen är skriven för individuellt spel men kan anpassas för spel med partners enligt Regel 22 och 23 samt lagtävlingar enligt Regel 24."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.2b",
+          "title": "Resultathantering i maxantal slag",
+          "summary": "Anger hur spelarens score per hål bestäms med ett tak, hur hålet anses avslutat och hur scorekortet ska fyllas i; tävlingsledningen justerar scoren till maxantalet vid behov.",
+          "key_points": [
+            "Spelarens score på ett hål baseras på det faktiska antalet slag (utförda slag och pliktslag) men får inte överstiga maxantalet som tävlingsledningen fastställt.",
+            "Om spelarens faktiska score är högre än maxantalet, registreras ändå endast maxantalet som score på hålet.",
+            "En spelare som inte hålar ut i enlighet med reglerna får den maximerade scoren på hålet.",
+            "För att påskynda spelet uppmuntras spelare att avsluta spelet på hålet när de har uppnått maxantalet slag.",
+            "Hålet är avslutat när spelaren hålar ut, väljer att inte göra detta, eller när spelarens score har nått maxantalet.",
+            "Om ett hål avslutas genom att håla ut och scoren är lägre än maxantalet måste scorekortet visa den faktiska scoren.",
+            "När scoren är lika med eller högre än maxantalet ska scorekortet visa antingen ingen score eller en score som är på eller över maxantalet.",
+            "Om hålet avslutas utan att spelaren hålar ut måste scorekortet visa antingen ingen score eller en score på eller över maxantalet.",
+            "Tävlingsledningen ansvarar för att justera spelarens score till maxantalet på alla hål där scorekortet visar antingen ingen score eller en score över maxantalet.",
+            "I handicaptävling är tävlingsledningen också ansvarig för att tillämpa handicapslag."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.2c",
+          "title": "Plikt i maxantal slag",
+          "summary": "Alla slagspelsplikter gäller, men för fem särskilda regelbrott blir spelaren inte diskvalificerad utan får maxantalet slag på det berörda hålet; andra diskvalifikationsgrunder kvarstår.",
+          "key_points": [
+            "Alla plikter som gäller i slagspel gäller i maxantal slag.",
+            "En spelare som bryter mot vissa listade regler blir dock inte diskvalificerad utan får maxantalet slag på det hål där regelbrottet inträffade.",
+            "Dessa fem situationer är: att inte håla ut enligt Regel 3.3c; att inte rätta misstaget att spela från plats utanför tee vid start av hål (Regel 6.1b(2)); att inte rätta misstaget att spela fel boll (Regel 6.3c); att inte rätta misstaget att spela från fel plats vid allvarligt brott (Regel 14.7b); samt att inte rätta misstaget att slå slag i fel ordning (Regel 22.3).",
+            "Om spelaren bryter mot någon annan regel som skulle innebära diskvalifikation blir spelaren diskvalificerad även i maxantal slag.",
+            "Efter att pliktslag lagts till kan spelarens score på ett hål inte överstiga det fastställda maxantalet slag."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.2d",
+          "title": "Undantag från Regel 11.2 i maxantal slag",
+          "summary": "Gör undantag från Regel 11.2 när en boll i rörelse måste hålas ut för att få lägre score än maxantalet och någon avsiktligt påverkar bollen utan rimlig chans att den kan hålas ut; ingen plikt utgår, spelaren får maxantalet slag.",
+          "key_points": [
+            "Regel 11.2 gäller inte i en särskild situation i maxantal slag.",
+            "Om en spelares boll i rörelse måste hålas ut för att spelaren ska få en lägre score på hålet än maxantalet slag, och någon person avsiktligt påverkar eller stoppar bollen när det inte finns någon rimlig chans att den kan hålas ut, får den personen ingen plikt.",
+            "I denna situation får spelaren maxantalet slag på hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.2e",
+          "title": "När en rond avslutas i maxantal slag",
+          "summary": "Anger när spelarens rond anses avslutad i maxantal slag, antingen när sista hålet hålats ut (inklusive rättelser) eller när spelaren inte kan få annat än maxantal slag på sista hålet eller väljer att inte håla ut.",
+          "key_points": [
+            "En spelares rond i maxantal slag avslutas när spelaren hålar ut på sitt sista hål.",
+            "Avslutandet inkluderar rättning av misstag enligt t.ex. Regel 6.1 eller 14.7b.",
+            "Ronden avslutas också om spelaren väljer att inte håla ut på det sista hålet.",
+            "Ronden anses dessutom avslutad om spelaren redan kommer att få maxantalet slag på det sista hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "21.3",
+      "title": "Par/bogey",
+      "purpose": "Definierar par/bogey som en slagspelsform med matchspelsliknande resultathantering mot en målscore per hål, och anger hur resultat räknas, plikter tillämpas, undantag från Regel 11.2 samt när ronden avslutas.",
+      "key_points": [
+        "Par/bogey är slagspel där resultat hanteras som i matchspel, genom att varje hål vinns, delas eller förloras mot en fastställd målscore (vanligen par eller bogey).",
+        "Spelaren vinner, delar eller förlorar hål beroende på om scoren är lägre, lika med eller högre än målscoren, eller om ingen score lämnas in.",
+        "Den totala tävlingsscoren bestäms genom att räkna ut antal vunna hål minus förlorade hål; högsta nettosiffra vinner.",
+        "Reglerna för slagspel i Regel 1–20 gäller, modifierade av Regel 21.3.",
+        "Spelare som inte hålar ut i enlighet med reglerna förlorar hålet, vilket kan spara tid då spelaren kan plocka upp när hålet redan är förlorat mot målscoren.",
+        "Scorekortet måste visa korrekt score när hålet vinns eller delas; vid förlorade hål räcker ingen score eller en score som ger förlust.",
+        "Det finns ett särskilt undantag från plikt enligt Regel 3.3b om en felaktigt för låg score inte påverkar om hålet vunnits, förlorats eller delats.",
+        "Vissa regelbrott som normalt skulle innebära diskvalifikation leder i par/bogey i stället till förlust av hål, medan andra fortfarande medför diskvalifikation.",
+        "Ett undantag från Regel 11.2 gör att en person utan plikt kan stoppa en boll i rörelse när den endast kan dela hålet och saknar rimlig chans att hålas ut, vilket leder till förlust av hålet för spelaren.",
+        "Ronden avslutas när spelaren hålar ut på sista hålet eller när spelaren väljer att inte håla ut eller redan har förlorat hålet."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "21.3a",
+          "title": "Översikt av par/bogey",
+          "summary": "Förklarar grunderna i par/bogey: slagspel med matchspelsliknande resultathantering mot en målscore per hål, där summan av vunna minus förlorade hål avgör tävlingen.",
+          "key_points": [
+            "Par/bogey är en form av slagspel där resultatet på varje hål hanteras som i matchspel, genom att man jämför spelarens score med en fastställd målscore (vanligen par eller bogey) för hålet.",
+            "Spelaren eller sidan vinner ett hål genom att avsluta hålet på färre slag än målscoren och förlorar hålet genom att ta fler slag än målscoren.",
+            "Den totala tävlingsscoren bestäms genom att summera antal vunna hål och dra ifrån antal förlorade hål.",
+            "Reglerna för slagspel i Regel 1–20 gäller, med modifieringar enligt Regel 21.3.",
+            "Regeln är skriven för scratchtävlingar men kan anpassas för handicaptävlingar, individuellt spel, partnerspel enligt Regel 22 och 23 samt lagtävlingar enligt Regel 24."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.3b",
+          "title": "Resultathantering i par/bogey",
+          "summary": "Anger hur ett hål vinns, delas eller förloras mot målscoren, när spelaren anses ha förlorat hålet, hur scorekortet ska fyllas i och att tävlingsledningen avgör resultatet på varje hål efter eventuell handicap.",
+          "key_points": [
+            "Ett hål vinns om spelarens score är lägre än den fastställda målscoren för hålet.",
+            "Ett hål delas (halveras) om spelarens score är lika med målscoren.",
+            "Ett hål förloras om spelarens score är högre än målscoren eller om ingen score lämnas in.",
+            "En spelare som av någon anledning inte hålar ut i enlighet med reglerna förlorar hålet.",
+            "För att påskynda spelet uppmuntras spelaren att avsluta spelet på ett hål när scoren redan överstiger målscoren, eftersom hålet då är förlorat.",
+            "Hålet är avslutat när spelaren hålar ut, väljer att inte göra detta eller när spelarens score överstiger målscoren.",
+            "Om ett hål avslutas genom att håla ut och resultatet är att hålet vinns eller delas måste scorekortet visa den faktiska scoren.",
+            "Om scoren innebär att hålet förloras måste scorekortet visa antingen ingen score eller en score som resulterar i att hålet förloras.",
+            "Om hålet avslutas utan att spelaren hålar ut måste scorekortet visa antingen ingen score eller en score som resulterar i att hålet förloras.",
+            "Tävlingsledningen avgör om spelaren vunnit, förlorat eller delat varje hål och, i handicaptävling, tillämpar handicapslagen på scoren innan resultatet bestäms.",
+            "Undantag: Om spelaren lämnar in ett scorekort med en score på ett hål som är lägre än den faktiska scoren, men detta inte ändrar om hålet vunnits, förlorats eller delats, blir det ingen plikt enligt Regel 3.3b.",
+            "Tävlingsledningen kan i tävlingsvillkoren uppmuntra men inte kräva att spelarna även fyller i resultatet (vunnen, förlorad, delad) på varje hål på scorekortet (Committee Procedures, Section 5A(5))."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.3c",
+          "title": "Plikt i par/bogey",
+          "summary": "Alla slagspelsplikter gäller, men för fem särskilda regelbrott blir spelaren inte diskvalificerad utan förlorar hålet där brottet inträffade; andra diskvalifikationsgrunder kvarstår.",
+          "key_points": [
+            "Alla plikter som gäller i slagspel gäller också i par/bogey.",
+            "En spelare som bryter mot vissa uppräknade regler blir inte diskvalificerad utan förlorar det hål där regelbrottet inträffade.",
+            "Dessa fem situationer är: att inte håla ut enligt Regel 3.3c; att inte rätta misstaget att spela från plats utanför tee vid start av hål (Regel 6.1b(2)); att inte rätta misstaget att spela fel boll (Regel 6.3c); att inte rätta misstaget att spela från fel plats vid allvarligt brott (Regel 14.7b); samt att inte rätta misstaget att slå slag i fel ordning (Regel 22.3).",
+            "Om spelaren bryter mot någon annan regel som skulle innebära diskvalifikation blir spelaren diskvalificerad även i par/bogey.",
+            "Efter att pliktslag lagts till kan spelarens score på ett hål inte bli sämre än förlust av hål."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.3d",
+          "title": "Undantag från Regel 11.2 i par/bogey",
+          "summary": "Gör undantag från Regel 11.2 när en boll i rörelse måste hålas för att dela hålet och någon avsiktligt påverkar bollen utan rimlig chans att den kan hålas ut; ingen plikt utgår, spelaren förlorar hålet.",
+          "key_points": [
+            "Regel 11.2 gäller inte i en särskild situation i par/bogey.",
+            "Om en spelares boll i rörelse måste hålas ut för att dela hålet och någon person avsiktligt påverkar eller stoppar bollen när det inte finns någon rimlig chans att den kan hålas ut, får den personen ingen plikt.",
+            "I denna situation förlorar spelaren hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.3e",
+          "title": "När en rond avslutas i par/bogey",
+          "summary": "Anger när spelarens rond anses avslutad i par/bogey, antingen när sista hålet hålats ut (inklusive rättelser) eller när spelaren inte hålar ut eller redan har förlorat hålet.",
+          "key_points": [
+            "En spelares rond i par/bogey avslutas när spelaren hålar ut på sitt sista hål.",
+            "Avslutandet inkluderar rättning av misstag enligt t.ex. Regel 6.1 eller 14.7b.",
+            "Ronden avslutas också om spelaren väljer att inte håla ut på sista hålet.",
+            "Ronden anses dessutom avslutad om spelaren redan har förlorat det sista hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "21.4",
+      "title": "Treboll matchspel",
+      "purpose": "Beskriver treboll matchspel där tre spelare spelar individuella matcher mot varandra samtidigt, och anger särskilda regler för spel i fel ordning och hur plikt tillämpas när en motspelare lyfter eller rubbar en boll eller bollmarkering.",
+      "key_points": [
+        "Treboll matchspel är matchspel där tre spelare samtidigt spelar varsin individuell match mot de andra två spelarna.",
+        "Varje spelare spelar en egen boll som används i båda matcherna mot de två motspelarna.",
+        "Reglerna för matchspel i Regel 1–20 gäller för alla tre individuella matcher.",
+        "Särskilda bestämmelser i Regel 21.4 gäller för situationer där den normala tillämpningen av reglerna i en match skulle komma i konflikt med tillämpningen i den andra matchen.",
+        "Det finns särskilda regler för hur spel i fel ordning kan återkallas av motspelarna i respektive match.",
+        "När en motspelare får plikt för att ha lyft eller rubbat en annan spelares boll eller bollmarkering, gäller plikten endast i matchen mot den spelaren."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "21.4a",
+          "title": "Översikt av treboll matchspel",
+          "summary": "Förklarar grunderna i treboll matchspel, där tre spelare spelar två separata matcher samtidigt och varje spelare använder samma boll i båda matcherna.",
+          "key_points": [
+            "I treboll matchspel spelar tre spelare på samma gång.",
+            "Varje spelare spelar en individuell match mot de andra två spelarna, vilket innebär totalt tre separata matcher.",
+            "Varje spelare spelar en boll som används i båda matcherna.",
+            "Reglerna för matchspel i Regel 1–20 gäller för alla tre matcher.",
+            "Regel 21.4 inför dock specifika regler för situationer där normal tillämpning i en match kan stå i konflikt med tillämpningen i en annan match."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.4b",
+          "title": "Spela i fel ordning",
+          "summary": "Förklarar hur slag i fel ordning hanteras i treboll matchspel, inklusive att varje motspelare kan välja att återkalla slaget i sin match, vilket kan leda till att spelaren måste spela olika bollar i de två matcherna.",
+          "key_points": [
+            "Om en spelare spelar i fel ordning i någon match får den motspelare som skulle ha spelat först återkalla slaget enligt Regel 6.4a(2).",
+            "Om en spelare spelat i fel ordning i båda matcherna får varje motspelare i sin match mot den spelaren välja om slaget ska återkallas.",
+            "Om slaget återkallas i endast en av matcherna måste spelaren fortsätta spelet med den ursprungliga bollen i den andra matchen där slaget inte återkallats.",
+            "Detta innebär att spelaren måste avsluta hålet med en separat boll för varje match."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "21.4c",
+          "title": "En boll eller bollmarkering lyfts eller rubbas av en motspelare",
+          "summary": "Anger att plikt för en motspelare som lyfter eller rubbar en spelares boll eller bollmarkering endast gäller i matchen mot den spelaren, inte i motspelarens andra match.",
+          "key_points": [
+            "Om en motspelare får ett slags plikt för att ha lyft en spelares boll eller bollmarkering eller orsakat att bollen eller bollmarkeringen rubbats enligt Regel 9.5b eller 9.7b, gäller plikten bara i matchen mot den spelaren.",
+            "Motspelaren får ingen plikt i sin match mot den andra spelaren."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "21.5",
+      "title": "Andra former av golfspel",
+      "purpose": "Klargör att, utöver de särskilt reglerade formerna i Reglerna 3 och 21–23, kan golf spelas i många andra spelformer där reglerna kan anpassas med stöd av Committee Procedures.",
+      "key_points": [
+        "Reglerna behandlar endast vissa specifika spelformer i Regel 3, 21, 22 och 23.",
+        "Golf spelas i praktiken också i många andra spelformer, till exempel scramble och greensome.",
+        "Reglerna kan anpassas för att styra spelet i sådana andra spelformer.",
+        "Committee Procedures, Section 9, innehåller rekommendationer för hur reglerna kan anpassas för andra vanliga spelformer."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "21\\nAndra former av individuellt slagspel och matchspel\\n21.1\\nPoängbogey\\n21.1a\\nÖversikt av poängbogey\\nPoängbogey är en form av slagspel där:\\n\\n    En spelares eller sidas score på ett hål baseras på poäng som tilldelas genom att jämföra spelarens eller sidans score på hålet (både utförda slag och pliktslag) med en bestämd score på hålet som är fastslagen av tävlingsledningen.\\n    Tävlingen vinns av spelaren eller sidan som avslutar alla ronder med högst antal poäng.\\n\\nReglerna för slagspel i Regel 1-20 gäller med de modifieringar som anges i dessa speciella regler. Regel 21.1 är utformad för:\\n\\n    scratchtävlingar, men kan också anpassas för handicaptävlingar och\\n    individuellt spel, men kan anpassas för tävlingar med partners involverade med de modifieringar som anges i Regel 22 (Foursome) och Regel 23 (Fyrboll) samt för lagtävlingar med modifieringar som anges i Regel 24.\\n\\n21.1b\\nResultathantering i poängbogey\\n(1) Hur poäng erhålls. Poäng tilldelas en spelare för varje hål genom att jämföra spelarens score med den fastställda målscoren för hålet, som är par om inte tävlingsledningen anger en annan bestämd score:\\nHålet spelat på\\tPoäng\\nMer än ett slag över fastställd målscore eller ingen score\\t0\\nEtt slag över fastställd målscore\\t1\\nFastställd målscore\\t2\\nEtt slag under fastställd målscore\\t3\\nTvå slag under fastställd målscore\\t4\\nTre slag under fastställd målscore\\t5\\nFyra slag under fastställd målscore\\t6\\nEn spelare som av någon orsak inte hålar ut i enlighet med reglerna erhåller noll poäng på hålet. För att påskynda speltempot uppmuntras spelarna att avsluta spelet på hålet när deras score kommer att ge resultatet noll poäng. Hålet är avslutat när spelaren hålat ut, väljer att inte göra det eller när scoren ger resultatet noll poäng. (2) Scoren införd för varje hål. För att tillgodose kraven i Regel 3.3b för införande av hålscorer på scorekortet:\\n\\n    Om ett hål avslutas genom att håla ut.\\n        När scoren skulle resultera i att poäng erhålls. Scorekortet måste visa den faktiska scoren.\\n        När scoren skulle resultera i noll poäng. Scorekortet måste visa antingen ingen score eller en score som resulterar i noll tilldelade poäng.\\n    Om ett hål avslutas utan att håla ut. Om ett hål avslutas utan att håla ut. Om spelaren inte hålar ut i enlighet med reglerna, måste scorekortet visa antingen ingen score eller en score som resulterar i noll tilldelade poäng.\\n\\nTävlingsledningen är ansvarig för beräkningen av hur många poäng spelaren erhåller på varje hål och, i en handicaptävling, tillämpa handicapslag på respektive hål innan antalet poäng beräknas. Se Committee Procedures, Section 5A(5) (i tävlingsvillkoren kan tävlingsledningen uppmuntra men inte kräva att spelarna även för in erhållna poäng för varje hål på scorekortet).\\nFIG. 21.1b: RESULTATHANTERING I SCRATCHTÄVLING POÄNGBOGEY\\nimage\\n21.1c\\nPlikt i poängbogey\\nAlla plikter som gäller i slagspel gäller i poängbogey, utom att en spelare som bryter mot någon av dessa fem regler inte blir diskvalificerad, men får noll poäng på hålet där regelbrottet inträffade:\\n\\n    att inte håla ut enligt Regel 3.3c,\\n    att inte rätta till misstaget att spela från en plats utanför tee när spelaren startar spelet av ett hål. (se Regel 6.1b(2)),\\n    att inte rätta till misstaget att spela på fel boll (se Regel 6.3c),\\n    att inte rätta till misstaget att spela från fel plats och detta är ett allvarligt brott (se Regel 14.7b) eller\\n    att inte rätta till misstaget att slå ett slag i fel ordning (se Regel 22.3).\\n\\nOm spelaren bryter mot någon annan regel som skulle innebära diskvalifikation, blir spelaren diskvalificerad. Efter att pliktslag lagts till kan spelarens poängbogeyscore på ett hål inte bli lägre än noll poäng.\\n21.1d\\nUndantag från Regel 11.2 i poängbogey\\nRegel 11.2 gäller inte i denna situation: Om en spelares boll i rörelse behöver hålas ut för att ge ett poäng på hålet, och någon person avsiktligt påverkar eller stoppar bollen när det inte finns någon rimlig chans att den kan hålas ut, får den personen inte någon plikt och spelaren får noll poäng på hålet.\\n21.1e\\nNär en rond avslutas i poängbogey\\nEn spelares rond avslutas när spelaren:\\n\\n    hålar ut på sitt sista hål (inklusive rättning av ett misstag, t ex enligt Regel 6.1 eller 14.7b) eller\\n    väljer att inte håla ut på sista hålet eller inte kan få mer än noll poäng på hålet.\\n\\n21.2\\nMaxantal slag (t.ex. slaggolf)\\n21.2a\\nÖversikt av maxantal slag\\nMaxantal slag är en form av slagspel där en spelares eller sidas score på ett hål av tävlingsledningen getts ett tak för ett maxantal slag, t ex två gånger par, ett fastställt antal slag eller nettodubbelbogey. Reglerna för slagspel i Regel 1-20 gäller med de modifieringar som anges i dessa speciella regler. Regel 21.2 är skriven för:\\n\\n    scratchtävlingar, men kan också anpassas för handicaptävlingar, och\\n    individuellt spel, men kan anpassas för tävlingar med partners involverade med de modifieringar som anges i Regel 22 (Foursome) och Regel 23 (Fyrboll) samt för lagtävlingar med de modifieringar som anges i Regel 24.\\n\\n21.2b\\nResultathantering i maxantal slag\\n(1) Spelarens score på hålet. En spelares score på ett hål baseras på det faktiska antalet slag (både utförda slag och pliktslag), utom att spelaren bara får den maximerade scoren även om den faktiska scoren överstiger maxantalet. En spelare som av någon anledning inte hålar ut i enlighet med reglerna får den maximerade scoren på hålet. För att påskynda speltempot uppmuntras spelare att avsluta spelet på hålet när de uppnått maxantalet slag. Hålet är avslutat när spelaren hålar ut, väljer att inte göra detta eller när spelarens score har nått maxantalet. (2) Scoren införd för varje hål. För att tillgodose kraven i Regel 3.3b för införande av hålscorer på scorekortet:\\n\\n    Om hål avslutas genom att håla ut.\\n        När scoren är lägre än maxantalet. Scorekortet måste visa den faktiska scoren.\\n        När scoren är densamma som eller högre än maxantalet. Scorekortet måste visa antingen ingen score eller en score som är på eller över maxantalet.\\n    Om ett hål avslutas utan att håla ut. Om spelaren inte hålar ut i enlighet med reglerna, måste scorekortet visa antingen ingen score eller en score som är på eller över maxantalet.\\n\\nTävlingsledningen är ansvarig för att justera spelarens score till maxantalet på alla hål där scorekortet visar antingen ingen score eller någon score över maxantalet och, i en handicaptävling, tillämpa handicapslag.\\n21.2c\\nPlikt i maxantal slag\\nAlla plikter som gäller i slagspel gäller i maxantal slag, utom att en spelare som bryter mot någon av dessa fem regler inte blir diskvalificerad, men får maxantalet slag på hålet där regelbrottet inträffade:\\n\\n    att inte håla ut enligt Regel 3.3c,\\n    att inte rätta till misstaget att spela från en plats utanför tee när spelaren startar spelet av ett hål. (se Regel 6.1b(2)),\\n    att inte rätta till misstaget att spela på fel boll (se Regel 6.3c),\\n    att inte rätta till misstaget att spela från fel plats och detta är ett allvarligt brott (se Regel 14.7b) eller\\n    att inte rätta till misstaget att slå ett slag i fel ordning (se Regel 22.3).\\n\\nOm spelaren bryter mot någon annan regel som skulle innebära diskvalifikation blir spelaren diskvalificerad. Efter att ha lagt till pliktslag kan spelarens score på ett hål inte överskrida det maxantal slag som är fastställt av tävlingsledningen.\\n21.2d\\nUndantag från Regel 11.2 i maxantal slag\\nRegel 11.2 gäller inte i denna situation: Om en spelares boll i rörelse behöver hålas ut för att få lägre score på hålet än maxantalet slag, och någon person avsiktligt påverkar eller stoppar bollen när det inte finns någon rimlig chans att den kan hålas ut, får den personen inte någon plikt och spelaren får maxantalet slag på hålet.\\n21.2e\\nNär en rond avslutas i maxantal slag\\nEn spelares rond avslutas när spelaren:\\n\\n    hålar ut på sitt sista hål (inklusive rättning av ett misstag, t ex enligt Regel 6.1 eller 14.7b) eller\\n    väljer att inte håla ut på det sista hålet eller redan kommer att få maxantalet slag på hålet.\\n\\n21.3\\nPar/bogey\\n21.3a\\nÖversikt av par/bogey\\nPar/bogey är en form av slagspel där man använder sig av en resultathantering som i matchspel och där:\\n\\n    en spelare eller sida vinner eller förlorar ett hål genom att avsluta hålet på färre eller fler slag än en fastställd målscore för det hålet som är fastställd av tävlingsledningen, samt\\n    att tävlingen vinns av den spelare eller sida med högsta totala antalet vunna hål kontra förlorade hål (d v s, genom att summera vunna hål och dra ifrån förlorade hål).\\n\\nReglerna för slagspel i Regel 1-20 gäller med de modifieringar som anges i dessa speciella regler. Regel 21.3 är utformad för:\\n\\n    scratchtävlingar, men kan också anpassas för handicaptävlingar och\\n    individuellt spel, men kan anpassas för tävlingar med partners involverade med de modifieringar som anges i Regel 22 (foursome) och Regel 23 (fyrboll) samt för lagtävlingar med de modifieringar som anges i Regel 24.\\n\\n21.3b\\nResultathantering i par/bogey\\n(1) Hur ett hål vinns eller förloras. Resultat räknas som i matchspel, med hål vunna eller förlorade genom att jämföra spelarens antal slag (både utförda slag och pliktslag) med en fastställd målscore (vanligtvis par eller bogey) fastställd av tävlingsledningen:\\n\\n    Om spelarens score är lägre än målscoren, vinner spelaren hålet.\\n    Om spelarens score är densamma som målscoren, är hålet delat (även kallat halverat).\\n    Om spelarens score är högre än målscoren eller att ingen score är inlämnad, förlorar spelaren hålet.\\n\\nEn spelare som av någon anledning inte hålar ut i enlighet med reglerna förlorar hålet. För att påskynda speltempot uppmuntras spelare att avsluta spelet på ett hål när deras score överstiger målscoren (eftersom de har förlorat hålet). Hålet är avslutat när spelaren hålar ut, väljer att inte göra detta eller när spelarens score överskrider målscoren. (2) Scoren införd för varje hål. För att tillgodose kraven i Regel 3.3b för införande av hålscorer på scorekortet:\\n\\n    Om ett hål avslutas genom att håla ut:\\n        När scoren resulterar i att ett hål vinns eller delas. Scorekortet måste visa den faktiska scoren.\\n        När scoren resulterar i att ett hål förloras. Scorekortet måste visa antingen ingen score eller en score som resulterar i att hålet förloras.\\n    Om ett hål avslutas utan att håla ut. Om spelaren inte hålar ut i enlighet med reglerna, måste scorekortet visa antingen ingen score eller en score som resulterar i att hålet förloras.\\n\\nTävlingsledningen är ansvarig för att avgöra om spelaren vunnit, förlorat eller delat varje hål och, i en handicaptävling, tillämpa handicapslagen till den score som införts på varje hål innan resultatet på hålet avgörs. Undantag – Ingen plikt om resultatet på hålet inte påverkas: Om spelaren lämnar in ett scorekort med en score på ett hål som är lägre än den faktiska scoren men detta inte påverkar om hålet vunnits, förlorats eller delats, blir det ingen plikt enligt Regel 3.3b. Se Committee Procedures, Section 5A(5) (i tävlingsvillkorena kan tävlingsledningen uppmuntra men inte kräva att spelarna fyller i resultatet på varje hål på scorekortet).\\n21.3c\\nPlikt i par/bogey\\nAlla plikter som gäller i slagspel gäller i par/bogey, utom att en spelare som bryter mot någon av dessa fem regler inte blir diskvalificerad, men förlorar hålet där regelbrottet inträffade:\\n\\n    att inte håla ut enligt Regel 3.3c,\\n    att inte rätta till misstaget att spela från en plats utanför tee när spelaren startar spelet av ett hål. (se Regel 6.1b(2)),\\n    att inte rätta till misstaget att spela på fel boll (se Regel 6.3c),\\n    att inte rätta till misstaget att spela från fel plats och detta är ett allvarligt brott (se Regel 14.7b) eller\\n    att inte rätta till misstaget att slå ett slag i fel ordning (se Regel 22.3).\\n\\nOm spelaren bryter mot någon annan regel som skulle innebära diskvalifikation blir spelaren diskvalificerad. Efter att pliktslag lagts till kan spelarens score inte bli sämre än förlust av hål.\\n21.3d\\nUndantag från Regel 11.2 i par/bogey\\nRegel 11.2 gäller inte i denna situation: Om en spelares boll i rörelse behöver hålas ut för att dela hålet och någon person avsiktligt påverkar eller stoppar bollen när det inte finns någon rimlig chans att den kan hålas ut, får den personen inte någon plikt och spelaren förlorar hålet.\\n21.3e\\nNär en rond avslutas i par/bogey\\nEn spelares rond avslutas när spelaren:\\n\\n    hålar ut på sitt sista hål (inklusive rättning av ett misstag, t ex enligt Regel 6.1 eller 14.7b) eller\\n    väljer att inte håla ut på sista hålet eller redan har förlorat hålet.\\n\\n21.4\\nTreboll matchspel\\n21.4a\\nÖversikt av treboll matchspel\\nTreboll matchspel är en form av matchspel där:\\n\\n    var och en av tre spelare spelar en individuell match mot de andra två spelarna på samma gång, och\\n    varje spelare spelar en boll som används i spelarens båda matcher.\\n\\nReglerna för matchspel i Regel 1-20 gäller för alla tre individuella matcher, utom att dessa specifika regler gäller i två situationer, där en tillämpning av de normala reglerna i en match kan komma i strid med tillämpningen av dem i annan match.\\n21.4b\\nSpela i fel ordning\\nOm en spelare spelar i fel ordning i någon match, får den motspelare som skulle ha spelat först återkalla slaget enligt Regel 6.4a(2). Om en spelare spelat i fel ordning i båda matcherna, får varje motspelare i sin match mot den spelaren välja om slaget ska återkallas. Om spelarens slag blir återkallat i bara en match:\\n\\n    måste spelaren fortsätta spelet med den ursprungliga bollen i den andra matchen.\\n    Detta innebär att spelaren måste avsluta hålet med en separat boll för varje match.\\n\\n21.4c\\nEn boll eller bollmarkering lyfts eller rubbas av en motspelare\\nOm en motspelare får ett slags plikt för att ha lyft en spelares boll eller bollmarkering eller orsakat att bollen eller bollmarkeringen rubbats enligt Regel 9.5b eller 9.7b, gäller plikten bara i matchen mot den spelaren. Motspelaren får inte någon plikt i sin match mot den andra spelaren.\\n21.5\\nAndra former av golfspel\\nÄven om bara vissa former av spel specifikt omfattas av Regel 3, 21, 22 och 23, spelas golf också i många andra spelformer, t ex scramble och greensome. Reglerna kan anpassas för att styra spelet i dessa och andra former av spel. Se Committee Procedures, Section 9 (rekommenderade sätt att anpassa reglerna för andra vanliga spelformer).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 21 Andra former av individuellt slagspel och matchspel",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

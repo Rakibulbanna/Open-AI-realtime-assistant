@@ -1,0 +1,186 @@
+{
+  "rule_number": 8,
+  "rule_code": "8",
+  "title": "Banan spelas som den är / Course Played as It Is",
+  "summary": {
+    "short": "Regel 8 skyddar principen \\'94spela banan som den är\\'94 genom att begränsa vad spelaren får göra för att förbättra förhållanden som påverkar slaget eller andra fysiska förhållanden för att påverka sin egen eller en annan spelares boll.",
+    "detailed": "Regel 8 definierar vilka förhållanden som påverkar slaget – bolläge, stans, svingområde, spellinje och lättnadsområde – och begränsar spelarens åtgärder som skulle förbättra dessa. Regel 8.1 beskriver förbjudna åtgärder (t.ex. att böja grenar, förändra markytan eller ta bort sand) samt vilka åtgärder som ändå är tillåtna vid ärligt sökande, normal förberedelse för slag och omsorg om banan. Den ger också möjlighet att undvika plikt genom att återställa förbättrade förhållanden och behandlar hur försämrade förhållanden får återställas. Regel 8.2 förbjuder avsiktliga förändringar av andra fysiska förhållanden för att gynna spelarens egen boll, medan Regel 8.3 förbjuder motsvarande åtgärder i syfte att påverka en annan spelares boll. Brott mot dessa regler leder vanligen till allmän plikt."
+  },
+  "sections": [
+    {
+      "section_number": "8.1",
+      "title": "Spelares åtgärder som förbättrar förhållanden som påverkar slaget",
+      "purpose": "Skyddar principen \\'94spela banan som den är\\'94 genom att begränsa spelarens möjligheter att förbättra bolläge, stans, svingområde, spellinje eller lättnadsområde före nästa slag, både under ronden och när spelet är avbrutet.",
+      "key_points": [
+        "Regeln skyddar fem typer av \\'94förhållanden som påverkar slaget\\'94: bollens läge, området för spelarens avsedda stans, området för spelarens avsedda sving, spelarens spellinje samt lättnadsområdet där en boll ska droppas eller placeras.",
+        "Regeln gäller var som helst på eller utanför banan, både under ronden och när spelet är avbrutet enligt Regel 5.7a.",
+        "Den gäller inte borttagande av lösa naturföremål eller flyttbara tillverkade föremål i den utsträckning som tillåts enligt Regel 15.",
+        "Den gäller inte åtgärder som vidtas medan spelarens boll är i rörelse, vilket istället täcks av Regel 11."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "8.1a",
+          "title": "Åtgärder som inte är tillåtna",
+          "summary": "Räknar upp vilka åtgärder som inte får vidtas om de förbättrar förhållandena som påverkar slaget, med allmän plikt som konsekvens.",
+          "key_points": [
+            "Utom på de sätt som uttryckligen tillåts i Regel 8.1b, 8.1c och 8.1d får spelaren inte förbättra förhållandena som påverkar slaget genom vissa listade åtgärder.",
+            "Spelaren får inte flytta, böja eller bryta växande eller fastsittande naturföremål, oflyttbara tillverkade föremål, integrerade föremål, föremål för banans gräns eller teemarkeringar när en boll spelas från den aktuella teen.",
+            "Spelaren får inte flytta ett löst naturföremål eller flyttbart tillverkat föremål till ett läge där det förbättrar förhållandena (t.ex. för att bygga upp ett underlag för stans eller förbättra spellinjen).",
+            "Spelaren får inte förändra markytan genom att t.ex. återplacera torvor i ett torvhål, ta bort eller pressa ned redan återplacerade torvor eller annan skuren grästorv, eller skapa/avlägsna hål, fördjupningar eller ojämnheter.",
+            "Spelaren får inte ta bort eller pressa ned sand eller lös jord.",
+            "Spelaren får inte ta bort dagg, frost eller vatten.",
+            "Plikt för brott mot Regel 8.1a är allmän plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "8.1b",
+          "title": "Åtgärder som är tillåtna",
+          "summary": "Tillåter vissa normala och rimliga åtgärder inför och vid slag, även om de råkar förbättra förhållandena som påverkar slaget.",
+          "key_points": [
+            "Spelaren får på ett ärligt sätt söka efter sin boll genom rimliga åtgärder enligt Regel 7.1a, även om detta förbättrar förhållandena.",
+            "Spelaren får ta bort lösa naturföremål enligt Regel 15.1 och flyttbara tillverkade föremål enligt Regel 15.2 genom rimliga åtgärder.",
+            "Spelaren får vidta rimliga åtgärder för att markera bollens läge samt lyfta och återplacera bollen enligt Regel 14.1 och 14.2.",
+            "Spelaren får grunda klubban lätt precis framför eller bakom bollen; \\'94grunda lätt\\'94 innebär att klubbans tyngd bärs av underlaget utan att pressas ned.",
+            "Att grunda klubban lätt tillåter inte att klubban pressas ned mot marken eller att sanden i en bunker berörs precis framför eller bakom bollen, enligt Regel 12.2b(1).",
+            "Spelaren får placera fötterna stadigt när stansen tas, inklusive ett rimligt grävande med fötterna i sand eller lös jord.",
+            "Spelaren får ta en stans på ett ärligt sätt genom rimliga åtgärder för att komma åt bollen och ta en stans, men har inte rätt till en \\'94normal\\'94 stans eller sving och måste välja det alternativ som minst påverkar förhållandena.",
+            "Spelaren får slå ett slag eller göra en baksving inför ett slag som slås; i bunker får sanden inte röras i baksvingen i strid med Regel 12.2b(1).",
+            "På tee får spelaren sätta en peg, flytta/böja/bryta växande eller fastsittande naturföremål, förändra markytan, ta bort eller pressa ned sand och jord samt ta bort dagg, frost eller vatten enligt Regel 6.2b.",
+            "I bunker får spelaren jämna ut sand av omsorg om banan efter att en boll som spelats från bunkern är utanför bunkern (se Regel 12.2b(3)).",
+            "På green får spelaren ta bort sand och lös jord samt reparera skada enligt Regel 13.1c.",
+            "Spelaren får röra ett naturföremål för att se om det är löst; om det visar sig vara växande eller fastsittande måste det återställas så nära som möjligt till sitt ursprungliga läge.",
+            "Regel 25.4g modifierar tillämpningen av Regel 8.1b(5) när en spelare med rörelsehjälpmedel tar stans."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "8.1c",
+          "title": "Undvika plikt genom att återställa förhållanden som förbättrats",
+          "summary": "Ger spelaren möjlighet att undvika plikt om förbättringen beror på flyttade/böjda/brutna föremål eller föremål flyttade till ett läge, under förutsättning att förhållandena återställs innan nästa slag.",
+          "key_points": [
+            "Om spelaren förbättrat förhållandena som påverkar slaget genom att flytta, böja eller bryta ett föremål i strid med Regel 8.1a(1) eller genom att flytta ett föremål till ett läge i strid med Regel 8.1a(2) kan plikt undvikas genom att återställa förhållandena innan nästa slag.",
+            "Det finns ingen möjlighet att undvika plikt om förbättringen skett genom åtgärder enligt Regel 8.1a(3)–(5) (t.ex. ändrad markyta eller borttagen sand).",
+            "För att återställa förhållanden förbättrade genom att flytta/böja/bryta föremål måste det ursprungliga föremålet sättas tillbaka så nära som möjligt till sitt ursprungliga läge, t.ex. en out of bounds-pinne, en knuffad gränspinne, en gren eller ett grässtrå.",
+            "Spelaren kan inte undvika plikt om förbättringen inte går att avlägsna, t.ex. när ett föremål för banans gräns eller en gren böjts eller brutits på ett sådant sätt att det inte kan återställas.",
+            "Spelaren får inte använda något annat än det ursprungliga föremålet för att försöka återställa förhållandena, t.ex. genom att sätta i en ny pinne eller binda fast en gren eller använda tejp för att reparera ett brutet föremål.",
+            "För att återställa förhållanden som förbättrats genom att flytta ett föremål till ett läge måste det flyttade föremålet tas bort innan slaget slås."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "8.1d",
+          "title": "Återställa förhållanden som försämras efter att en boll har stannat",
+          "summary": "Reglerar när spelaren får återställa försämrade förhållanden som påverkar slaget efter att bollen stannat – beroende på om försämringen orsakats av andra, djur eller naturkrafter – samt hur bollen får lyftas och återplaceras.",
+          "key_points": [
+            "Om förhållanden som påverkar slaget har försämrats efter att bollen stannat får spelaren i vissa fall återställa de ursprungliga förhållandena utan plikt enligt Regel 8.1a.",
+            "Om försämringen orsakats av en annan person än spelaren eller av ett djur får spelaren, utan plikt, återställa de ursprungliga förhållandena så långt som möjligt.",
+            "Spelaren får i sådana fall markera bollens läge samt lyfta, rengöra och återplacera bollen på dess ursprungliga punkt enligt Regel 14.1 och 14.2, om det är rimligt för att återställa förhållandena eller om material har hamnat på bollen.",
+            "Om de försämrade förhållandena inte lätt kan återställas får spelaren lyfta och återplacera bollen på den närmaste punkt (inte närmare hål) som mest liknar de ursprungliga förhållandena, är inom en klubblängd från ursprungspunkten och ligger i samma område på banan.",
+            "Om bollens läge försämras när eller efter att bollen lyfts eller rubbats och innan den återplacerats gäller i första hand Regel 14.2d, förutom när försämringen sker under ett spelavbrott och bollen lyfts – då gäller denna regel.",
+            "Spelaren får inte förbättra försämrade förhållanden som orsakats av spelaren själv (inklusive caddie), en annan person som agerar på spelarens uppdrag (förutom domare), eller naturkrafter som vind eller vatten, annat än vad som tillåts i Regel 8.1c(1), 8.1c(2) eller Regel 13.1c.",
+            "Om spelaren förbättrar sådana försämrade förhållanden i strid med detta får spelaren allmän plikt enligt Regel 8.1a.",
+            "Plikt för att spela en boll från fel plats i strid med Regel 8.1d är allmän plikt enligt Regel 14.7a.",
+            "I foursome (Regel 22.2) och fyrboll (Regel 23.5) betraktas partnerns tillämpliga handlingar som spelarens egna."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "8.2",
+      "title": "Spelares avsiktliga åtgärder för att förändra andra fysiska förhållanden för att påverka sin egen boll",
+      "purpose": "Förhindrar att spelaren avsiktligt förändrar andra fysiska förhållanden än de direkt skyddade \\'94förhållandena som påverkar slaget\\'94, i syfte att påverka vad som händer med den egna bollen i vila eller vid nästa slag.",
+      "key_points": [
+        "Regeln gäller endast spelarens avsiktliga åtgärder för att förändra fysiska förhållanden med syfte att påverka sin egen boll i vila eller slag som ska slås.",
+        "Den kompletterar Regel 8.1a genom att rikta sig mot andra fysiska förhållanden än de direkt definierade \\'94förhållandena som påverkar slaget\\'94.",
+        "Regeln gäller inte åtgärder som syftar till att avsiktligt påverka eller stoppa en boll i rörelse (Regel 11.2 och 11.3) eller åtgärder som förändrar spelarens förhållanden som påverkar slaget (vilket täcks av Regel 8.1a).",
+        "Spelaren får inte avsiktligt använda åtgärder som anges i Regel 8.1a (om de inte omfattas av undantagen i 8.1b–d) för att förändra fysiska förhållanden i syfte att påverka vart bollen kan ta vägen eller var den kan stanna, vare sig efter nästa slag eller om den rör sig innan slaget.",
+        "Undantag gäller när åtgärderna vidtas av omsorg om banan, som t.ex. att jämna ut fotspår i en bunker eller återplacera en torva.",
+        "Plikt för brott mot Regel 8.2 är allmän plikt.",
+        "I foursome (Regel 22.2) och fyrboll (Regel 23.5) betraktas partnerns tillämpliga handlingar som spelarens egna."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "8.2a",
+          "title": "När Regel 8.2 gäller",
+          "summary": "Avgränsar Regel 8.2 till avsiktliga förändringar av andra fysiska förhållanden för att påverka spelarens egen boll, och förklarar vad som istället täcks av andra regler.",
+          "key_points": [
+            "Regel 8.2 gäller endast för spelarens avsiktliga åtgärder som förändrar andra fysiska förhållanden i syfte att påverka spelarens boll i vila eller slag som ska slås.",
+            "Den gäller inte för åtgärder som avsiktligt påverkar eller stoppar spelarens boll i rörelse eller som avsiktligt förändrar fysiska förhållanden för att påverka var bollen kan stanna – sådana fall omfattas av Regel 11.2 och 11.3.",
+            "Den gäller inte för åtgärder som förändrar spelarens \\'94förhållanden som påverkar slaget\\'94 – dessa fall styrs av Regel 8.1a."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "8.2b",
+          "title": "Förbjudna åtgärder för att förändra fysiska förhållanden",
+          "summary": "Förbjuder spelaren att avsiktligt använda åtgärder enligt Regel 8.1a för att påverka vart den egna bollen kan ta vägen eller stanna, med undantag för åtgärder av omsorg om banan.",
+          "key_points": [
+            "Spelaren får inte avsiktligt vidta någon åtgärd enligt Regel 8.1a (utöver vad som tillåts i Regel 8.1b–d) för att förändra andra fysiska förhållanden.",
+            "Förbudet gäller om syftet är att påverka vart spelarens boll kan ta vägen eller där den kan stanna efter nästa slag eller ett senare slag.",
+            "Förbudet gäller också om syftet är att påverka vart spelarens boll i vila kan ta vägen eller var den kan stanna om den rör sig innan slaget slås (t.ex. en boll på brant sluttning som riskerar att rulla).",
+            "Undantag: Det är ingen plikt om förändringen av förhållandena sker av omsorg om banan, t.ex. att jämna ut fotspår i bunker eller återplacera en torva i ett torvhål.",
+            "Plikt för brott mot Regel 8.2 är allmän plikt.",
+            "I foursome (Regel 22.2) och fyrboll (Regel 23.5) betraktas partnerns tillämpliga handlingar som spelarens handlingar."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "8.3",
+      "title": "Spelares avsiktliga åtgärder för att förändra fysiska förhållanden för att påverka en annan spelares boll",
+      "purpose": "Förhindrar att en spelare avsiktligt förändrar fysiska förhållanden för att förbättra eller försämra förhållanden för en annan spelares boll, eller påverka vart den kan ta vägen eller stanna.",
+      "key_points": [
+        "Regeln gäller avsiktliga åtgärder från en spelare för att förändra fysiska förhållanden i syfte att påverka en annan spelares boll i vila eller slag som ska slås.",
+        "Den gäller inte för åtgärder som avsiktligt påverkar eller stoppar en annan spelares boll i rörelse eller förändrar förhållanden för att påverka var den kan stanna – sådana fall täcks av Regel 11.2 och 11.3.",
+        "En spelare får inte avsiktligt använda åtgärder enligt Regel 8.1a (utöver vad som tillåts i 8.1b–d) för att förbättra, försämra eller på annat sätt manipulera fysiska förhållanden för en annan spelare.",
+        "Undantag finns för åtgärder av omsorg om banan, t.ex. att jämna ut fotspår i bunker eller återplacera en torva.",
+        "Plikt för brott mot Regel 8.3 är allmän plikt.",
+        "I foursome (Regel 22.2) och fyrboll (Regel 23.5) betraktas partnerns tillämpliga handlingar som spelarens."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "8.3a",
+          "title": "När Regel 8.3 gäller",
+          "summary": "Avgränsar Regel 8.3 till avsiktliga förändringar av fysiska förhållanden i syfte att påverka en annan spelares boll i vila eller slag, inte boll i rörelse.",
+          "key_points": [
+            "Regel 8.3 gäller endast en spelares avsiktliga åtgärder för att förändra fysiska förhållanden i syfte att påverka en annan spelares boll i vila eller slag som ska slås.",
+            "Den gäller inte för åtgärder som avsiktligt påverkar eller stoppar en annan spelares boll i rörelse eller förändrar förhållanden för att påverka var bollen kan stanna när den är i rörelse – sådana situationer täcks av Regel 11.2 och 11.3."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "8.3b",
+          "title": "Förbjudna åtgärder för att förändra fysiska förhållanden",
+          "summary": "Förbjuder en spelare att avsiktligt förbättra eller försämra förhållanden som påverkar slaget för en annan spelare, eller att påverka vart den andra spelarens boll kan ta vägen eller stanna.",
+          "key_points": [
+            "En spelare får inte avsiktligt vidta någon åtgärd enligt Regel 8.1a (utöver vad som tillåts i 8.1b–d) för att förbättra eller försämra förhållanden som påverkar slaget för en annan spelare.",
+            "En spelare får inte avsiktligt förändra fysiska förhållanden för att påverka vart en annan spelares boll kan ta vägen eller var den kan stanna efter den spelarens nästa slag eller senare slag.",
+            "En spelare får inte avsiktligt förändra fysiska förhållanden för att påverka vart en annan spelares boll i vila kan ta vägen eller var den kan stanna om den rubbas innan slaget slås.",
+            "Undantag: Det är ingen plikt om förändringen sker av omsorg om banan, t.ex. att jämna ut fotspår i bunker eller återplacera en torva i ett torvhål.",
+            "Plikt för brott mot Regel 8.3 är allmän plikt.",
+            "I foursome (Regel 22.2) och fyrboll (Regel 23.5) betraktas partnerns tillämpliga handlingar som spelarens."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "8\\nBanan spelas som den är\\n8.1\\nSpelares åtgärder som förbättrar förhållanden som påverkar slaget\\nFör att stödja principen \\'93spela banan som den är\\'94, begränsar denna regel vad en spelare får göra för att förbättra något av dessa skyddade \\'94förhållanden som påverkar slaget\\'94 (var som helst på eller utanför banan) inför nästa slag som spelaren ska slå:\\n\\n    läget för spelarens boll i vila,\\n    området för spelarens avsedda stans,\\n    området för spelarens avsedda sving,\\n    spelarens spellinje samt\\n    lättnadsområdet där spelaren ska droppa eller placera en boll.\\n\\nDenna regel gäller för åtgärder som vidtas både under ronden och när spelet har avbrutits enligt Regel 5.7a. Den gäller inte för:\\n\\n    borttagandet av lösa naturföremål och flyttbara tillverkade föremål, vilket är tillåtet i den utsträckning som medges i Regel 15, eller\\n    en åtgärd som vidtas medan spelarens boll är i rörelse, vilket täcks av Regel 11.\\n\\n8.1a\\nÅtgärder som inte är tillåtna\\nUtom på de begränsade sätt som tillåts i Regel 8.1b, c och d, får spelaren inte vidta någon av dessa åtgärder om de förbättrar förhållandena som påverkar slaget: (1) Flytta, böja eller bryta varje:\\n\\n    växande eller fastsittande naturföremål,\\n    oflyttbart tillverkat föremål, integrerat föremål eller föremål för banans gräns, eller\\n    teemarkeringar när en boll spelas från denna tee.\\n\\n(2) Flytta ett löst naturföremål eller flyttbart tillverkat föremål till ett läge (t ex för att bygga ett underlag för en stans eller förbättra spellinjen). (3) Förändra markytan, bland annat genom att:\\n\\n    återplacera torvor i ett torvhål,\\n    ta bort eller pressa ned torvor som redan har återplacerats eller annan skuren grästorv som redan är på plats eller\\n    skapa eller avlägsna hål, fördjupningar eller ojämna ytor.\\n\\n(4) Ta bort eller pressa ned sand eller lös jord. (5) Ta bort dagg, frost eller vatten. Plikt för brott mot Regel 8.1a: allmän plikt.\\n8.1b\\nÅtgärder som är tillåtna\\nVid förberedelse för ett slag eller när ett slag slås, får spelaren vidta någon av dessa åtgärder, och det blir ingen plikt även om detta gör att förhållandena som påverkar slaget förbättras: (1) På ett ärligt sätt söka efter sin boll genom att vidta rimliga åtgärder för att hitta och identifiera den (se Regel 7.1a). (2) Vidta rimliga åtgärder för att ta bort lösa naturföremål (se Regel 15.1) och flyttbara tillverkade föremål (se Regel 15.2). (3) Vidta rimliga åtgärder för att markera läget för en boll och att lyfta och återplacera bollen enligt Regel 14.1 och 14.2. (4) Grunda klubban lätt precis framför eller precis bakom bollen. \\'94Grunda klubban lätt\\'94 innebär att låta klubbans tyngd bäras upp av gräset, jorden, sanden eller annat material på eller ovanför markytan. Men detta tillåter inte att man:\\n\\n    pressar ned klubban mot marken eller\\n    när bollen är i en bunker, vidrör sanden precis framför eller precis bakom bollen (se Regel 12.2b(1)).\\n\\n(5) Placera fötterna stadigt när stansen tas, inklusive ett rimligt grävande med fötterna i sand eller lös jord. (6) Ta en stans på ett ärligt sätt genom att vidta rimliga åtgärder för att komma åt bollen och ta en stans. Men spelaren, när så görs:\\n\\n    har inte rätt till en normal stans eller sving och\\n    måste använda det sätt som minst påverkar för att hantera den speciella situationen.\\n\\n(7) Slå ett slag eller i baksvingen för ett slag som sedan slås. Men när bollen är i en bunker, är det inte tillåtet enligt Regel 12.2b(1) att röra vid sanden i bunkern när baksvingen görs. (8) På tee:\\n\\n    Sätta en peg i eller på marken (se Regel 6.2b(2)),\\n    Flytta, böja eller bryta något växande eller fastsittande naturföremål (se Regel 6.2b(3)),\\n    Förändra markytan, ta bort eller pressa ned sand och jord, eller ta bort dagg, frost eller vatten (se Regel 6.2b(3)).\\n\\n(9) I en bunker, jämna ut sand av omsorg om banan efter att en boll som spelats från bunkern är utanför bunkern (se Regel 12.2b(3)). (10) På green, ta bort sand och lös jord och reparera skada (se Regel 13.1c). (11) Röra på ett naturföremål för att se om det är löst. Men om föremålet visar sig vara växande eller sitter fast, måste det fortfarande sitta fast och återställas så nära som möjligt till sitt ursprungliga läge. Se Regel 25.4g (modifiering av Regel 8.1b(5) när stansen tas av spelare som använder ett rörelsehjälpmedel).\\n8.1c\\nUndvika plikt genom återställa förhållanden som förbättrats i strid med Regel 8.1a(1) eller 8.1a(2)\\nOm en spelare har förbättrat förhållanden som påverkar slaget genom att flytta, böja eller bryta ett föremål i strid med Regel 8.1a(1) eller att flytta ett föremål till ett läge i strid med Regel 8.1a(2):\\n\\n    blir det ingen plikt om spelaren, innan nästa slag slås, avlägsnar denna förbättring genom att återställa förhållandena till ursprungligt skick på de sätt som är tillåtet i (1) och (2) här nedan.\\n    Men om spelaren förbättrar förhållandena som påverkar slaget genom att vidta någon av de övriga åtgärderna som täcks av Regel 8.1a(3)-(5), kan spelaren inte undgå plikt genom att återställa förhållandena till ursprungligt skick.\\n\\n(1) Hur man återställer förhållanden som förbättrats genom att flytta, böja eller bryta föremål. Innan slaget slås, kan spelaren undgå plikt för brott mot Regel 8.1a(1) genom att återställa det ursprungliga föremålet så nära som möjligt till dess ursprungliga läge, så att den av överträdelsen skapade förbättringen avlägsnas, t ex genom att:\\n\\n    återplacera ett föremål för banans gräns (t ex en out of bounds-pinne) som har tagits bort eller att flytta tillbaka ett föremål för banans gräns till sitt ursprungliga läge efter att den knuffats till en annan vinkel eller\\n    flytta tillbaka en trädgren eller gräs, eller ett oflyttbart tillverkat föremål till sitt ursprungliga läge efter att den/det flyttats.\\n\\nMen spelaren kan inte undgå plikt:\\n\\n    om förbättringen inte är avlägsnad (t ex när ett föremål för banans gräns eller en gren har böjts eller brutits på ett betydande sätt så att den inte kan återställas till sitt ursprungliga läge), eller\\n    genom att använda någonting annat än själva det ursprungliga föremålet i försök att återställa förhållandena, t ex:\\n        använda ett annat eller ytterligare föremål (till exempel sätta en annan pinne i ett hål från vilket en out of bounds-pinne har tagits bort eller binda fast en flyttad gren för att hålla den på plats) eller\\n        använda andra material för att reparera det ursprungliga föremålet (genom att till exempel använda tejp för att reparera ett avbrutet föremål för banans gräns eller en gren).\\n\\n(2) Hur man återställer förhållanden som förbättrats genom att flytta ett föremål till ett läge. Innan slaget slås, kan spelaren undgå plikt för brott mot Regel 8.1a(2) genom att ta bort det föremål som hade flyttats till ett läge.\\n8.1d\\nÅterställa förhållanden som försämras efter att en boll har stannat\\nOm förhållanden som påverkar slaget har försämrats efter att spelarens boll har stannat: (1) När återställande av försämrade förhållanden är tillåtet. Om förhållandena som påverkar slaget har försämrats av en annan person än spelaren eller av ett djur, får spelaren utan plikt enligt Regel 8.1a:\\n\\n    återställa de ursprungliga förhållandena så långt som är möjligt.\\n    markera bollens läge och lyfta, rengöra och återplacera bollen på dess ursprungliga punkt (se Regel 14.1 och 14.2), om det är rimligt att göra så för att återställa de ursprungliga förhållandena eller om något material hamnat på bollen när förhållandena försämrades.\\n    om de försämrade förhållandena inte lätt kan återställas, lyfta och återplacera bollen genom att placera den på den närmaste punkt (inte närmare hål) som (1) mest liknar de förhållanden som påverkar slaget, (2) är inom en klubblängd från dess ursprungliga punkt och (3) är i samma område på banan som den punkten.\\n\\nUndantag – Bollens läge försämrat när eller efter att en boll lyfts eller rubbats och innan den är återplacerad: Detta täcks av Regel 14.2d, såvida inte läget försämrats när spelet avbrutits och bollen lyfts för i så fall gäller denna regel. (2) När återställande av försämrade förhållanden inte är tillåtet. En spelare får inte förbättra förhållandena som påverkar slaget (utom så som tillåts i Regel 8.1c(1), 8.1c(2) och Regel 13.1c) som har försämrats av:\\n\\n    spelaren, inklusive spelarens caddie,\\n    en annan person (förutom en domare) som vidtar en åtgärd som godkänts av spelaren, eller\\n    naturkrafter, t ex vind eller vatten.\\n\\nOm spelaren förbättrar de försämrade förhållandena när detta inte är tillåtet, får spelaren den allmänna plikten enligt Regel 8.1a. Plikt för att spela en boll från fel plats i strid med Regel 8.1d: allmän plikt enligt Regel 14.7a. Se Regel 22.2 (i foursome, får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling); 23.5 (i fyrboll, får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning betraktas som spelarens handling).\\n8.2\\nSpelares avsiktliga åtgärder för att förändra andra fysiska förhållanden i syfte att påverka spelarens egen boll i vila eller slag som ska slås\\n8.2a\\nNär Regel 8.2 gäller\\nDenna regel gäller endast för en spelares avsiktliga åtgärder för att förändra andra fysiska förhållanden i syfte att påverka sin boll i vila eller slag som ska slås. Denna regel gäller inte för en spelares åtgärder för att:\\n\\n    avsiktligt påverka eller stoppa sin boll eller att avsiktligt förändra några fysiska förhållanden för att påverka var bollen skulle kunna stanna (vilket täcks av Regel 11.2 och 11.3) eller\\n    förändra spelarens förhållanden som påverkar slaget (vilket täcks av Regel 8.1a).\\n\\n8.2b\\nFörbjudna åtgärder för att förändra fysiska förhållanden\\nEn spelare får inte avsiktligt vidta några åtgärder som anges i Regel 8.1a (förutom vad som tillåts i Regel 8.1b, c eller d) för att förändra några andra sådana fysiska förhållanden för att påverka:\\n\\n    vart spelarens boll kan ta vägen eller där den kan stanna efter spelarens nästa slag eller ett senare slag eller\\n    vart spelarens boll i vila kan ta vägen eller var den kan stanna om den rör sig innan slaget har slagits (som när en boll ligger i en brant sluttning och spelaren är orolig för att den kan rulla in i en buske).\\n\\nUndantag – Åtgärder av omsorg om banan: Det blir ingen plikt enligt denna regel om spelaren förändrar några andra sådana fysiska förhållanden av omsorg om banan (t ex att jämna ut fotspår i en bunker eller återplacera en torva i ett torvhål). Plikt för brott mot Regel 8.2: allmän plikt. Se Regel 22.2 (i foursome, får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling); 23.5 (i fyrboll, får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning betraktas som spelarens handling).\\n8.3\\nSpelares avsiktliga åtgärder för att förändra fysiska förhållanden i syfte att påverka en annan spelares boll i vila eller slag som ska slås\\n8.3a\\nNär Regel 8.3 gäller\\nDenna regel täcker endast en spelares avsiktliga åtgärder för att förändra fysiskaförhållanden i syfte att påverka en annan spelares boll i vila eller slag som ska slås av denna andra spelare. Den gäller inte för en spelares åtgärder för att avsiktligt påverka eller stoppa en annan spelares boll i rörelse eller att avsiktligt förändra några fysiska förhållanden för att påverka var bollen kan stanna (vilket täcks av Regel 11.2 och 11.3).\\n8.3b\\nFörbjudna åtgärder för att förändra fysiska förhållanden\\nEn spelare får inte avsiktligt vidta någon av de åtgärder som anges i Regel 8.1a (förutom vad som tillåts i Regel 8.1b, c eller d) för att:\\n\\n    förbättra eller försämra förhållanden som påverkar slaget för en annan spelare eller\\n    förändra några andra fysiska förhållanden för att påverka:\\n        vart en annan spelares boll kan ta vägen eller var den kan stanna efter den spelarens nästa slag eller ett senare slag eller\\n        vart en annan spelares boll i vila kan ta vägen eller var den kan stanna om den rubbas innan slaget slås.\\n\\nUndantag – Åtgärder av omsorg om banan: Det blir ingen plikt enligt denna regel om spelaren förändrar några andra sådana fysiska förhållanden av omsorg om banan (t ex att jämna ut fotspår i en bunker eller återplacera en torva i ett torvhål). Plikt för brott mot Regel 8.3: allmän plikt. Se Regel 22.2 (i foursome, får endera partnern agera för sidan och partnerns handling betraktas som spelarens handling); 23.5 (i fyrboll, får endera partnern agera för sidan och partnerns handling när det gäller spelarens boll eller utrustning betraktas som spelarens handling).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 8 Banan spelas som den är",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

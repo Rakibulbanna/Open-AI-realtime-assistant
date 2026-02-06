@@ -1,0 +1,124 @@
+{
+  "rule_number": 22,
+  "rule_code": "22",
+  "title": "Foursome",
+  "summary": {
+    "short": "Regel 22 beskriver spelformen foursome där två partners spelar som en sida på en boll och slår vartannat slag, samt hur ansvar, spelordning, start, klubbor och positionering bakom partnern regleras.",
+    "detailed": "Foursome är en lagspelsform där två partners bildar en sida som spelar en gemensam boll och slår vartannat slag på varje hål, både i matchspel och slagspel. Regel 1–20 gäller i grunden, men med särskilda modifieringar: endera partnern får agera för sidan (t.ex. droppa, lyfta och återplacera bollen) och deras handlingar och regelbrott gäller för hela sidan. Sidan måste slå i strikt växelvis ordning – både från tee och genom hela hålet – och pliktslag ändrar inte ordningen. Ronden påbörjas av den partner som slår ut först, och båda partners måste vara på plats enligt särskilda startkrav. Partners får dela klubbor så länge de totalt inte har fler än 14, och det finns begränsningar för att stå bakom partnern på spellinjen för att få information inför ett slag. En variant av foursome i matchspel är threesome, där en ensam spelare möter en sida med två partners som spelar växelvis."
+  },
+  "sections": [
+    {
+      "section_number": "22.1",
+      "title": "Översikt av foursome",
+      "purpose": "Förklara vad spelformen foursome är, hur den förhåller sig till övriga regler och nämna varianten threesome.",
+      "key_points": [
+        "Foursome är en spelform med partners där två spelare bildar en sida som spelar en boll gemensamt och slår vartannat slag.",
+        "Spelformen kan spelas både som matchspel och slagspel.",
+        "Sidan spelar en boll och behandlas i reglerna på samma sätt som en enskild spelare, med de modifieringar som anges i Regel 22.",
+        "En variant är threesome, en matchspelsform där en ensam spelare tävlar mot en sida med två partners som spelar växelvis.",
+        "Regel 1–20 gäller, men anpassas till att sidan spelar en boll."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "22.2",
+      "title": "Endera partnern får agera för sidan",
+      "purpose": "Klargöra att båda partners får utföra reglerelaterade åtgärder för sidan, och att handlingar och plikter delas av hela sidan.",
+      "key_points": [
+        "Eftersom båda partners tävlar som en sida som spelar en boll får endera partnern vidta varje tillåten åtgärd för sidan innan slaget slås.",
+        "Endera partnern får markera bollens läge, lyfta, återplacera, droppa och placera bollen, oavsett vems tur det är att spela.",
+        "En partner och dennes caddie får hjälpa den andra partnern på samma sätt som den andra partnerns caddie hade fått göra enligt Regel 10.",
+        "En partner får inte ge hjälp som den andra partnerns caddie inte skulle få ge enligt reglerna.",
+        "Varje åtgärd och varje regelbrott av endera parten eller endera caddien gäller för sidan som helhet.",
+        "I slagspel behöver endast en partner intyga sidans hålscorer på scorekortet (Regel 3.3b)."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "22.3",
+      "title": "Sidan måste slå slag i växelvis ordning",
+      "purpose": "Beskriva kravet på växelvis spelordning mellan partners både från tee och under hålet, inklusive hur fel ordning och plikt hanteras.",
+      "key_points": [
+        "På varje hål måste partners slå varje slag för sidan i växelvis ordning.",
+        "Partners måste från hål till hål växla vem som slår första slaget från tee.",
+        "Efter sidans första slag från hålets tee måste partners slå växelvis under resten av hålet.",
+        "Om ett slag återkallas, slås om eller inte räknas enligt en regel (utom vid slag i fel ordning enligt denna regel) är det samma partner som slog slaget som måste slå sidans nästa slag.",
+        "Om sidan spelar en provisorisk boll måste den slås av den partner vars tur det är att slå sidans nästa slag.",
+        "Pliktslag som sidan får ändrar inte den växelvisa spelordningen mellan partners.",
+        "Plikt för slag i fel ordning enligt Regel 22.3 är allmän plikt.",
+        "I slagspel måste sidan dessutom rätta misstaget genom att den rätta partnern slår ett slag från platsen där det första slaget i fel ordning slogs (Regel 14.6).",
+        "Slaget i fel ordning och alla efterföljande slag (inklusive enbart pliktslag kopplade till det spelet) räknas inte när misstaget rättas.",
+        "Om sidan inte rättar misstaget innan slag slås för att starta ett annat hål, eller – på sista hålet – innan scorekortet lämnas in, blir sidan diskvalificerad."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "22.4",
+      "title": "Påbörja ronden",
+      "purpose": "Reglera hur sidan väljer startordning mellan partners och vilka krav som gäller för närvaro vid starttid och startplats.",
+      "key_points": [
+        "Sidan får normalt välja vilken partner som slår ut först från första tee vid rondstart, om inte tävlingsvillkoren säger något annat.",
+        "Sidans rond anses påbörjad när den partnern slår ett slag för att starta sidans första hål.",
+        "Regel 5.3a om starttid och startplats tillämpas olika på partners beroende på vem som slår först.",
+        "Den partner som ska spela först måste vara beredd att spela på rätt starttid och rätt startplats och får inte starta före tiden.",
+        "Den andra partnern måste vara närvarande på rätt starttid antingen på startplatsen eller nära den plats där bollen från tee rimligen kan stanna.",
+        "Om någon av partners inte är närvarande på föreskrivet sätt bryter sidan mot Regel 5.3a."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "22.4a",
+          "title": "Partner som spelar först",
+          "summary": "Sidan får välja vilken partner som slår ut först, om inte tävlingsvillkoren bestämmer detta; ronden börjar när den partnern slår första slaget.",
+          "key_points": [
+            "Sidan får välja vilken partner som ska spela från första tee när ronden startar, om inte tävlingsvillkoren anger något annat.",
+            "Sidans rond startar när den valda partnern slår ett slag för att starta sidans första hål."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "22.4b",
+          "title": "Starttid och startplats",
+          "summary": "Partnern som slår först måste vara redo på rätt tid och plats; den andra partnern måste också vara på plats i tid antingen vid tee eller nära där utslaget väntas hamna.",
+          "key_points": [
+            "Regel 5.3a gäller för varje partner beroende på vem som ska spela först för sidan.",
+            "Partnern som ska spela först måste vara beredd att spela på rätt starttid och startplats och starta på (och inte före) den tiden.",
+            "Partnern som ska spela det andra slaget måste vara närvarande på rätt starttid antingen på startplatsen eller på hålet nära den plats där utslaget förväntas stanna.",
+            "Om endera partnern inte uppfyller dessa närvarokrav bryter sidan mot Regel 5.3a."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "22.5",
+      "title": "Partners får dela klubbor",
+      "purpose": "Modifiera 14-klubborsregeln så att partners i foursome kan dela klubbor mellan sig inom den gemensamma 14-klubborsgränsen.",
+      "key_points": [
+        "Regel 4.1b(2) modifieras i foursome för att tillåta partners att dela klubbor.",
+        "Partners får tillsammans ha högst 14 klubbor totalt.",
+        "Så länge det totala antalet klubbor för sidan inte överstiger 14 får klubbor delas fritt mellan partners."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "22.6",
+      "title": "Begränsning för spelaren att stå bakom partnern när ett slag slås",
+      "purpose": "Förhindra att en partner får otillåten extra information om spellinje genom att stå bakom partnerns boll på spellinjen när slaget slås.",
+      "key_points": [
+        "Utöver begränsningarna i Regel 10.2b(4) får en spelare inte stå på eller nära förlängningen av spellinjen bakom bollen medan partnern slår ett slag för att skaffa information inför sidans nästa slag.",
+        "Syftet är att inte ge sidan extra rikt- eller linjehjälp genom partnerns position bakom bollen.",
+        "Plikten för brott mot Regel 22.6 är allmän plikt."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "22\\nFoursome\\n22.1\\nÖversikt av foursome\\nFoursome är en spelform som involverar partners (antingen i matchspel eller slagspel) där två partners tävlar som en sida genom att spela en boll och slå vartannat slag på varje hål. Regel 1-20 gäller för denna spelform (med sidan som spelar en boll och betraktas precis som en individuell spelare betraktas) med de modifieringar som anges i dessa speciella regler. En variant av detta är en form av matchspel som kallas Threesome, där en individuell spelare tävlar mot en sida med två partners som spelar växelvis enligt dessa speciella regler.\\n22.2\\nEndera partnern får agera för sidan\\nEftersom båda partners tävlar som en sida som spelar bara en boll:\\n\\n    Endera partnern får vidta varje tillåten åtgärd för sidan innan slaget slås, t ex att markera bollens läge och lyfta, återplacera, droppa och placera bollen, oavsett vilken partners tur det är att spela för sidan.\\n    En partner och hans/hennes caddie får hjälpa den andra partnern på det sätt som den andra partnerns caddie har rätt att hjälpa (t ex att ge och bli tillfrågad om råd och vidta de andra åtgärder som tillåts enligt Regel 10), men får inte ge någon hjälp som den andra partnerns caddie inte tillåts ge enligt reglerna.\\n    Varje åtgärd och brott mot reglerna av endera partnern eller endera caddien gäller för sidan.\\n\\nI slagspel behöver endast en partner intyga sidans hålscorer på scorekortet (se Regel 3.3b).\\n22.3\\nSidan måste slå slag i växelvis ordning\\nPå varje hål måste partners slå varje slag för sidan i växelvis ordning:\\n\\n    Partners måste hål för hål byta den ordning i vilken de spelar först från tee.\\n    Efter sidans första slag från hålets tee, måste partners slå växelvis under resten av hålet.\\n    Om ett slag återkallas, slås om eller på annat sätt inte räknas enligt någon regel (utom när ett slag slås i fel ordning i strid med denna regel), måste samma partner som slog slaget slå nästa slag för sidan.\\n    Om sidan beslutar att spela en provisorisk boll, måste den spelas av partnern vars tur det är att spela sidans nästa slag.\\n\\nVarje pliktslag som sidan får påverkar inte partnernas växelvisa spelordning. Plikt för att spela ett slag i fel ordning i strid med Regel 22.3: allmän plikt. I slagspel måste sidan rätta till misstaget:\\n\\n    Den rätta partnern måste slå ett slag varifrån sidan slog det första slaget i fel ordning (se Regel 14.6).\\n    Slaget som slogs i fel ordning och alla övriga slag innan misstaget rättats till (inklusive slag som slagits och varje pliktslag enbart från att spela med den bollen) räknas inte.\\n    Om sidan inte rättar till misstaget innan man slår ett slag för att starta ett annat hål, eller om det rör sig om det sista hålet för ronden, innan scorekortet lämnas in, blir sidan diskvalificerad.\\n\\n22.4\\nPåbörja ronden\\n22.4a\\nPartner som spelar först\\nSidan får välja vilken partner som ska spela från första tee när ronden startar, såvida inte tävlingsvillkoren anger vilken partner som måste spela först. Sidans rond startar när den partnern slår ett slag för att starta sidans första hål.\\n22.4b\\nStarttid och startplats\\nRegel 5.3a gäller olika för varje partner beroende på vem som ska spela först för sidan: Partnern som ska spela först måste vara beredd att spela på rätt starttid och startplats och måste starta på (och inte före) den tiden. Partnern som ska spela det andra slaget måste vara närvarande på rätt starttid antingen på startplatsen eller på hålet nära platsen där bollen som spelas från tee förväntas stanna. Om endera partnern inte är närvarande på detta sätt, bryter sidan mot Regel 5.3a.\\n22.5\\nPartners får dela klubbor\\nRegel 4.1b(2) är modifierad för att tillåta partners att dela klubbor, så länge som det totala antalet klubbor de har tillsammans inte är högre än 14.\\n22.6\\nBegränsning för spelaren att stå bakom partnern när ett slag slås\\nFörutom begränsningarna i Regel 10.2b(4) får en spelare i syfte att få information inför sidans nästa slag inte stå på eller nära förlängningen av spellinjen bakom bollen medan partnern slår ett slag. Plikt för brott mot Regel 22.6: allmän plikt.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 22 Foursome",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

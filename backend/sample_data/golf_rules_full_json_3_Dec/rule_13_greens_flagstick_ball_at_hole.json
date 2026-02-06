@@ -1,0 +1,211 @@
+{
+  "rule_number": 13,
+  "rule_code": "Rule 13",
+  "title": "Greener, flaggstången och boll på hålkanten",
+  "summary": {
+    "short": "Regel 13 beskriver vad som får göras på green, hur flaggstången hanteras och vad som gäller för en boll på hålkanten.",
+    "detailed": "Regeln definierar när en boll är på green, hur den får lyftas, rengöras och återplaceras, vilka skador på green som får repareras och hur man hanterar en boll eller bollmarkering som rubbas. Den förklarar också spelarens val kring flaggstången, inklusive när den får lämnas i, tas bort eller passas, och vad som gäller när bollen är mot flaggstången eller hänger på hålkanten."
+  },
+  "sections": [
+    {
+      "section_number": "13.1",
+      "title": "Tillåtna eller nödvändiga åtgärder på green",
+      "purpose": "Anger vad spelaren får och måste göra på green, inklusive att markera, lyfta, rengöra och återplacera bollen samt reparera skador.",
+      "key_points": [
+        "En boll är på green när den vidrör green eller ligger på något innanför greenkanten.",
+        "Bollen på green får alltid lyftas, rengöras och återplaceras på sin ursprungliga punkt.",
+        "Spelaren får ta bort sand och lös jord samt reparera definierade skador på green utan plikt.",
+        "Om boll eller bollmarkering rubbas av misstag på green finns normalt ingen plikt, men bollen ska återplaceras.",
+        "Lättnad måste tas från fel green när denna fysiskt stör boll, stans eller sving."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "13.1a",
+          "title": "När boll är på green",
+          "summary": "Definierar när en boll räknas som varande på green.",
+          "key_points": [
+            "Bollen är på green när någon del av den vidrör green.",
+            "Bollen är också på green när den ligger på eller i något (t.ex. löst naturföremål eller tillverkat föremål) innanför greenkanten.",
+            "Om bollen samtidigt är på green och i annat område, används Regel 2.2c för att avgöra vilket område som gäller."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "13.1b",
+          "title": "Markera, lyfta och rengöra bollen på green",
+          "summary": "Styr hur en boll på green ska markeras, lyftas, rengöras och återplaceras.",
+          "key_points": [
+            "En boll på green får alltid lyftas och rengöras.",
+            "Bollens läge måste markeras innan den lyfts, t.ex. med bollmarkering eller klubba.",
+            "Efter lyft ska bollen återplaceras på sin ursprungliga punkt.",
+            "Regel 14.1 och 14.2 styr markering, lyft och återplacering i detalj."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "13.1c",
+          "title": "Tillåtna förbättringar på green",
+          "summary": "Anger vilka förbättringar som får göras på green utan plikt.",
+          "key_points": [
+            "Sand och lös jord får tas bort på green utan plikt.",
+            "Spelaren får reparera skador på green med händer, fötter, greenlagare, peg, klubba eller liknande.",
+            "Åtgärderna får inte orimligt fördröja spelet.",
+            "Skador som får repareras omfattar bl.a. nedslagsmärken, spikmärken, gamla hålpluggar, torvskarvar, fordonsspår och inbäddade föremål.",
+            "Normalt banskötselarbete, naturkrafter, naturliga ojämnheter och naturligt slitage på hålet räknas inte som ”skador på green”.",
+            "Om spelaren förbättrar green mer än vad som krävs för att återställa ursprungligt skick bryter han/hon mot Regel 8.1a (allmän plikt)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "13.1d",
+          "title": "När boll eller bollmarkering rubbas på green",
+          "summary": "Reglerar vad som gäller när boll eller bollmarkering på green rubbas och när bollen ska återplaceras.",
+          "key_points": [
+            "Det är ingen plikt om boll eller bollmarkering på green rubbas av misstag av spelaren, motspelaren eller någon annan.",
+            "Bollen ska då återplaceras på sin ursprungliga punkt eller markeras om den inte redan var markerad.",
+            "Om bollen börjar röra sig under baksving eller slag och slaget slås, måste bollen spelas som den ligger (undantag i Regel 9.1b).",
+            "Om en redan lyft och återplacerad boll rubbas av naturkrafter på green ska den återplaceras.",
+            "Om en boll inte tidigare lyfts/återplacerats och rubbas av naturkrafter ska den spelas från sitt nya läge.",
+            "Fel plats i strid med denna regel ger allmän plikt enligt Regel 14.7a."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "13.1e",
+          "title": "Ingen avsiktlig prövning av greener",
+          "summary": "Förbjuder spelare att avsiktligt pröva en green under spel på hålet.",
+          "key_points": [
+            "Under en rond får spelaren inte avsiktligt gnugga greenytan eller rulla en boll på green för att pröva dess beskaffenhet.",
+            "Mellan två hål får spelaren pröva greener genom att gnugga ytan eller rulla en boll på den just spelade greenen eller på övningsgreener.",
+            "Att bryta mot denna regel medför allmän plikt.",
+            "Tävlingsledningen kan införa lokal regel som förbjuder att rulla boll på just avslutad green (Model Local Rule I-2)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "13.1f",
+          "title": "Lättnad måste tas från fel green",
+          "summary": "Kräver att spelaren tar lättnad utan plikt när en fel green har störande inverkan.",
+          "key_points": [
+            "Störande inverkan föreligger när bollen är på fel green eller när fel green fysiskt stör stans eller sving.",
+            "Spelaren får inte spela bollen som den ligger om det finns störande inverkan från fel green.",
+            "Lättnad utan plikt tas genom att droppa en boll inom en klubblängd från närmaste punkt för fullständig lättnad i samma område på banan.",
+            "Lättnadsområdet får inte vara närmare hålet och måste ge fullständig lättnad från fel green.",
+            "Ingen lättnad ges om spelaren valt en uppenbart orimlig klubba, stans, sving eller spelriktning.",
+            "Att spela från fel plats i strid med denna regel ger allmän plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "13.2",
+      "title": "Flaggstången",
+      "purpose": "Beskriver spelarens valmöjligheter för att lämna flaggstången i, ta bort den eller låta den passas, och konsekvenserna när bollen träffar flaggstången.",
+      "key_points": [
+        "Spelaren får välja att ha flaggstången kvar i hålet eller borttagen/passade innan slaget slås.",
+        "Normalt är det ingen plikt om en boll i rörelse träffar flaggstången, vare sig den sitter i hålet eller är borttagen/passade.",
+        "Det är förbjudet att avsiktligt flytta eller placera flaggstången för att otillbörligt påverka var bollen kan stanna.",
+        "Om flaggstång eller person som passar den avsiktligt påverkar bollen tillämpas Regel 11.2."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "13.2a",
+          "title": "Lämna flaggstången i hål",
+          "summary": "Reglerar när spelaren får låta flaggstången sitta kvar i hålet och vad som händer om bollen träffar flaggstången.",
+          "key_points": [
+            "Spelaren får slå slag med flaggstången kvar i hålet och bollen får träffa flaggstången utan plikt.",
+            "Spelaren ska besluta före slaget om flaggstången ska lämnas i eller åter sättas ned i hålet.",
+            "Flaggstången får inte medvetet flyttas till ett läge som inte är centrerat i hålet för att ge fördel.",
+            "Efter slaget får spelaren eller caddien inte medvetet flytta eller ta bort flaggstången för att påverka var bollen stannar.",
+            "Andra spelare får inte heller avsiktligt flytta eller ta bort flaggstången för att påverka spelarens boll; gör de det får de allmän plikt.",
+            "Om flaggstången flyttas av andra skäl, t.ex. för att de tror att bollen inte kommer att träffa den, utgår ingen plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "13.2b",
+          "title": "Ta bort en flaggstång från hålet",
+          "summary": "Reglerar när och hur flaggstången får tas bort eller passas samt konsekvenser om bollen träffar flaggstång eller den som passar den.",
+          "key_points": [
+            "Spelaren får välja att spela med flaggstången borttagen från hålet och/eller låta någon passa den.",
+            "Att passa flaggstången innebär att hålla den vid eller nära hålet före slaget och sedan ta bort den under eller efter slaget.",
+            "Spelaren anses ha godkänt passning om caddie eller annan person uppenbart passar flaggstången och spelaren slår utan att invända.",
+            "Om bollen av misstag träffar flaggstången eller den som passar den (eller något de håller i) är det ingen plikt och bollen ska spelas som den ligger.",
+            "Om den som passar flaggstången avsiktligt påverkar eller stoppar bollen tillämpas Regel 11.2c: slaget annulleras och lättnad måste tas; spelaren eller caddien får allmän plikt om de var den skyldige."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "13.2c",
+          "title": "En boll som vilar mot en flaggstång som står i hålet",
+          "summary": "Förklarar när en boll som vilar mot flaggstången anses hålad och vad som ska göras om flaggstången tas bort.",
+          "key_points": [
+            "Om någon del av bollen är under greenytan i hålet anses bollen hålad även om hela bollen inte är under markytan.",
+            "Om ingen del av bollen är under greenytan är bollen inte hålad och måste spelas som den ligger.",
+            "Om flaggstången tas bort och bollen rubbas (faller i eller bort från hålet) är det ingen plikt.",
+            "I sådant fall ska bollen återplaceras på hålkanten enligt Regel 14.2 om den inte är hålad.",
+            "Att spela från fel plats i strid mot denna regel medför allmän plikt och i slagspel diskvalifikation om spelaren inte hålar ut korrekt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "13.3",
+      "title": "En boll på hålkanten",
+      "purpose": "Reglerar väntetid när en boll hänger över hålkanten, samt vad som gäller om bollen lyfts eller rubbas innan väntetiden gått ut.",
+      "key_points": [
+        "Spelaren får en rimlig tid att gå fram till hålet plus 10 sekunder extra för att se om bollen faller i.",
+        "Om bollen faller i under väntetiden räknas den som hålad med föregående slag utan extra plikt.",
+        "Om bollen faller i efter väntetiden men innan den spelas läggs ett slags plikt till.",
+        "Om bollen lyfts eller rubbas av annat än naturkrafter före väntetidens slut ska den återplaceras på hålkanten."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "13.3a",
+          "title": "Väntetid för att se om en boll på hålkanten kommer att falla i hål",
+          "summary": "Bestämmer hur länge spelaren får vänta för att se om en boll som hänger över hålkanten faller i.",
+          "key_points": [
+            "Spelaren har rätt till en rimlig tid att gå fram till hålet plus ytterligare 10 sekunders väntan.",
+            "Om bollen faller i under denna tid anses spelaren ha hålat ut med föregående slag utan extra plikt.",
+            "Om bollen inte faller i under väntetiden anses den vara i vila.",
+            "Om bollen därefter faller i hål innan den spelas anses den hålad med föregående slag men spelaren får ett slags plikt tillagt på hålet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "13.3b",
+          "title": "Vad som ska göras om en boll på hålkanten lyfts eller rubbas innan väntetiden gått ut",
+          "summary": "Anger vad som gäller om en boll på hålkanten lyfts eller rubbas innan den tillåtna väntetiden är slut.",
+          "key_points": [
+            "Om en boll på hålkanten lyfts eller rubbas av något annat än naturkrafter innan väntetiden gått ut, anses bollen vara i vila.",
+            "Bollen måste återplaceras på hålkanten och den tidigare väntetiden enligt 13.3a gäller inte längre.",
+            "Om den återplacerade bollen därefter rubbas av naturkrafter gäller Regel 9.3.",
+            "Om motspelare i matchspel lyfter eller rubbar bollen före väntetidens slut anses bollen hålad med föregående slag utan plikt för motspelaren.",
+            "I slagspel får den spelare som lyft eller rubbat bollen två slags plikt (allmän plikt) och bollen ska återplaceras på hålkanten."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "13\nGreener\n13.1\nTillåtna eller nödvändiga åtgärder på green\nSyfte med regeln: Regeln tillåter spelaren att vidta åtgärder på green som normalt inte är tillåtna utanför green, t ex att markera, lyfta, rengöra och återplacera en boll samt att reparera skador och ta bort sand och lös jord på green. Det blir ingen plikt för att av misstag orsaka att en boll eller bollmarkering rubbas på green.\n13.1a\nNär boll är på green\nEn boll är på green när någon del av bollen:\n\n    vidrör green eller\n    ligger på eller i någonting (t ex ett löst naturföremål eller ett tillverkat föremål) och är innanför greenkanten.\n\nOm en del av bollen är både på green och i ett annat område på banan, se Regel 2.2c.\n13.1b\nMarkera, lyfta och rengöra bollen på green\nEn boll på green får lyftas och rengöras (se Regel 14.1). Bollens läge måste markeras innan den lyfts (se Regel 14.1), och bollen måste återplaceras på sin ursprungliga punkt (se Regel 14.2).\n13.1c\nTillåtna förbättringar på green\nUnder en rond och när spelet är avbrutet enligt Regel 5.7a får spelaren vidta dessa två åtgärder på green, oavsett om bollen är på eller utanför green: (1) Borttagning av sand och lös jord. Sand och lös jord får tas bort på green utan plikt. (2) Laga skador. En spelare får laga skador på green utan plikt genom att vidta rimliga åtgärder för att återställa green så nära som möjligt till sitt ursprungliga skick, men bara:\n\n    genom att använda handen, foten eller någon annan del av kroppen eller en vanlig greenlagare, peg, klubba eller en liknande vanlig del av utrustningen, och\n    utan att orimligt fördröja spelet (se Regel 5.6a).\n\nMen om spelaren förbättrar green genom att vidta åtgärder som överstiger vad som är rimligt för att återställa green till dess ursprungliga skick (t ex genom att skapa en ränna till hålet eller genom att använda ett föremål som inte är tillåtet), får spelaren den allmänna plikten för brott mot Regel 8.1a. Med ”skador på green” menas alla skador som orsakats av någon person (inklusive spelaren själv) eller av något utomstående, t ex:\n\n    nedslagsmärken, skador av skor (t ex spikmärken) och skrap- eller hackmärken orsakade av utrustning eller en flaggstång,\n    gamla hålpluggar, pluggar av grästorv, skarvar av skuren grästorv och skrap eller hackmärken av underhållsverktyg eller fordon,\n    spår av djur eller hovmärken och\n    inbäddade föremål (t ex en sten, ekollon, hagel eller peg) och fördjupningar förorsakade av dessa.\n\nMen ”skador på green” innefattar inte skador eller förhållanden som beror på:\n\n    normala metoder för banskötsel för att bibehålla det allmänna skicket på green (t ex luftningshål och skåror från vertikalskärning),\n    bevattning eller regn eller andra naturkrafter,\n    naturliga ojämnheter (t ex ogräs eller områden med dålig, död eller ojämn växtlighet) eller\n    naturligt slitage av hålet.\n\n13.1d\nNär boll eller bollmarkering rubbas på green\nDet finns två specifika regler för en boll eller bollmarkering som rubbas på green. (1) Ingen plikt om bollen rubbas av misstag. Det blir inte någon plikt om spelaren, motspelaren eller någon annan spelare i slagspel av misstag rubbar spelarens boll eller bollmarkering på green. Spelaren måste:\n\n    återplacera bollen på dess ursprungliga punkt (som, om den inte är känd, måste uppskattas) (se Regel 14.2), eller\n    placera en bollmarkering för att markera detta ursprungliga läge.\n\nUndantag – Bollen måste spelas som den ligger när bollen börjar röra sig under baksvingen eller slaget och slaget slås (se Regel 9.1b). Om spelaren eller motspelaren avsiktligt lyfter spelarens boll eller bollmarkering på green, se Regel 9.4 eller Regel 9.5 för att ta reda på om det blir någon plikt.\n(2) När en boll som rubbats av naturkrafter ska återplaceras. Varifrån en spelare ska spela sitt nästa slag, om bollen rubbats på green av naturkrafter, beror på om bollen redan hade lyfts och återplacerats på green (se Regel 14.1):\n\n    Boll som redan lyfts och återplacerats. Bollen måste återplaceras på den punkt den rubbats från (som, om den inte är känd, måste uppskattas) (se Regel 14.2), även om den rubbats av naturkrafter och inte av spelaren, motspelaren eller av något utomstående (se Regel 9.3, Undantag).\n    Boll som inte redan lyfts och återplacerats. Bollen måste spelas från sitt nya läge (se Regel 9.3).\n\nPlikt för att spela från fel plats i strid med Regel 13.1d: allmän plikt enligt Regel 14.7a.\n13.1e\nIngen avsiktlig prövning av greener\nEn spelare får inte avsiktligt under en rond eller medan spelet avbrutits enligt Regel 5.7a, vidta någon av dessa åtgärder för att pröva green eller en fel green:\n\n    gnugga ytan, eller\n    rulla en boll.\n\nUndantag – Pröva greener mellan två hål: Mellan två hål får en spelare gnugga ytan eller rulla en boll på det just avslutade hålets green och på alla övningsgreener (se Regel 5.5b). Plikt för att pröva green eller en fel green i strid med Regel 13.1e: allmän plikt. Se Committee Procedures, Section 8; Model Local Rule I-2 (Tävlingsledningen kan anta en lokal regel som förbjuder en spelare att rulla en boll på det just avslutade hålets green).\n13.1f\nLättnad måste tas från fel green\n(1) Vad störande inverkan av fel green innebär. Störande inverkan enligt denna regel föreligger när:\n\n    någon del av spelarens boll vidrör fel green eller ligger på eller i något (t ex ett löst naturföremål eller ett tillverkat föremål), och är innanför kanten på fel green, eller om\n    fel green inverkar fysiskt på spelarens område för avsedd stans eller område för avsedd sving.\n\n(2) Lättnad måste tas. En spelare får inte spela bollen som den ligger, när det finns störande inverkan av fel green. I stället måste spelaren ta lättnad utan plikt genom att droppa den ursprungliga bollen eller en annan boll i det här lättnadsområdet (se Regel 14.3):\n\n    Referenspunkt: Närmaste punkten för fullständig lättnad i samma område på banan som den ursprungliga bollen kom att stanna.\n    Storlek på lättnadsområde mätt från referenspunkten: En klubblängd, men med följande begränsningar:\n    Begränsningar för lättnadsområdets läge:\n        måste vara i samma område på banan som referenspunkten,\n        får inte vara närmare hålet än referenspunkten, samt\n        att det måste ge fullständig lättnad från störande inverkan av fel green.\n\n(3) Ingen lättnad när det är uppenbart orimligt. Ingen lättnad är tillåten enligt Regel 13.1f bara därför att det uppstår störande inverkan, om spelaren under omständigheterna väljer en uppenbart orimlig klubba, typ av stans, sving eller spelriktning. Plikt för att spela från fel plats i strid med Regel 13.1f: Allmän plikt enligt Regel 14.7a.\n13.2\nFlaggstången\nSyfte med regeln: Denna regel täcker spelarens valmöjligheter för att hantera flaggstången. Spelaren får lämna flaggstången i hålet eller få den borttagen (vilket innefattar att någon passar flaggstången och tar bort den när bollen är spelad), men beslutet måste tas innan slaget slås. Normalt blir det inte någon plikt om en boll i rörelse träffar flaggstången.\nDen här regeln tillämpas för en boll som spelas från var som helst på banan, antingen på eller utanför green.\n13.2a\nLämna flaggstången i hål\n(1) Spelaren får lämna flaggstången i hål. Spelaren får slå ett slag med flaggstången kvar i hålet, så att bollen i rörelse kan träffa flaggstången. Spelaren måste besluta detta innan han/hon gör sitt slag, antingen genom att:\n\n    lämna flaggstången som den är i hålet eller flytta den så att den är centrerad i hålet och lämna den där, eller\n    få en borttagen flaggstång tillbakasatt i hålet.\n\nI båda fallen:\n\n    Spelaren får inte försöka att få fördelar genom att medvetet flytta flaggstången till ett läge annat än centrerad i hålet.\n    Om spelaren gör det och bollen i rörelse träffar flaggstången, får spelaren den allmänna plikten.\n\n(2) Ingen plikt utgår om bollen träffar en flaggstång som lämnats kvar i hålet. Om spelaren gör ett slag med flaggstången kvar i hålet och bollen i rörelse då träffar flaggstången:\n\n    blir det inte någon plikt (utom enligt vad som anges i (1)), och\n    bollen måste spelas som den ligger.\n\n(3) Begränsningar för en spelare att flytta eller ta bort en flaggstång i hålet när bollen är i rörelse. Efter att ett slag gjorts med flaggstången kvar i hålet:\n\n    får spelaren och spelarens caddie inte avsiktligt flytta eller ta bort flaggstången för att påverka var spelarens boll i rörelse kan komma att stanna (t ex för att undvika att bollen träffar flaggstången). Om detta görs får spelaren den allmänna plikten.\n    Men det utgår ingen plikt om spelaren låter flaggstången i hålet flyttas eller tas bort av någon annan anledning, t ex när spelaren tror att bollen i rörelse rimligen inte kommer att träffa flaggstången innan den stannar.\n\n(4) Begränsningar för andra spelare att flytta eller ta bort flaggstången när spelaren beslutat att ha den kvar i hål. När spelaren har lämnat kvar flaggstången i hålet och inte gett någon annan rätt att passa flaggstången (se Regel 13.2b(1)), får en annan spelare inte avsiktligt flytta eller ta bort flaggstången för att påverka var spelarens boll i rörelse kan komma att stanna.\n\n    Om en annan spelare eller hans/hennes caddie gör det före eller under slaget, och spelaren slår slaget omedveten om detta eller gör det medan spelarens boll är i rörelse efter ett slag, får den andra spelaren den allmänna plikten.\n    Men det blir inte någon plikt om den andra spelaren eller hans/hennes caddie flyttar eller tar bort flaggstången av annan anledning, t ex när han/hon:\n        har skäl att tro att spelarens boll i rörelse inte kommer att träffa flaggstången innan den stannar, eller\n        inte är medveten om att spelaren är på väg att spela eller att spelarens boll är i rörelse.\n\n13.2b\nTa bort en flaggstång från hålet\n(1) Spelaren får låta ta bort flaggstången från hålet. Spelaren får slå ett slag med flaggstången borttagen från hålet, så att spelarens boll i rörelse inte kommer att träffa flaggstången i hålet. Spelaren måste bestämma detta innan slaget slås, genom att antingen:\n\n    låta flaggstången tas bort från hålet innan bollen spelas, eller\n    ge någon tillåtelse att passa flaggstången, vilket innebär att:\n        hålla flaggstången i, ovanför eller nära hålet före slaget för att visa spelaren var hålet är, och\n        sedan ta bort flaggstången under slaget eller efter att slaget har slagits.\n\nSpelaren anses ha godkänt att flaggstången passas om:\n\n    spelarens caddie håller flaggstången i, ovanför eller nära hålet eller står intill hålet när slaget slås, även om spelaren inte är medveten om att caddien gör det,\n    spelaren ber någon annan person att passa flaggstången och den personen gör det, eller\n    spelaren ser att någon annan person håller flaggstången i, ovanför eller nära hålet eller står intill hålet, och spelaren slår slaget utan att be den personen att flytta sig eller att lämna flaggstången i hålet.\n\n(2) Vad man ska göra om en boll träffar flaggstången eller den person som passar flaggstången. Vad som händer om spelarens boll i rörelse träffar en flaggstång som spelaren bestämt sig för att ha borttagen i enlighet med (1), eller träffar den person som passar flaggstången (eller någonting personen håller i), beror på om detta var oavsiktligt eller avsiktligt:\n\n    Boll som av misstag träffar flaggstång eller person som tagit bort eller passar den. Om spelarens boll i rörelse av misstag träffar flaggstången eller den person som tagit bort eller passar den (eller något personen håller i), blir det inte någon plikt och bollen måste spelas som den ligger.\n    Boll som avsiktligt påverkas eller stoppas av person som passar flaggstång. Om den person som passar flaggstången avsiktligt påverkar eller stoppar spelarens boll i rörelse, används Regel 11.2c:\n        Var bollen spelas ifrån. Spelaren får inte spela bollen som den ligger utan måste i stället ta lättnad enligt Regel 11.2c.\n        När plikt gäller. Om den person som avsiktligt påverkat eller stoppat bollen var en spelare eller hans/hennes caddie, får den spelaren den allmänna plikten för brott mot Regel 11.2.\n\n13.2c\nEn boll som vilar mot en flaggstång som står i hålet\nOm en spelares boll stannar mot flaggstången som står kvar i hålet:\n\n    Om någon del av bollen är i hålet under greenytan, betraktas bollen som hålad även om inte hela bollen är under markytan.\n    Om ingen del av bollen är i hålet under greenytan:\n        är bollen inte hålad och måste spelas som den ligger.\n        Om flaggstången tas bort och bollen rubbas (oavsett om den faller ner i hålet eller rör sig bort från hålet), blir det inte någon plikt och bollen måste återplaceras på kanten av hålet (se Regel 14.2).\n\n13.3\nEn boll på hålkanten\n13.3a\nVäntetid för att se om en boll på hålkanten kommer att falla i hål\nOm någon del av spelarens boll hänger över hålkanten:\n\n    ges spelaren en rimlig tid för att komma fram till hålet och ytterligare 10 sekunders väntan för att se om bollen kommer att falla ner i hålet.\n    om bollen faller ner i hålet under denna väntetid, har spelaren hålat ut med föregående slag.\n    om bollen inte faller ner i hålet under denna väntetid:\n        anses bollen vara i vila.\n        Om bollen därefter faller ner i hålet innan den spelas, har spelaren hålat ut med föregående slag, men får ett slags plikt tillagd till scoren på hålet.\n\n13.3b\nVad som ska göras om en boll på hålkanten lyfts eller rubbas innan väntetiden gått ut\nOm en boll på hålkanten lyfts eller rubbas av något annat än naturkrafter, innan väntetiden enligt Regel 13.3a har gått ut, anses bollen vara i vila:\n\n    Bollen måste återplaceras på hålkanten (se Regel 14.2), och\n    väntetiden enligt Regel 13.3a gäller inte längre för bollen. (Se Regel 9.3 för vad som ska göras om den återplacerade bollen därefter rubbas av naturkrafter.)\n\nOm en motspelare i matchspel eller en annan spelare i slagspel avsiktligt lyfter eller rubbar spelarens boll som ligger på hålkanten innan väntetiden gått ut:\n\n    betraktas spelarens boll i matchspel som hålad med föregående slag, och det blir inte någon plikt för motspelaren enligt Regel 11.2b.\n    I slagspel får spelaren som lyfte eller rubbade bollen den allmänna plikten (två slags plikt). Bollen måste återplaceras på hålkanten (se Regel 14.2).",
+  "metadata": {
+    "language": "sv",
+    "source": "Spelregler för Golf – Regel 13 (svensk text från användaren)",
+    "created_by": "ChatGPT (GPT-5.1 Thinking)",
+    "created_at": "2025-11-27T23:10:39.598002"
+  }
+}

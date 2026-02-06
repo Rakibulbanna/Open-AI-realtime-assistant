@@ -1,0 +1,477 @@
+{
+  "rule_number": 25,
+  "rule_code": "25",
+  "title": "Modifieringar för spelare med funktionsnedsättningar",
+  "summary": {
+    "short": "Regel 25 modifierar vissa golfregler för spelare med funktionsnedsättningar inom fyra kategorier: blinda, amputerade, spelare som använder rörelsehjälpmedel samt spelare med intellektuell funktionsnedsättning.",
+    "detailed": "Regel 25 gäller i alla tävlingar och alla spelformer och ger särskilda lättnader och modifieringar för spelare som är blinda, amputerade, använder rörelsehjälpmedel eller har intellektuell funktionsnedsättning. Den klargör när och hur medhjälpare, caddies, proteser och rörelsehjälpmedel får användas, hur vissa definitioner (som stans och återplacera) är ändrade, hur lättnadsområden justeras och hur regler om råd, droppning, bunker, speltempo och diskvalifikation ska tolkas för dessa spelare. Utrustningsreglerna gäller i grunden oförändrade, med vissa medicinska undantag enligt Utrustningsreglerna och Regel 4.3."
+  },
+  "sections": [
+    {
+      "section_number": "25.1",
+      "title": "Översikt",
+      "purpose": "Ger en övergripande beskrivning av Regel 25, vilka funktionsnedsättningskategorier som omfattas och relationen till övriga regler och utrustningsregler.",
+      "key_points": [
+        "Regel 25 gäller för alla tävlingar och alla spelformer.",
+        "Om en spelare får använda de modifierade reglerna beror på spelarens funktionsnedsättningskategori och behörighet.",
+        "Fyra funktionsnedsättningskategorier omfattas: blinda (inklusive vissa nivåer av synnedsättning), amputerade, spelare som använder rörelsehjälpmedel samt spelare med intellektuell funktionsnedsättning.",
+        "Andra funktionsnedsättningar (t.ex. neurologiska tillstånd, ortopediska tillstånd, kortvuxenhet, dövhet) omfattas inte av Regel 25 eftersom inget behov av regelförändring har identifierats.",
+        "Utrustningsreglerna gäller utan modifieringar utom enligt Section 7 i Utrustningsreglerna; medicinsk utrustning hanteras enligt Regel 4.3b.",
+        "Tävlingsledningen använder Committee Procedures, Section 5D som vägledning för att avgöra behörighet."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "25.2",
+      "title": "Modifieringar för spelare som är blinda",
+      "purpose": "Beskriver de särskilda lättnaderna och modifieringarna för spelare som är blinda, inklusive användning av medhjälpare, caddie, sikthjälp, bunker och hantering av bollen.",
+      "key_points": [
+        "En blind spelare får ha både medhjälpare och caddie samtidigt.",
+        "Medhjälparen får hjälpa till med stans, sikte och råd.",
+        "Vissa begränsningar i reglerna om sikthjälp, caddies, bunker och hantering av bollen är modifierade.",
+        "Spelaren får ge generellt godkännande till andra att droppa, placera och återplacera bollen."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "25.2a",
+          "title": "Hjälp av en medhjälpare",
+          "summary": "Medhjälparen får hjälpa den blinda spelaren med stans, sikte och råd och har i princip samma status som en caddie.",
+          "key_points": [
+            "Medhjälparen får hjälpa spelaren att ta stans, sikta in sig före slaget och ge råd.",
+            "Medhjälparen har samma status enligt reglerna som en caddie, med undantag enligt Regel 25.2e.",
+            "Spelaren får be om och få råd både från medhjälpare och caddie vid samma tillfälle enligt Regel 10.2a."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.2b",
+          "title": "En spelare får bara ha en medhjälpare",
+          "summary": "Begränsar antalet medhjälpare för en blind spelare till en åt gången, med plikt om fler används.",
+          "key_points": [
+            "En blind spelare får bara ha en medhjälpare åt gången.",
+            "Har spelaren fler än en medhjälpare vid något tillfälle får spelaren allmän plikt för varje hål där överträdelsen skett, enligt motsvarande princip i Regel 10.3a(1)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.2c",
+          "title": "Modifiering av Regel 10.2b(3)",
+          "summary": "Tillåter att föremål placeras för att hjälpa stans/sikte, under förutsättning att de tas bort innan slaget.",
+          "key_points": [
+            "Det blir ingen plikt om spelaren, caddien eller medhjälparen placerar ett föremål för att hjälpa till att ta stans (t.ex. en klubba på marken för riktning).",
+            "Föremålet måste tas bort innan slaget slås; annars får spelaren allmän plikt för brott mot Regel 10.2b(3)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.2d",
+          "title": "Modifiering av Regel 10.2b(4)",
+          "summary": "Tillåter medhjälpare eller caddie att stå bakom spellinjen utan plikt för en blind spelare, så länge de inte hjälper till när slaget görs.",
+          "key_points": [
+            "Det blir ingen plikt om medhjälparen eller caddien står på eller nära förlängningen av spellinjen bakom bollen före eller under slaget.",
+            "Förutsättningen är att de inte hjälper spelaren med att slå slaget."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.2e",
+          "title": "Modifiering av Regel 10.3 (Caddies)",
+          "summary": "Reglerar hur en medhjälpare får agera i förhållande till spelarens klubbor när spelaren också har en caddie.",
+          "key_points": [
+            "Medhjälparen kan också fungera som caddie, men behöver inte göra det.",
+            "Spelaren får ha både medhjälpare och caddie samtidigt.",
+            "Medhjälparen får inte bära eller hantera spelarens klubbor annat än för att vägleda spelaren, hjälpa stans och sikte innan slaget eller som artighet enligt definitionen av caddie.",
+            "Om medhjälparen bär eller hanterar klubbor i strid med detta anses spelaren ha två caddies och får allmän plikt för varje hål där brottet inträffar (Regel 10.3a(1))."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.2f",
+          "title": "Modifiering av Regel 12.2b(1) (När det blir plikt för att vidröra sand)",
+          "summary": "Ger blinda spelare större frihet att vidröra sand i bunkern runt bollen innan slaget utan plikt.",
+          "key_points": [
+            "En blind spelare får, utan plikt, vidröra sanden i bunkern med en klubba omedelbart framför eller bakom bollen och vid baksvingen.",
+            "Spelaren får inte förbättra bollens läge mer än vad som skulle ske genom lätt grundande av klubban.",
+            "Det är fortfarande förbjudet att avsiktligt pröva sandens beskaffenhet eller vidröra sanden med klubban vid övningssving enligt Regel 12.2b(1)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.2g",
+          "title": "Modifiering av Regel 14.1b (Vem som får lyfta bollen)",
+          "summary": "Tillåter medhjälparen att lyfta bollen på green utan uttryckligt godkännande av spelaren.",
+          "key_points": [
+            "När bollen ligger på green får medhjälparen, liksom caddien, lyfta bollen utan spelarens godkännande."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.2h",
+          "title": "Hjälp med att droppa, placera och återplacera bollen",
+          "summary": "Ger blinda spelare möjlighet att generellt godkänna att andra sköter droppning, placering och återplacering av bollen.",
+          "key_points": [
+            "Alla regler som kräver att spelaren ska droppa, placera eller återplacera bollen är modifierade.",
+            "Spelaren kan utan begränsningar ge ett allmänt godkännande åt valfri person att droppa, placera och återplacera spelarens boll."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "25.3",
+      "title": "Modifieringar för spelare som är amputerade",
+      "purpose": "Ger särskilda regler för spelare som är amputerade, bland annat om protesers status, förankrad klubba och hjälp med bollen.",
+      "key_points": [
+        "Att använda protes är tillåtet om medicinskt motiverat och inte ger orättvis fördel.",
+        "En amputerad spelare kan få undantag från förbudet mot förankrad klubba.",
+        "Spelaren kan generellt godkänna att andra droppar, placerar och återplacerar bollen.",
+        "Definitionen av återplacera är modifierad för amputerade spelare."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "25.3a",
+          "title": "Status för proteser",
+          "summary": "Klargar när användning av proteser är tillåten enligt reglerna om utrustning.",
+          "key_points": [
+            "Att använda konstgjord arm eller ben är inte ett brott mot Regel 4.3 om det finns medicinskt skäl och tävlingsledningen bedömer att det inte ger orättvis fördel (Regel 4.3b).",
+            "Spelare som är osäkra på om en protes är tillåten bör ta upp frågan med tävlingsledningen så snart som möjligt.",
+            "Spelare som använder proteser omfattas fortfarande av Regel 4.3a om att inte använda utrustning på ett onormalt sätt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.3b",
+          "title": "Modifiering av Regel 10.1b (Förankra klubban)",
+          "summary": "Tillåter amputerade spelare att slå slag med klubban förankrad om de inte kan svinga normalt.",
+          "key_points": [
+            "Om spelaren inte kan hålla och svinga de flesta av sina klubbor utan att förankra dem på grund av arm- eller bendefekter eller förlust av armar/ben får spelaren förankra klubban vid slaget.",
+            "Detta sker utan plikt enligt Regel 10.1b."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.3c",
+          "title": "Hjälp med att droppa, placera och återplacera bollen",
+          "summary": "Ger amputerade spelare möjlighet att låta andra sköta droppning, placering och återplacering av bollen.",
+          "key_points": [
+            "Alla regler som kräver att spelaren ska droppa, placera eller återplacera bollen är modifierade.",
+            "Spelaren får, utan begränsningar, ge ett allmänt godkännande till valfri person att droppa, placera och återplacera spelarens boll."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.3d",
+          "title": "Modifiering av definitionen för \\'94återplacera\\'94",
+          "summary": "Utvidgar definitionen av återplacera för amputerade spelare så att annan utrustning än handen kan användas.",
+          "key_points": [
+            "Amputerade spelare får återplacera bollen med handen eller genom att använda en annan del av utrustningen, t.ex. rulla bollen med en klubba.",
+            "Definitionen av återplacera och Regel 14.2b(2) är modifierade i detta syfte."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "25.4",
+      "title": "Modifieringar för spelare som använder rörelsehjälpmedel",
+      "purpose": "Ger regler för hur spelare som använder rörelsehjälpmedel kan få hjälp, hur stans och slag påverkas samt hur vissa lättnader och pliktsituationer modifieras.",
+      "key_points": [
+        "En spelare som använder rörelsehjälpmedel kan ha både medhjälpare och caddie och få hjälp att positionera sig.",
+        "Definitionerna av stans och återplacera är modifierade för att inkludera rörelsehjälpmedel.",
+        "Användning av rörelsehjälpmedel omfattas av Regel 4.3 om utrustning.",
+        "Vissa regler om förankrad klubba, stans över spellinjen, bunker och lättnadsområden är justerade.",
+        "Ytterligare lättnad ges för spelare med rörelsehjälpmedel på hjul när det gäller sidolättnad och ospelbar boll i bunker."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "25.4a",
+          "title": "Hjälp av medhjälpare eller varje annan person",
+          "summary": "Tillåter bred hjälp med bollen och positionering för spelare som använder rörelsehjälpmedel.",
+          "key_points": [
+            "När bollen ligger på green får medhjälparen, liksom caddien, lyfta bollen utan spelarens godkännande (modifiering av Regel 14.1b).",
+            "Spelaren får generellt godkänna att vem som helst droppar, placerar och återplacerar bollen.",
+            "Spelaren får, innan slaget, få fysisk hjälp från vem som helst för att positionera sig eller rörelsehjälpmedlet enligt Regel 10.2b(5)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4b",
+          "title": "Råd från en medhjälpare",
+          "summary": "Medhjälparen får ge råd på samma sätt som en caddie.",
+          "key_points": [
+            "Spelaren får be om och ta emot råd av sin medhjälpare på samma sätt som från en caddie (Regel 10.2a).",
+            "Medhjälparen har samma status som caddie enligt reglerna, med undantag enligt Regel 25.4j.",
+            "Spelaren får vid samma tillfälle få råd både av medhjälpare och caddie."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4c",
+          "title": "En spelare får bara ha en medhjälpare",
+          "summary": "Begränsar antalet medhjälpare till en för spelare med rörelsehjälpmedel.",
+          "key_points": [
+            "En spelare som använder rörelsehjälpmedel får bara ha en medhjälpare åt gången.",
+            "Har spelaren fler än en medhjälpare vid något tillfälle får spelaren allmän plikt för varje hål där överträdelsen inträffat, enligt principen i Regel 10.3a(1)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4d",
+          "title": "Modifiering av definitionen av \\'94stans\\'94",
+          "summary": "Utvidgar definitionen av stans för spelare som använder rörelsehjälpmedel.",
+          "key_points": [
+            "Stans omfattar både placeringen av fötter och kropp och placeringen av rörelsehjälpmedlet när spelaren förbereder sig för eller slår ett slag.",
+            "Den modifierade definitionen används bl.a. vid tillämpning av Regel 8.1a (avsedda stansen) och Regel 16.1 (störande inverkan av onormalt banförhållande)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4e",
+          "title": "Modifiering av definitionen för \\'94återplacera\\'94",
+          "summary": "Tillåter spelare med rörelsehjälpmedel att återplacera bollen med annan del av utrustning än handen.",
+          "key_points": [
+            "Spelaren får återplacera bollen med handen eller genom att använda annan del av utrustningen, t.ex. rulla bollen med en klubba.",
+            "Definitionen av återplacera och Regel 14.2b(2) är utökade för dessa spelare."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4f",
+          "title": "Tillämpning av Regel 4.3 (Användning av utrustning)",
+          "summary": "Klargör hur Regel 4.3 gäller för användning av rörelsehjälpmedel.",
+          "key_points": [
+            "Spelaren får använda rörelsehjälpmedel som hjälp i sitt spel om det är tillåtet enligt Regel 4.3b.",
+            "Spelaren omfattas fortfarande av förbuden i Regel 4.3a mot att använda utrustning på ett onormalt sätt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4g",
+          "title": "Modifiering av Regel 8.1b(5) för att tillåta användning av rörelsehjälpmedel för att ta stansen",
+          "summary": "Tillåter rimlig påverkan på marken med rörelsehjälpmedlet vid stans, utan att bygga stans.",
+          "key_points": [
+            "Rimligt grävande med fötterna i sand enligt Regel 8.1b(5) omfattar också rimligt grävande med rörelsehjälpmedlet.",
+            "Det är tillåtet att vidta rimliga åtgärder för att placera ett rörelsehjälpmedel vid stans och undvika att halka.",
+            "Spelaren får inte bygga en stans eller skapa upphöjda stödytor för rörelsehjälpmedlet; görs detta blir det allmän plikt enligt Regel 8.1a(3)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4h",
+          "title": "Modifiering av Regel 10.1b (Förankra klubban)",
+          "summary": "Tillåter förankrad klubba om det behövs på grund av användning av rörelsehjälpmedel.",
+          "key_points": [
+            "Om spelaren inte kan hålla eller svinga de flesta klubborna utan att förankra dem på grund av användning av rörelsehjälpmedel får spelaren slå slag med förankrad klubba utan plikt enligt Regel 10.1b."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4i",
+          "title": "Modifiering av Regel 10.1c (Slå slag medan man står över eller på spellinjen)",
+          "summary": "Utvidgar förbudet i Regel 10.1c till att även omfatta rörelsehjälpmedlet.",
+          "key_points": [
+            "Spelaren får inte slå ett slag med någon del av rörelsehjälpmedlet avsiktligt placerad på båda sidor om eller i kontakt med spellinjen eller dess förlängning bakom bollen."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4j",
+          "title": "Modifiering av Regel 10.3 (Caddies)",
+          "summary": "Reglerar medhjälparens roll i förhållande till caddie för spelare med rörelsehjälpmedel.",
+          "key_points": [
+            "Medhjälparen får också fungera som caddie, men behöver inte göra det.",
+            "Spelaren får ha både medhjälpare och caddie samtidigt.",
+            "Medhjälparen får inte bära eller hantera spelarens klubbor utom för att hjälpa stans, sikte innan slaget eller som artighet enligt definitionen av caddie.",
+            "Detta ändrar inte Regel 10.2b(3) om att placera föremål för sikthjälp.",
+            "Om medhjälparen bär eller hanterar klubbor i strid med regeln anses spelaren ha två caddies och får allmän plikt för varje hål där överträdelsen inträffar."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4k",
+          "title": "Modifiering av Regel 11.1b(2)",
+          "summary": "Ändrar utfallet när boll från green träffar ett rörelsehjälpmedel.",
+          "key_points": [
+            "Om en boll i rörelse som spelats från green av misstag träffar rörelsehjälpmedlet måste bollen spelas som den ligger.",
+            "Detta är en modifiering av Regel 11.1b(2)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4l",
+          "title": "Tillämpning av Regel 12.2b(1) vid användning av rörelsehjälpmedel i bunker",
+          "summary": "Klargör hur förbudet mot att pröva sandens beskaffenhet i bunker gäller för rörelsehjälpmedel.",
+          "key_points": [
+            "Att avsiktligt använda rörelsehjälpmedlet för att pröva sandens beskaffenhet är förbjudet på samma sätt som för hand, klubba eller kratta enligt Regel 12.2b(1).",
+            "Spelaren får vidröra sanden med rörelsehjälpmedlet av andra skäl utan plikt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4m",
+          "title": "Rörelsehjälpmedel på hjul: Modifiering av sidolättnad för rött pliktområde och ospelbar boll",
+          "summary": "Utökar sidolättnadsområdet för spelare med rörelsehjälpmedel på hjul.",
+          "key_points": [
+            "När sidolättnad tas för en boll i rött pliktområde eller för en ospelbar boll utökas lättnadsområdet från två till fyra klubblängder.",
+            "Detta modifierar Regel 17.1d(3) och Regel 19.2c."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.4n",
+          "title": "Rörelsehjälpmedel på hjul: Modifiering av plikt enligt Regel 19.3b",
+          "summary": "Minskar plikten för lättnad på flagglinjen utanför bunker för spelare med hjälpmedel på hjul.",
+          "key_points": [
+            "Vid ospelbar boll i bunker får spelaren med rörelsehjälpmedel på hjul ta flagglinjelättnad utanför bunkern med ett slags plikt istället för två.",
+            "Detta är en modifiering av Regel 19.3b."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "25.5",
+      "title": "Modifiering för spelare med intellektuella funktionsnedsättningar",
+      "purpose": "Reglerar rollen för medhjälpare och handledare för spelare med intellektuell funktionsnedsättning och hur hjälp och råd får ges.",
+      "key_points": [
+        "Spelare med intellektuell funktionsnedsättning kan få stöd av både medhjälpare och caddie.",
+        "Handledare utses av tävlingsledningen och är utomstående som inte får ge råd.",
+        "Medhjälparen har stor betydelse för att hjälpa spelaren med både spelet och tillämpningen av reglerna.",
+        "Endast en medhjälpare åt gången är tillåten.",
+        "Vissa regler om vem som får lyfta bollen på green är modifierade."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "25.5a",
+          "title": "Hjälp av medhjälpare eller handledare",
+          "summary": "Beskriver skillnaden mellan medhjälpare och handledare och vilken hjälp som får ges.",
+          "key_points": [
+            "Behovet av hjälp varierar med individens funktionsnedsättning.",
+            "Tävlingsledningen kan ordna eller tillåta både medhjälpare och handledare.",
+            "Medhjälparen hjälper spelaren med spelet och tillämpning av reglerna och har samma status som caddie med begränsningar enligt Regel 25.5c.",
+            "Spelaren får be om och få råd av både medhjälpare och caddie vid samma tillfälle.",
+            "Handledaren utses av tävlingsledningen, är inte knuten till viss spelare, och är ett utomstående enligt reglerna.",
+            "Spelaren får inte be om eller ta emot råd från handledaren."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.5b",
+          "title": "En spelare får bara ha en medhjälpare",
+          "summary": "Begränsar antalet medhjälpare för spelare med intellektuell funktionsnedsättning.",
+          "key_points": [
+            "Spelaren får bara ha en medhjälpare åt gången.",
+            "Har spelaren fler än en medhjälpare vid något tillfälle får spelaren allmän plikt för varje hål där överträdelsen inträffat, enligt principen i Regel 10.3a(1)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.5c",
+          "title": "Modifiering av Regel 10.3 (Caddie)",
+          "summary": "Reglerar hur medhjälparen får agera i förhållande till caddie för spelare med intellektuell funktionsnedsättning.",
+          "key_points": [
+            "Medhjälparen kan också fungera som caddie, men behöver inte göra det.",
+            "Spelaren får ha både medhjälpare och caddie samtidigt.",
+            "Medhjälparen får inte bära eller hantera spelarens klubbor, utom för att hjälpa stans och sikte (om tävlingsledningen godkänt det) eller som artighet enligt definitionen av caddie.",
+            "Detta ändrar inte Regel 10.2b(3) om att placera föremål för sikthjälp.",
+            "Om medhjälparen bär eller hanterar klubbor i strid med regeln anses spelaren ha två caddies samtidigt och får allmän plikt för varje hål där överträdelsen inträffar."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.5d",
+          "title": "Modifiering av Regel 14.1b (Vem som får lyfta bollen)",
+          "summary": "Tillåter medhjälparen att lyfta bollen på green utan spelarens godkännande.",
+          "key_points": [
+            "När bollen ligger på green får medhjälparen, liksom caddien, lyfta bollen utan att först få godkännande av spelaren."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.5e",
+          "title": "Spelare med både intellektuella och fysiska funktionsnedsättningar",
+          "summary": "Rekommendation till tävlingsledningen om hur kombinerade funktionsnedsättningar ska hanteras.",
+          "key_points": [
+            "För spelare med både intellektuella och fysiska funktionsnedsättningar rekommenderas att tävlingsledningen använder en kombination av relevanta delar av Regel 25.",
+            "Syftet är att båda typerna av funktionsnedsättningar ska hanteras på ett rättvist sätt."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "25.6",
+      "title": "Allmänna bestämmelser för alla sorters funktionsnedsättningar",
+      "purpose": "Ger riktlinjer för hur orimlig fördröjning av spelet och droppningsprocedurer ska tillämpas för spelare med funktionsnedsättningar.",
+      "key_points": [
+        "Tävlingsledningen ska använda sunt förnuft och anpassade riktlinjer vid bedömning av orimlig fördröjning enligt Regel 5.6a.",
+        "Vid droppning ska spelarens rimliga bedömning godtas när fysiska begränsningar gör det svårt att droppa från knähöjd.",
+        "Ytterligare vägledning finns i Committee Procedures, Section 5d."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "25.6a",
+          "title": "Orimlig fördröjning av spelet",
+          "summary": "Uppmanar tävlingsledningen att vara flexibel vid tolkning av orimlig fördröjning för spelare med funktionsnedsättningar.",
+          "key_points": [
+            "Tävlingsledningen ska själv fastställa rimliga riktlinjer för speltempo med hänsyn till banans svårighet, väderförhållanden, tävlingstyp och graden av funktionsnedsättningar.",
+            "Vid beaktande av dessa faktorer kan en mindre strikt tolkning av orimlig fördröjning vara lämplig."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "25.6b",
+          "title": "Droppning",
+          "summary": "Betonar att tävlingsledningen ska acceptera rimliga försök att droppa bollen från knähöjd när fysiska begränsningar finns.",
+          "key_points": [
+            "Fysiska begränsningar kan göra det svårt eller omöjligt för spelare att veta om bollen droppats från knähöjd enligt Regel 14.3b.",
+            "Tävlingsledningen bör acceptera spelarens rimliga bedömning att bollen droppats från knähöjd.",
+            "Tävlingsledningen bör också acceptera alla rimliga försök att droppa från knähöjd med hänsyn till spelarens begränsningar.",
+            "Ytterligare vägledning finns i Committee Procedures, Section 5d."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "25\\nModifieringar för spelare med funktionsnedsättningar\\n25.1\\nÖversikt\\nRegel 25 gäller för alla tävlingar, inklusive alla spelformer. Det är en spelares funktionsnedsättningskategori och behörighet som bestämmer om spelaren får använda sig av de särskilda modifierade reglerna i Regel 25. Regel 25 modifierar vissa regler för spelare inom följande funktionsnedsättningskategorier:\\n\\n    spelare som är blinda (vilket inkluderar vissa nivåer av synnedsättning),\\n    spelare som är amputerade (d v s både spelare med arm- och bendefekter och de som förlorat armar eller ben),\\n    spelare som använder rörelsehjälpmedel samt\\n    spelare med intellektuell funktionsnedsättning.\\n\\nDet är ett faktum att det finns många spelare med andra typer av funktionsnedsättningar (t ex spelare med neurologiska eller ortopediska tillstånd, spelare med kortvuxenhet och spelare som är döva). Dessa ytterligare funktionsnedsättningskategorier täcks inte av Regel 25, eftersom inget behov hittills har identifierats för en modifiering av golfreglerna för dessa spelare. Utrustningsregler (Equipment Rules) gäller utan modifieringar, förutom vad som anges i Section 7 i Utrustningsregler (Equipment Rules). För information om användning av utrustning av medicinska skäl (utom en klubba eller boll), se Regel 4.3b. Se Committee Procedures, Section 5D för vägledning om spelares behörighet.\\n25.2\\nModifieringar för spelare som är blinda\\nSyfte med regeln: Regel 25.2 tillåter en spelare som är blind (vilket inkluderar vissa nivåer av synnedsättning) att ta emot hjälp av både en medhjälpare och en caddie på samma gång, tillåter hjälp med att sikta, ger spelaren ett begränsat undantag från förbudet att vidröra sand i en bunker med en klubba och tillåter hjälp med att lyfta, droppa, placera och återplacera en boll.\\n25.2a\\nHjälp av en medhjälpare\\nEn spelare som är blind kan få hjälp av en medhjälpare:\\n\\n    med att ta en stans,\\n    med att sikta in sig före slaget och\\n    genom att be om och få råd.\\n\\nEn medhjälpare har samma status enligt reglerna som en caddie (se Regel 10.3), men med de undantag som beskrivs i Regel 25.2e. När Regel 10.2a (Råd) tillämpas, får en spelare be om och få råd både från en medhjälpare och från en caddie vid samma tillfälle.\\n25.2b\\nEn spelare får bara ha en medhjälpare\\nEn spelare som är blind får bara ha en medhjälpare åt gången. Om en spelare vid något tillfälle har fler än en medhjälpare, får spelaren den allmänna plikten för varje hål där överträdelsen skedde, på samma sätt som i Regel 10.3a(1) (Spelare får bara ha en caddie åt gången).\\n25.2c\\nModifiering av Regel 10.2b(3) (Inte placera föremål för att få hjälp att sikta, ta stans eller svinga)\\nRegel 10.2b(3) har modifierats så att det inte blir någon plikt, om spelaren, caddien eller medhjälparen placerar ett föremål för att hjälpa till att ta en stans inför slaget som ska slås (t ex en klubba placerad på marken för att visa vart spelaren ska sikta eller var spelaren ska placera fötterna). Men föremålet måste tas bort innan slaget slås. Om så inte sker, får spelaren den allmänna plikten för ett brott mot Regel 10.2b(3).\\n25.2d\\nModifiering av Regel 10.2b(4) (Otillåtet område för en caddie innan en spelare slår ett slag)\\nRegel 10.2b(4) har modifierats så att det inte blir någon plikt om medhjälparen eller caddien står på eller nära en förlängning av spellinjen bakom bollen när som helst före eller under spelarens slag, så länge som medhjälparen eller caddien inte hjälper spelaren med att slå slaget.\\n25.2e\\nModifiering av Regel 10.3 (Caddies)\\nEn medhjälpare till en spelare som är blind kan också fungera som spelarens caddie, men behöver inte göra det. Spelaren får ha både en medhjälpare och en caddie samtidigt och i så fall:\\n\\n    får den medhjälparen inte bära eller hantera spelarens klubbor med undantag för att vägleda spelaren, att hjälpa spelaren att ta sin stans eller att rikta in sig innan slaget slås eller att hjälpa spelaren av artighet enligt vad som tillåts i definitionen av caddie.\\n    Om den medhjälparen bär eller hanterar spelarens klubbor i strid med denna regel har spelaren två caddies samtidigt och får den allmänna plikten för varje hål där ett brott mot regeln inträffat (se Regel 10.3a(1)).\\n\\n25.2f\\nModifiering av Regel 12.2b(1) (När det blir plikt för att vidröra sand)\\nInnan spelaren slår ett slag på sin boll i en bunker får en spelare som är blind, utan plikt, vidröra sanden i bunkern med en klubba:\\n\\n    i området omedelbart framför eller bakom bollen och\\n    vid baksvingen för ett slag.\\n\\nMen när spelaren gör detta, får spelaren inte förbättra bollens läge mer än vad som skulle ha skett genom att grunda klubban lätt. För spelaren gäller fortfarande förbuden i Regel 12.2b(1), mot att medvetet vidröra sanden i bunkern för att pröva sandens beskaffenhet eller att vidröra sanden med en klubba när man gör en övningssving.\\n25.2g\\nModifiering av Regel 14.1b (Vem som får lyfta bollen)\\nNär en spelares boll ligger på green är Regel 14.1b modifierad så att spelarens medhjälpare, förutom spelarens caddie, får lyfta bollen utan spelarens godkännande.\\n25.2h\\nHjälp med att droppa, placera och återplacera bollen\\nFör en spelare som är blind är alla regler som kräver att spelaren ska droppa, placera eller återplacera en boll modifierade så att spelaren, utan begränsningar, kan ge ett allmänt godkännande till varje annan person att droppa, placera och återplacera spelarens boll.\\n25.3\\nModifieringar för spelare som är amputerade\\nSyfte med regeln: Regel 25.3 tillåter en spelare som är amputerad (d v s både spelare med arm- och bendefekter och de som förlorat armar eller ben) att använda protes för att slå ett slag medan klubban är förankrad och tillåter hjälp att droppa, placera och återplacera en boll.\\n25.3a\\nStatus för proteser\\nAtt använda en konstgjord arm eller ett konstgjort ben är inte ett brott mot Regel 4.3 förutsatt att spelaren har ett medicinskt skäl för att använda den och att tävlingsledningen bestämmer att användandet inte ger spelaren någon orättvis fördel gentemot andra spelare (se Regel 4.3b). Spelare som är tveksamma om användningen av en protes bör så snart som möjligt ta upp frågan med tävlingsledningen. En spelare som använder en protes omfattas ändå av förbuden i Regel 4.3a mot att använda utrustning på ett onormalt sätt.\\n25.3b\\nModifiering av Regel 10.1b (Förankra klubban)\\nOm en spelare som är amputerad inte kan hålla i och svinga de flesta av sina klubbor utan att förankra dem på grund av arm- eller bendefekter eller förlust av armar eller ben, får spelaren slå ett slag med klubban förankrad, utan plikt enligt Regel 10.1b.\\n25.3c\\nHjälp med att droppa, placera och återplacera bollen\\nFör en spelare som är amputerad är alla regler som kräver att spelaren ska droppa, placera eller återplacera en boll modifierade, så att spelaren, utan begränsningar, får ge ett allmänt godkännande åt varje annan person att droppa, placera och återplacera spelarens boll.\\n25.3d\\nModifiering av definitionen för \\'94återplacera\\'94\\nFör en spelare som är amputerad har definitionen för återplacera (och Regel 14.2b(2)) modifierats för att tillåta spelaren att återplacera bollen antingen med handen eller genom att använda sig av en annan del av utrustningen (t ex att rulla bollen med en klubba).\\n25.4\\nModifieringar för spelare som använder rörelsehjälpmedel\\nSyfte med regeln: Regel 25.4 tillåter en spelare som använder ett rörelsehjälpmedel att få hjälp av både en medhjälpare och en caddie på samma gång, förklarar hur en spelare får använda sig av ett rörelsehjälpmedel (t ex en rullstol eller annat hjälpmedel på hjul, en käpp eller krycka) för att hjälpa till med att ta en stans och att slå ett slag, samt modifierar vissa lättnadsprocedurer.\\nRegel 25.4a t o m 25.4l gäller för alla rörelsehjälpmedel, inklusive käppar, kryckor, rullstolar och andra rörelsehjälpmedel på hjul. Regel 25.4m och 25.4n gäller bara för rullstolar och andra rörelsehjälpmedel på hjul.\\n25.4a\\nHjälp av medhjälpare eller varje annan person\\nEn spelare som använder ett rörelsehjälpmedel kan få hjälp av en medhjälpare eller varje annan person, inklusive en annan spelare, på följande sätt:\\n\\n    Lyfta en boll på green: När spelarens boll ligger på green är Regel 14.1b modifierad så att också spelarens medhjälpare, förutom spelarens caddie, får lyfta bollen utan spelarens godkännande.\\n    Droppa, placera och återplacera en boll: Alla regler som kräver att spelaren ska droppa, placera eller återplacera en boll är modifierade så att spelaren också får, utan begränsningar, ge ett allmänt godkännande åt varje annan person att droppa, placera och återplacera spelarens boll.\\n    Placera spelare eller hjälpmedel: Enligt vad som tillåts i Regel 10.2b(5) kan spelaren, innan spelaren slår ett slag, få fysisk hjälp från vilken person som helst för att hjälpa till att positionera spelaren eller att placera eller flytta undan rörelsehjälpmedlet.\\n\\n25.4b\\nRåd från en medhjälpare\\nEn spelare som använder ett rörelsehjälpmedel får be om och ta emot råd av sin medhjälpare på samma sätt som en spelare ber om eller får råd av en caddie enligt Regel 10.2a (Råd). En medhjälpare har samma status enligt reglerna som en caddie (se Regel 10.3), men med de undantag som beskrivs i Regel 25.4j. I syfte att tillämpa Regel 10.2a får en spelare be om och ta emot råd från både en medhjälpare och en caddie vid samma tillfälle.\\n25.4c\\nEn spelare får bara ha en medhjälpare\\nEn spelare som använder rörelsehjälpmedel får bara ha en medhjälpare åt gången. Om en spelare vid något tillfälle har fler än en medhjälpare, får spelaren den allmänna plikten för varje hål där överträdelsen inträffat, på samma sätt som anges i Regel 10.3a(1) (En spelare får bara ha en caddie åt gången).\\n25.4d\\nModifiering av definitionen av \\'94stans\\'94\\nEn spelares användning av ett rörelsehjälpmedel kan påverka spelarens stans vid tillämpningen av olika regler, t ex att bestämma området för den avsedda stansen enligt Regel 8.1a och att avgöra om det blir störande inverkan av ett onormalt banförhållande enligt Regel 16.1. För att hantera detta är definitionen av stans modifierad till att avse \\'94placeringen av spelarens fötter och kropp och placeringen av ett rörelsehjälpmedel om något sådant används, när spelaren förbereder sig för eller slår ett slag\\'94.\\n25.4e\\nModifiering av definitionen för \\'94återplacera\\'94\\nFör spelare som använder ett rörelsehjälpmedel är definitionen för återplacera (och Regel 14.2b(2)) utökad för att tillåta spelaren att återplacera bollen antingen med handen eller genom att använda en annan del av utrustningen (t ex att rulla bollen med en klubba).\\n25.4f\\nTillämpning av Regel 4.3 (Användning av utrustning)\\nRegel 4.3 gäller för användningen av rörelsehjälpmedel:\\n\\n    Spelaren får använda rörelsehjälpmedel som hjälp i sitt spel om det är tillåtet enligt normerna i Regel 4.3b och\\n    Spelaren som använder ett rörelsehjälpmedel omfattas fortfarande av förbuden i Regel 4.3a mot att använda utrustning på ett onormalt sätt.\\n\\n25.4g\\nModifiering av Regel 8.1b(5) för att tillåta användning av ett rörelsehjälpmedel för att ta stansen\\nEnligt Regel 8.1b(5) blir det ingen plikt om spelaren förbättrar förhållandena som påverkar slaget genom att stadigt placera sina fötter när stansen tas, \\'94inklusive ett rimligt grävande med fötterna i sand\\'94. För en spelare som använder rörelsehjälpmedel är Regel 8.1b(5) modifierad så att \\'94inklusive ett rimligt grävande med fötterna i sand\\'94 inkluderar:\\n\\n    ett rimligt grävande med ett rörelsehjälpmedel eller\\n    att vidta rimliga åtgärder för att placera ett rörelsehjälpmedel när stansen tas och för att försöka undvika att halka.\\n\\nMen denna modifiering tillåter inte spelaren att gå utöver detta genom att bygga en stans så att rörelsehjälpmedlet inte kommer att glida under svingen, t ex genom att skapa en upphöjd hög av jord eller sand som rörelsehjälpmedlet får stöd emot. Om spelaren gör detta får spelaren den allmänna plikten för att ha ändrat markytan för att bygga en stans i strid med Regel 8.1a(3).\\n25.4h\\nModifiering av Regel 10.1b (Förankra klubban)\\nOm att en spelare inte kan hålla och svinga de flesta av sina klubbor utan att förankra dem på grund av att spelaren använder ett rörelsehjälpmedel, får spelaren slå ett slag med klubban förankrad utan plikt enligt Regel 10.1b.\\n25.4i\\nModifiering av Regel 10.1c (Slå slag medan man står över eller på spellinjen)\\nFör att ta hänsyn till en spelares användning av ett rörelsehjälpmedel, är Regel 10.1c modifierad så att spelaren inte heller får slå ett slag med någon del av sitt rörelsehjälpmedel avsiktligt placerat på båda sidorna av eller beröra spellinjen eller en förlängning av den linjen bakom bollen.\\n25.4j\\nModifiering av Regel 10.3 (Caddies)\\nMedhjälparen till en spelare som använder ett rörelsehjälpmedel får också fungera som spelarens caddie, men behöver inte göra det. Spelaren får ha både en medhjälpare och en caddie samtidigt och i så fall:\\n\\n    får den medhjälparen inte bära eller hantera spelarens klubbor med undantag för att hjälpa spelaren att ta sin stans eller att rikta in sig innan slaget slås, eller att hjälpa spelaren som en artighet enligt vad som tillåts i definitionen av caddie. Men detta modifierar inte Regel 10.2b(3) (Inte placera föremål för att få hjälp att sikta, ta stans eller svinga).\\n    Om den medhjälparen bär eller hanterar spelarens klubbor i strid med denna regel har spelaren två caddies samtidigt och får den allmänna plikten för varje hål där ett brott mot regeln inträffat (se Regel 10.3a(1)).\\n\\n25.4k\\nModifiering av Regel 11.1b(2)\\nFör spelare som använder ett rörelsehjälpmedel, är Regel 11,1b(2) modifierad så att om en spelares boll i rörelse som spelats från en green av misstag träffar rörelsehjälpmedlet, måste bollen spelas som den ligger.\\n25.4l\\nTillämpning av Regel 12.2b(1) vid användning av rörelsehjälpmedel för att pröva sandens beskaffenhet i en bunker\\nEnligt Regel 12.2b(1), får en spelare inte \\'94avsiktligt vidröra sanden i bunkern med en hand, klubba, kratta eller annat föremål för att pröva sandens beskaffenhet för att få information om nästa slag\\'94. Detta gäller även vid användning av ett rörelsehjälpmedel för att avsiktligt pröva sandens beskaffenhet. Men spelaren får vidröra sanden med sitt rörelsehjälpmedel av vilket annat skäl som helst, utan plikt.\\n25.4m\\nFör spelare som använder ett rörelsehjälpmedel på hjul: Modifiering av lättnadsalternativ i sidled för boll i rött pliktområde och för ospelbar boll\\nNär en spelare med ett rörelsehjälpmedel på hjul tar lättnad i sidled för en boll i ett rött pliktområde eller för en ospelbar boll är Regel 17.1d(3) och 19.2c modifierade så att storleken på lättnadsområdet är utökad från två klubblängder till fyra klubblängder.\\n25.4n\\nFör spelare som använder ett rörelsehjälpmedel på hjul: Modifiering av plikt enligt Regel 19.3b (Lättnad för ospelbar boll i bunker)\\nNär en spelare med ett rörelsehjälpmedel på hjul tar lättnad för en ospelbar boll i en bunker är Regel 19.3b modifierad så att spelaren får ta lättnad på flagglinjen utanför den bunkern med ett slags plikt.\\n25.5\\nModifiering för spelare med intellektuella funktionsnedsättningar\\nSyfte med regeln: Regel 25.5 tillåter en spelare med en intellektuell funktionsnedsättning att få hjälp av både en medhjälpare och en caddie på samma gång och förtydligar rollen för en handledare, som inte är knuten till en viss spelare och inte tillåts ge råd.\\n25.5a\\nHjälp av medhjälpare eller handledare\\nDen omfattning av hjälp som en spelare med intellektuella funktionsnedsättningar kan behöva är unika för varje individ. Tävlingsledningen får ordna med eller tillåta en medhjälpare eller handledare för att hjälpa spelare med intellektuella funktionsnedsättningar:\\n\\n    En medhjälpare hjälper en spelare med spelet och att tillämpa reglerna:\\n        En medhjälpare har, enligt reglerna, samma status som en caddie (se Regel 10.3), men med de begränsningar som beskrivs i Regel 25.5c.\\n        Vid tillämpning av Regel 10.2a (Råd) får en spelare be om och få råd av både en medhjälpare och av en caddie vid samma tillfälle.\\n    En handledare är någon som utsetts av tävlingsledningen för att hjälpa spelare med intellektuella funktionsnedsättningar under tävlingen:\\n        Handledaren är inte knuten till en viss spelare, utan handledarens roll är att vid behov hjälpa vilken spelare som helst med intellektuella funktionsnedsättningar.\\n        En handledare är enligt reglerna något utomstående.\\n        En spelare får inte be om eller få råd av en handledare.\\n\\n25.5b\\nEn spelare får bara ha en medhjälpare\\nEn spelare med en intellektuell funktionsnedsättning får bara ha en medhjälpare åt gången. Om en spelare vid något tillfälle har fler än en medhjälpare, får spelaren den allmänna plikten för varje hål där överträdelsen inträffat, på samma sätt som anges i Regel 10.3a(1) (En spelare får bara ha en caddie åt gången).\\n25.5c\\nModifiering av Regel 10.3 (Caddie)\\nMedhjälparen till en spelare med en intellektuell funktionsnedsättning får också fungera som spelarens caddie, men behöver inte göra det. Spelaren får ha både en medhjälpare och en caddie samtidigt och i så fall:\\n\\n    får medhjälparen inte bära eller hantera spelarens klubbor med undantag för att hjälpa spelaren att ta sin stans eller att rikta in sig innan slaget slås (om detta godkänts av tävlingsledningen), eller att hjälpa spelaren som en artighet enligt vad som tillåts i definitionen av caddie. Men detta modifierar inte Regel 10.2b(3) (Inte placera föremål för att få hjälp att sikta, ta stans eller svinga).\\n    Om den medhjälparen bär eller hanterar spelarens klubbor i strid med denna regel har spelaren två caddies samtidigt och får den allmänna plikten för varje hål där ett brott mot regeln inträffat (se Regel 10.3a(1)).\\n\\n25.5d\\nModifiering av Regel 14.1b (Vem som får lyfta bollen)\\nNär en spelares boll ligger på green är Regel 14.1b modifierad så att spelarens medhjälpare, förutom spelarens caddie, får lyfta bollen utan spelarens godkännande.\\n25.5e\\nSpelare med både intellektuella och fysiska funktionsnedsättningar\\nFör spelare med både intellektuella och fysiska funktionsnedsättningar rekommenderas att tävlingsledningen använder sig av en kombination av reglerna i Regel 25 så att båda typerna av funktionsnedsättningar hanteras.\\n25.6\\nAllmänna bestämmelser för alla sorters funktionsnedsättningar\\n25.6a\\nOrimlig fördröjning av spelet\\nNär förbudet mot orimlig fördröjning av spelet enligt Regel 5.6a ska tillämpas för spelare med funktionsnedsättningar:\\n\\n    Varje tävlingsledning ska använda sitt eget omdöme och fastställa sina egna rimliga riktlinjer och då ta hänsyn till banans svårighet, väderförhållandena (med tanke på vilken påverkan dessa kan ha när rörelsehjälpmedel används), vilken sorts tävling det gäller och graden av funktionshindren för de spelare som tävlar.\\n    När dessa faktorer beaktas kan det vara lämpligt för tävlingsledningen att använda en mindre strikt tolkning av vad som menas med orimlig fördröjning.\\n\\n25.6b\\nDroppning\\nVid tillämpning av Regel 14.3b (Boll måste droppas på ett riktigt sätt) kan fysiska begränsningar göra det svårt eller omöjligt för spelare med vissa funktionsnedsättningar att veta om de har droppat bollen från knähöjd. Tävlingsledningen bör därför acceptera spelarens rimliga bedömning att de har gjort detta. Tävlingsledningen bör också acceptera alla rimliga försök att droppa bollen från knähöjd med hänsyn till spelarens fysiska begränsningar. Se Committee Procedures, Section 5d (ytterligare vägledning till Regel 25 och tävlingar som involverar spelare med funktionsnedsättningar).",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text av Regler för golfspel – Regel 25 Modifieringar för spelare med funktionsnedsättningar",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

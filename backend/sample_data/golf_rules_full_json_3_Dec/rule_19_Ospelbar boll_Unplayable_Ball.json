@@ -1,0 +1,112 @@
+{
+  "rule_number": 19,
+  "rule_code": "19",
+  "title": "Ospelbar boll / Unplayable Ball",
+  "summary": {
+    "short": "Regel 19 ger spelaren möjligheten att förklara bollen ospelbar var som helst på banan utom i pliktområden, och beskriver vilka lättnadsalternativ som finns på spelfältet, green och i bunker.",
+    "detailed": "En spelare är ensam om att besluta att en boll är ospelbar och får då, mot ett slags plikt, välja mellan slag-och-distans, lättnad på flagglinjen eller lättnad i sidled på spelfältet eller green. I bunker gäller samma grundalternativ, men bollen måste normalt droppas i bunkern, med ett extra alternativ att ta lättnad på flagglinjen utanför bunkern mot totalt två slags plikt."
+  },
+  "sections": [
+    {
+      "section_number": "19.1",
+      "title": "Ospelbar boll – var lättnad får tas",
+      "purpose": "Slår fast att bara spelaren själv får förklara bollen ospelbar och att detta kan göras var som helst utom i pliktområden.",
+      "key_points": [
+        "Endast spelaren får besluta att bollen är ospelbar.",
+        "Lättnad för ospelbar boll är tillåten var som helst på banan utom i pliktområden.",
+        "Är bollen ospelbar i ett pliktområde måste lättnad tas enligt Regel 17, inte Regel 19."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "19.2",
+      "title": "Lättnadsalternativ för ospelbar boll på spelfältet eller green",
+      "purpose": "Beskriver de tre lättnadsalternativen med ett slags plikt när bollen är ospelbar på spelfältet eller green.",
+      "key_points": [
+        "Tre möjliga lättnadsalternativ: slag och distans, flagglinje, eller sidolättnad.",
+        "Slag och distans kan användas även om den ursprungliga bollen inte hittats.",
+        "För flagglinje- eller sidolättnad måste bollens läge vara känt."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "19.2a",
+          "title": "Lättnad med slag och distans",
+          "summary": "Spelaren går tillbaka och spelar från föregående plats med ett slags plikt.",
+          "key_points": [
+            "Spelaren får spela den ursprungliga bollen eller en annan boll från platsen för föregående slag (Regel 14.6).",
+            "Gäller som standardalternativ vid ospelbar boll oavsett exakt läge."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "19.2b",
+          "title": "Lättnad på flagglinjen",
+          "summary": "Bollen droppas bakom bollens läge på en linje från hålet genom bollens läge, med ett slags plikt.",
+          "key_points": [
+            "Bollen droppas bakom den ursprungliga bollens läge på en linje mellan hålet och bollens läge (flagglinjen).",
+            "Ingen begränsning för hur långt bakåt på flagglinjen bollen får droppas.",
+            "Lättnadsområdet är en klubblängd runt den punkt där bollen först träffar marken, inte närmare hålet och i samma område på banan."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "19.2c",
+          "title": "Lättnad i sidled",
+          "summary": "Två klubblängders sidolättnad från bollens läge, inte närmare hålet, med ett slags plikt.",
+          "key_points": [
+            "Referenspunkten är den ursprungliga bollens läge; om bollen är ovanför marken används punkten rakt under bollen.",
+            "Lättnadsområdet är två klubblängder från referenspunkten, inte närmare hålet.",
+            "Bollen måste stanna i samma område på banan som där den först träffade marken vid droppen om flera områden finns inom två klubblängder.",
+            "För spelare med rörelsehjälpmedel på hjul kan lättnadsområdet utökas till fyra klubblängder (Regel 25.4m)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "19.3",
+      "title": "Lättnadsalternativ för ospelbar boll i bunker",
+      "purpose": "Anger vilka lättnadsalternativ som finns när bollen är ospelbar i bunker, inklusive extra alternativ utanför bunkern.",
+      "key_points": [
+        "Normalt gäller samma lättnadsalternativ som på spelfältet, men bollen måste stanna i bunkern vid flagglinje- eller sidolättnad.",
+        "Ett extra alternativ med två slags plikt ger möjlighet till flagglinjelättnad utanför bunkern."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "19.3a",
+          "title": "Normala lättnadsalternativ i bunker (ett slags plikt)",
+          "summary": "Tre alternativ med ett slags plikt – slag och distans, flagglinje i bunkern eller sidolättnad i bunkern.",
+          "key_points": [
+            "Spelaren får ta lättnad med slag och distans (Regel 19.2a).",
+            "Spelaren får ta lättnad på flagglinjen i bunkern (Regel 19.2b).",
+            "Spelaren får ta sidolättnad i bunkern (Regel 19.2c).",
+            "Vid flagglinje- eller sidolättnad måste bollen droppas i och stanna i bunkern."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "19.3b",
+          "title": "Ytterligare lättnadsalternativ utanför bunker (två slags plikt)",
+          "summary": "Extra flagglinjelättnad utanför bunkern med totalt två slags plikt.",
+          "key_points": [
+            "Spelaren får, med totalt två slags plikt, ta flagglinjelättnad utanför bunkern enligt Regel 19.2b.",
+            "För spelare med rörelsehjälpmedel på hjul kan plikten för detta extra alternativ reduceras till ett slags plikt (Regel 25.4n)."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    }
+  ],
+  "original_full_text": "19\nOspelbar boll\n19.1\nEn spelare får besluta att ta lättnad för ospelbar boll var som helst på banan utom i ett pliktområde\nEn spelare är den enda person som kan besluta att förklara sin boll ospelbar genom att ta lättnad med plikt enligt Regel 19.2 eller 19.3. Lättnad för ospelbar boll tillåts var som helst på banan, utom i ett pliktområde. Om en boll är ospelbar i ett pliktområde, blir spelarens enda lättnadsalternativ att ta lättnad med plikt enligt Regel 17.\n19.2\nLättnadsalternativ för ospelbar boll på spelfältet eller på green\nEn spelare får ta lättnad för ospelbar boll genom att använda sig av ett av de tre alternativen i Regel 19.2a, b eller c, och i samtliga fall lägga till ett slags plikt.\n\n    Spelaren får ta lättnad med slag och distans enligt Regel 19.2a även om den ursprungliga bollen inte har hittats och identifierats.\n    Men för att ta lättnad på flagglinjen enligt Regel 19.2b eller lättnad i sidled enligt Regel 19.2c måste spelaren känna till läget för den ursprungliga bollen.\n\n19.2a\nLättnad med slag och distans\nSpelaren får spela den ursprungliga bollen eller en annan boll varifrån det föregående slaget slogs (se Regel 14.6).\n19.2b\nLättnad på flagglinjen\nSpelaren får droppa den ursprungliga bollen eller en annan boll (se Regel 14.3) bakom den ursprungliga bollens läge och hålla den ursprungliga bollens läge mellan hålet och den punkt som bollen droppas (utan begränsning för hur långt bakåt bollen får droppas). Punkten på linjen där bollen först träffar marken när den droppas bildar ett lättnadsområde som är en klubblängd i alla riktningar, men med dessa begränsningar:\n\n    Begränsningar för lättnadsområdets läge:\n        får inte vara närmare hålet än den ursprungliga bollens läge och\n        får vara i vilket område på banan som helst, men\n        måste vara i samma område på banan som bollen först träffade när den droppades.\n\n19.2c\nLättnad i sidled\nSpelaren får droppa den ursprungliga bollen eller en annan boll i detta lättnadsområde, i sidled (se Regel 14.3):\n\n    Referenspunkt: Den ursprungliga bollens läge. Men, när bollen ligger ovanför marken, t ex i ett träd, utgörs referenspunkten av punkten på marken rakt under bollen.\n    Lättnadsområdets storlek, mätt från referenspunkten: Två klubblängder, men med dessa begränsningar:\n    Begränsningar för lättnadsområdets läge:\n        får inte vara närmare hålet än referenspunkten, och\n        får vara i vilket område på banan som helst, men\n        om mer än ett område på banan befinner sig inom två klubblängder från referenspunkten, måste bollen stanna i lättnadsområdet i samma område på banan som bollen först träffade när den droppades i lättnadsområdet.\n\nSe Regel 25.4m (för spelare som använder ett rörelsehjälpmedel på hjul är Regel 19.2c modifierad för att utöka lättnadsområdet i sidled till fyra klubblängder). Plikt för att spela en boll från fel plats i strid med Regel 19.2: allmän plikt enligt Regel 14.7a.\nFIG. 19.2: LÄTTNADSALTERNATIV FÖR OSPELBAR BOLL PÅ SPELFÄLTET\nimage\nEn spelare beslutar att hans/hennes boll i en buske är ospelbar. Spelaren har tre alternativ, i samtliga fall genom att lägga till ett slags plikt. Spelaren får:\n\n    ta lättnad med slag och distans genom att spela en boll från ett lättnadsområde baserat på varifrån det föregående slaget slogs.\n    ta lättnad på flagglinjen genom att droppa en boll bakom läget för den ursprungliga bollen och hålla läget för den ursprungliga bollen mellan hålet och den punkt där bollen droppas.\n    ta lättnad i sidled. Referenspunkten för att ta lättnad är läget för den ursprungliga bollen, och en boll måste droppas och spelas från ett lättnadsområde på två klubblängder som inte är närmare hålet än referenspunkten.\n\n19.3\nLättnadsalternativ för ospelbar boll i bunker\n19.3a\nNormala lättnadsalternativ (ett slags plikt)\nNär en spelares boll är i en bunker:\n\n    får spelaren ta lättnad för ospelbar boll med ett slags plikt enligt något av alternativen i Regel 19.2 utom att:\n    bollen måste droppas i och stanna i bunkern om spelaren antingen tar lättnad på flagglinjen (se Regel 19.2b) eller lättnad i sidled (se Regel 19.2c).\n\nFIG. 19.3: LÄTTNADSALTERNATIV FÖR OSPELBAR BOLL I BUNKER\nimage\nEn spelare beslutar att hans/hennes boll i en bunker är ospelbar. Spelaren har fyra alternativ:\n\n    Med ett slags plikt, får spelaren ta lättnad med slag och distans.\n    Med ett slags plikt, får spelaren ta lättnad på flagglinjen i bunkern.\n    Med ett slags plikt, får spelaren ta lättnad i sidled i bunkern.\n    Med totalt två slags plikt, får spelaren ta lättnad på flagglinjen utanför bunkern.\n\n19.3b\nYtterligare lättnadsalternativ (två slags plikt)\nSom ytterligare ett lättnadsalternativ när en spelares boll är i en bunker, med totalt två slags plikt får spelaren ta lättnad på flagglinjen utanför bunkern enligt Regel 19.2b. Se Regel 25.4n (för spelare som använder ett rörelsehjälpmedel på hjul är plikten för det extra alternativet för lättnad på flagglinjen utanför bunkern enligt Regel 19.3b, reducerad till ett slags plikt). Plikt för att spela en boll från fel plats i strid med Regel 19.3: allmän plikt enligt Regel 14.7a.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 19 Ospelbar boll",
+    "created_by": "",
+    "created_at": "2025-11-28"
+  }
+}

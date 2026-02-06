@@ -1,0 +1,106 @@
+{
+  "rule_number": 7,
+  "rule_code": "7",
+  "title": "Leta efter en boll – hitta och identifiera / Search for, Find and Identify Ball",
+  "summary": {
+    "short": "Regel 7 beskriver hur en spelare får leta efter, hitta och identifiera sin boll på ett ärligt sätt, hur en boll får lyftas vid identifiering, vad som gäller när sand flyttas och vad som händer om bollen av misstag rubbas under sökandet.",
+    "detailed": "Regel 7 förklarar att spelaren är ansvarig för att hitta sin boll efter varje slag och får vidta rimliga åtgärder för att leta efter och identifiera den, inklusive att flytta sand, vatten, gräs och andra naturföremål. Förbättras förhållandena som påverkar slaget till följd av ett ärligt sökande med rimliga åtgärder utgår ingen plikt, men om åtgärderna går längre än rimligt gäller allmän plikt enligt Regel 8.1a. Regeln anger hur en boll identifieras, hur den får lyftas för identifiering (inklusive krav på markering och begränsad rengöring) samt att bollen i så fall måste återplaceras. Slutligen slås fast att ingen plikt utgår om bollen av misstag rubbas under försök att hitta eller identifiera den – bollen måste då återplaceras korrekt, med särskilda regler om den låg mot föremål eller i sand."
+  },
+  "sections": [
+    {
+      "section_number": "7.1",
+      "title": "Hur man letar efter en boll på ett ärligt sätt",
+      "purpose": "Anger spelarens ansvar att hitta sin boll och vad som räknas som rimliga, ärliga åtgärder vid letande, samt hur sådana åtgärder förhåller sig till reglerna om att förbättra förhållanden som påverkar slaget.",
+      "key_points": [
+        "Spelaren är ansvarig för att hitta sin boll i spel efter varje slag.",
+        "Spelaren får leta efter bollen genom att vidta rimliga åtgärder för att hitta och identifiera den, inklusive att flytta sand och vatten samt att flytta eller böja gräs, buskar, grenar och andra växande eller fastsittande naturföremål.",
+        "Växande eller fastsittande naturföremål får brytas endast om brytandet är en följd av andra rimliga åtgärder som vidtas för att hitta eller identifiera bollen.",
+        "Om sådana rimliga åtgärder vid ärligt letande förbättrar förhållandena som påverkar slaget utgår ingen plikt enligt Regel 8.1a.",
+        "Om förbättringen beror på åtgärder som går utöver vad som är rimligt för att leta på ett ärligt sätt får spelaren den allmänna plikten för brott mot Regel 8.1a.",
+        "Vid sökandet får spelaren ta bort lösa naturföremål enligt Regel 15.1 och flyttbara tillverkade föremål enligt Regel 15.2."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "7.1a",
+          "title": "En spelare får vidta rimliga åtgärder för att hitta och identifiera en boll",
+          "summary": "Klargar att spelaren själv är ansvarig för att hitta sin boll och får vidta rimliga åtgärder för att leta och identifiera den, inklusive att påverka mark, sand, vatten och växtlighet, med koppling till Regel 8.1a.",
+          "key_points": [
+            "Spelaren är ansvarig för att hitta sin boll i spel efter varje slag.",
+            "Spelaren får leta efter bollen på ett ärligt sätt genom att vidta rimliga åtgärder för att hitta och identifiera den.",
+            "Rimliga åtgärder kan inkludera att flytta sand och vatten.",
+            "Rimliga åtgärder kan även innefatta att flytta eller böja gräs, buskar, trädgrenar och andra växande eller fastsittande naturföremål.",
+            "Sådana föremål får också brytas, men endast om brytandet är en följd av andra rimliga åtgärder, inte ett självständigt syfte.",
+            "Om förhållanden som påverkar slaget förbättras som följd av rimliga åtgärder i ett ärligt sökande uppstår ingen plikt enligt Regel 8.1a.",
+            "Om spelaren går längre än vad som är rimligt vid letandet och därigenom förbättrar förhållandena som påverkar slaget får spelaren den allmänna plikten enligt Regel 8.1a.",
+            "Spelaren får ta bort lösa naturföremål enligt Regel 15.1 under letandet.",
+            "Spelaren får ta bort flyttbara tillverkade föremål enligt Regel 15.2 under letandet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "7.1b",
+          "title": "Vad man gör om sand som påverkar läget för spelares boll flyttas undan under försök att hitta eller identifiera den",
+          "summary": "Reglerar vad spelaren måste göra om sand som påverkar bollens läge flyttas vid försök att hitta eller identifiera bollen.",
+          "key_points": [
+            "Om sand som påverkar läget för spelarens boll flyttas bort under försök att hitta eller identifiera bollen måste spelaren återskapa det ursprungliga läget i sanden.",
+            "Om bollen var täckt av sand får spelaren lämna en liten del av bollen synlig när läget återskapas.",
+            "Om spelaren spelar bollen utan att ha återskapat det ursprungliga läget i sanden får spelaren den allmänna plikten."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "7.2",
+      "title": "Hur man identifierar en boll",
+      "purpose": "Förklarar på vilka sätt en spelares boll i vila kan anses vara identifierad, inklusive märkning, modell och läge, samt vad som gäller om flera identiska bollar finns i området.",
+      "key_points": [
+        "En spelares boll i vila får identifieras genom att spelaren eller någon annan ser en boll stanna under sådana omständigheter att man vet att det är spelarens boll.",
+        "Bollen kan identifieras genom att man ser spelarens identifieringsmärke på bollen enligt Regel 6.3a, men detta gäller inte om en identisk boll med identiskt märke också hittas i samma område.",
+        "Bollen kan identifieras genom att hitta en boll med samma märke, modell, nummer och skick som spelarens boll i ett område där spelarens boll förväntas vara, men inte om en identisk boll ligger i samma område och det inte finns något sätt att avgöra vilken som är spelarens.",
+        "Om en spelares provisoriska boll inte kan särskiljas från spelarens ursprungliga boll gäller särskilda regler enligt Regel 18.3c(2)."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "7.3",
+      "title": "Lyfta en boll för att identifiera den",
+      "purpose": "Anger när en boll får lyftas för identifiering, vilka krav som gäller för markering och rengöring, samt vilka plikter som gäller om proceduren inte följs eller bollen spelas från fel plats.",
+      "key_points": [
+        "Om en boll kan vara spelarens boll men inte kan identifieras som den ligger får spelaren lyfta bollen för att identifiera den, inklusive att rotera den.",
+        "Innan bollen lyfts måste bollens läge markeras.",
+        "Bollen får inte rengöras mer än vad som behövs för att identifiera den, utom på green där andra regler gäller (se Regel 14.1 och 13.1b).",
+        "Om den lyfta bollen visar sig vara spelarens boll eller en annan spelares boll måste bollen återplaceras på sin ursprungliga punkt enligt Regel 14.2.",
+        "Om spelaren lyfter sin boll enligt denna regel när det rimligen inte är nödvändigt (utom på green där lyftning är tillåten enligt Regel 13.1b) får spelaren ett slags plikt.",
+        "Spelaren får också ett slags plikt om bollens läge inte markeras innan den lyfts eller om bollen rengörs mer än vad som är tillåtet.",
+        "Plikt för att spela en boll från fel plats i strid med Regel 7.3 är allmän plikt enligt Regel 14.7a."
+      ],
+      "subsections": []
+    },
+    {
+      "section_number": "7.4",
+      "title": "En boll rubbas av misstag vid försök att hitta eller identifiera den",
+      "purpose": "Förklarar att ingen plikt utgår om bollen av misstag rubbas vid försök att hitta eller identifiera den, vad som räknas som \\'92av misstag\\'92 och hur bollen ska återplaceras beroende på dess ursprungliga läge.",
+      "key_points": [
+        "Det blir ingen plikt om spelarens boll rubbas av misstag av spelaren, motspelaren eller någon annan under försök att hitta eller identifiera bollen.",
+        "Om spelaren orsakar att bollen rubbas innan letandet har börjat får spelaren ett slags plikt enligt Regel 9.4b.",
+        "Begreppet \\'94av misstag\\'94 omfattar fall där bollen rubbas av någon som vidtar rimliga åtgärder för att hitta bollen, och där det är troligt att bollens läge avslöjas genom att den rubbas, t ex genom att svepa med fötterna genom högt gräs eller skaka ett träd.",
+        "När bollen rubbas i dessa situationer måste den återplaceras på sin ursprungliga punkt, som om den inte är känd måste uppskattas, i enlighet med Regel 14.2.",
+        "Om bollen låg på, under eller mot ett oflyttbart tillverkat föremål, integrerat föremål, föremål för banans gräns eller ett växande eller fastsittande naturföremål måste bollen återplaceras på sin ursprungliga punkt på, under eller mot detta föremål enligt Regel 14.2c.",
+        "Om bollen var täckt av sand måste det ursprungliga läget i sanden återskapas och bollen återplaceras i detta läge enligt Regel 14.2d(1); spelaren får dock lämna en liten del av bollen synlig.",
+        "Se även Regel 15.1a för begränsningar vid medvetet borttagande av vissa lösa naturföremål innan bollen återplaceras.",
+        "Plikt för brott mot Regel 7.4 är allmän plikt."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "7\\nLeta efter en boll Hitta och identifiera en boll\\n7.1\\nHur man letar efter en boll på ett ärligt sätt\\n7.1a\\nEn spelare får vidta rimliga åtgärder för att hitta och identifiera en boll\\nEn spelare är ansvarig för att hitta sin boll i spel efter varje slag. Spelaren får på ett ärligt sätt leta efter bollen genom att vidta rimliga åtgärder för att hitta och identifiera den, t ex att:\\n\\n    flytta sand och vatten, och\\n    flytta eller böja gräs, buskar, trädgrenar och andra växande eller fastsittande naturföremål, och även bryta sådana föremål, men endast om sådant brytande är ett resultat av andra rimliga åtgärder som vidtagits för att hitta eller identifiera bollen.\\n\\nOm man genom att vidta sådana rimliga åtgärder som en del av att leta på ett ärligt sätt förbättrar förhållandena som påverkar slaget:\\n\\n    blir det ingen plikt enligt Regel 8.1a om förbättringen är ett resultat av att leta på ett ärligt sätt.\\n    Men om förbättringen är ett resultat av åtgärder som överstiger vad som var rimligt för att leta på ett ärligt sätt, får spelaren den allmänna plikten för brott mot Regel 8.1a.\\n\\nI sina försök att hitta och identifiera bollen, får spelaren ta bort lösa naturföremål så som tillåts i Regel 15.1 och får ta bort flyttbara tillverkade föremål så som tillåts i Regel 15.2.\\n7.1b\\nVad man gör om sand som påverkar läget för spelares boll flyttas undan under försök att hitta eller identifiera den\\n\\n    Spelaren måste återskapa det ursprungliga läget i sanden, men får lämna en liten del av bollen synlig om bollen hade varit täckt med sand.\\n    Om spelaren spelar bollen utan att ha återskapat det ursprungliga läget, får spelaren den allmänna plikten.\\n\\n7.2\\nHur man identifierar en boll\\nEn spelares boll i vila får identifieras på något av dessa sätt:\\n\\n    Genom att spelaren eller någon annan ser en boll stanna under sådana omständigheter att man vet att det är spelarens boll.\\n    Genom att se spelarens identifieringsmärke på bollen (se Regel 6.3a), men detta gäller inte om en identisk boll med en identisk märkning också hittas i samma område.\\n    Genom att hitta en boll med samma märke, modell, nummer och skick som spelarens boll i ett område där spelarens boll förväntas vara, men detta gäller inte om det ligger en identisk boll i samma område och det inte finns något sätt att veta vilken av dem som är spelarens boll.\\n\\nOm en spelares provisoriska boll inte kan särskiljas från spelarens ursprungliga boll, se Regel 18.3c(2).\\n7.3\\nLyfta en boll för att identifiera den\\nOm en boll kan vara spelarens boll men inte går att identifiera som den ligger:\\n\\n    Spelaren får lyfta bollen för att identifiera den (även genom att rotera den), men:\\n    bollens läge måste först markeras och bollen får inte rengöras mer än vad som behövs för att identifiera den (utom på green) (se Regel 14.1).\\n\\nOm den lyfta bollen är spelarens boll eller en annan spelares boll, måste den återplaceras på sin ursprungliga punkt (se Regel 14.2). Om spelaren lyfter sin boll enligt denna regel för att identifiera den när det rimligen inte är nödvändigt (utom på green där spelaren får lyfta bollen enligt Regel 13.1b), inte markerar läget för bollen innan den lyfts eller rengörs när det inte är tillåtet, får spelaren ett slags plikt. Plikt för att spela en boll från fel plats i strid med Regel 7.3: allmän plikt enligt Regel 14.7a.\\n7.4\\nEn boll rubbas av misstag vid försök att hitta eller identifiera den\\nDet blir ingen plikt om spelarens boll rubbas av misstag av spelaren, motspelaren eller någon annan under försök att hitta eller identifiera den. Men om spelaren orsakar att bollen rubbas innan de börjar leta efter bollen, får spelaren ett slags plikt enligt Regel 9.4b. Enligt denna regel innefattar \\'94av misstag\\'94 då bollen rubbas av någon som vidtar rimliga åtgärder för att hitta bollen, som troligen skulle kunna avslöja bollens läge genom att rubba den (t ex genom att svepa med fötterna genom högt gräs eller skaka ett träd). I dessa situationer, måste bollen återplaceras på sin ursprungliga punkt (som, om den inte är känd, måste uppskattas) (se Regel 14.2). När så görs:\\n\\n    Om bollen låg på, under eller mot något oflyttbart tillverkat föremål, integrerat föremål, föremål för banans gräns eller växande eller fastsittande naturföremål, måste bollen återplaceras på sin ursprungliga punkt på, under eller mot detta föremål (se Regel 14.2c).\\n    Om bollen var täckt av sand, måste det ursprungliga läget återskapas och bollen måste återplaceras i detta läge (se Regel 14.2d(1)). Men spelaren får lämna en liten del av bollen synlig när han/hon gör detta.\\n\\nSe också Regel 15.1a (begränsningar för medvetet borttagande av vissa lösa naturföremål innan boll återplaceras). Plikt för brott mot Regel 7.4: allmän plikt.",
+  "metadata": {
+    "language": "sv",
+    "source": "User-provided Swedish text of Rules of Golf – Regel 7 Leta efter en boll Hitta och identifiera en boll",
+    "created_by": "",
+    "created_at": "2025-12-03"
+  }
+}

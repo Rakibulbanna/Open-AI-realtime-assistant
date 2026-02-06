@@ -1,0 +1,199 @@
+{
+  "rule_number": 16,
+  "rule_code": "16",
+  "title": "Lättnad från onormala banförhållanden, farliga djursituationer och pluggad boll",
+  "summary": {
+    "short": "Ger i huvudsak fri lättnad när bollen påverkas av onormala banförhållanden, farliga djursituationer eller ligger pluggad på spelfältet, samt beskriver när lättnad inte ges.",
+    "detailed": "Regel 16 beskriver när och hur du får ta lättnad utan plikt från hål grävda av djur, mark under arbete, oflyttbara tillverkade föremål, tillfälligt vatten och farliga djur. Den innehåller också särskild lättnad för pluggad boll på spelfältet och proceduren för att lyfta en boll för att kontrollera om lättnad får tas. Lättnad ges bara när störningen är verklig och slaget inte redan är uppenbart orimligt av andra skäl."
+  },
+  "sections": [
+    {
+      "section_number": "16.1",
+      "title": "Onormala banförhållanden (inklusive oflyttbara tillverkade föremål)",
+      "purpose": "Förklarar vad som räknas som onormalt banförhållande och hur fri lättnad tas när detta stör bollen, stans, sving eller (på green) spellinjen.",
+      "key_points": [
+        "Onormala banförhållanden är hål grävda av djur, mark under arbete, oflyttbara tillverkade föremål och tillfälligt vatten.",
+        "Lättnad utan plikt ges när bollen ligger i, på eller mot förhållandet, eller när det fysiskt stör stans eller sving; på green även när det ligger i spellinjen.",
+        "Regeln gäller bara när både bollen och förhållandet är på banan och bollen inte ligger i ett pliktområde.",
+        "Ingen lättnad ges om slaget redan är uppenbart orimligt av andra skäl eller spelaren väljer en orimlig klubba, stans eller spelriktning."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "16.1a",
+          "title": "När lättnad tillåts",
+          "summary": "Definierar störande inverkan från onormala banförhållanden och när fri lättnad får tas.",
+          "key_points": [
+            "Störande inverkan finns när bollen vidrör, är i eller på förhållandet eller när förhållandet fysiskt stör område för avsedd stans eller sving.",
+            "På green anses även ett onormalt banförhållande som ligger i spellinjen vara störande inverkan.",
+            "Ingen lättnad ges enbart för att förhållandet upplevs distraherande om kraven för störande inverkan inte är uppfyllda.",
+            "Ingen lättnad ges när slaget är uppenbart orimligt av andra skäl eller spelaren väljer en onaturlig lösning."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "16.1b",
+          "title": "Lättnad för boll på spelfältet",
+          "summary": "Fri lättnad tas genom att droppa inom en klubblängd från närmaste punkt för fullständig lättnad på spelfältet.",
+          "key_points": [
+            "Identifiera närmaste punkt för fullständig lättnad på spelfältet, inte närmare hål än bollens ursprungliga läge.",
+            "Droppa den ursprungliga bollen eller en annan boll inom en klubblängd från denna punkt.",
+            "Den nya bollpositionen måste ge fullständig lättnad från all störande inverkan av det onormala banförhållandet.",
+            "Bollen måste droppas och stanna inom lättnadsområdet; annars tillämpas proceduren i Regel 14.3."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "16.1c",
+          "title": "Lättnad för boll i bunker",
+          "summary": "När bollen är i bunker kan spelaren ta fri lättnad i bunkern eller en lättnad med ett slags plikt utanför bunkern på flagglinjen.",
+          "key_points": [
+            "Fri lättnad: närmaste punkt för fullständig lättnad och lättnadsområdet måste ligga i samma bunker.",
+            "Om fullständig lättnad inte är möjlig i bunkern används punkten för största möjliga lättnad i bunkern som referenspunkt.",
+            "Med ett slags plikt får spelaren droppa utanför bunkern på flagglinjen, hur långt bakåt som helst, med den ursprungliga bollens läge mellan hålet och dropppunkten.",
+            "Droppunkten utanför bunkern bildar ett lättnadsområde på en klubblängd i alla riktningar, inte närmare hål."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "16.1d",
+          "title": "Lättnad för boll på green",
+          "summary": "När bollen är på green tas fri lättnad genom att placera bollen på närmaste punkt för fullständig lättnad.",
+          "key_points": [
+            "Närmaste punkt för fullständig lättnad måste vara antingen på green eller på spelfältet.",
+            "Om fullständig lättnad inte finns används punkten för största möjliga lättnad som referenspunkt på green eller spelfältet.",
+            "Bollen placeras på lättnadspunkten enligt proceduren för återplacering i Regel 14.2.",
+            "Lättnaden är utan plikt, men spelaren måste ta fullständig lättnad från störningen."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "16.1e",
+          "title": "Boll ej hittad men i eller på onormalt banförhållande",
+          "summary": "Ger motsvarande lättnad även när bollen inte hittas, om det är känt eller så gott som säkert att den ligger i eller på ett onormalt banförhållande.",
+          "key_points": [
+            "Om det är känt eller så gott som säkert att bollen är i eller på ett onormalt banförhållande får spelaren ta fri lättnad enligt 16.1b–d.",
+            "Som referenspunkt används den uppskattade punkt där bollen senast skar gränsen till förhållandet.",
+            "När en annan boll satts i spel enligt denna regel är den ursprungliga bollen inte längre i spel, även om den senare hittas inom söktiden.",
+            "Om det inte är känt eller så gott som säkert att bollen är i det onormala förhållandet och bollen är förlorad måste lättnad tas med slag och distans enligt Regel 18.2."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "16.1f",
+          "title": "Spelförbudszon i onormalt banförhållande",
+          "summary": "När en spelförbudszon är inblandad är lättnad tvingande; bollen får inte spelas från zonen eller med stans/sving i zonen.",
+          "key_points": [
+            "Ligger bollen i en spelförbudszon som är ett onormalt banförhållande på spelfältet, i bunker eller på green måste spelaren ta lättnad enligt 16.1b, 16.1c eller 16.1d.",
+            "Om bollen är utanför zonen men zonen stör stans eller sving måste spelaren ta lättnad om sådan finns enligt 16.1b–d eller annars behandla bollen som ospelbar enligt Regel 19.",
+            "Spelförbudszon i ett pliktområde hanteras enligt Regel 17.1e men bollen får inte spelas från zonen.",
+            "Det är alltid förbjudet att spela bollen som den ligger i en spelförbudszon; lättnad är obligatorisk."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "16.2",
+      "title": "Farlig situation på grund av djur",
+      "purpose": "Ger lättnad när ett farligt djur kan orsaka allvarlig fysisk skada om spelaren måste spela bollen som den ligger.",
+      "key_points": [
+        "Gäller farliga djur som kan orsaka allvarlig fysisk skada, t.ex. giftormar, stickande insekter i stor mängd, alligatorer eller björnar.",
+        "Kan tillämpas oavsett var bollen ligger på banan, även i pliktområden.",
+        "Andra obehagliga men inte direkt farliga situationer, t.ex. taggiga växter, omfattas inte av denna speciallättnad.",
+        "Lättnad ges bara när slaget i sig inte är uppenbart orimligt av andra skäl."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "16.2a",
+          "title": "När lättnad tillåts",
+          "summary": "Definierar vad som menas med farlig djursituation och när spelaren får ta lättnad.",
+          "key_points": [
+            "En farlig situation föreligger när ett farligt djur nära bollen kan orsaka allvarlig fysisk skada vid stans eller sving.",
+            "Spelaren får ta lättnad från störande inverkan av farliga djur oavsett var bollen ligger på banan.",
+            "Regeln omfattar inte andra potentiellt smärtsamma situationer som t.ex. kaktus eller taggiga buskar."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "16.2b",
+          "title": "Lättnad för farlig situation på grund av djur",
+          "summary": "Beskriver lättnadsalternativ beroende på om bollen ligger utanför eller i pliktområde och begränsar lättnad när slaget är orimligt.",
+          "key_points": [
+            "Ligger bollen utanför pliktområde används samma fri-lättnadsprocedurer som i 16.1b–d beroende på om bollen är på spelfältet, i bunker eller på green.",
+            "Ligger bollen i pliktområde får spelaren antingen ta fri lättnad inom samma pliktområde eller lättnad med plikt utanför pliktområdet enligt Regel 17.1d.",
+            "Om farlig djursituation även finns där bollen skulle spelas efter lättnad med plikt får spelaren ta ytterligare fri lättnad enligt 16.2b(1) utan extra plikt.",
+            "Ingen fri lättnad ges om slaget är uppenbart orimligt av andra skäl eller störningen uppstår bara på grund av en onaturlig stans, sving eller riktning."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "16.3",
+      "title": "Pluggad boll",
+      "purpose": "Ger fri lättnad för pluggad boll på spelfältet och förklarar när en boll anses pluggad.",
+      "key_points": [
+        "Fri lättnad ges bara när bollen är pluggad på spelfältet (general area) i sitt eget nedslagsmärke.",
+        "Ingen lättnad ges om bollen är pluggad på andra delar av banan, eller i sand i områden som inte är nedklippta till fairwayhöjd eller lägre, om inte lokal regel säger något annat.",
+        "På green repareras nedslagsmärket och bollen återplaceras enligt Regel 13.1c i stället för att ta lättnad enligt 16.3.",
+        "Ingen lättnad ges om slaget redan är uppenbart orimligt av andra skäl, t.ex. att bollen ligger djupt i en buske."
+      ],
+      "subsections": [
+        {
+          "subsection_code": "16.3a",
+          "title": "När lättnad tillåts",
+          "summary": "Definierar när en boll är pluggad och under vilka förutsättningar fri lättnad ges.",
+          "key_points": [
+            "Bollen måste vara i sitt eget nedslagsmärke och en del av bollen ska vara under markytan för att räknas som pluggad.",
+            "På andra platser än spelfältet, t.ex. i bunker eller pliktområde, ges ingen fri lättnad enligt Regel 16.3.",
+            "När bollen är pluggad i sand i områden som inte är nedklippta till fairwayhöjd eller lägre ges normalt ingen fri lättnad, om inte lokal regel begränsar eller utvidgar lättnaden.",
+            "Om det är rimligt att dra slutsatsen utifrån tillgänglig information att bollen ligger i sitt eget nedslagsmärke får spelaren behandla den som pluggad även om det inte kan ses med full säkerhet."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        },
+        {
+          "subsection_code": "16.3b",
+          "title": "Lättnad för pluggad boll",
+          "summary": "Pluggad boll på spelfältet får fri lättnad genom att droppa inom en klubblängd bakom nedslagsmärket.",
+          "key_points": [
+            "Referenspunkten är punkten på spelfältet direkt bakom där bollen är pluggad.",
+            "Spelaren droppar den ursprungliga bollen eller en annan boll inom en klubblängd från referenspunkten, inte närmare hål.",
+            "Bollen måste droppas och stanna inom lättnadsområdet och lättnadsområdet måste vara på spelfältet.",
+            "Plikt för spel från fel plats vid felaktig lättnad är allmän plikt enligt Regel 14.7a."
+          ],
+          "procedural_steps": [],
+          "penalties": []
+        }
+      ]
+    },
+    {
+      "section_number": "16.4",
+      "title": "Lyfta boll för att se om den ligger i ett förhållande där lättnad tillåts",
+      "purpose": "Ger rätt att lyfta bollen för att kontrollera om den ligger i ett förhållande där fri lättnad kan tas, och anger hur detta ska göras.",
+      "key_points": [
+        "Spelaren måste rimligen kunna dra slutsatsen att bollen kan ligga i ett förhållande där fri lättnad tillåts (t.ex. mark under arbete, onormalt banförhållande eller pluggad boll) innan den lyfts.",
+        "Bollens läge ska markeras innan den lyfts och bollen får inte rengöras, utom på green där rengöring är tillåten.",
+        "Om lättnad är tillåten och spelaren tar den bortfaller plikt även om läget inte markerades eller bollen rengjordes.",
+        "Om lättnad inte är tillåten eller spelaren väljer att inte ta lättnad får spelaren ett slags plikt om läget inte markerades eller bollen rengjordes otillåtet, och bollen måste återplaceras på sin ursprungliga punkt.",
+        "Spel från fel plats efter ett felaktigt förfarande ger allmän plikt enligt Regel 14.7a."
+      ],
+      "subsections": []
+    }
+  ],
+  "original_full_text": "16\nLättnad från onormala banförhållanden (inklusive oflyttbara tillverkade föremål), farliga situationer på grund av djur, pluggad boll\n16.1\nOnormala banförhållanden (inklusive oflyttbara tillverkade föremål)\nDenna regel täcker lättnad utan plikt som tillåts från störande inverkan av hål grävt av djur, mark under arbete, oflyttbara tillverkade föremål eller tillfälligt vatten:\n\n    Alla dessa kallas tillsammans onormala banförhållanden, men vart och ett har en egen definition.\n    Denna regel tillåter inte lättnad från flyttbara tillverkade föremål (en annan typ av lättnad utan plikt tillåts enligt Regel 15.2a) eller föremål för banans gräns eller integrerade föremål (ingen lättnad utan plikt tillåts).\n\n16.1a\nNär lättnad tillåts\n(1) Innebörd av störande inverkan från ett onormalt banförhållande. Det blir störande inverkan när något av detta är sant:\n\n    Spelarens boll vidrör eller är i eller på ett onormalt banförhållande,\n    ett onormalt banförhållande inverkar fysiskt störande för spelarens område för avsedd stans eller område för avsedd sving, eller\n    endast när bollen är på green, ett onormalt banförhållande på eller utanför green är i spellinjen.\n\nOm det onormala banförhållandet är tillräckligt nära för att distrahera spelaren men inte uppfyller något av dessa krav blir det inte störande inverkan enligt denna regel.\nSe Committee Procedures,\nSection 8; Model Local Rule F-6\n(Tävlingsledningen kan anta en lokal regel som inte tillåter lättnad från ett onormalt banförhållande som bara stör området för avsedd stans).\nFIG. 16.1a: NÄR LÄTTNAD ÄR TILLÅTEN FÖR ONORMALA BANFÖRHÅLLANDEN\nimage\n\n    Figuren utgår ifrån en högerspelare.\n    Lättnad utan plikt är tillåten för störande inverkan av ett onormalt banförhållande (OBF), inklusive ett oflyttbart tillverkat föremål, när bollen vidrör eller ligger i eller på förhållandet (B1), eller när förhållandet har störande inverkan på området för avsedd stans (B2) eller sving.\n    Närmaste punkt för fullständig lättnad för B1 är P1, och är mycket nära förhållandet.\n    För B2, är närmaste punkten för fullständig lättnad P2, som är längre från förhållandet eftersom stansen måste vara fri från OBF.\n\n\n(2) Lättnad tillåts var som helst på banan utom när boll är i pliktområde. Lättnad från störande inverkan av ett onormalt banförhållande tillåts enligt Regel 16.1 bara när både:\n\n    det onormala banförhållandet är på banan (inte out of bounds), och\n    bollen är någonstans på banan, utom i ett pliktområde (där spelarens enda lättnad blir enligt Regel 17).\n\n(3) Ingen lättnad när det är uppenbart orimligt att spela bollen. Det blir ingen lättnad enligt Regel 16.1:\n\n    när det är uppenbart orimligt att spela bollen som den ligger på grund av något som spelaren inte har rätt att ta lättnad från utan plikt (t ex när en spelare inte kan slå ett slag på grund av var bollen ligger i en buske), eller\n    när det blir störande inverkan bara för att en spelare väljer en klubba, typ av stans eller sving eller spelriktning som är uppenbart orimlig under omständigheterna.\n\nSe Committee Procedures, Section 8; Model Local Rule F-23 (tävlingsledningen kan anta en lokal regel som tillåter lättnad utan plikt från störande inverkan av tillfälliga oflyttbara tillverkade föremål på eller utanför banan).\n16.1b\nLättnad för en boll på spelfältet\nOm en spelares boll är på spelfältet och det blir störande inverkan av ett onormalt banförhållande på banan får spelaren ta lättnad utan plikt genom att droppa den ursprungliga bollen eller en annan boll i detta lättnadsområde (se Regel 14.3):\n\n    Referenspunkt: Den närmaste punkten för fullständig lättnad på spelfältet.\n    Storlek på lättnadsområde mätt från referenspunkten: En klubblängd, men med dessa begränsningar:\n    Begränsningar för lättnadsområdets läge:\n        Måste vara på spelfältet,\n        får inte vara närmare hålet än referenspunkten, och\n        fullständig lättnad från all störande inverkan av det onormala banförhållandet måste uppnås.\n\nFIG. 16.1b: LÄTTNAD UTAN PLIKT FRÅN ONORMALA BANFÖRHÅLLANDEN PÅ SPELFÄLTET\nimage\n\n    Lättnad utan plikt tillåts när bollen är på spelfältet och det är störande inverkan av ett onormalt banförhållande.\n    Närmaste punkten för fullständig lättnad bör identifieras och en boll måste droppas i och komma att stanna i lättnadsområdet.\n    Lättnadsområdet är en klubblängd från referenspunkten, inte närmare hålet än referenspunkten och måste vara på spelfältet.\n    När lättnad tas måste spelaren ta fullständig lättnad från all störande inverkan av det onormala banförhållandet.\n\n16.1c\nLättnad för en boll i bunker\nOm en spelares boll är i en bunker och det blir störande inverkan från ett onormalt banförhållande på banan får spelaren antingen ta lättnad utan plikt enligt (1) eller lättnad med plikt enligt (2): (1) Lättnad utan plikt: Spela från en bunker. Spelaren får ta lättnad utan plikt enligt Regel 16.1b, förutom att:\n\n    den närmaste punkten för fullständig lättnad och lättnadsområdet måste vara i bunkern.\n    Om det inte finns någon sådan närmaste punkt för fullständig lättnad i bunkern får spelaren fortfarande ta denna lättnad genom att använda punkten för största möjliga lättnad i bunkern som referenspunkt.\n\nFIG. 16.1c: LÄTTNAD FRÅN ONORMALA BANFÖRHÅLLANDEN I BUNKER\nimage\n\n    Figuren utgår ifrån en högerspelare.\n    När det är störande inverkan av ett onormalt banförhållande i bunker, får lättnad utan plikt tas i bunker enligt Regel 16.1b eller får lättnad på flagglinjen tas utanför bunkern med ett slags plikt.\n    Lättnad utanför bunkern tas genom att droppa en boll på en punkt som behåller punkten för den ursprungliga bollen mellan hålet och den punkten.\n    Lättnadsområdet är en klubblängd i vilken riktning som helst från den punkt där bollen först träffar marken när den droppas.\n\n\n(2) Lättnad med plikt: Att spela från en plats utanför bunker (lättnad på flagglinjen). Med ett slags plikt får spelaren droppa den ursprungliga bollen eller en annan boll (se Regel 14.3) utanför bunkern, genom att hålla punkten för den ursprungliga bollens läge mellan hålet och punkten där bollen droppas (utan någon gräns för hur långt bakåt som bollen får droppas). Punkten på linjen där bollen först träffar marken när den droppas bildar ett lättnadsområde som är en klubblängd i alla riktningar, men med dessa begränsningar:\n\n    Begränsningar för lättnadsområdets läge:\n        Får inte vara närmare hålet än punkten för den ursprungliga bollen, och\n        får vara i vilket område på banan som helst utom i samma bunker, men\n        måste vara i samma område på banan som bollen först träffade när den droppades.\n\n16.1d\nLättnad för en boll på green\nOm en spelares boll är på green och det blir störande inverkan från ett onormalt banförhållande på banan får spelaren ta lättnad utan plikt genom att placera den ursprungliga bollen eller en annan boll på den närmaste punkten för fullständig lättnad, och då använda tillvägagångssättet för att återplacera en boll enligt Regel 14.2b(2) och 14.2e.\n\n    Den närmaste punkten för fullständig lättnad måste antingen vara på green eller på spelfältet.\n    Om det inte finns någon närmaste punkt för fullständig lättnad får spelaren ändå ta denna lättnad utan plikt genom att använda punkten för största möjliga lättnad som referenspunkt och denna måste vara antingen på green eller på spelfältet.\n\nFIG. 16.1d: LÄTTNAD UTAN PLIKT FRÅN ONORMALA BANFÖRHÅLLANDEN PÅ GREEN\nimage\n\n    Figuren utgår ifrån en vänsterspelare.\n    När bollen är på green och det är störande inverkan av ett onormalt banförhållande, får lättnad utan plikt tas genom att placera en boll på den närmaste punkten för fullständig lättnad.\n    Den närmaste punkten för fullständig lättnad måste antingen vara på green eller på spelfältet.\n\n16.1e\nLättnad för en boll som inte hittas men är i eller på onormalt banförhållande\nOm en spelares boll inte har hittats och det är känt eller så gott som säkert att bollen har stannat i eller på ett onormalt banförhållande på banan, får spelaren använda detta lättnadsalternativ i stället för att ta lättnad med slag och distans:\n\n    Spelaren får ta lättnad enligt Regel 16.1b, c eller d, och då använda den uppskattade punkt där bollen senast skar gränsen till det onormala banförhållandet på banan som bollens läge i syfte att hitta den närmaste punkten för fullständig lättnad.\n    Så snart spelaren sätter en annan boll i spel för att ta lättnad på detta sätt:\n        är den ursprungliga bollen inte längre i spel och får inte spelas.\n        Detta gäller även om den sedan hittas på banan innan de tre minuternas söktid är ute (se Regel 6.3b).\n\nMen om det inte är känt eller så gott som säkert att bollen har stannat i eller på ett onormalt banförhållande och bollen är förlorad måste spelaren ta lättnad med slag och distans enligt Regel 18.2.\n16.1f\nLättnad måste tas för störande inverkan från spelförbudszon i ett onormalt banförhållande\nI var och en av dessa situationer får bollen inte spelas som den ligger: (1) Lättnad när en boll är i en spelförbudszon var som helst på banan utom i ett pliktområde. Om spelarens boll är i en spelförbudszon i eller på ett onormalt banförhållande på spelfältet, i en bunker eller på green:\n\n    Spelförbudszon på spelfältet. Spelaren måste ta lättnad utan plikt enligt Regel 16.1b.\n    Spelförbudszon i en bunker. Spelaren måste ta lättnad utan plikt eller lättnad med plikt enligt Regel 16.1c(1) eller (2).\n    Spelförbudszon på green. Spelaren måste ta lättnad utan plikt enligt Regel 16.1d.\n\n(2) Lättnad när en spelförbudszon har störande inverkan på stans eller sving för en boll var som helst på banan utom i ett pliktområde. Om en spelares boll är utanför en spelförbudszon och är på spelfältet, i en bunker eller på green, och en spelförbudszon (oavsett om det är i ett onormalt banförhållande eller i ett pliktområde) har störande inverkan på spelarens område för avsedd stans eller avsedd sving, måste spelaren antingen:\n\n    ta lättnad om det är tillåtet enligt Regel 16.1b, c eller d, beroende på om bollen är på spelfältet, i en bunker eller på en green, eller\n    ta lättnad för ospelbar boll enligt Regel 19.\n\nSe Regel 17.1e för vad man ska göra när det blir störande inverkan från en spelförbudszon i ett pliktområde. Plikt för att spela en boll från fel plats i strid med Regel 16.1: allmän plikt enligt Regel 14.7a.\n16.2\nFarlig situation på grund av djur\n16.2a\nNär lättnad tillåts\nEn farlig situation på grund av djur uppstår när ett farligt djur (t ex giftormar, stickande bin, alligatorer, eldmyror eller björnar) nära bollen skulle kunna orsaka allvarlig fysisk skada för spelaren om han/hon måste spela bollen som den ligger. En spelare får ta lättnad enligt Regel 16.2b för störande inverkan från en farlig situation på grund av djur oavsett av var spelarens boll är på banan. Denna regel gäller inte för andra situationer på banan som skulle kunna orsaka fysisk skada (t ex en kaktus).\n16.2b\nLättnad för farlig situation på grund av djur\nNär det blir störande inverkan av en farlig situation på grund av djur: (1) När bollen är var som helst utom i pliktområde. Spelaren får ta lättnad enligt Regel 16.1b, c eller d, beroende på om bollen är på spelfältet, i en bunker eller på en green. (2) När bollen är i ett pliktområde. Spelaren får ta lättnad utan plikt eller lättnad med plikt:\n\n    Lättnad utan plikt: Att spela från en plats inom pliktområdet. Spelaren får ta lättnad utan plikt enligt Regel 16.1b, förutom att närmaste punkt för fullständig lättnad och lättnadsområdet måste vara i pliktområdet.\n    Lättnad med plikt: Att spela från en plats utanför pliktområdet.\n        Spelaren får ta lättnad med plikt enligt Regel 17.1d.\n        Om det blir störande inverkan från en farlig situation på grund av djur där bollen skulle spelas efter att denna lättnad med plikt tagits utanför pliktområdet, får spelaren ta ytterligare lättnad enligt (1) utan ytterligare plikt.\n\n(3) Ingen lättnad när det är uppenbart orimligt att spela bollen. Det är ingen lättnad utan plikt enligt Regel 16.2b:\n\n    när det är uppenbart orimligt att spela bollen som den ligger på grund av något som spelaren inte har rätt att ta lättnad från utan plikt (t ex när en spelare inte kan slå ett slag på grund av var bollen ligger i en buske).\n    när det blir störande inverkan bara för att spelaren väljer en klubba, typ av stans eller sving eller spelriktning som är uppenbart orimlig under omständigheterna.\n\nI syfte att tillämpa denna regel, innebär den närmaste punkten för fullständig lättnad den närmaste punkt (inte närmare hål) där den farliga situationen på grund av djur inte uppstår. Plikt för att spela en boll från fel plats i strid med Regel 16.2: allmän plikt enligt Regel 14.7a.\n16.3\nPluggad boll\n16.3a\nNär lättnad tillåts\n(1) Boll måste vara pluggad på spelfältet. Lättnad tillåts enligt Regel 16.3b endast när en spelares boll är pluggad på spelfältet.\n\n    Det blir ingen lättnad enligt denna regel om bollen är pluggad någon annanstans än på spelfältet.\n    Men om bollen är pluggad på green, får spelaren markera bollens läge och lyfta och rengöra bollen, reparera skadan som orsakats av bollnedslaget och återplacera bollen på dess ursprungliga punkt (se Regel 13.1c(2)).\n\nUndantag – När lättnad inte tillåts för boll pluggad på spelfältet: Det blir ingen lättnad enligt Regel 16.3b:\n\n    när bollen är pluggad i sand i ett område på spelfältet som inte är nedklippt tillfairwayhöjd eller lägre, eller\n    när det är uppenbart orimligt att spela bollen som den ligger på grund av något som spelaren inte har rätt att ta lättnad från utan plikt (t ex när en spelare inte kan slå ett slag på grund av var bollen ligger i en buske).\n\n(2) Avgöra om en boll är pluggad. En spelares boll är pluggad endast om:\n\n    den är i sitt eget nedslagsmärke som ett resultat av spelarens föregående slag, och\n    en del av bollen är under markytan.\n\nOm spelaren inte säkert kan avgöra om bollen är i sitt eget nedslagsmärke eller i ett nedslagsmärke från en annan boll får spelaren betrakta bollen som pluggad om det är rimligt att dra slutsatsen utifrån den tillgängliga informationen att bollen är i sitt eget nedslagsmärke. En boll är inte pluggad om den är under markytan på grund av något annat än spelarens föregående slag, t ex när:\n\n    bollen blivit nedtryckt i marken av någon som trampat på den,\n    bollen har slagits rakt ner i marken utan att ha varit luftburen, eller\n    bollen har droppats när man tagit lättnad enligt en regel.\n\nFIG. 16.3a: NÄR EN BOLL ÄR PLUGGAD\nimage\n16.3b\nLättnad för pluggad boll\nNär en spelares boll är pluggad på spelfältet och lättnad tillåts enligt Regel 16.3a, får spelaren ta lättnad utan plikt genom att droppa den ursprungliga bollen eller en annan boll i detta lättnadsområde (se Regel 14.3):\n\n    Referenspunkt: Punkten på spelfältet direkt bakom där bollen är pluggad.\n    Storlek på lättnadsområde, mätt från referenspunkten: En klubblängd, men med dessa begränsningar:\n    Begränsningar för lättnadsområdets läge:\n        Måste vara på spelfältet och\n        får inte vara närmare hålet än referenspunkten.\n\nSe Committee Procedures, Section 8; Model Local Rule F-2 (tävlingsledningen får anta en lokal regel som tillåter lättnad endast för en boll som pluggats i ett område som klippts ned till fairwayhöjd eller lägre). Plikt för att spela en boll från fel plats i strid med Regel 16.3: allmän plikt enligt Regel 14.7a.\nFIG. 16.3b: LÄTTNAD UTAN PLIKT FÖR PLUGGAD BOLL\nimage\n\n    När en boll är pluggad på spelfältet, får lättnad tas utan plikt.\n    Referenspunkten för att ta lättnad är punkten direkt bakom där bollen är pluggad.\n    Lättnadsområdet är en klubblängd från referenspunkten, inte närmare hålet än referenspunkten och måste vara på spelfältet.\n    En boll måste droppas i och komma att stanna i lättnadsområdet.\n\n\n16.4\nLyfta boll för att se om den ligger i ett förhållande där lättnad tillåts\nOm en spelare rimligen kan dra slutsatsen att spelarens boll ligger i ett förhållande där lättnad utan plikt tillåts enligt Regel 15.2, 16.1 eller 16.3, men inte kan avgöra detta utan att lyfta bollen:\n\n    Spelaren får lyfta bollen för att se om lättnad tillåts, men:\n    bollens läge måste först markeras och den lyfta bollen får inte rengöras (utom på green) (se Regel 14.1).\n\nOm spelaren lyfter bollen utan att rimligen kunna dra denna slutsats (utom på green där spelaren får lyfta enligt Regel 13.1b), får spelaren ett slags plikt. Om lättnad tillåts och spelaren tar lättnad blir det ingen plikt även om spelaren inte markerar bollens läge innan den lyfts eller den lyfta bollen rengörs. Om lättnad inte tillåts, eller om spelaren väljer att inte ta tillåten lättnad:\n\n    Spelaren får ett slags plikt om spelaren inte markerat bollens läge innan den lyfts eller rengjort bollen när detta inte var tillåtet, och\n    bollen måste återplaceras på sin ursprungliga punkt (se Regel 14.2).\n\nPlikt för att spela en boll från fel plats i strid med Regel 16.4: allmän plikt enligt Regel 14.7a.\n",
+  "metadata": {
+    "language": "sv",
+    "source": "R&A/USGA Golfregler – svensk text (Regel 16)",
+    "created_by": "",
+    "created_at": "2025-11-27T22:26:20Z"
+  }
+}
